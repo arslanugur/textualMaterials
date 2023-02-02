@@ -108,6 +108,11 @@ Basis for differentiation                           Other key relationships     
       sizin bu ürünü satmanız için agenteleriniz, distribütörleriniz, satıcılarınız kimler olabilir.
       kimlerle iş birliği yapabilirsin..
       
+      facebook grupları, instagram takip etmek
+      billboard
+      yerel gazeteler
+      tanıdık çevrelere haber vermek
+      
 4. Müşteri ilişkileri
       müşterinin sizden beklentisi nedir?
       işlem bazlı mı?
@@ -120,9 +125,11 @@ Basis for differentiation                           Other key relationships     
       daha önceden belirlemiş olduğun kanalları aktif şekilde nasıl kullanacaksın?
       kısaca standartlarınızı belirliyorsunuz
       
+      yemek nasıldı diye sorulur. bağlılık kazanmaya çalışılır..
+      
       amaç doğrudan satış yapmak, para kazanmak,
         var olan satışları artırmak olmalı 
-5. Gelir Akışı (kazanç))
+5. Gelir Akışı (kazanç modeli)
       banka havale elden mi
       fiyatlandırma politikası nasıl belirlenecek
       satış modeli nasıl olacak
@@ -139,7 +146,7 @@ Basis for differentiation                           Other key relationships     
       yapılacak faaliyetler.
       tedarik zinciriniz nasıl olcak...
       yani para kazanmak için ne yapacaksınız?
-      
+      yapmak zorunda olduğun tüm işler burda listelenir: diyelim ki. yemek işletmesi: eti pişirme, sunum, sandalye, masası, müziği
       yani bu işlemin para kazanmanın gelir akışının gerçekleşmesi için ne yapacağını detaylandırmalısın..
       üretim mi yapacaksın
       platform mu kuracaksın
@@ -152,13 +159,48 @@ Basis for differentiation                           Other key relationships     
       fiziksel kaynaklar
       insan kaynakları
       mali kaynaklar neler
-      
+      bi ay kadar işletmeyi ayakta tutacak mali kaynak lazım ---> bir iş kendini nasıl amorti eder. kendini hızlıca amorti eden işler... burn rate az olan işler
+      üretim için kullanacağın malı bulmak tedarikçi bulmak. et ise kasap bul yani
+      hizmet için yararlanacağın kişi bulmak - insan kaynağı --> garson, aşçı, kasiyer, sosyal medyacı, reklamcı
       
 8. Temel Paydaşlar (yardımcılar)
+      yani işbirliğini kiminle yapacaksın
+      bu iş planının çalışması için hangi tedarikçi ve ortaklara ihtiyacın olduğğunu tek tek listemen gerek
+      bu tedarikçilere neden ihtiyacın olduğu ve ne kaynak beklediğinizi belirlemeniz gerekiyor
+      paydaşa ortağa vs düşen görev dağılımını bilmen gerekir yani onlar senin için ne yapacak listelemelisin
+      bu başlıkta unutmamamız gereken diğer yöntem 'Yedekleme yöntemi'
+      temel kaynağınız bir tedarikçiye bağımlı durumdaysa bunun bir altern yoksa bunu gözden geçirip düşünmek gerkli
+      eğer bu tedarikçiyi kaybedersen yarın işin ne durumda olcak tahmin edip planlamalısın
+      
+      mesela ilk dükkanın tasarımındaki kullanacağın malzemeyi nerden alacaksın
+      hangi iç mimarla çalışacaksın gibi
+      günlük içeceği nerden alcaksın, eti, ekmeği. tabak çanağı nerden alcaksın
+      
+
 9. Maliyet Yapısı (ödemeler)
-
-
-
+      Bir işin işletmenin yürübilmesi için iki temel maliyet başlığı ödeme şekli var
+      - Sabit giderler:
+            işletmenin ayakta kalması için sabit doğal maliyetler neler en baştan belirlemek ideal olan?
+      - Değişken giderler
+      
+      Bir "Maliyet Analizi" yapmak şart...
+      en önemli temel kaynaklar neler.. bu kaynakları nasıl elde edeceksiniz.. ve size bunun maliyeti ne olacak
+      bu kaynaklar ne kadar pahalı ve ne kadar ucuz ve buna yetecek bi gücünüz var mı?
+      bu kaynakları elde ederken maliyet odaklı mı yoksa değer odaklı mı bir yaklaşım sergileceksin
+      
+      parayı nereye harcayacaksın bunların hangisi sabit hangisi değişken
+      sabit maliyetler: 
+          işletmedeki çalışan sayısı, maaşları, vergileri
+          tabi kapasite artıkça bu kotada değişir. bu da sabit kalmayabilir.. 0'dan 1000'e çıkmak gibi
+          Scale up durumu
+          bu yüzden az sayıda kişiyle başlamak uygun. 
+          ya da kaç personel ile idare edebileceğini hesapla
+              müşteri sayısı 100 kişiyse ona göre, 1000kişiyse ona göre..
+          artan maliyete dönüşür ama halen sabit maliyettir. zaman içerinde değişebilir ama her ay değişmez.
+      değişen maliyerler: 
+          kullanılan gaz, elektrik, su miktarı, malzeme miktarı
+          işletmenin işine göre artar veya azalır
+          
 BURN RATE - paranın yanma/erime oranı - parayı yeme hızınız
 henüz gelir elde etmeden kaç ay ne kadar süre hayatta kalabilirsin
 
@@ -170,5 +212,7 @@ The formula for the burn rate is as follows.
   Implied Runway = Cash Balance ÷ Burn Rate
 
 
+bu kanvasta eksik olan rakiplerin analizi aslında
+diğer bir eksik ise coğraya analizi
 
 
