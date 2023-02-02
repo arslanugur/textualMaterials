@@ -109,12 +109,66 @@ Basis for differentiation                           Other key relationships     
       kimlerle iş birliği yapabilirsin..
       
 4. Müşteri ilişkileri
+      müşterinin sizden beklentisi nedir?
+      işlem bazlı mı?
+      uzun/kısa vadeli mi?
+      bireysel yardım şeklinde mi?
+      self service mi?
+      otomatik bir hizmet ile mi?
+      topluluklar aracılığıyla mı?
+      yoksa birlikte çalışmayla mı?
+      daha önceden belirlemiş olduğun kanalları aktif şekilde nasıl kullanacaksın?
+      kısaca standartlarınızı belirliyorsunuz
       
+      amaç doğrudan satış yapmak, para kazanmak,
+        var olan satışları artırmak olmalı 
 5. Gelir Akışı (kazanç))
+      banka havale elden mi
+      fiyatlandırma politikası nasıl belirlenecek
+      satış modeli nasıl olacak
+      mal/ürün satışı mı? hizmet satışı mı? abonelik ücretimi? kullanım ücreti mi? borç verme? kiralama mı? lisanslama mı?
+      aracılık ücretli mi? eklamcılık mı? hangisi 
+      yani neyden para kazanacağını net bir şekilde belirtmen gerekiyor...
+      
+      şimdiye kadar ki başlıklar işletmenin önbürosu gibi düşünülebilir..
+      
+      şimdi ise back office arka büro nasıl olacak onu görcez.. atölye kısmı
 6. Temel Etkinlikler (yapacaklar)
+      ne yapacağız
+      işimiz ne olduğunun detaylarını içerir.
+      yapılacak faaliyetler.
+      tedarik zinciriniz nasıl olcak...
+      yani para kazanmak için ne yapacaksınız?
+      
+      yani bu işlemin para kazanmanın gelir akışının gerçekleşmesi için ne yapacağını detaylandırmalısın..
+      üretim mi yapacaksın
+      platform mu kuracaksın
+      web sitesi mi yönetceksin
+      lisanslama sürecinden mi gececeksin
+      
 7. Temel Kaynaklar (gereklilikler)
+      sahip olman gerekenler, bu işi yapman için sana gerekiyor
+      ekipmaan donanım mekan zaman
+      fiziksel kaynaklar
+      insan kaynakları
+      mali kaynaklar neler
+      
+      
 8. Temel Paydaşlar (yardımcılar)
 9. Maliyet Yapısı (ödemeler)
+
+
+
+BURN RATE - paranın yanma/erime oranı - parayı yeme hızınız
+henüz gelir elde etmeden kaç ay ne kadar süre hayatta kalabilirsin
+
+Net burn rate calculation (%) = ((Revenue - Operating Expenses) / Starting Capital) * 100
+
+The formula for the burn rate is as follows.
+  Gross Burn = Total Monthly Cash Expenses.
+  Net Burn = Total Monthly Cash Sales – Total Monthly Cash Expenses
+  Implied Runway = Cash Balance ÷ Burn Rate
+
 
 
 
