@@ -1,31 +1,5 @@
-HEPSİ AYNI BAŞLIK ASLINDA
-- Devre Analizi I - DC          Devre Analizi II - AC
-- Devre Teorisi
-- Elektronik Devreleri ve Sistemleri
-- Temel Elektrik Devreleri
-- Elektrik Devre Temelleri
-
-# Devre Analizi Nedir?
-Devre analizi bir elektrik devresinde bulunan bütün dügüm voltajlarını ve kollardaki akımları bulmak için tercih edilen bir yöntemdir.
-
-# DC Devre Analizi ve AC Devre Analiz
-Lineer DC devreleri: 
-  bağımsız voltaj ve akım kaynakları, 
-  bağımlı akım ve voltaj kaynakları 
-  ve lineer dirençler içerir.
-
-Lineer AC devleleri:
-  en az bir lineer diferansiyel eleman (kondansatör/Kapasitör ve bobin),          # bu ikisinin davranışları incelenir.
-  ayrıca en az bir AC kaynak içerir.
-  
-  AC olan yerde işin içine frekans girer..
-Eğer bir devrede kondansatör ve bobin yoksa DC devre analiz teknikleri uygulanabilir.
-Eger devrede bir vaya daha fazia lineer diferansiyel eleman ve bir AC kaynak varsa AC devre analiz teknikleri uygulanmalıdır.
-
-AC'de, Akım'ın gerilimden ileri olması, yani akım ile gerilim arasında bir faz açısı olması...
-DC'de böyle birşey yok
-
-
+# Devre Analizi I - DC        Diğer Adları: Devre Teorisi, Temel Elektrik Devreleri, Elektrik Devre Temelleri, Elektronik Devreleri ve Sistemleri
+# Devre Analizi II - AC
 
 
 # 01. Elektrik Devresi Değişkenleri:
@@ -85,3 +59,31 @@ DC'de böyle birşey yok
 https://www.youtube.com/watch?v=fioFq0wEOM0&list=PLm2j6vAyCjOHfJUV13NfBUxols82kVB8T&index=2
 
     
+
+
+
+
+
+
+
+
+
+# Devre Analizi Nedir?
+Devre analizi bir elektrik devresinde bulunan bütün dügüm voltajlarını ve kollardaki akımları bulmak için tercih edilen bir yöntemdir.
+
+# DC Devre Analizi ve AC Devre Analiz
+Lineer DC devreleri: 
+  bağımsız voltaj ve akım kaynakları, 
+  bağımlı akım ve voltaj kaynakları 
+  ve lineer dirençler içerir.
+
+Lineer AC devleleri:
+  en az bir lineer diferansiyel eleman (kondansatör/Kapasitör ve bobin),          # bu ikisinin davranışları incelenir.
+  ayrıca en az bir AC kaynak içerir.
+  
+  AC olan yerde işin içine frekans girer..
+Eğer bir devrede kondansatör ve bobin yoksa DC devre analiz teknikleri uygulanabilir.
+Eger devrede bir vaya daha fazia lineer diferansiyel eleman ve bir AC kaynak varsa AC devre analiz teknikleri uygulanmalıdır.
+
+AC'de, Akım'ın gerilimden ileri olması, yani akım ile gerilim arasında bir faz açısı olması...
+DC'de böyle birşey yok
