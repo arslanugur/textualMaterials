@@ -1,0 +1,87 @@
+HEPSİ AYNI BAŞLIK ASLINDA
+- Devre Analizi I - DC          Devre Analizi II - AC
+- Devre Teorisi
+- Elektronik Devreleri ve Sistemleri
+- Temel Elektrik Devreleri
+- Elektrik Devre Temelleri
+
+# Devre Analizi Nedir?
+Devre analizi bir elektrik devresinde bulunan bütün dügüm voltajlarını ve kollardaki akımları bulmak için tercih edilen bir yöntemdir.
+
+# DC Devre Analizi ve AC Devre Analiz
+Lineer DC devreleri: 
+  bağımsız voltaj ve akım kaynakları, 
+  bağımlı akım ve voltaj kaynakları 
+  ve lineer dirençler içerir.
+
+Lineer AC devleleri:
+  en az bir lineer diferansiyel eleman (kondansatör/Kapasitör ve bobin),          # bu ikisinin davranışları incelenir.
+  ayrıca en az bir AC kaynak içerir.
+  
+  AC olan yerde işin içine frekans girer..
+Eğer bir devrede kondansatör ve bobin yoksa DC devre analiz teknikleri uygulanabilir.
+Eger devrede bir vaya daha fazia lineer diferansiyel eleman ve bir AC kaynak varsa AC devre analiz teknikleri uygulanmalıdır.
+
+AC'de, Akım'ın gerilimden ileri olması, yani akım ile gerilim arasında bir faz açısı olması...
+DC'de böyle birşey yok
+
+
+
+
+# 01. Elektrik Devresi Değişkenleri:
+    - Akım
+    - Gerilim
+    - Yük
+    - Güç
+    - Enerji
+    
+# 02. Devre Elemanları / Modelleme
+    - Doğrusal Modeller
+    - Aktif/Pasif Devre Elemanları
+    - Dirençler
+    - Bağımlı/Bağımsız Kaynaklar
+    - Anahtarlar
+
+# 03. Dirençli Devreler ve Kirchhoff Kanunları
+    - Seri/Paralel Dirençler
+    - Gerilim/Akım Bölücüler
+    - Devre Analizi
+    
+# 04. Devre Analiz Yöntemleri
+    - Düğüm Gerilimleri Yontemi
+    - Çevre Akımları Yöntemi
+
+# 05. Devre Teoremleri / Farklı devre Analiz Yöntemleri
+    - Kaynak Dönüşümü
+    - Süperpozisyon
+    - Thevenin Teoremi
+    - Norton Teoremi
+    - Maksimum Güç Aktarımı: Verimlilik
+    
+    En temel devreler buraya kadar öğrenilir, daha kapsamlı devrelere de nasıl yaklaşman gerektiğini de böylelikle öğreneceksin.
+    Buraya kadar üstüste/aralıksız devam etmen gerekli,
+    Çünkü, Bu noktadan sonraki konular ileri seviye olacak
+    Buraya kadar yapılacak işlemler denklemkurma ve hesap makinesiyle dört işlem
+    
+
+    Devre elemanlarının yapısının içerisine giriş yapıyoruz: 
+# 06. İşlemsel Yükselteçli Devreler (Yükselteç - Operational Amplificator)
+    - Ideal Op-Amp
+    - Gerçek Op-Amp Devreleri
+
+    Bu noktadan sonra ileri matematik denilebilir: Türev, İntegral, Differansiyel Denklemler.
+# 07. Dinamik Elemanlar (Enerji Depolayan Elemanlar)
+    - Kapasitör/Kondansatör (Matematiksel Yoğun Devre Elemanları)
+    - Bobin     (Matematiksel Yoğun Devre Elemanları)
+    - Diferansiyel Denklemli Devre Analizi Başlangıcı
+# 08. Birinci Mertebeden Devreler
+    - RC/RL Devreleri              (Bir Kondansatör, Bir Bobin devreleri)
+    - 1.Derece Diferansiyel Denklemli Devre Analizi
+# 09. İkinci Mertebeden Devreler
+    - RLC Devreleri                 (İki Kondansatör, İki Bobin şeklinde kullanılan devreler)
+    - 2. Derece Diferansiyel Denklemli Devre Analizi
+
+    
+https://www.youtube.com/watch?v=fioFq0wEOM0&list=PLm2j6vAyCjOHfJUV13NfBUxols82kVB8T&index=2
+
+    
