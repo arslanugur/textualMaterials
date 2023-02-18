@@ -1,3 +1,9 @@
+Amazon
+Ikas
+Ebay
+Shopify
+Trendyol
+
 Belli başlı bir sermaye olmalı mal alıp satmak için
 Amazon için 
   bank statement
@@ -21,6 +27,24 @@ Amazon Prime  - ek bi ücret daha verirsen Prime olabiliyorsun 24 saat içinde �
 Sponsorlu Ürünler - Bazı satıcılar eksta ücret ile ürünleri en başa tututrabilirler..
 
 
+# BUYBOX Sistemi
+    pazaryerlerinde ürün içinde gördüğümüz diğer satıcıları listeleyen kutudur. 
+    aynı ürünü 5 mağaza satıyorsa, hepsiburada ve trendyol 5 farklı mağaza listelemek yerine tüm mağazaları aynı ürün altında listeliyor. 
+    fiyatı düşük olan en üste çıkmış oluyor.
+    pazaryerlerinde ayni urunu en ucuza satana soylenen sey daha dogrusu, en ucuz fiyatin buybox olmasi olayi.
+
+
+amazonda buybox almak için neler yapılır:
+1.en uygun fiyatı vermek
+2.amazon fba ile ürünü yollamak
+3.mağazanın değerlendirmesinin iyi olması, pozitiflik ve açılış yılı
+4.daha fazla stok yollamak-helium 10 inventory levels benzeri programlarla stok takibi yapılabilir
+5.profesyonel hesaplarda buybox alma ihtimali daha çok
+6.Inbound settings-distrubed inventory placement kısmını değiştirmeyin, 
+  bunu seçtiğinizde ürünlerinizi birden fazla depoya dağıtıyor ve kargo üzebiliyor biraz, ama avantajı buybox almak olabiliyor
+7.birden fazla hesap açıp iki hesapla aynı ürüne girmek
+8.otomatik fiyatlandırma ile buyboxu alma ihtimaliniz olabilir
+
 
 İngilterede bi müşterimiz var.
 amazonun orada daha farklı bir uygulaması var. 
@@ -31,23 +55,6 @@ biz adamlara ne ürettiysek çatır çatır sattı. %300-400 kar koyuyorlar
 ellerindekileri sonra başka bir ürüne geçiyorlar.
 şu AI olayını çözebilir, satacak sezon, ürün, pazarlama öğelerini dengeleyebilirsem 
 ama bu öğeler bir arada düşünülmezse ürünleri gönderip geri çekmek zorunda kalabiliriz. 
-
-
-
-
-amazonda buybox almak için neler yapılır:
-1.en uygun fiyatı vermek
-2.amazon fba ile ürünü yollamak
-3.mağazanın değerlendirmesinin iyi olması, pozitiflik ve açılış yılı
-4.daha fazla stok yollamak-helium 10 inventory levels benzeri programlarla stok takibi yapılabilir
-5.profesyonel hesaplarda buybox alma ihtimali daha çok
-6.ınbound settings-distrubed inventory placement kısmını değiştirmeyin, bunu seçtiğinizde ürünlerinizi birden fazla depoya dağıtıyor ve kargo üzebiliyor biraz, ama avantajı buybox almak olabiliyor
-7.birden fazla hesap açıp iki hesapla aynı ürüne girmek
-8.otomatik fiyatlandırma ile buyboxu alma ihtimaliniz olabilir
-
-
-
-
 
 
 İngilterede şirket kurmak
@@ -160,6 +167,145 @@ Yiğit Tuna
 # TeraPeak by Ebay
 https://www.ebay.com/sh/research?marketplace=EBAY-US&tabName=SOLD
 https://www.g2.com/products/terapeak/competitors/alternatives
+
+
+
+Amazon İş modelleri
+        - Marka satma * --> Private Labels. 
+        - Arbitraj * --> doğru ürünü bulman gerekli. Riskli iş. Fason ürün
+        - Wholesale * toptan alıp amazon deposuna gönder, öylece sattın.
+        - Dropshipping
+
+
+
+Amazonda Min/Max Order Quantity diye birşey var..
+oraya 1 olarak işaretlemezsen bütün envanterini alabiliyorlar.
+tüm ürünleriniz kar marjı düşük şekilde gidebilir...
+
+
+seller.tools -- manychat
+
+
+Helium10
+JungleScout
+Virallaunch
+
+
+# Amazon Örnek Ürün Satışı: America FBA
+  Elimizde 50 ürün olsun --> $345 ödedik
+      Ürün Satış Fiyatı:  $27,03
+      Amazon Fee:         $-11,22 
+      Ürün Maliyeti:      $-6,9
+      Ürün Başı Kar:      $8,91
+      
+  50 ürün daha aldık --> toplam ürünümüz 100 oldu $790 oldu toplam ödememiz
+  100 gün sonrasında diyelim
+      75 * $27,03 = $2027,25
+      Amazon Fee = $-841,5  
+      Giveaway = $-44,88    iki tane giveaway yapıldı
+      Reklam = $-9
+      Toplam Kar = $1131,87
+      Amazon Mağaza Ücreti = $-160 /m
+      Kalan = $971,87
+
+
+# Trendyol Örnek Ürün Satışı
+  Süpermarket ürünleri --> toptancı kanallarını açman gerekli ki ürünleri ucuza alabilesin
+  toptancılardan iyi fiyata almanın yollarını bil
+  
+  Trendyol Komisyonu
+  Kargo Ücreti
+  İade gelen ürünler..
+  
+karlılıkları hesaplarken vergileri de hesaplaman gerekli --> Gelir vergisi, KDV
+
+
+
+
+
+
+# Sürdürülebilir Bİr Ekonomi nasıl oluşturulmalı
+  - Arz ve Talep Prensibi
+  - Lean Start-Up - Yalın Girişim..
+  - Bir Ürününe, Katma Değer katmak
+  Muhteşem Üçgen Sistemi
+  - 1. Tedarik: günün sonunda bize satacak bir ürün lazım
+                ürünü avantajlı bir şekilde almam lazım 
+                üreticilerin, tedarikçilerin, toptan fiyatına perakende satanların takıldığı yerler
+                aliexpress
+                alibaba
+                https://cjdropshipping.com/
+                https://zendropshipping.com/
+                İlk olarak ürüne olan talepleri ölçmenin yolunu bul...
+                  eskiler napardı: pazara giderdi bakardı noluyor diye
+                  tiktok, instagram, google, facebook bunlar yeni pazarlar aslında. hasgtaglerine bak
+                  sonra arzına bak senin kapışabileceğin şekilde mi. sadece talep yoğunluğu değil, arz eksiği de olmalı ki ürüne atlayasın
+                  sonrasında tedarikçilere gidip ürünü ara var mı üreticisi?
+                verilerin ışığında talebi ölçüp test edebilmek
+                analiz yapacaksın
+                  aliexpressten geç mi gidiyor...
+                  cjdrop'dan pahalı mı gidiyor...
+               sonra gidip bi yerden mağaza oluşturman gerek...
+               ürün hazır mağaza hazır satışa hazırız..
+  - 2. Trafik
+              bu noktada bizim insan çekmemiz gerekiyor.. ki bizi bulabilsinler bi şekilde
+              insanların nerde takıldığı belli hangi içerikler, ürüne ne şekilde baktıklarını biliyorsun
+              tiktok: kendi profillerin, fenomenler, paralı reklamlar, tiktokda, instagramda...
+              Talep gösteren insanların önüne, talep gösterdikleri ürünle ya da talebi karşılayacak ürünle çık....
+              trafik işe yaramalı...
+              rakiplerimin önüne geçebiliyormuyum, ek birşeyler dah iyi şeyler yapabiliyor muyum ya da en azından rekabet edebiliyor muyum?
+              trafik bombardımanı oluşturman gerekli      
+  - 3. Satış
+              gelen insanlara ben nasıl sunuyorum ürünü
+              insanların taleplerini karşılaycak bir içerik hazırla..
+              OPEN AI kullan --> satış metni oluştur... duygusal olsun... şu şu sorunlara da dikkat çeksin
+              müşterileri iyi tanıman lazım..
+              tüm bunları mağazana yerleştiriyorsun. içeriğin ile ürün görselliğin ile...
+
+
+
+# LEAN START-UP
+1) girisime baslarken detaylarla, planlarla ve alt yapilarla ugrasmak yerine dogrudan satisa girisin. 
+  verilen orneklerde gorulecegi uzere musteri bulmak basarili girisimlerin ilk yapmasi gereken sey. 
+  daha sonra etrafini doldurabilirsiniz.
+
+2) buyumeyi hesaplarken kumulatif hesaplar yapmayin. 
+  yani su son on iki ayda yuzde bes yuz buyuduk gibi bir hesap yanlistir. 
+  her ay icerisinde gerceklesen buyume bir onceki ayla karsilastirilmali ve ivme her zaman korunmalidir. 
+  hatta buyume hesaplari haftalik olsa daha iyi olur.
+
+3) gereksiz hizmet ya da gelistirme batakligina suruklenmeyin. 
+  musteri ile surekli geri bildirim halinde olunki zaman ve kaynak israfina dusmeyin. 
+  birinci madde ile ayni gorunse de bu madde girisim ilerledikten sonra, 
+  birinci madde ise baslarda uyulmasi gereken tavsiyeler.
+
+4) five why? (beş kere neden?) kuralı. 
+  bir sorunla karsilastiginizda, sorunun ana kaynagina gidebilmek icin bes kere neden diye sorun. 
+  problem : mail listesi uyeliklerimiz azaldi. 
+    neden1: web sitemizde onay mailleri yavas gidiyor. 
+    neden2 : sunucular lag yapiyor. 
+    neden3: internet saglayicisi hizi dusurdu. 
+    neden4: internet kisitlamalari sistemi yavalattigi icin. 
+    ornek biraz sacma olabilir ama en fazla bes kez neden diye soruldugunda sorunun ana kaynagi ve cozumu kolayca bulunabilecektir.
+
+
+
+"Lean Startup" yerini “First Mover Advantage” prensibine bırakmış olabilir.
+"büyük parayla gir büyük oyna ilk olmanın avantajını kullan"
+“massive capital infusion owns the entire market.”
+https://steveblank.com/2018/09/05/is-the-lean-startup-dead/
+
+- When capital for startups is readily available at scale, it makes more sense to go big, fast and make mistakes than it does to search for product/market fit.
+- The amount of customer discovery and product-market fit you need to do is inversely proportional to the amount and availability of risk capital.
+- Still, unless your startup has access to large pools of capital or have a brand name like Katzenberg, Lean still makes sense.
+- Lean is now essential for companies and government agencies to deliver innovation at speed
+- The Lean Startup isn’t dead. For companies and government the next generation of Lean – the Innovation Pipeline – is more relevant than ever.
+
+
+
+
+
+
 
 
 
