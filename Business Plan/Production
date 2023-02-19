@@ -12,9 +12,51 @@ Diyelim ki 300 adet sipariş ettik bunun maliyeti ne kadar bulur. ek olarak paza
 
 
 
+Herhangi bir Ürün/Hizmet Üretim Safhaları
+      İşçilik
+      Ham Madde
+      Genel Giderler
+      Görünmez giderler
+      
+
+
+Maliyet Çeşitleri                         Maliyet Tutarları
+-----------------------------------------------------------
+Direkt İlk Madde ve Malzeme Maliyeti      468.938
+Direkt İşçilik Maliyeti                   3.748.415
+Endirekt Malzeme Maliyeti                 308.516
+Endirekt İşçilik Maliyeti                 496.221
+Elektrik Maliyeti                         841.891
+Bakım Onarım Maliyeti                     665.562
+Yakıt Maliyeti (Kömür ve mazot)           1.654.594
+Toplam                                    8.184.138
+
+# Ürün Maliyeti v Fiyatlama
+-------------------------------------------------------------------------------------------------------
+Satış Fiyatı <- Kar Marjı
+             <- Yapma v Satma Maliyeti <- Faaliyet Giderleri   <- Yönetim Giderleri
+                                                                  Pazarlama Satış Ar-Ge Giderleri
+                                       <- Üretim Maliyeti      <- Genel Üretim Maliyetleri
+                                                                  Direkt İsçilik/Direkt Malzeme
+-------------------------------------------------------------------------------------------------------
 
 
 
+
+Maliyet Unsurları
+• İşyeri Kira Gideri,
+• Telefon, İnternet, Elektrik, Doğalgaz ve Su giderleri,
+• Personel Giderleri (Maaş, sigorta, vergi, yemek vb.)
+• Ulaşım giderleri (Araç, yakıt, vergi, sigorta, bakım vb.)
+• İşyeri sigorta, demirbaş, bakım-onarım gideri,
+• Ar-Ge ve Pazarlama giderleri
+• Sarf malzeme ve İkram giderleri
+• Mesleki giderler (Üyelik, Eğitim, Abonelik vb.)
+• Esas Faaliyete ilişkin giderler
+• Sözleşmelerden doğan Damga Vergisi
+• Kazanca ilişkin diğer Vergiler (Gelir, Kurumlar Vergisi vb.)
+• SGK Primi
+• SMMM Hizmet Gideri
 
 
 Termal enerji/Isı Enerjisi
