@@ -1,0 +1,19 @@
+-------------------------------------------------------------
+                    Commerce/Trade
+-------------------------------------------------------------
+Market A              Market B            Market C        ...
+-------------------------------------------------------------
+Product 1 2 3 ...     Product 1 2 3 ...   Product 1 2 3 ...
+  Seller 1              Seller 1            Seller 1
+  Seller 2              Seller 2            Seller 2
+  Seller 3              Seller 3            Seller 3
+  ...                   ...                 ...
+
+Product 1 2 3 ...     Product 1 2 3 ...   Product 1 2 3 ...
+  Seller 1              Seller 1            Seller 1
+  Seller 2              Seller 2            Seller 2
+  Seller 3              Seller 3            Seller 3
+  ...                   ...                 ...
+
+...
+--------------------------------------------------------------
