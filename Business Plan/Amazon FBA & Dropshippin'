@@ -238,7 +238,6 @@ karlılıkları hesaplarken vergileri de hesaplaman gerekli --> Gelir vergisi, K
 
 
 
-
 # TOPTANCI BULMAK v STRATEJİLER
   01. https://www.toptantr.com/tr/        
       -- ürünü bul, a markasının distribütorünü bul ara şu şu ürünler sizde var mı sor varsa sipariş ver amazona geç burdan sat
@@ -265,6 +264,17 @@ bunları kargo şirketleri iyi bilir. kargo gümrükle konuşabilir.. teyit edil
 
 
 
+
+
+
+
+
+
+
+
+Tek bir seller hesabı açıp onunla oyalanma, birkaç hesap aç, her hesapta da 1-2 çeşit ürün olsun.
+günde 300-400$ yapıyorsan, Daha sonra hesap satın alabiliyorsun da bir yerlerden...
+-------------------------------------------------------------------------------------------------
 # ONLINE ARBİTRAJ
   Arbitraj - Fiyat farkı avantajı
            - Reklam masrafı yok Amazon Platformunda olduğu için
@@ -328,19 +338,30 @@ bunları kargo şirketleri iyi bilir. kargo gümrükle konuşabilir.. teyit edil
     # Product Examples
                           Ucuz Alım       Pahalı Satım
                           ----------------------------
-                          TR - Teknosa    US - Amazon
+                          TR - Teknosa    US - Amazon       Güncel kurdan hesaplanmalı.
                           ----------------------------
     A Marka and Model     30tl            60$      
-    Philips diş fırçası   89tl            40$
-
+    Philips diş fırçası   89tl            40$               Revenue Calculator kullanabilirsin....
+                                                            Ürün birebir aynı olmalı eğer değilse o işe girme...
+    TP-Link 
+    kablosuz bt adaptör   219tl           65$               fena karlı bir iş... 5 tane satıcısı var..
+    
     # Ürünler nasıl bulunur? Yöntemleri neler?
+    
+    # Ürünü listeleme
+      ürünün amazondaki asil nosunu bul koopyala, ürün ekle bölümünde amazonda arattır sonrsında listele
+      daha sonra kargo planı oluştur elinde kaç adet varsa artık
+    # Kargo planı nasıl oluşturulur.
+    
     
     # Sale Tips:
     - yeni hesap isen büyük marka satma daha iyi. 
         tplink, oralb gibi markalar helium10de aylık satış adetleri belli bile olsa
         büyük marka olduğu için başın ağrıyabilir. 
         yani dove mevzusundaki gibi. trde başka şekilde oluyor, usde başka şekilde
-    - Helium10 - Her ürünün Amazonda "aylık satış adetleri" belli. Bu büyük bir avanaj olabilir.
+    - Helium10 - Her ürünün Amazonda "aylık satış adetleri" belli. Bu büyük bir avantaj olabilir.
+      Helium10 chrome extension.... kullan ürün ayık ne kadar sattığını gösterir.
+      ürüne baktın sonra ayda ne kadar sattığını gel buraya bak Xray....
     - Faturalar ile kategori bile açtırabiliyorsun. Teknosa, MediaMarkt, ToysRus, IKEA
     - Sony gibi bir Trademark diyelim bunu nasıl satarız..
         Diyelim ki Sony kulaklık.. TRde ucuz USde pahalı. Elinde faturan da varsa satarsın.
@@ -351,7 +372,7 @@ bunları kargo şirketleri iyi bilir. kargo gümrükle konuşabilir.. teyit edil
         Ama %80 satarsınız.. orjinal olsun.
         Sadece dikkat etmen gereken şey.. Satıcı sayısı 3den fazl olsun.
         Tekeli önlemek için yapılmış bi kural.
-        ama tek satıcı olan yere girmek tehlikeli
+        ama tek satıcı olan yere girmek tehlikeli. en az iki satıcı olsun böylelikle arbitraj kolay olur
           çünkü senden önce çok kişi gelip geçmiştir ordan. o tekelin bi numarası vardır sana sattırmamak için
           neden kimse girmiyorken ben giriyim ki bu riske
           ya da bazı markalar istemiyor da olabilir.. Nike meselesi gibi
@@ -370,8 +391,32 @@ bunları kargo şirketleri iyi bilir. kargo gümrükle konuşabilir.. teyit edil
         Amazon kendisi oyuna girer. listeyi bitirmesini bekleyeceksin.
         Liste bile kapanabilir..
         Bunların hepsi birer ticari risk
+    
+    # Kargolama
+      TR'den US'e "philips diş fırçası" kargolama
+      1. yükte hafif pahada ağır ürünler seçilmeli
+      2. bir ürünün 200 tanesi kucağa sığacak bi koli filan gelmeli
+      Kargo hesabı
+        1 koli = 15 kilo = 60x40x40 ebatında ---> 108 euroya gidiyor.
+        koliyi amerikaya sevk edecek kargo şirketi lazım....
+        108 euroya gidiyorsa birim maliyeti nedir...   euroyu dolara çevir mesela 140 dolar olsun
+            13$ ürün başı fiyatı
+            140$/200 adet ürün  = 0,7 birim kargo maliyeti 70 cent 1$ bile değil...
+            birim başına 1 dolar maliyetle amazon depolarına gidiyor.
+     
+     # Gümrük Vergisi ...
+        200 tane gönderdim çarpı 13$ aldım ---> ürünün fiyatı 2600$
+        Burda bi gümrük vergisi çıkar... 2600 olduğu için %20 kadar bi gümrük vergisi ödersin
+        eğer ki ürünü kolilere bölersen bu vergiden kaçınırsın...
+        2600$ dolların 800$'dan kaç koliye bölelim aşağı yukarı 4 koliye bölünür..
+        her kolide eli tane olsun diyelim... burda kargo maliyeti artar...
+        birim kargo maliyetine 1$ daha ekle o zman...
+        her bir kolinin "NAVLUN bedeli", 800$ altında kalacağı için amerikada gümrük vergisi ödemeyeceksin sadece kargo şirketiyle bu işi bitircen.
+            Navlun terimi, dış ticarette denizyolu ve nehir taşımacılığında gemi ile taşınan yükler için, taşıyıcı firmaya ödenen hizmet bedeli olarak tanımlanabilir.
+        Ve her koli 15 kiloyu geçmeyecek. zaten bu şekil bir yolla da geçmez..
+
         
-      
+        
     # Amazon Depolama Ücretleri
       Amazon her çeyrekte farklı bir depolama ücreti alır.
       Özellikle yılın son 4 ayında çok daha yüksek depolama ücretleri alır. --> Christmas Effect
@@ -404,8 +449,153 @@ bunları kargo şirketleri iyi bilir. kargo gümrükle konuşabilir.. teyit edil
        zarar olarak düşünme ama kendine yatırım olarak düşünebilirsin. tabi riskli ama
        
        
-       
-       
+# TR yan sanayi cenneti
+Bir çok markanın yan sanayisini üretiyoruz
+Amazon US'da markasız satılan mercedesin kapı kolu mesela no name
+TRde daha ucuz, aynı ürün USde de satılıyor. karı büyük
+
+# Amazon Gebze - Burası ile iltibata geç: Arbitrage için konuş yapılabiliyor mu?
+
+# VERGİ ÖDEMELERİ, ŞİRKET KURMALAR, MALİ MÜŞAVİRLİK
+# Ne kadar Sermaye ile e-commerce başlamalıyım
+Satılacak Ürünün alım değeri, mutlaka belli olmalı.. maliyetler, kargo ücretleri vesaire
+# Şirket kurmak gerekli mi? Amazonda.. 
+şirket kuruyorsan bi mali müşavir ile çalışmalısın. aylık 500lira diyebiliriz.
+teyitleşip bu bilgileri uygula
+TRde yaşayıp USde ticaret yapmak
+Yurtdışında elde edilen bir gelirin TR'ye sokulabilmesi için bi fatura karşılığı olmalı
+Muhasebe basit usül 100, normal usul 200-300 lira tutarlar, şahıs şirketinde
+mal satışının dışına çıkma amazında yani hizmet satışıyla işin olmasın
+
+A malını aldın, faturasını trdeki şirketine kestirirsin.
+şirketim trde ama amazona bu malı sattık
+maliye deyecek ki tamam bu adam 1 dolara almış 2 dolara kar etmiş
+
+diğer bi husus sen hiç mal almıyorsun trden
+çinden alıp us'e satıyorsun
+tr ile hiç bi işin yok ama trde yaşıyorsun buraya para sokman gerek
+1.çözüm
+  çin yada nerden aldıysan, aldığın ürünü trdeki şirketine fatura ettirmen gerekli.
+  stoğa giren mal diye bunu işletirsin muhasebecine söyleyip
+  çinden aldığım ürünü stoğuma işlettim kanadaya sattım
+  kanadaya sattıktan sonra kanadalı müşteri adına trden fatura keserim
+  bu faturanın illa müşteriye gitmesi gerekmiyor senin onu muhasebeleştirmen gerekli
+  KDVsiz fatura kesiyorsun KDV sıfır
+  bu şekilde vergisini ödemen gerekiyor ki trye parayı sokabilelim
+2.yöntem
+  ben dropshipping yapıyorsam
+  trden ürünü göndermeyim çinden alıp us'de satıyorsam
+  kesinlikle trdeki şirketi bulaştırma bu işlere...
+  en kritik yöntem bu...
+  arbitraj ya da dropship olsun
+  eğerki bulunduğun bi ülkeyi karıştırmıyorsan.. şimdiki yöntem önemli
+  neden bulaştırıp ek vergi ödeyim ki...
+  onun yerine USde şirket kuruyorum
+  USde şirket kurduktan sonra çinden aldığın ürünü US'deki şirkete fatura ettiriyorsun
+  Amazon satışı yaptıktan sonra parayı senin amerikan şirketine yatırıyor..
+  amerikan şirketinin kasasında o para duruyor. peki bu para birikti birikti 20k 30k$
+  ben dropshipping yaptığım için bunu yapıyorum
+  para biriktikten sonra yapılacaklar: 
+    trden us'a gönderecek bir iş modeli yap mutlaka
+    bir ürünü trden us'a sat
+    gerekiyorsa mal satış(fatura bedelini) fazla kes
+    ürünü 1$ alıp 2$ satıyorsam birim maliyetini $10 yap
+      - ürünün fiyatını kaça sattığın kimseyi ilgilendirmez bu yasal yeter ki zarar etme.
+      1$ aldığını 1$ satıyorsan bu yasal değil ama 100$satıyorsan bu yasal. ama mali müşavire danışmadan iş yapma uzman işi bu çünkü
+    çünkü us'den benim alacağım olsun ki bana para gelsin...
+    
+  
+  FBA yaptığım yani amazon depolarına göndererek yaptığım 
+  yani trden satın alıp da amerikaya sattığım ürünleri de
+  amerikaya fatura ediyorum trden o para trye geliyor...
+  
+  mal alırken de amerkan şirketinin kasasını kullanıyorsun faturanı oraya kestiriyorsun
+  
+  belli bi limitten sonra amazon senin adına müşteriden KDV topluyor.
+  bu yüzden amerika da bi şirket olman lazım. amazonda kdv vergini senin adına amerika devletine ödüyor..
+  
+  şirketsiz girebilirsin ilk etapda
+  10k$ hacime ulaştığında şirket kur ama
+  
+  ....ÖNEMLİ....
+  yurtdışından trye 1 dollar bile getiriyor olsan senin trde bir şirketin olmalı
+  yasalar açık ve net. vergi kanunları 1liralık kazanç bile bi ticarettir bunu ödeyeceksin diyor.
+  bu noktda elektronik gümrük beyannameleri düzenlemen önemli. mali müşavir seni yönlendirmeli
+  paranın geldiği hesap ile faturayı kestiğin hesap aynı olmalı
+  elektronik gümrük beyannameleri düzenleyerek trden ürünleri gönderiyorsun
+  
+  
+  varlık barışı nedir ne değildir. ne işimize yarar bunu bi öğren --> usdeki varlığını tr'ye getir sorgulamam seni diyor tr
+  varlık barışı ayrı, ticaretin sürdürülmesi ayrı bir durum
+  
+  
+  
+# Amazon fiziksel adresi kargo planı oluşturuldan sonra kendisi size veriyor.
+
+# Ürünün orjinal olduğunu amazon düşünmüyorsa tüm mağazayı kapatır.. Suspend olursun
+  ya da müşteri deneyimi ile sıkıntınız varsa
+  ya da amazon bi ürün nedeniyle fatura istiyorsa diğer ürünlerin satışları devam eder sorun yok
+
+
+# Avrupa için Arbitraj ...
+  Üçüncü ülkelerden avrupa ülkelerine mal satışında imkansızlık -- yeni vergi yasası
+  AB vergi denetimindeki
+    OSS (One Stop Shop) altyapısında kayıtlı vergi numaran olması gerekiyor..
+
+
+# trden aldımız malların fatursını amazona mı kestiriyoruz gönderirken
+  fatura kesiyorsan şirketin olacak
+  amerikada da şirket kur 179$ vergi nosu 45 günde geliyor ama vergi nosuz da iş yaparsın
+  daha sonra trdeki şirketinizden, amerikadaki şirketinize fatura keserek amazona mal gönderin
+  bu daha sağlıklıdır.
+  amazon amerikadaki seller acount business address bölümünde mutlaka amerika şirket bilgilerinizi de güncelleyin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------
+# DROPSHIPPING
+  doğru bir ürün bulmak. mağazayı çöplük haline getirmene gerek yok.
+  sürdürülebilirlik önemli...
+  kazancını çeşitlendir... her iş modelin olsun sende... gelir kaynağını farklı yönlere böl...
+  
+  Devam et 15:39
+https://www.youtube.com/watch?v=vyt_5yuqDL8  
+  
+  
+  
+  
+
+
+# dropshipping için kanadayla başla hareketli bir pazar
+
+# Amazonda dropshipping yaparken yazılım kullanmalı mıyız?  
+  
+  
+  
+
+
+
+
+
+
 
 
 
