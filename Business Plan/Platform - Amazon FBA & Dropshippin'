@@ -318,23 +318,8 @@ günde 300-400$ yapıyorsan, Daha sonra hesap satın alabiliyorsun da bir yerler
             200 adet satıyorsa bunu kabaca 4 satıcıya pay edelim
             2000$ aylık pastadan pay diyebilirsin..
             Muazzam bir kar diyebiliriz. Kesintiler hariç...
-
-      # Amazona fatura kabul ettirmek.. Sıkıntı olabiliyor..
-            Eğer TRdeki şirket üzerinden Amazon Satış hesabı açtıysan
-            Ve TRdeki perakendeci/toptancıdan ya da tedarikçiden faturalı bir şekilde ürünü alıdıysan
-            Ve Fatura kaleminde ürünün ismi birebir Amazondakiyle aynı ise uyuşuyorsa Amazon faturayı kabul eder.
-            Kabul etmediği durumlarda tekrar tekrar aynı fatura gönderilir.
-            Ama bazı ürünlerde fatura istemeyebilir. ama orjinal ürün sattıyorsan fatura şart her zman
-            Trendyol da ister faturayı..
-     # Fatura
-            Amazondaki Business isim ve adresine Fatura olarak kestirmen gerekiyor...
-            Posta kodu önemli
-            Faturayı kesen firmanın adresi, imzası, logosu vs.
-            E-faturaysa imza olabiliyor.
-     # Fiş
-            Amazon fiş kabul ediyor.. Arkadan gün ışığında gelsin ki gerçek oldu anlaşılsın.
               
-              
+    # ÜRÜN ARAYIŞI          
     # Product Examples
                           Ucuz Alım       Pahalı Satım
                           ----------------------------
@@ -346,44 +331,36 @@ günde 300-400$ yapıyorsan, Daha sonra hesap satın alabiliyorsun da bir yerler
     TP-Link 
     kablosuz bt adaptör   219tl           65$               fena karlı bir iş... 5 tane satıcısı var..
     
-    # Ürünler nasıl bulunur? Yöntemleri neler?
     
-    # Ürünü listeleme
-      ürünün amazondaki asil nosunu bul koopyala, ürün ekle bölümünde amazonda arattır sonrsında listele
-      daha sonra kargo planı oluştur elinde kaç adet varsa artık
-    # Kargo planı nasıl oluşturulur.
+    # Ürünler nasıl bulunur? Yöntemleri neler? Tedarikçi Kim?
+    Manufacturers:
+      https://www.nothingbutsavings.com/Account/LogOn
+      https://cjdropshipping.com/
+      https://zendropshipping.com/
+      aliexpress
+      alibaba
+      https://www.teknosa.com/
+      https://www.vatanbilgisayar.com/
     
+
     
-    # Sale Tips:
+    # Sale Tips 
     - yeni hesap isen büyük marka satma daha iyi. 
         tplink, oralb gibi markalar helium10de aylık satış adetleri belli bile olsa
         büyük marka olduğu için başın ağrıyabilir. 
         yani dove mevzusundaki gibi. trde başka şekilde oluyor, usde başka şekilde
+    
+    # Ürünün Aylık Satışı Ne Kadar?
     - Helium10 - Her ürünün Amazonda "aylık satış adetleri" belli. Bu büyük bir avantaj olabilir.
       Helium10 chrome extension.... kullan ürün ayık ne kadar sattığını gösterir.
       ürüne baktın sonra ayda ne kadar sattığını gel buraya bak Xray....
-    - Faturalar ile kategori bile açtırabiliyorsun. Teknosa, MediaMarkt, ToysRus, IKEA
-    - Sony gibi bir Trademark diyelim bunu nasıl satarız..
-        Diyelim ki Sony kulaklık.. TRde ucuz USde pahalı. Elinde faturan da varsa satarsın.
-        Sağ alt Have one to sell? kısmı...  Yeterki orjinal olsun
-        Amazon zaten satan kişileri de o kısımda gösterir.
-        
-        Amazon, Satıcı evrağın yani Distribütörlüğün olması gerektiğini de söyleyebilir.
-        Ama %80 satarsınız.. orjinal olsun.
-        Sadece dikkat etmen gereken şey.. Satıcı sayısı 3den fazl olsun.
-        Tekeli önlemek için yapılmış bi kural.
-        ama tek satıcı olan yere girmek tehlikeli. en az iki satıcı olsun böylelikle arbitraj kolay olur
-          çünkü senden önce çok kişi gelip geçmiştir ordan. o tekelin bi numarası vardır sana sattırmamak için
-          neden kimse girmiyorken ben giriyim ki bu riske
-          ya da bazı markalar istemiyor da olabilir.. Nike meselesi gibi
-          Bazı markalar "Project Zero" kullanıyor. tek bi tıkla onu liste dışına atabilirler.
-          Marka danışmanlıkları başka adam istemiyor.
-          
-          
-     - Nike/Adidas mesela distribütörü seni şikayet edebilir.   
-        Bu yüzden dikkatli hareket etmek lazım
-        
-        
+    - JungleScout - ürün aylık ne kadar satar, ona göre satın al?
+    
+    # Ürünün kar hesabını yapmak
+    - Revenue Calculator by AmazonSeller
+      Bize ne kadar kar bırakıyor. ASIN number
+      FBA satışı üzerinden ürünü satımak buna göre hesap yapılır. 
+      
     # Competitors
       - Sen listeni belirledikten sonra.. yani arbitrajın hazır ürünü satın aldın, listeledin satışa sundun..
         Diğer satıcılar listelerini arttırabilir. ürünlerini arttırabilir.
@@ -392,6 +369,7 @@ günde 300-400$ yapıyorsan, Daha sonra hesap satın alabiliyorsun da bir yerler
         Liste bile kapanabilir..
         Bunların hepsi birer ticari risk
     
+    # Kargo planı nasıl oluşturulur.
     # Kargolama
       TR'den US'e "philips diş fırçası" kargolama
       1. yükte hafif pahada ağır ürünler seçilmeli
@@ -403,6 +381,8 @@ günde 300-400$ yapıyorsan, Daha sonra hesap satın alabiliyorsun da bir yerler
             13$ ürün başı fiyatı
             140$/200 adet ürün  = 0,7 birim kargo maliyeti 70 cent 1$ bile değil...
             birim başına 1 dolar maliyetle amazon depolarına gidiyor.
+     
+
      
      # Gümrük Vergisi ...
         200 tane gönderdim çarpı 13$ aldım ---> ürünün fiyatı 2600$
@@ -433,10 +413,82 @@ günde 300-400$ yapıyorsan, Daha sonra hesap satın alabiliyorsun da bir yerler
         - Depolama ücreti
         - Ürün satış fiyat komisyon ücreti
       
+    # "Amazon Packing Slip"
+      ARA DEPO - Etiketleme, baloncuk, kargo başı 1$ diyebiliriz bunu yapan depolar var.
+      
+      Ürünü direk tedarikçiden Amazona gönderirsek üzerinde ürün etiketi, faturası olacak
+      bunun anlamı satın aldığın tedarikçinin fiyatını sattığın kişi görecek...
+      o fiyattan da fatura kesilmiş müşteri diyecek ben dolandırıldım...
+      Bunun önüne geçmek için ARA DEPO
+      1. Ürün Aradepoya gider üstünde fiyat etiketi fatura varsa yırtıp atılır
+      2. Ara depoda ürün bizim adımıza amazona uygun düzenlenir, etiketlenir.
+         Her ürüne amazondan alınan bir etiket var onu yapıştırman lazım
+         Ara depo hem ürünün faturasını çıkarır hem etiketini yapar hem de paketleme, hasar kontrol
+         ürün başı 1$ dolara mal alıyor gibi
+         USda bi ara depo bulabilirsin
+         TRde bir ara depo bulmak
+         Ukde bir ara depo ol
+     
+     Resources:
+        https://www.youtube.com/watch?v=WNgc3qf2A9k&t=513s
+     Tedarikçiden Ara depoya, Ara depodan Amazona giderken çıkan kargo ücreti..
+     # ÜRÜNÜ TEDARİKÇİDEN SATIN ALIP ARA DEPOYA GÖNDERMEK
+     Tedarikçi amazona ürünü gönderir kargo planıyla.
+     Amazon Satıcı paneline ürünün düşmesini beklersin. 
+     listelediğin ürün henüz gelmemiş ise "Out of Stock" olarak gözükür. Available sıfır gözükür..
+     Ürünler ulaşınca adeti düzenler ve status inactive'den active olur. ve satış başlar.
+      
     # FBA
       FBA yaparken, kargo ücreti ödüyorsun müşteriye ulaştırmada
       Tek tek ödemiyorsun ama tek seferde ödüyorsun.
+
+
+    # ÜRÜNÜ LİSTELEME
+      ürünün amazondaki ASIN nosunu bul kopyala, ürün ekle/satıcı paneli bölümünde amazonda arattır sonrsında listele
+      daha sonra kargo planı oluştur elinde kaç adet varsa artık
+      Apply to Sell ---> bu noktadan sonra FATURANI amazona sunacaksın.
+      Marka Onayı süreci -- Ürünün orjinal olduğunu kanıtlaman gerekli
       
+      # Amazona fatura kabul ettirmek.. Sıkıntı olabiliyor..
+      Eğer TRdeki şirket üzerinden Amazon Satış hesabı açtıysan
+      Ve TRdeki perakendeci/toptancıdan ya da tedarikçiden faturalı bir şekilde ürünü alıdıysan
+      Ve Fatura kaleminde ürünün ismi birebir Amazondakiyle aynı ise uyuşuyorsa Amazon faturayı kabul eder.
+      Kabul etmediği durumlarda tekrar tekrar aynı fatura gönderilir.
+      Ama bazı ürünlerde fatura istemeyebilir. ama orjinal ürün sattıyorsan fatura şart her zman
+      Trendyol da ister faturayı..
+      # Fatura
+      Amazondaki Business isim ve adresine Fatura olarak kestirmen gerekiyor...
+      Posta kodu önemli
+      Faturayı kesen firmanın adresi, imzası, logosu vs.
+      E-faturaysa imza olabiliyor.
+      # Fiş
+      Amazon fiş kabul ediyor.. Arkadan gün ışığında gelsin ki gerçek oldu anlaşılsın.
+  
+    # FATURALAMA
+    - Faturalar ile kategori bile açtırabiliyorsun. Teknosa, MediaMarkt, ToysRus, IKEA
+    - Sony gibi bir Trademark diyelim bunu nasıl satarız..
+        Diyelim ki Sony kulaklık.. TRde ucuz USde pahalı. Elinde faturan da varsa satarsın.
+        Sağ alt Have one to sell? kısmı...  Yeterki orjinal olsun
+        Amazon zaten satan kişileri de o kısımda gösterir.
+        
+        Amazon, Satıcı evrağın yani Distribütörlüğün olması gerektiğini de söyleyebilir.
+        Ama %80 satarsınız.. orjinal olsun.
+        Sadece dikkat etmen gereken şey.. Satıcı sayısı 3den fazl olsun.
+        Tekeli önlemek için yapılmış bi kural.
+        ama tek satıcı olan yere girmek tehlikeli. en az iki satıcı olsun böylelikle arbitraj kolay olur
+          çünkü senden önce çok kişi gelip geçmiştir ordan. o tekelin bi numarası vardır sana sattırmamak için
+          neden kimse girmiyorken ben giriyim ki bu riske
+          ya da bazı markalar istemiyor da olabilir.. Nike meselesi gibi
+          Bazı markalar "Project Zero" kullanıyor. tek bi tıkla onu liste dışına atabilirler.
+          Marka danışmanlıkları başka adam istemiyor.
+          
+          
+     - Nike/Adidas mesela distribütörü seni şikayet edebilir.   
+        Bu yüzden dikkatli hareket etmek lazım
+        
+
+
+
      # 6 aydır wholesale fba yaparsın
        yine de "just launched" görünürsün. 
        müşterilerin hiç biri yıldız vermeyebilir.
@@ -448,7 +500,39 @@ günde 300-400$ yapıyorsan, Daha sonra hesap satın alabiliyorsun da bir yerler
        bazen satıştan çok mağazanın bir "değere" sahip olması da bir ayrıcalık, 
        zarar olarak düşünme ama kendine yatırım olarak düşünebilirsin. tabi riskli ama
        
-       
+
+
+# Amazon Dropshipping Business Model
+    
+                        -----<---- Market B
+    Market A <---------               |
+                       Dropship ----->
+                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # TR yan sanayi cenneti
 Bir çok markanın yan sanayisini üretiyoruz
 Amazon US'da markasız satılan mercedesin kapı kolu mesela no name
@@ -529,7 +613,21 @@ tr ile hiç bi işin yok ama trde yaşıyorsun buraya para sokman gerek
   varlık barışı ayrı, ticaretin sürdürülmesi ayrı bir durum
   
   
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Amazon fiziksel adresi kargo planı oluşturuldan sonra kendisi size veriyor.
 
 # Ürünün orjinal olduğunu amazon düşünmüyorsa tüm mağazayı kapatır.. Suspend olursun
