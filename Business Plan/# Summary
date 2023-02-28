@@ -12,12 +12,48 @@
             ama gelir vergisi ödeniyor elbette
             
             Gümrük Danışmanlığı ile çalış, ürün geçişleri kolaylaşacak
-            
-            
-            
-            
 
-            
+
+                                                 ----------------------Money------------------------------->
+                                                |                                                           |
+                                                |                                                           |
+                                                |                                                           |
+        <------ US Co.                          UK Co.                  TR Co.                              |
+       |        <---->                          <---->                                                      |
+       |        Fulfillment Co.                 Fulfillment Co.                                             |
+       |        |                               |                                                           |
+       |        |                               <---Product----< PRC Supplier/Manufaturer/Co.   <-----------
+       |         <-------------Product-------------------------<                    |
+       |                                                                            |
+        >-------------------------------------------------------------------------->
+                                    Money
+
+            # Contacts
+            -> Gümrük Danışmanlığı              TRde ya da UKde
+            -> Fulfillment Centers              peki ya çinde çinli bir fulfillment merkezi var mı....?
+            -> Fulfillment Center in China
+            -> Manufacturers
+            -> Avrupa pazarı..                  EU Co.
+            -> Çinde şirket kurmak..            PRC Co.
+
+
+
+
+
+                                                 ----------------------Money------------------------------->
+                                                |                                                           |
+                                                |                                                           |
+                                                |                                                           |
+        <------ US Co.                          UK Co.                  TR Co.                              |
+       |        <---->                          <---->                                                      |
+       |        Amazon FBA                      Amazon FBA                                                  |
+       |        |                               |                                                           |
+       |        |                               <---Product----< PRC Supplier/Manufacturer/Co./Fulfilment <-
+       |         <-------------Product-------------------------<                    |
+       |                                                                            |
+        >-------------------------------------------------------------------------->
+                                    Money
+
 
 
 
