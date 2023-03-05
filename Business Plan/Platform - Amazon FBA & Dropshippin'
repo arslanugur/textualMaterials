@@ -3,7 +3,16 @@
 3. Sonrasında Amerikada şirket kur              3. Trendyolda satış
 4. Mercury kayıt ol
 ----------------------------------------------------------------------------------------------------------------------------
-ds'de 2 adet market vardır ve binlerce ürün kopyalama vardır bu yüzden manuel olrak yapılamaz.. 
+
+# Amazon İş modelleri
+        - Marka satma * --> Private Labels. 
+        - Arbitraj    * --> Doğru ürünü bulman gerekli. Riskli iş. Fason ürün
+        - Wholesale   * --> Toptan alıp amazon deposuna gönder, öylece sattın.
+        - Dropshipping
+
+
+
+DS'de 2 adet market vardır ve binlerce ürün kopyalama vardır bu yüzden manuel olrak yapılamaz.. 
   Biri US biri CA
     sen USdeki binlerce ürünü CA'da açtığın mağazada listelersin
     bunu bilmeyen kişi de amerikadan ürün almak akıllıllarına gelmediği için, yerine canada'da senden alışveriş yapar.
@@ -15,31 +24,14 @@ ds'de 2 adet market vardır ve binlerce ürün kopyalama vardır bu yüzden manu
       şu ürünü kaldır diyor. bunları görmezsen amazon mağaza sağlığın düşer
       https://www.youtube.com/watch?v=lFp03Y21fEM
 
+https://greatcontent.com/optimize-keywords-amazon/
+Rising keywords
 
 
-# İngilterede şirket kurmak
-  Brexit sonrası, ingilterenin kendi ticaret ağı ve sistemi var
+  Satış ortaklığı yani Affiliate Marketing, 
+  tedarikçi ile satış ortakları arasında ürün satışından elde edilen karın paylaşılması esasına dayalı bir sistemdir.
 
-# Entity types / Şirket Türleri:
-- State-owned business
-- Publicly-listed business
-- Privately-owned business *
-- Sole proprietor *
-- Charity
 
-# Sole Trader - Şahıs Şirketi
-A sole proprietorship, also known as a sole tradership, individual entrepreneurship or proprietorship, 
-is a type of enterprise owned and run by one person and in which there is no legal distinction between the owner and the business entity. 
-A sole trader does not necessarily work alone and may employ other people.
---> Daha sonra büyüttükten sonra limited şirketine geçebilirsin. 
---> çok da fazla vergi vermek istemiyorsan da emlak yatırımı yapabilir bunu kira geliri olarak gösterebilirsin..
---> AccountancyAssist: https://www.youtube.com/watch?v=D3EsHy0tU5Y
-
-# Amazon İş modelleri
-        - Marka satma * --> Private Labels. 
-        - Arbitraj * --> doğru ürünü bulman gerekli. Riskli iş. Fason ürün
-        - Wholesale * toptan alıp amazon deposuna gönder, öylece sattın.
-        - Dropshipping
 
 
 # İŞ MODELİ
@@ -131,7 +123,7 @@ Stripe üzerinden Sanal Pos Öedeme Alt yapısı
 Utility Bill - ingilterede alacağınız
 Amazonda Seller Account
 
-İngiltere, Aylık olarak belli bir gelir vergisi beyannamesi yapılmalı - her ay 
+
 
 İngilizin cebinde 1 birim para var
 Türkün cebinde 1 birim para var.
@@ -154,42 +146,7 @@ Stripe İngilterede açılacak banka hesabına otomatik bağlanıyor.
 Şirket için bir banka hesabında para birikiyor. Bu banka hesabında paralar durduğu için gelir vergisini UK'de ödemek zorundayız.
     Yüklü bir kazanç olduğunda bu parayı kendi hesabına şirket hesabına dokunmadan yapabiliyor musun?
 
-UK'de Şirket Kurarak düşük vergi oranları ve VAT muafiyetiden faydalanabilirsiniz.
-İngiltere'de £85K yıllık ciroya kadar VAT kaydı ve vergisi zorunlu değil.
-    Vergiden kaçırmaya gerek yok diyor...
-    Ama mutlaka bir muhasebeci tutup aylık beyan vermelisin...
-    Muhasebeci de vergi dairesine bildiride buluncak bu şekilde.
-TRde şahıs şirketi kurmak zor.. gelir vergisinin yüksekliğinden dolayı
-UKde üç günde şirket kurup 4.gün faaliyete başlıyorsun..
-
-TRden daha düşük -- UK'de Yıllık yüzde 19 gelir vergisi var.. (net kar üzerinden)
-
 piyasa araştırması yap, hangi ürün satacaksan git tedarikçi bul.. bunları da amazona yükle. 
-                            
-Mukellef.co'nun Sunduğu Hizmetler:
-    Şirket kuruluşu (1-3 iş günü)             İş adresi £10pcm
-    Paypal hesap açılışı (Ama eğer sürekli TRde yaşıyorsan hesap askıya alınır Avrupa VPS kullanmak gerek - VPS ile Uzak masaüstü bağlantısı google)
-    Stripe sanal pos hesap açılışı (kendi siten varsa bu çok değerli)
-    SIM kart (Kartın faturası olduğu için Utility bill olarak gösterilebilir Amazonda)
-    Online banka hesap açılışı (Monzo)        Muhasebe servisi (Türkçe dil desteki)
-    £229 (tek seferlik)                       Muhasebe takip programı
-                                              Beyanname hazırlama
-                                              £150 pcm
-    İndirim kodu ile yapılabilir
-    Türkiyedeki şirketiyle, ingilterede iş yapmak bağlamak isteyenlere de bu şekilde iş yapabilirsin...
-    
-    ingiltere'de şirket açtıktan sonra başka bir ülkede açmana gerek yok.
-      diyelim ki almanyaya satış yapcaksın ne kadar euroya kadar vergi muafiyetin olduğunu öğren..
-      daha sonra uk'de kurduğum şirket üzerinden, almanyadan VAT alabilir miyim kimden alabilirim.
-      
-    
-Transferwise - şirketi şirketleri buraya bağlamak
-               address proof ile ispatlanır şirketlerin faal olduğu.
-               adres kiralama vergisi göstermeni ister, kimlik ve şirket evrakları
-               paranı her zaman mevcut kurdan çevirir.
-               
-               Uk'de kurulan bir şirkettin bankasında biriken para tr'ye nasıl getirtilebilir...
-
 
 Ali Yalçın - Amazon FBA
 Tuzla Belediye başkanı - Şadi Yazıcı, Melek yatırımcı bulabilir.
@@ -214,13 +171,6 @@ avrupa'ya satış ihya eder arkadaşlar. ben bir yerden başlayacağım.
 
 Yiğit Tuna
 
-# TeraPeak by Ebay
-https://www.ebay.com/sh/research?marketplace=EBAY-US&tabName=SOLD
-https://www.g2.com/products/terapeak/competitors/alternatives
-
-Amazonda Min/Max Order Quantity diye birşey var..
-oraya 1 olarak işaretlemezsen bütün envanterini alabiliyorlar.
-tüm ürünleriniz kar marjı düşük şekilde gidebilir...
 
 
 # Amazon Örnek Ürün Satışı: America - FBA
@@ -765,8 +715,22 @@ Case Study:
           
           
         
-        
-        
+
+---------------------------------------------------------------------------------------------------
+Case Study:
+        OneAMZ yazılı TR distribütörü
+        oneamz.com
+        Automation Software
+        New Jersey --> Ara depo
+        toptancı - retail store --> olacak amazon gibi
+
+        https://www.sourcelow.com/best-drop-shipping-software/
+        https://www.g2.com/categories/drop-shipping/free
+
+        Yazılımcı ve E-ticaret
+        https://www.incehesap.com/pc-toplama-sihirbazi/
+        https://www.toptanbilgisayar.net/urun/pc-toplama-sihirbazi
+
         
 ---------------------------------------------------------------------------------------------------
 Case Study: TOP: https://youtu.be/c3JbtF-Wogw
