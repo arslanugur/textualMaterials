@@ -35,7 +35,8 @@ Customer            Company acts as Intermediary  Independent contractors
 Customer                                          Service providers
                                                   Taker a commission or fee for the service
 Student             School                        Teacher
-User                Platform                      Host/Hostess
+User                Platform                      User
+Guest               Company                       Host/Hostess
 -----------------------------------------------------------
 End Customer        Company connects both         Final Product
                     Apple                         Macintosh
