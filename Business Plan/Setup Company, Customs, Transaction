@@ -42,6 +42,10 @@ Vergi Levhası
     Açılan pencerede yer alan seçeneklerden “Vergi Levhası Oluşturma” seçeneğini tıklayınız.
 
 
+Ek araştırılacak belgeler
+- Şahis firmasi ise mersise gerek yok
+- ATSO, faaliyet belgesi
+
 
 ----------------------------------------------------------------------------------------------
 # Şahıs şirketi için 3 Temel Vergi
@@ -81,7 +85,24 @@ Mali müşavir ile konuş....
 
 -----------------------------------------------------------------------------------------------
 
+# Entity types / Şirket Türleri:
+- State-owned business
+- Publicly-listed business
+- Privately-owned business *
+- Sole proprietor *
+- Charity
+  
 
+# Sole Trader - Şahıs Şirketi
+A sole proprietorship, also known as a sole tradership, individual entrepreneurship or proprietorship, 
+is a type of enterprise owned and run by one person and in which there is no legal distinction between the owner and the business entity. 
+A sole trader does not necessarily work alone and may employ other people.
+--> Daha sonra büyüttükten sonra limited şirketine geçebilirsin. 
+--> çok da fazla vergi vermek istemiyorsan da emlak yatırımı yapabilir bunu kira geliri olarak gösterebilirsin..
+--> AccountancyAssist: https://www.youtube.com/watch?v=D3EsHy0tU5Y
+
+
+https://youtu.be/Qxz6FZZGfD4
 
 
 
@@ -143,7 +164,7 @@ Mali müşavir ile konuş....
     # İngilterede şirket kurmak
     Brexit sonrası, ingilterenin kendi ticaret ağı ve sistemi var
     
-    #  İngiltere' de VAT (bizdeki karşılığı KDV) oranı %20'dir. 
+    # İngiltere' de VAT (bizdeki karşılığı KDV) oranı %20'dir. 
     Yıllık £85,000 gelire kadar olan işletmeler VAT mükellefi olmamaktadır. 
     İngiltere içinde e-ticaret ile satış yapanlar için bu limit £70,000'dir.
 
@@ -165,35 +186,7 @@ Mali müşavir ile konuş....
 
 
 
-
-  
-# Entity types / Şirket Türleri:
-- State-owned business
-- Publicly-listed business
-- Privately-owned business *
-- Sole proprietor *
-- Charity
-
-
-
-
-
-
-  
-
-# Sole Trader - Şahıs Şirketi
-A sole proprietorship, also known as a sole tradership, individual entrepreneurship or proprietorship, 
-is a type of enterprise owned and run by one person and in which there is no legal distinction between the owner and the business entity. 
-A sole trader does not necessarily work alone and may employ other people.
---> Daha sonra büyüttükten sonra limited şirketine geçebilirsin. 
---> çok da fazla vergi vermek istemiyorsan da emlak yatırımı yapabilir bunu kira geliri olarak gösterebilirsin..
---> AccountancyAssist: https://www.youtube.com/watch?v=D3EsHy0tU5Y
-
-
-https://youtu.be/Qxz6FZZGfD4
-
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 Mükellef.co
 Mukellef.co'nun Sunduğu Hizmetler:
     Şirket kuruluşu (1-3 iş günü)             İş adresi £10pcm
@@ -211,13 +204,107 @@ Mukellef.co'nun Sunduğu Hizmetler:
       diyelim ki almanyaya satış yapcaksın ne kadar euroya kadar vergi muafiyetin olduğunu öğren..
       daha sonra uk'de kurduğum şirket üzerinden, almanyadan VAT alabilir miyim kimden alabilirim.
       
-    
-Transferwise - şirketi şirketleri buraya bağlamak
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
+# TRANSACTIONS
+
+# Wise - şirketi şirketleri buraya bağlamak
                address proof ile ispatlanır şirketlerin faal olduğu.
                adres kiralama vergisi göstermeni ister, kimlik ve şirket evrakları
                paranı her zaman mevcut kurdan çevirir.
                
-               Uk'de kurulan bir şirkettin bankasında biriken para tr'ye nasıl getirtilebilir...
+               UK'de kurulan bir şirkettin bankasında biriken para tr'ye nasıl getirtilebilir...
+               # Varlık bağışı
+
+
+# Payoneer
+
+
+
+
+--------------------------------------------------------------------------------------------------------
+
+https://www.mabelgelendirme.com/
+    Belgelendirme Hizmetleri
+    FDA Belgesi, ISO 9001, kalite yönetim sistemleri ve ürün belgelendirme için doğru yerdesiniz.
+
+# Gümrük istediği belgeler
+# Platform istediği belgeler
+# Kargo Şirketleri istediği belgeler
+
+gümrükte sıkıntı olmamamısı için kendi private label ile
+    kahve çay, raf ömrü uzun ürünler.. bunlar sıkıntı çıkarmak
+    ek olarak çocuk ürünleri...
+    ama üreticisinden CPC belge alındıktan sonra yapılmalı
+--> göndermeden önce
+Ülke mevzuatlarına uygun belgeler
+Ürün Belgelendirme işlemleri: Bu belgeler nasıl alırısın
+    01. FDA     FDA kaydı, FDA Onayı, Amerika için
+                gıda ürünü için
+                kosmetik ürünü için içerik ve şekil uygunluğu sağlanıyorsa geçiyor
+                kosmetik, medical
+                FDA aslında gıda zincirindeki izlenebilirliği tescillemek
+                her ürün için alınmaz, gıda zincirinini bir paarçası olduğun için alınır..
+                bu tamamen, FDA veri tabanına firma, ürün, ithalt ve ihracat  bilgilerinin girilmesiyle ilgili
+                doğru bilginin doğru addrese doğru temsilcinin yapmasıyla oluşuyor
+                Temsilci hizmeti US Agency Service her sene yenilemeye tabi....
+                fda.gov
+    
+                ürünü kim USye kim sokacaksa onunda yaptırması önemli....
+                yani fason olarak bile üretsen hem senin hem de üreticinin afda kaydı sorulmalı 
+                yani ihracatçı kimse o yaptırcak
+                
+                ürün nakliye firmasına teslim edildikten sonra
+                --> Prior Notice - online ön bilgi formu
+                İşi yapmadan önce fda için ön bilgi yaılmalı..
+                bu kadar malı bu limandan şu tarihte diye...
+                DUNS    FDA için...
+    
+    
+    02. MSDS    Malzeme güvenlik bilgi formu
+                kimyasal madde içeren tüm ürünler bu formu esasen üretici tarafından hazırlanmalı ama yoksa da 
+                "kimyasal madde değerlendirme uzmanı" bu eğitimi alış birinin hazırlayabileceği bir form
+                geçerlilik süresi 3yıl, formül değişmediği sürece
+                her ürün için ayrı bi msds hazırlanmalı..
+                nakliye firmasına ibraz edilir..
+                krem, makyaj, şampuan, mum, mürekkep
+                şirketsiz de alınabilir..
+                kosmetik.
+                
+    03. CPC     çocuk ürünleri belgesi
+                Amerikanın bir mevzuat konusu
+                12 yaşına kadar bireylerin kullanılan tüm ürünler için yapılması gereken bir test, hazırlanan bir beyan
+                İki aşamalı:
+                1. test
+                    eğer üretici değil fason olarak alıyorsan
+                    US accredti ettiği lablarda analizler
+                    örnek kıyafet ise boya içindeki kurşun analizi
+                2. Beyanname hazırlanmalı
+                
+                
+    04. CE      insan hayvan ve çevre için güvenilir
+                yapı malzemeleri
+                oyuncaklar
+                vs..
+                tıbbi cihazlar
+                EUde NANDO veri tabanında kayıtlı belgedir.
+                Üretici değilsen bunu alamazsın...
+                Üretici alıyor sadece...
+                üreticini sorgula, onaylı
+    
+    05. EAC     Rusya için bir belge
+    06. Kosher  Yahudi helal belgesi
+    07. ISO     çok alınıp verilmeyen belgeler
+    08. TSCA    beyanı + MSDS formu hazırlanır
+                mürekkep kırtasiye, mürekkep toner vs
+    
+    
+
+
+
 
 
 
