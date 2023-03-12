@@ -21,19 +21,30 @@ Amazon
 rakuten.co.jp
 ebay.com
 walmart.com
-mercadolibre.com
-
+mercadolibre.com.br 15
+aliexpress.com    6
+pinduoduo.com     14
+jd.com            27
+wayfair.com       35
+alibaba.com       37
+aliexpress.ru     38
+tmall.com         41
+costco.com        45
+temu.com          48
+digikala.com      49
+dmm.com           50
 ---------------- US
-amazon.com
-ebay.com
-walmart.com
-etsy.com
-craigslist.org
+amazon.com    1
+ebay.com      2
+walmart.com   8
+etsy.com      5
+craigslist.org  # sec
+target.com      24
 ---------------- Japan
-amazon.co.jp
-rakuten.co.jp
+amazon.co.jp    3
+rakuten.co.jp   4
 shopping.yahoo.co.jp
-mercari.com
+mercari.com     31
 kakaku.com
 ---------------- Korea
 coupang.com
@@ -43,8 +54,8 @@ adison.co
 gmarket.co.kr
 
 ---------------- UK
-amazon.co.uk
-ebay.co.uk
+amazon.co.uk    9
+ebay.co.uk      16
 etsy.com
 argos.co.uk
 amazon.com
@@ -57,15 +68,15 @@ amazon.com
 
 
 ---------------- Canada
-amazon.ca     ***
+amazon.ca     25 ***
 kijiji.ca
 amazon.com
 walmart.ca
 etsy.com
 
 ---------------- Mexico
-mercadolibre.com.mx ***
-amazon.com.mx       ***
+mercadolibre.com.mx 34 ***
+amazon.com.mx       40 ***
 walmart.com.mx
 coppel.com
 amazon.com
@@ -73,17 +84,17 @@ amazon.com
 
 
 -------------- Argentina
-mercadolibre.com.ar
+mercadolibre.com.ar   29
 mercadolibre.com
 fravega.com
 amazon.com
 carrefour.com.ar
 ---------------- Brazil
-mercadolibre.com.br
-amazon.com.br
-magazineluiza.com.br
+mercadolibre.com.br   15
+amazon.com.br         22
+magazineluiza.com.br  39
 olx.com.br
-shopee.com.br
+shopee.com.br         47
 ---------------- Peru
 falabella.com.pe
 mercadolibre.com.pe
@@ -112,7 +123,7 @@ falabella.com.co
 
 
 
-
+# SCANDINAVIA
 ---------------- Norway
 finn.no     ***
 prisguiden.no
@@ -140,19 +151,44 @@ jemogfix.dk
 
 
 
----------------- France
-amazon.fr       ***
+
+
+
+---------------- Portugal - EU
+olx.pt
+worten.pt
+nit.pt
+aliexpress.com
+amazon.es
+---------------- Spain - EU
+amazon.es     30 ***
+aliexpress.com
+elcorteingles.es
+milanuncios.com
+wallapop.com
+
+
+---------------- Italy - EU
+amazon.it       20 ***
+subito.it
+ebay.it
+trovaprezzi.it
+aliexpress.com
+
+
+---------------- France - EU
+amazon.fr       21 ***
 leboncoin.fr
 cdiscount.com
 aliexpress.com
 fnac.com
----------------- Belgium
+---------------- Belgium - EU
 bol.com
 2dehands.be
 amazon.fr
 aliexpress.com
 2ememain.be
----------------- Netherlands
+---------------- Netherlands - EU
 bol.com     ***
 marktplaats.nl
 amazon.nl
@@ -169,56 +205,34 @@ amazon.fr
 
 
 
----------------- Germany
-amazon.de       ***
-ebay.de
+---------------- Germany - EU
+amazon.de       7 ***
+ebay.de         23
 ebay-kleinanzeigen.de
 otto.de
 idealo.de
----------------- Switzerland
+---------------- Switzerland - EU
 ricardo.ch
 amazon.de
 migros.ch
 tutti.ch
 homegate.ch
----------------- Austria
+---------------- Austria - EU
 amazon.de
 willhaben.at
 geizhals.at
 ebay.at
 ebay.de
----------------- Poland
-allegro.pl  ***
-olx.pl          # sec
+---------------- Poland - EU
+allegro.pl      17  ***
+olx.pl          36  # sec
 ceneo.pl
 otomoto.pl
 pepper.pl
 
----------------- Italy
-amazon.it     ***
-subito.it
-ebay.it
-trovaprezzi.it
-aliexpress.com
 
 
 
-
-
-
-
----------------- Portugal
-olx.pt
-worten.pt
-nit.pt
-aliexpress.com
-amazon.es
----------------- Spain
-amazon.es     ***
-aliexpress.com
-elcorteingles.es
-milanuncios.com
-wallapop.com
 
 
 
@@ -237,9 +251,9 @@ lazada.sg
 amazon.sg
 amazon.com
 ---------------- Indonesia
-shopee.co.id
-tokopedia.com
-lazada.co.id
+shopee.co.id    26
+tokopedia.com   32
+lazada.co.id    445
 orami.co.id
 blibli.com
 ---------------- Malaysia
@@ -314,9 +328,9 @@ bestprice.gr
 public.gr
 xe.gr
 ---------------- Turkey
-trendyol.com
+trendyol.com      28
 sahibinden.com
-hepsiburada.com
+hepsiburada.com   43
 amazon.com.tr
 akakce.com
 ---------------- Ukraine
@@ -376,16 +390,16 @@ luluhypermarket.com
 
 ---------------- Russia
 avito.ru
-ozon.ru
-wildberries.ru
-market.yandex.ru
-dns-shop.ru
+ozon.ru           11
+wildberries.ru    10
+market.yandex.ru  18
+dns-shop.ru       42
 
 
 
 ---------------- India
-amazon.in
-flipkart.com
+amazon.in       13
+flipkart.com    19
 indiamart.com
 amazon.com
 meesho.com
@@ -397,7 +411,7 @@ alibaba.com
 priceoye.pk
 
 ---------------- Taiwan
-shopee.tw
+shopee.tw         46
 momoshop.com.tw
 ruten.com.tw
 biggo.com.tw
@@ -409,13 +423,13 @@ kaidee.com
 central.co.th
 promotions.co.th
 ---------------- Vietnam
-shopee.vn
+shopee.vn     33
 lazada.vn
 bachhoaxanh.com
 tiki.vn
 chotot.com
 ---------------- Hong Kong
-taobao.com
+taobao.com      12
 carousell.com.hk
 hktvmall.com
 price.com.hk
