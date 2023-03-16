@@ -1,12 +1,53 @@
-Amazon
-  (US, JP, DE, UK,) IN, IT, FR, BR, CA, ES, AE, AU
+# Amazon Marketplaces
+  
+  Americas        Europe        Asia-Pasific        Middle-East       
+  ---------------------------------------------------------------
+  amazon.com      amazon.co.uk  amazon.co.jp        amazon.ae
+  amazon.ca       amazon.de     amazon.in           amazon.com.tr
+  amazon.com.mx   amazon.fr     amazon.com.au
+  amazon.com.br   amazon.it     amazon.sg
+                  amazon.es
+                  amazon.nl
 
-  Dropshipping Empire
-        US Company --> CA, MX, JP
-        UK Company --> FR, DE, IT, SE, ES
-        TR Company --> "AE", "QA", SA
-        AU --> SG, IN
 
+  # Dropshipping Empire and Delivery/Shipping Time
+  Company         Company       Company             Company
+  Fulfillment     Fulfillment   Fulfillment         Fulfillment
+  ---------------------------------------------------------------
+  2. Company      1. Company    2. Company **                    
+                  3. Company    4. Company **       4. Company
+
+
+
+  # BEST/WORST MARKETPLACE
+     similarweb.com, and use excel to order and to SORT Z-->A ..
+                1. DEMAND                                                                                           2. DATA - Best Three Software
+                --------------------------------------------------------------------------------------------        -----------------------------------
+Marketplace     Traffic (Million/month)   GDP PPP           Normalized (US=1)     Normalized Demand                 Helium10    JungleScout   Viral Launch
+                                          Per Capita  Rank  Spending Power        (Traffic * Spending Power)                                  ***
+------------------------------------------------------------------------------------------------------------------------------------------------------
+US              2362 * Best               $67,426     2     1.00                  2362      Best * Competitive      YES         YES           YES
+JP              577 * High Purchase Power $46,827     8     0.69                  401       Lang Barrier * No Comp. NO          NO            YES
+DE              472 * High Purchase Power $55,306     3     0.82                  387       VAT                     YES         YES           YES
+UK              425 * High Purchase Power $48,169     7     0.71                  304       Easy Money Maker        YES         YES           YES
+FR              167                       $48,640     6     0.72                  120       Language barrier        YES         YES           YES
+IT              180                       $41,582     10    0.62                  111       Language barrier        YES         YES           YES
+CA              135                       $52,144     5     0.77                  104       Less People ***         YES         YES           YES
+ES              153                       $43,007     9     0.64                  98        Language barrier        YES         YES           YES
+IN              233                       $9,027      12    0.13                  31        Bottom Tier * LComp.    NO          YES           YES
+AU              22.5                      $54,799     4     0.81                  18        BT * Less Competition   NO          NO            NO
+MX              42                        $21,363     11    0.32                  13        BT * Less Competition   NO          YES           YES
+SG              2.9 * Worst Pop but Gold  $105,689    1     1.57                  5         BT * Least Competition  NO          NO            NO
+
+
+      Exclude from Analysis: BR, AE, NL, TR
+
+      Eğer bir ülkenin normalized demand az ise büyük ihtimal diğer platformları çok fazla kullanıyor.
+      Ülkelere göre kullanılması gereken veriler ya da kullanabileceğin veri ve yazılımlar.
+        Eğer  veri kullanamıyorsan amazon varyasyonu sitelere girip best seller bakmak..
+        JP --> Rakuten
+        If you're a new seller, then you need data
+        If you're an existing seller, focus more on the marketplace where you're currently selling
 
 # PERIODS of SHOPPING
 ------------------------------------------------------------------------------------------------------------------------
