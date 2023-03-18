@@ -1,4 +1,6 @@
-Platformlar müşterilerele iletişime izin vermiyor. Kendini markalaştır. platformlardaki komisyonları öldür. sıcak satış önemli...
+Platformlar müşterilerele iletişime izin vermiyor. 
+Kendini markalaştır. platformlardaki komisyonları öldür. sıcak satış önemli...
+
 Private labels.. ORO..  Instagram, Facebook
 Niş alanlar.. Golf, Balıkçılık,  Western, Concept.. alanlara odaklanmak. Niş Alan ---> Niş Kategori
 Kendi sitenle rakibi azaltıyorsun
@@ -8,15 +10,11 @@ Kağıt fabrikasından kağıt satın almak ---> çizili düz kağıt, flüt dal
 
 birini konuştururken iki yol belirle: ölümü göster sıtmaya razı et - fantezi, batış
 
-packaging box parcel
+- packaging box parcel
 
 Shopify
 Ikas
 Woocommerce
-
-nasibin yoksa, dayak bile yiyemezsin..
-
-
 
 
 # Shopify 101
@@ -40,12 +38,8 @@ Beğeni Hack
 
 
 
-
-
-
------------
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Üretici -> Distribütor -> Toptancı -> Perakendeci
-vaka duası
 moranika ayakkabıları - kendi sitesi var, trafiğini kendi sağlıyor.. shopifydan biraz farklı
 
 kendi ürününe alıcı olarak bakabiliyor musun..
@@ -77,17 +71,10 @@ neden sepete atıp satışı olmuyoru sorgula... (reklam kanalını değişştir
 müşteri/çalışan/üretici  ne istedi onu verdik..
 tedarikçi ne ister --daha kısa vade daha nakit para
 
-----------
 
 
-
-
-
-
-
-
-------------------------------------------------------------------------------------------------
-Case Study: Shopify - Kuruyemiş Satışı
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Case Study: Shopify - Kuruyemiş Satışı
         https://refagida.com/
         2020 10k sermaye 2023- 40ksı
         5 kişiyle çark dönüyor...
@@ -152,10 +139,79 @@ Case Study: Shopify - Kuruyemiş Satışı
                Fedex, UPS, TNT, DHL kargo şirketlerine hizmet servis edip gönderim yapıyor...
             
             2 günde amerikaya kargo imkanı ...
-            
---------------------------------------------------------------------------------
 
 
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# META ADS
+
+# Create a Business Manager Account
+  kişisel hesabını kullanma, ek bir iş sayfası oluştur.
+
+https://business.facebook.com/
+
+# Create a Pixel
+  Veri kontrolü
+  Sitemize bu kodları yükleyerek 3.parti kodların çalışmasını sağlıyoruz.
+  Business settings
+    Data Sources
+      Pixels
+        Siteye Pixel yüklemek
+          set up the pixel
+            shopify, wordpress, wix gibi altyapılar kullanıyorsan otomatik pixel bağlayabilirsin
+            Partnership Integration...
+
+# Domain doğrulama
+  Domain doğrulamak, Meta istemiyor ama
+  Verilerin dönüşüm API'sından doğrudan we sitenizin sunucusuna geçmesine olanak tanır.
+  Bunu yapmak, iOS 14 sonrası yaşanan veri kaybının büyük oranda önüne geçecek ve perform artırır.
+  
+  Business settings
+    Brand Safety
+      Domains
+        Add www....com
+        
+        https://www.godaddy.com/tr-tr
+        
+
+# Facebook ve Instagram hesabı oluşturmak
+
+# Test içerikleri hazırlamak
+Bu noktadan sonra reklam hazırlığı yapıyorsun
+- Asla tek bir içeriğe güvenerek reklamlara başlamayın
+  ya da doğru ürün ve onun varyasyonları ile başla
+  açık artırma ve
+  buybox olayı var
+  
+  bu yüzden birden fazla test yapılmalı
+  
+  cpm oranı -- 1000 kişiye göstermek
+  
+  Test İçerikleri için öneriler
+  - İlk 3 Saniye oltası
+  - Görsel
+  - Yüz kullanımı
+  - değişkeni bil --> metinleri sabit tut görselleri değiştir, 
+                      ya da tama tersi ikisi aynı anda yapma
+                      hangisinden iyi sonuç aldığını analiz et
+                      
+  
+  
+# Reklam vermek
+  Reklam Yöneticisi
+  Yeni kampanya oluştur.
+  
+  Reklam setleri
+    kimlere gösterilecek.
+  
+# Veri okumak
+  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   
+  
+  
 
 
 
