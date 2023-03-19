@@ -1,8 +1,18 @@
+ev arama sürecinde bir kaç ay önceden başla, çünkü henüz kiracısı çıkmamış olabiliyor...
+
+ev kiralamada faturaların ödenmesi önlemini almak için envanterde sayaç fotoğrafını çektirmek. 
+daha sonra eski kiracının faturası gelmesin.
+
+Python kullanarak Makine Öğrenmesi ile Ev Fiyat Tahmin Projesi, Bunu uygun bi ev bulmak için kullanabilirsin
+Coğrafi konum önemli
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 ingilterede ilk evini satın alanların sayısı düşüyor..
 ilk ev satın alanlara devlet teşviği vardır.
     vergisini ödemez, mortgage biraz şöle böle olur ilk kez ev satın alacaksan
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 # Mortgage
 Duran varlıklara yatırım
@@ -11,10 +21,7 @@ UK'de kira avantajları yüksek
 satın aldığınız evi yine ipotek göstererek başka bir ev daha satın alabiliyorsunuz. bu şekilde asset büyütülebiliyor.
 5 ev alalım 10 ev alalım derdinde olmak..
 
-
-
-
-  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 # mortgage
 30 yıllık taksit ödenir mi...
@@ -41,12 +48,89 @@ uk  1400 pound kira ama mortgage 800-900 pound normal şartlarda (pandemi önces
                                     önümzdeki 6 ay içerisinde mortgage faizlerin ya da reel faiz düşme eğilimine girdi.
                                     böylece bir hareketlilik başladı. 2023                                    
 
-
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 https://www.halifax.co.uk/      research regarding mortgage
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+# House Credit
+    "
+    Faiz oranı düşük ise ev için ödediğin para kendini amorti eder.
+    evi mortgage ile al --> kiraya verirsin 1400£ ama benim mortgage 800-900£ normal şartlarda     
+    Evin değeri %10 şeklinde ortalama arttığı için 10 sene sonra evin değeri öyle bir şey oluyor ki senin toplam bütün mortgage ile eşitleniyor.
+    Zaten bi miktar ödemişsin mortgage bittiğinde karda gibisin. 10 sene sonra evi satsan da hiç bi zararın olmuyor hatta karın bile olabilir.
+    yıllarca hiç kira ödememiş gibi bi durumun oluyor...
+    "
+    
+    800-900£ kirada otur, 1000£ kiraya vermek --> böyle bir durumda iyi bir yerde ev mortgage olmalı 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# MORTGAGE APPLICATION
+---> ne kadar erken başvurursan o kadar iyi..
+---> ilk etapta küçük bir apartman için mortgage girilir.. yerine göre. sonrası yavaş yavaş büyütülür.. mortgage ve miktarı
+---> kira vermektense aptalca bi yerin satın alımına girmek daha iyi
+
+ingilterede ulaşım ve kira sıkıntı..
+konaklamayı kirayı bu mortgage sayesinde güvence altına alıyorsan gir bu işe
+tüketim değil, biriikim olur...
+
+İki işte çalışmak..
+Gündüz garsonluk akşam market işi
+
+mortgage için uğraşıyorsun
+yaşın genç ise kolay, 
+bungalow tarzı ev
+350bin£ anlaşılmış, şimdiki fiyatı 400bin£
+depozit 50k£
+aylık ödeme 950£  -- evi satın alacağın bölgedeki kira fiyatlarından daha düşük bir mortgage fiyatı ödeyebilirmelisin..
+                  -- yani aylık 950£ ödüyomuş ama kiraya tutsaydı 1500£-1600£ ödeyecekti
+                  -- kira eder gibi alıyorsun ev fiyatları durmadan artıyor..
+25 yıl boyunca 950£ ödeyecek
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+# House Marketing
+    # Orta gelirlilere yönelik konut finansmanında geri ödeme planları
+      Taksit planı nasıl olacak?
+                                                            (Taksit Tutarı * Kredi Vadesi)      (%54,63 Avantajlı)  (%44,43 Avantajlı)  (%33,31 Avantajlı)
+Kredi Tutarı    Faiz Oranı  Kredi Vadesi    Taksit Tutarı   Bankaya Toplam Geri Ödeme           1.Yıl Taksit        2.Yıl Taksit        3.Yıl Taksit        
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+500.000         % 0,69      180 months      4.859           874.620                             2.205               2.700               3.240
+1.000.000       % 0,69      180 months      9.718           1.749.240                           4.410               5.400               6.481
+1.500.000       % 0,69      180 months      14.578          2.624.040                           6.615               8.101               9.722                           
+2.000.000       % 0,69      180 months      19.437          3.498.660                           8.821               10.801              12.963
+2.500.000       % 0,69      180 months      24.297          ...                                 11.026              13.502              16.204
+3.000.000       % 0,69      180 months      29.156          ...                                 13.231              16.202              19.444
+3.500.000       % 0,69      180 months      34.016          ...                                 15.436              18.903              22.685
+4.000.000       % 0,69      180 months      38.875          ...                                 17.641              21.603              25.926
+4.500.000       % 0,69      180 months      43.734          ...                                 19.846              24.303              29.166
+5.000.000       % 0,69      180 months      48.594          8.746.920                           22.052              27.004              32.407
+
+    Finansman tutarları birinci bölge için en çok 5 milyon tl
+                        ikinci bölge için en çok 3 milyon tl
+                        üçüncü bölge için en çok 2 milyon tl
+
+    Diyelimki 
+    Ev 1.500.000, en fazla 900bin kredi kullandıran müteaahit bulunur .. 
+    Ama aradaki fark vatadaşda da yok ki evi nasıl alsın ..
+    Kredide de 900bini geçmek istersen her 100binde 25bine yakın vergi çıkar..
+    Müteaahit evin rayiç bedelini düşük gösterip yalnızca rayiç bedel kadar kredi çektirmek istermesi..
+    Milyonluk ev 300-500bin gösteriliyor..
+    1.5M varsa tapu masrafı için avantajlı ama..
+    
+    Hiç bir ev sahibi/müteahhit/Emlakçı evleri tapuda gerçek değerinde göstermiyor.
+    Ev sahibi3 milyon diyor, experevin değerini 1 milyon olarak belirliyor.
+    ve banka da 1 milyonun yüzde 90nın kredi olarak veriyor.
+    Aradaki 2 milyonu kim ödeyecek.. Zaten 2 milyonum olsa gider ev alırım. kampanya ile ne işim var..
+    
+    
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
 
