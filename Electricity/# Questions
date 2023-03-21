@@ -29,7 +29,7 @@
         Matematiksel olarak modellersek
         0, t<0      aldığı değer, diğer değerleri                               ---> ilk zaman akımı, akım 0 old için başlangıçta yük miktarımız yok...
         1, 0<t<1    aldığı değer sabit bir DC değer 1, t ise 0 ile 1 arasında   ---> ikinci zaman akımı
-        t, t>       t=2 iken 2Amp, t=3 iken 3Amp şeklinde ilerliyor. 
+        t, t>1      t=2 iken 2Amp, t=3 iken 3Amp şeklinde ilerliyor. 
                     y = x doğrusu grafiği aslında, 
                     x ekseninde t var
                     yani değer t olacak değişken tanımı yaptık diyebiliriz.
