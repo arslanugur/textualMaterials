@@ -1,0 +1,35 @@
+1. Devreye enerji sağlayan elemanlar
+  Enerji üretebilen eleman aktiftir.
+  Aktif Elemanlar: Gerilim kaynakları, bataryalr, piller, jeneratörler, transistörler
+    Bazı aktif elemanlar bazen diğer aktif elemanlar altında pasif olarak adlandırılabilir.
+    Tamamen devredeki durumlarına göre analiz ederek bulunabilir.
+  
+    i ->
+    -----=========------          w(t) = -∞∫t p(r)dr < 0        aktif
+    +        v         -
+  
+                                          yani en az bir t anında enerjinin negatif olması gerek.
+  
+  
+2. Devreden enerji harcayan elemanlar
+  Pasif Elemanlar: Direnç, Bobin, Kapasitör
+  Devre tarafından verilen toplam enerji her t anında negatiften farklı (0/+)
+  Pasif elemana akım +'dan gider
+    
+    i ->
+    -----=========------          w(t) = -∞∫t p(r)dr ≥ 0        pasif
+    +        v         -
+                                          yani her t anında 0 ya da 0dan büyük olması gerek
+                                          burada bir güç tüketimi söz konusu
+
+
+
+
+
+
+
+
+Symbols:
+  -∞∫¹
+  ≤ ≥
+  
