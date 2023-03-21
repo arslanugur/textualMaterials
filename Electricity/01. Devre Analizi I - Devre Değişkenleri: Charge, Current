@@ -1,0 +1,77 @@
+# Devre Analizi I - DC        Diğer Adları: Devre Teorisi, Temel Elektrik Devreleri, Elektrik Devre Temelleri, Elektronik Devreleri ve Sistemleri
+# Devre Analizi II - AC
+
+Devre: Birbirine bağlı elektriksel elamanlardan oluşan bir yapı.
+Elektrik devresi -  elemanların birbirleriyle kapalı bir yol (loop) oluşturması bu sayede akım (yük hareketleri) sürekli olur.
+Terminal Uçları / Düğüm / Node
+
+
+# 01. Elektrik Devresi Değişkenleri:
+    - Yük / Charge / Q      Elektriksel olaylara neden olan elektrik miktarı, Enerji (Elektrik miktarı)
+      Coulomb               Yükü, Elektronlar taşır. Elektron negatif bir yük taşıyıcıdır.
+                            Bir elektron üzerindeki yük miktarı --> Coulomb C. / Charge
+                            Yük değiştikçe, Akım da değişir. Akım, yüke bağlı bir ifade. bunlarda zaman içinde oluyor.
+                            Akımın büyüklüğü yük miktarının büyüklüğüne bağlıdır.
+                            Belirli bir alandan, birim zamanda geçen yükler akımı ortaya çıkarır
+                            Geçen süreyi saniye olarak aldığınızda, akım birimine Amper denir.
+                            
+                            Aslında İşin Özeti, 
+                                "Elektronlar, kendi içlerinde negatif yüklü elektrik miktarını, enerji olarak taşıyabiliyor, bu da akıma yol açıyor.
+                                    Biz de bu elektronları yönlendirerek elektronik çalışmaları yapıyoruz.."
+                            
+    - Akım / Ampere / i     Bir devrede yük akıyorsa akım oluşur.
+      Current               Metallerde hareket eden yükler elektronlardır. -- Valans/Serbest/Yönlendirilmesi Kolay Elektronları
+                            Akım i ile gösterilir, sembolü A'dır
+                            
+                                Formula:
+                                    amper = coulomb / saniye
+                                bir iletken üzerinden 1 saniyede 1C yük akışı olursa bu 1A'lik bir akımdır
+                            
+                            Akım parametreleri: İkisi akımı tanımlar.
+                                Akım değeri : + / - 
+                                Akım yönü: -> / <-
+                                    Akım girdiği yönüne göre devredeki denklemler oluşturulur. Akım yönüne odaklanılır
+                                    
+                                i1 (giren akım)     
+                                ->              
+                                node a  -----------------------
+                                  |                            |     
+                                   ------------------------ node b
+                                                              <-
+                                                              i2 (çıkan akım)
+                                
+                                i1 = -i2 aslında eşitler ama yönleri farklı old için eksi..
+                                
+                                
+                                
+                                Sabit akım (I) --> DC (Direct Current)  ---> Zamanda sabit kalıyor.
+                                
+                                
+                                i (Değişken akım)                               AC, Değişken olduğu için zamanla değişir ve bir çok farklı grafiği vardır
+                                ^                                                   Ayrı bir formülü var, Türevli ifadeye ihtiyaç duyulur. Devre Analizi II'nin Konusu.
+                                |                                                   Akım değişir (Türev Hesaplaması), Yükler birikir (İntegral Hesaplaması)
+                                |
+                             ---------------------> I (Sabit Akım)              DC, Akım seviyesi, zaman içinde hiç değişmiyor (yönünü ve büyüklüğünü(yük miktarı) koruyor)
+                                |                                                   Türevli ifadeye gerek kalmaz. Formülü var.
+                                |
+                                |
+                                 -------------------> t (Zaman)                 Sabit değerler büyük harf, Değişken değerler küçük harf ile gösterilir.
+                                
+                            
+                            # Questions
+                            ÖRNEK SORU 1: Yük ile ilgili
+                            ÖRNEK SORU 2: Yük ile ilgili
+
+
+
+  
+
+
+
+
+
+-∞∫¹²¹²³⁴⁵⁶⁷⁸⁹⁰
+
+
+
+
