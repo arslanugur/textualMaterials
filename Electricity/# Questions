@@ -1,0 +1,56 @@
+# ÖRNEK SORU 1: Yük ile İlgili
+Şekilde, bir elemanın terminal uçlarından giren akımın zamana göre değişim grafiği verilmiştir.
+                            Buna göre t=0'dan  t=3saniye aralığında eleman üzerinden geçen yük miktarını belirleyiniz...
+                            
+                            Şekilde, Parçalı Fonksiyon olarak bir akım grafiği verilmiş, yük soruluyor..
+      i (A)
+      ^
+    3 |                /
+      |              /
+      |            /
+    2 |          /
+      |        /
+    1  ------/
+      |
+------ ------|------|------|--> t(s)
+      0      1      2      3
+                                
+                                                        Yük ile Akım arasındaki ilişki, yük akımının integralidir...
+                                                        Yani biriken yükler soruluyor.. Yük, Akımın integrali olarak bulunuyor
+                                
+                                                        Formula: q(t) = -∞∫t i(t)dt
+                                                        
+                                                        ilk olarak grafiğe bakılarak i(t) akımı tanımlanır
+                                                        dikkat edersen 3 farklı zaman aralığında farklı değerler alan i akımı var
+                                                        
+                                                        Matematiksel olarak modellersek
+                                                        0, t<0      aldığı değer, diğer değerleri                               ---> ilk zaman akımı, akım 0 old için başlangıçta yük miktarımız yok...
+                                                        1, 0<t<1    aldığı değer sabit bir DC değer 1, t ise 0 ile 1 arasında   ---> ikinci zaman akımı
+                                                        t, t>       t=2 iken 2Amp, t=3 iken 3Amp şeklinde ilerliyor. 
+                                                                    y = x doğrusu grafiği aslında, 
+                                                                    x ekseninde t var
+                                                                    yani değer t olacak değişken tanımı yaptık diyebiliriz.
+                                                                    yani t'nin 1den sonrası tüm değerleri için.                 ---> üçüncü zaman akımı
+                                                        i(t) şimdi integral içine yazılabilir. Modellemesi yapıldı
+                                                        
+                                                        Formula:
+                                                        q(t) = q(0) + 0∫t i(t)dt
+                                                        
+                                                        Solutions:
+                                                        q(t) = 0∫1 i(t)dt + 1∫3 i(t)dt           
+                                                                --> ikinci akım hesabıyla başlanır. ilk akım 0 zaten.
+                                                                    sonra 1 ile 3 arasında bir akım değeri hesaplanır.
+                                                        q(t) = 0∫1 1dt + 1∫3 tdt
+                                                             = t 0∫1   + t²/2 1∫3
+                                                             = değerleri ve sınırları toplarız
+                                                             = 1 + 3²/2 - 1²/2
+                                                             = 1 + 4
+                                                             = 5 coulomb
+                                                             = yani
+                                                               3 saniye içinde eleman üzerinde 5 coulomb'luk bir yük geçişi oluyor
+                            
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# ÖRNEK SORU 1: Yük ile İlgili
+
+
+
