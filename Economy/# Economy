@@ -1,10 +1,3 @@
-        Debit           Credit
-        ------------------------------------
-Q       -709/6490       18.863 --> 4200 ---
-İ       0               0                  |  
-Y       -6250/250       18000     <-------- 
-
-
 Ekonomi: Arzın talep ile birleştiği yer
   finans - paramı nasıl yönetiyim? Ekonomiden farklı
 İnsan ihtiyaçları sınırsızdır, bu ihtiyaçları kıt kaynaklarla nasıl karşılayacağız?
@@ -13,7 +6,7 @@ Ekonomi: Arzın talep ile birleştiği yer
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 uzun vadeliyatırım yapıyorsan paranın bir kısmı borsada olmalı
-tek bir yerde paran olmamalı -- portföyünnü bir kısmı da hisse senedinde olmalı
+tek bir yerde paran olmamalı -- portföyünnü bir kısmı da hisse senedinde olmalı yüzde kaç old senin alacağın riske bağlı
 portföy - yatırımcının kazanç sağlamak amacıyla elinde bulundurduğu bütün piyasa araçları
 genelde kağıtlar bist30dan alınır..
 midas belli bir süre komisyon aalmıyor ama diğer platformlar komisyon alabilir..
@@ -48,7 +41,7 @@ kotasyon - borsada listeleme olarak tanımlanan terim
          Kamuyu aydınlatma platformu
          KAP: Borsa işlemlerinde kamuya açıklaması gerekli bildirimlerin elektronik imzalı olarak iletildiği ve kamuya duyurulduğu elektronik sistem
          
-         Methods...
+         Analiz Yöntemleri --> Methods...
          Yatay Analiz Metodu:
              Son iki yılın gelir tablosunu kıyaslarsın... ya da son 10 yılın...
              Satış, Maliyet, Kar yüzdelik artışı varsa şirket geçmiş seneye/döneme göre işleri büyütmüş
@@ -68,10 +61,39 @@ kotasyon - borsada listeleme olarak tanımlanan terim
             borçlar/bilanço toplamı gibii...
             bir rakamın başka bir rakamla ilişkisi
             toplam içinde bir rakamın önemi nedir...
-            mesela piyasaya 100 birim borvum var dediğinde soru.. ne kadarı gerçekten piyasaya ne kadarı bankaya..
+            mesela piyasaya 100 birim borcum var dediğinde soru.. ne kadarı gerçekten piyasaya ne kadarı bankaya..
             tedarikçilere borcun varsa kolay, banka sıkıntı... faiz çakar..
+            borçlar kısa vadeli mi uzun vadeli mi.. tolpam borçtan bunun çıkartırsın...
+            satışları iyi gidiyor maliyetleri düşüyo ya da borçluluğu azalıyor bulursun bu analizden..
             
-         
+            sana data satan firmalar vardır.. amerikada özellikle. hangi şirketleri alacağının söyler.. raporlar inceler al sat yaparsın
+            Hedge fon bu işten çıkıyor gibi
+                serbest yatırım fonu
+                belirli kısıtlamaları en aza indirgenmiş, mümkün olduğunca esnek yatırım stratejisi izlenebilen yatırım fonu türü
+                
+                Yapay xeka bunu yapıyor
+                Knowledge Engineering - Bilgi Mühendisliği
+                        Bilginin dijitalleştirilmesi...
+                        kırmızı yeşil çizgiye geçince satıyor makine...
+                        
+         Valuation:
+            Değerleme: Bir varlığın bugünkü değerini belirleme süreci
+                Şirket değeri bulmak için
+            
+            1. daha önce halka arz olmuş aynı sektördeki benzer şirketlere bakarak yeni girecek olan şirkete fiyat biçmek..
+            
+                IPO (Initial Public Offering)
+                        Halka arz.
+                        Hisse Senetlerinin çok sayıda önceden bilinmeyen yatırımcılara çağrı ve ilan yoluyla satışı
+            
+            2. Gelecekteki nakit akışlarını bugüne indirgemek
+                her sene ne kadar büyürsün
+                yedi yıl sonraki nakti bugüne hangi oran ile indireceğiz.. enflasyon oranı değişken...
+                
+                
+                hesaplanan fiyat doğru değil belki.. ya da ülkenin durumu normal değil..
+                27:00
+                
          
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
