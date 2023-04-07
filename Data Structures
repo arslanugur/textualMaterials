@@ -1,0 +1,179 @@
+Data Structures   Items     Operations  Big O-Notation
+------------------------------------------------------
+
+
+
+Array: a collection of elements of the same data type, arranged in a contiguous block of memory.
+Linked List: a data structure consisting of a series of nodes, each containing a data element and a pointer to the next node in the sequence.
+Stack: a data structure that follows the Last-In-First-Out (LIFO) principle, where the last element added is the first one to be removed.
+Queue: a data structure that follows the First-In-First-Out (FIFO) principle, where the first element added is the first one to be removed.
+Tree: a hierarchical data structure consisting of nodes connected by edges, with each node having zero or more child nodes.
+Graph: a non-hierarchical data structure consisting of vertices or nodes connected by edges or arcs.
+Hash Table: a data structure that uses a hash function to map keys to values, enabling efficient insertion, deletion, and retrieval of data.
+Heap: a special type of tree-based data structure where the parent node is always greater or smaller than its child nodes.
+Trie: a tree-like data structure used to store a collection of strings, with each node representing a character in the string.
+Bloom Filter: a probabilistic data structure used to test if an element is a member of a set.
+
+Array Operations
+Accessing: Accessing an element of an array is done by using the index value of the element. This is the most basic operation performed on an array.
+Insertion: Adding a new element into an array can be done in several ways, such as inserting it at the beginning, end or at a specific index position.
+Deletion: Removing an element from an array involves shifting the remaining elements to fill the gap left by the deleted element.
+Traversal: Traversing an array means accessing each element of the array one by one in a sequence.
+Sorting: Sorting an array involves rearranging its elements in a specific order, such as ascending or descending.
+Searching: Searching an array involves finding the index of a specific element, or determining whether an element exists within the array.
+Merging: Merging two or more arrays is the process of combining them into a single array.
+Resizing: Resizing an array involves changing the number of elements it can store, either by increasing or decreasing its size.
+
+Matrix Operations: a matrix is a two-dimensional array of numbers or other data types
+Creation: Creating a new matrix involves allocating memory for the matrix and initializing its values. Matrices can be created in many programming languages using built-in functions or by manually allocating memory and setting the values.
+Access: Accessing a specific element in a matrix involves specifying the row and column of the element. Elements in a matrix can be accessed using built-in functions or by directly indexing the matrix with the row and column numbers.
+Transpose: Transposing a matrix involves flipping its rows and columns. This operation can be useful in matrix algebra and other applications.
+Addition: Adding two matrices together involves adding their corresponding elements. This operation can be used in matrix algebra and other applications.
+Multiplication: Multiplying two matrices together involves multiplying their corresponding elements and summing the results. This operation can be used in matrix algebra and other applications.
+Subtraction: Subtracting one matrix from another involves subtracting their corresponding elements. This operation can be used in matrix algebra and other applications.
+Determinant: Finding the determinant of a matrix involves performing a specific calculation on its elements. This operation can be used in matrix algebra and other applications.
+Inverse: Finding the inverse of a matrix involves performing a specific calculation on its elements. This operation can be used in matrix algebra and other applications.
+
+Linked List Operations
+Insertion: Adding a new element to a linked list can be done in several ways, such as inserting it at the beginning, end or at a specific index position.
+Deletion: Removing an element from a linked list involves updating the pointers of the adjacent nodes to bypass the deleted node.
+Traversal: Traversing a linked list means accessing each node of the list one by one in a sequence.
+Searching: Searching a linked list involves finding a specific node, or determining whether a node exists within the list.
+Sorting: Sorting a linked list involves rearranging its elements in a specific order, such as ascending or descending.
+Merging: Merging two or more linked lists is the process of combining them into a single linked list.
+Reversing: Reversing a linked list involves changing the direction of the pointers, so that the last element becomes the first and vice versa.
+Splitting: Splitting a linked list involves dividing it into two or more smaller linked lists.
+Counting: Counting the number of nodes in a linked list involves traversing the list and incrementing a counter for each node encountered.
+
+Stack Operations
+Push: Adding a new element to the top of a stack is called a push operation. This operation increases the size of the stack.
+Pop: Removing the top element from a stack is called a pop operation. This operation decreases the size of the stack.
+Peek: Peek operation returns the value of the top element of the stack without modifying the stack.
+IsEmpty: Checking if a stack is empty or not.
+IsFull: Checking if a stack is full or not. This operation is applicable only in the case of fixed size stacks.
+Size: Returns the number of elements currently present in the stack.
+
+Queue Operations
+Enqueue: Adding a new element to the back of a queue is called an enqueue operation. This operation increases the size of the queue.
+Dequeue: Removing the front element from a queue is called a dequeue operation. This operation decreases the size of the queue.
+Peek: Peek operation returns the value of the front element of the queue without modifying the queue.
+IsEmpty: Checking if a queue is empty or not.
+IsFull: Checking if a queue is full or not. This operation is applicable only in the case of fixed size queues.
+Size: Returns the number of elements currently present in the queue.
+
+Tree Operations
+Insertion: Adding a new node to a tree is called an insertion operation. This operation creates a new node and adds it to the tree in the appropriate position based on the node's value.
+Deletion: Removing a node from a tree is called a deletion operation. This operation removes the node from the tree and adjusts the tree's structure to maintain the binary search tree property.
+Traversal: Traversing a tree means accessing each node of the tree one by one in a specific order. The most common traversal algorithms are in-order, pre-order, and post-order traversal.
+Searching: Searching a tree involves finding a specific node in the tree, or determining whether a node exists within the tree.
+Height: The height of a tree is the number of edges on the longest path from the root to a leaf node.
+Depth: The depth of a node in a tree is the number of edges on the path from the root to that node.
+Parent: The parent of a node is the node that is one level above it in the tree.
+Children: The children of a node are the nodes that are one level below it in the tree.
+Level: The level of a node in a tree is the number of edges on the path from the root to that node.
+Counting Nodes: Counting the number of nodes in a tree involves traversing the tree and incrementing a counter for each node encountered.
+
+Graph Operations
+Add Vertex: Adding a new vertex (node) to a graph.
+Remove Vertex: Removing a vertex from a graph, including all edges that are connected to it.
+Add Edge: Adding a new edge between two vertices in a graph. An edge represents a connection or relationship between two nodes.
+Remove Edge: Removing an existing edge from a graph.
+Get Vertex: Retrieving a vertex from a graph based on its unique identifier.
+Get Edge: Retrieving an edge from a graph based on the vertices it connects.
+Depth First Search (DFS): Traversing a graph using the DFS algorithm, which visits all vertices in a connected component before backtracking to visit others.
+Breadth First Search (BFS): Traversing a graph using the BFS algorithm, which visits all vertices at a given depth before moving on to the next depth level.
+Shortest Path: Finding the shortest path between two vertices in a graph, typically using algorithms like Dijkstra's algorithm or the A* algorithm.
+Connected Components: Identifying the connected components of a graph, which are the subgraphs in which all vertices are reachable from each other.
+
+
+Hash table Operations
+Insertion: Adding a new key-value pair to a hash table is called an insertion operation. This operation involves computing the hash of the key to determine the index where the value will be stored in the hash table.
+Deletion: Removing a key-value pair from a hash table is called a deletion operation. This operation involves computing the hash of the key to determine the index where the value is stored in the hash table, and then removing the key-value pair from that index.
+Lookup: Finding the value associated with a specific key in a hash table is called a lookup operation. This operation involves computing the hash of the key to determine the index where the value is stored in the hash table, and then returning the value stored at that index.
+Collision Handling: Hash tables can have collisions, which occur when two or more keys hash to the same index. Collision handling involves resolving collisions by using techniques like open addressing or chaining.
+Resizing: Hash tables can be resized to accommodate a larger number of key-value pairs. Resizing involves creating a new, larger hash table and rehashing all the key-value pairs from the old table into the new table.
+Iteration: Iterating over all the key-value pairs in a hash table, typically in a specific order.
+Load Factor: The load factor of a hash table is the ratio of the number of key-value pairs to the size of the hash table. Load factor is important because it can affect the performance of hash table operations.
+
+the main differences between HashMap (in Java) and HashTable are synchronization, null values, iteration, and performance.
+
+Heap Operations
+Insertion: Adding a new element to a heap is called an insertion operation. This operation involves adding the element to the bottom of the heap and then reordering the elements to maintain the heap property.
+Deletion: Removing the root element of a heap is called a deletion operation. This operation involves removing the root element and then reordering the remaining elements to maintain the heap property.
+Peek: Retrieving the root element of a heap without removing it is called a peek operation. This operation returns the root element without modifying the heap.
+Heapify: Converting an array of elements into a heap is called a heapify operation. This operation involves reordering the elements to satisfy the heap property.
+Merge: Combining two heaps into one is called a merge operation. This operation involves merging the two heaps into a single heap that satisfies the heap property.
+Decrease Key: Decreasing the value of a key in the heap is called a decrease key operation. This operation involves updating the value of the key and then reordering the elements to maintain the heap property.
+Build Heap: Building a heap from a given set of elements is called a build heap operation. This operation involves creating a heap from the set of elements that satisfies the heap property.
+Heap Sort: Sorting a given array using the heap data structure is called a heap sort operation. This operation involves converting the array into a heap and then repeatedly extracting the root element until the heap is empty.
+
+
+Trie (Prefix Tree) Operations
+Insertion: Adding a new string to a trie is called an insertion operation. This operation involves traversing the trie from the root node to the appropriate leaf node, creating new nodes as necessary, and marking the end of the string at the appropriate leaf node.
+Deletion: Removing a string from a trie is called a deletion operation. This operation involves traversing the trie to find the leaf node corresponding to the string, removing that leaf node and any unnecessary parent nodes, and adjusting the remaining nodes as necessary.
+Search: Searching for a string in a trie is called a search operation. This operation involves traversing the trie from the root node to the appropriate leaf node, checking that the end of the string is marked at the leaf node.
+Prefix Search: Searching for all strings in a trie that start with a given prefix is called a prefix search operation. This operation involves traversing the trie to the node corresponding to the prefix and then recursively traversing the subtree rooted at that node to find all leaf nodes.
+Counting Words: Counting the number of words (i.e., complete strings) in a trie is called a counting words operation. This operation involves traversing the trie and counting the number of leaf nodes.
+Longest Prefix Match: Finding the longest prefix of a string that is present in a trie is called a longest prefix match operation. This operation involves traversing the trie from the root node to the appropriate leaf node, keeping track of the longest prefix found so far.
+
+Bloom Filter Operations
+Initialization: Creating a new Bloom filter involves specifying the size of the filter and the number of hash functions to use. The filter is typically initialized with all bits set to 0.
+Insertion: Adding an element to the Bloom filter involves hashing the element using the specified hash functions and setting the corresponding bits in the filter to 1.
+Lookup: Testing whether an element is a member of the Bloom filter involves hashing the element using the same hash functions used during insertion and checking whether all corresponding bits in the filter are set to 1. If any of the bits are 0, the element is definitely not in the filter. If all of the bits are 1, the element may or may not be in the filter (depending on the false positive rate).
+False Positive Rate Estimation: Given the size of the filter, the number of hash functions used, and the number of elements inserted, it is possible to estimate the false positive rate of the filter (i.e., the probability that a non-member element is mistakenly identified as a member).
+Union: Combining two Bloom filters that have been initialized with the same size and number of hash functions involves taking the bitwise OR of their corresponding bits.
+Intersection: Finding the intersection of two Bloom filters that have been initialized with the same size and number of hash functions involves taking the bitwise AND of their corresponding bits.
+Deletion: Removing an element from a Bloom filter is not possible without introducing false negatives. However, some variants of Bloom filters, such as counting Bloom filters or scalable Bloom filters, support deletion operations.
+
+
+
+
+
+
+
+More Data Structures (After Basic DS)
+Priority Queue: A priority queue is an abstract data type that allows for efficient access to the item with the highest (or lowest) priority. Common implementations include binary heaps, Fibonacci heaps, and pairing heaps.
+Skip List: A skip list is a probabilistic data structure that allows for efficient searching, insertion, and deletion of elements in a sorted sequence. It is similar to a balanced binary search tree, but with simpler implementation and faster average-case performance.
+B-tree: A B-tree is a balanced tree data structure that is commonly used for efficient storage and retrieval of large amounts of data on disk or in memory. It is optimized for block-oriented storage systems and can minimize the number of disk accesses required to access a particular key.
+Red-Black Tree: A red-black tree is a self-balancing binary search tree that ensures that the height of the tree is always logarithmic with respect to the number of nodes. It is commonly used as a base for implementing associative arrays, sets, and maps.
+Bloomier Filter: A Bloomier filter is an extension of a Bloom filter that allows for efficient storage and retrieval of arbitrary key-value pairs. It is based on a combination of hash functions and linear algebra techniques and can achieve near-optimal space efficiency for a given false positive rate.
+Suffix Tree: A suffix tree is a tree-like data structure that is commonly used for efficient searching and indexing of substrings in a larger string. It can be constructed in linear time with respect to the length of the string and can support a wide range of substring-related queries.
+Segment Tree: A segment tree is a data structure commonly used for querying and updating intervals in an array. It divides the array into smaller segments and stores information about each segment to enable efficient queries and updates.
+Fenwick Tree: A Fenwick tree (also known as a binary indexed tree) is a data structure used for efficient querying and updating of prefix sums in an array. It can be constructed in O(n log n) time and can perform prefix sum queries and updates in O(log n) time.
+Binary Indexed Tree: A binary indexed tree (also known as a Fenwick tree) is a data structure used for efficient querying and updating of prefix sums of an array. It can also be used to efficiently compute the range sum of any contiguous subarray.
+Trie: A trie (pronounced "try") is a tree-like data structure used for efficient searching and storage of strings. It allows for fast lookups and insertions of strings and is commonly used in text processing applications such as autocorrect and search engines.
+KD-Tree: A KD-tree (short for k-dimensional tree) is a data structure used for efficient range searching and nearest neighbor searches in multi-dimensional spaces. It partitions the space into smaller hyperrectangles and stores points in the appropriate rectangles to enable fast queries.
+Hashed Array Tree: A hashed array tree is a data structure used for storing and querying multidimensional arrays. It is based on the idea of combining hash tables and binary trees to enable efficient lookups and updates of array elements.
+Quadtree: A quadtree is a tree-like data structure used for partitioning and organizing two-dimensional space. It recursively subdivides a region into four smaller quadrants and stores information about each quadrant to enable fast queries.
+AVL Tree: An AVL tree is a self-balancing binary search tree that maintains a balanced tree height. This ensures that the worst-case time complexity of search, insertion, and deletion operations is O(log n).
+B-Heap: A B-Heap is a variant of the B-tree data structure that is optimized for in-memory operations. It has a similar structure to the B-tree but is designed to be more efficient for small block sizes.
+Cartesian Tree: A Cartesian tree is a binary tree data structure derived from a sequence of elements. It has the property that the inorder traversal of the tree recovers the original sequence, and it can be used to efficiently solve a variety of range query problems.
+Disjoint Set: A disjoint set (also known as a union-find) is a data structure that maintains a collection of disjoint sets and supports operations for merging sets and finding the set to which an element belongs. It is commonly used in algorithms for clustering, graph connectivity, and more.
+Fibonacci Heap: A Fibonacci heap is a priority queue data structure that is optimized for inserting new elements quickly. It has a better asymptotic time complexity for some operations compared to binary heaps.
+Interval Tree: An interval tree is a binary search tree data structure that is used for efficient querying of intervals. It stores intervals as nodes and maintains information about the overlap of intervals in each subtree.
+Rope: A rope (short for "concatenation rope") is a data structure used for efficient manipulation of large text strings. It represents a string as a balanced binary tree, where each leaf node contains a small substring, and each internal node contains the concatenation of its child nodes.
+Splay Tree: A splay tree is a self-adjusting binary search tree that reorganizes itself to ensure that frequently accessed elements are closer to the root node. This makes it particularly useful in applications that require frequent access to a small subset of elements.
+Ternary Search Tree: A ternary search tree is a tree-like data structure used for efficient searching and storage of strings. It is similar to a trie but uses a binary search tree structure to store the strings, making it more memory-efficient than a traditional trie.
+Van Emde Boas Tree: A Van Emde Boas (VEB) tree is a data structure used for efficient searching, insertion, and deletion of elements in a range. It can be thought of as a generalization of binary search trees and can be used to solve a variety of range-related problems.
+Wavelet Tree: A wavelet tree is a data structure used for efficient querying of substrings in a sequence. It represents a sequence as a binary tree, where each node contains the set of elements that belong to a particular subinterval of the original sequence.
+
+Radix Tree: A radix tree is a tree data structure used for storing and searching for keys in a dataset. It is particularly useful for searching for keys that have a common prefix, such as IP addresses.
+Radix Tree: A radix tree (also known as a trie or prefix tree) is a tree data structure used for efficient storage and retrieval of strings. It allows efficient prefix and substring searches and supports ordered traversal of the keys.
+Hashed Heap: A hashed heap is a priority queue data structure that is based on hashing. It is similar to a binary heap but uses a hash table to store elements, allowing for faster insertion and deletion of elements.
+Octree: An octree is a tree data structure used for representing three-dimensional space. It is similar to a quadtree but uses eight child nodes to represent eight smaller sub-cubes instead of four sub-quadrants.
+Rope Tuple: A rope tuple is an extension of the rope data structure that allows efficient access and modification of substrings. It allows multiple substrings to be modified in constant time and supports efficient concatenation and splitting of substrings.
+B+ Tree: A B+ tree is a tree data structure used for efficient storage and retrieval of large amounts of data. It is commonly used in databases and file systems to store large amounts of data on disk.
+Treap: A treap is a tree data structure that combines the properties of a binary search tree and a heap. It assigns a random priority value to each node and maintains the heap property with respect to the priorities.
+Fusion Tree: A fusion tree is a tree data structure used for storing a set of integers. It allows efficient operations such as predecessor and successor queries and supports efficient range queries.
+Finger Tree: A finger tree is a data structure used for efficient storage and manipulation of sequences of elements. It supports a wide range of operations, including concatenation, splitting, and indexing, and can be used to implement other data structures such as priority queues and sets.
+Count-Min Sketch: A count-min sketch is a probabilistic data structure used for approximate counting of elements in a stream. It uses a series of hash functions to map elements to a fixed number of buckets and maintains a count of each element by incrementing the corresponding bucket.
+XOR Linked List: An XOR linked list is a linked list data structure that uses bitwise XOR operations to link nodes together. It allows efficient traversal in both directions and requires less memory than a traditional linked list.
+Persistent Data Structure: A persistent data structure is a data structure that allows efficient storage and retrieval of multiple versions of a dataset. It allows efficient operations on any version of the data without modifying the original data and is particularly useful in applications that involve historical data or version control.
+Pairing Heap: A pairing heap is a heap data structure that allows efficient insertion, deletion, and merging of heaps. It is particularly useful in applications that require dynamic updates of heap data structures.
+Trie Map: A trie map is a data structure used for efficient storage and retrieval of key-value pairs with string keys. It allows efficient prefix and substring searches and supports ordered traversal of the keys.
+Binary Decision Diagram: A binary decision diagram (BDD) is a directed acyclic graph used for efficient storage and manipulation of boolean functions. It allows efficient evaluation of boolean expressions and is particularly useful in applications that involve circuit design or verification.
+Binomial Heap: A binomial heap is a heap data structure used for efficient merging and retrieval of heaps. It allows efficient insertions, deletions, and updates of heap data structures and is particularly useful in applications that require dynamic updates.
+Hash Trie: A hash trie is a data structure used for efficient storage and retrieval of key-value pairs with string keys. It allows efficient prefix and substring searches and supports ordered traversal of the keys.
+...
+
+
