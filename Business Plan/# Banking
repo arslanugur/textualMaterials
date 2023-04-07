@@ -1,0 +1,65 @@
+Money = Debt
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Account Risk Progress ...
+
+    Risk + +                            + + +                   + + + +         + + + + +
+    ---------------------------------------------------------------------------------------
+    Draw/Checking/Transactional Acc.  < Flexible Acc. Limit   < Credit Card   < Bank Credit
+    Vadesiz Hesap                       Esnek Hesap limiti
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Transaction Control Example
+
+                Balance/Debit   Credit Card             Bank Credit              
+                ----------------------------------------------------------
+YapıKredi       -6250/250       18000     <---------
+İş Bankası      0               Apply Credit       |
+QnB             -709/6490       18.863 --> 4200 ----
+                ----------------------
+                7000            18000
+                ---------------------
+                25k
+
+HSBC            0               0
+ING Bank        0               0
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Vadeli hesap / Deposit Acc. / Forward Acc.
+
+  Ana Para    Birim     Vade Süresi (Gün)       Toplam Faiz Oranı     Vade Sonu Net Tutar
+  ---------------------------------------------------------------------------------------
+  10000       TRY       30/60/90/120.."360"     %16                   10.898,88TL
+                                                %18                   11.011,24TL
+                                                %25                   11.404,50TL
+              ---------------------------------------------------------------------------                                  
+  10000       $         30/60/90/120.."360"     %16                   x
+                                                %18                   x
+                                                %25                   x
+              ---------------------------------------------------------------------------
+  10000       £         30/60/90/120.."360"     %16                   x
+                                                %18                   x
+                                                %25                   x
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Kredi Kartı Borcu
+Kredi kartı borcunuzu hiç ödememeniz hâlinde borcunuza "gecikme faizi" uygulanır. 
+Sadece asgarisini ödemeniz halinde ise "akdi faiz" uygulanır. 
+Kredi kartı borcundaki akdi faiz, gecikme faizinden daha düşük bir orana sahiptir.
+
+Yasal takibe düşen borç ödenmezse borçlu tarafa "ihtarname" çekilir. 
+İhtarname borçlu tarafın eline ulaştıktan sonra borcun 30 gün içerisinde ödenmesi gerekir. 
+Bu sürenin sonunda da borç ödenmezse "icra takibi" başlatılarak borçların icra yoluyla tahsili sağlanır.
+
+Kredi kartı borcunun zaman aşımına uğraması için belirlenen süre 10 yıldır.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
