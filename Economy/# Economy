@@ -1,12 +1,78 @@
- Ekonomi: Arzın talep ile birleştiği yer
+        Debit           Credit
+        ------------------------------------
+Q       -709/6490       18.863 --> 4200 ---
+İ       0               0                  |  
+Y       -6250/250       18000     <-------- 
+
+
+Ekonomi: Arzın talep ile birleştiği yer
   finans - paramı nasıl yönetiyim? Ekonomiden farklı
 İnsan ihtiyaçları sınırsızdır, bu ihtiyaçları kıt kaynaklarla nasıl karşılayacağız?
   ihtiyaçları gidermek için ya daha fazla üret ya da insanlara ihtiyacı olmadığını öğret
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-22 flutv hisseyi hisset
+uzun vadeliyatırım yapıyorsan paranın bir kısmı borsada olmalı
+tek bir yerde paran olmamalı -- portföyünnü bir kısmı da hisse senedinde olmalı
+portföy - yatırımcının kazanç sağlamak amacıyla elinde bulundurduğu bütün piyasa araçları
+genelde kağıtlar bist30dan alınır..
+midas belli bir süre komisyon aalmıyor ama diğer platformlar komisyon alabilir..
 
+kotasyon - borsada listeleme olarak tanımlanan terim
+  döviz alış satış fiyat farkı vardır.. alış 18 satış 30 millet amma büyük marjı var der..
+    marj - ticari bir işlemde alım satım arsındaki makas
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- Teknik Analiz..
+- Temel Analiz..
+  Temel Analiz Aşamaları
+  Aşama 1: Genel makro ekonomi analizi
+         Ülke ekonomisi nasıl? O ülkeden bir şirkete para yatırılır mı?
+         O ülkede trend nereye gidiyor?
+         Sektörel olarak şirket ülke de iyi mi?
+  Aşama 2: Sektör Analizi
+         Hangi sektörler iyi? Gıda, Medya..
+         Gıda diyelim?
+         Hangi şirket bu sektörde daha iyi..
+         
+  Aşama 3: Şirket Analizi
+         Mali tabloları nedir?
+         ...
+         Bilanço
+         Nakit akışı
+         Aslında USde ve EUda çoğu şirketin mali tablolarına erişebiliyorsun..
+         Web sayfasında mali tablosu olan şirketler neler ne kadar kazanıyorlar...
+         
+         Halka Açık firmalar 3 ayda bir mali tablosunu açıklamak durumunda
+         https://www.kap.org.tr/
+         Kamuyu aydınlatma platformu
+         KAP: Borsa işlemlerinde kamuya açıklaması gerekli bildirimlerin elektronik imzalı olarak iletildiği ve kamuya duyurulduğu elektronik sistem
+         
+         Methods...
+         Yatay Analiz Metodu:
+             Son iki yılın gelir tablosunu kıyaslarsın... ya da son 10 yılın...
+             Satış, Maliyet, Kar yüzdelik artışı varsa şirket geçmiş seneye/döneme göre işleri büyütmüş
+             Ama enflasyon ne kadar acaba..
+             Yani bu adam ne satıyor Kupa diyelim.. kupa fiyatları da aynı oranda artıysa bu şirket aynı oranda kupa satıyor olabilir..
+             Bunu enflasyondan arındrımalıyız yani...
+         
+         Dikey Analiz Metodu:
+             100 birimlik mal satıyoruz ve kaç birim kar kalıyor.. kaç birim maliyeti var
+             
+         Trend Analizi Metodu:
+            Şirketin son 5 yıllık satışlarına bakarsın..
+            geliri yüksek trende mi?
+            
+         Ratio (Oran) Analizi Metodu:
+            Kar/toplam satışlar..
+            borçlar/bilanço toplamı gibii...
+            bir rakamın başka bir rakamla ilişkisi
+            toplam içinde bir rakamın önemi nedir...
+            mesela piyasaya 100 birim borvum var dediğinde soru.. ne kadarı gerçekten piyasaya ne kadarı bankaya..
+            tedarikçilere borcun varsa kolay, banka sıkıntı... faiz çakar..
+            
+         
+         
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Kapitalizm olayı/problemi: Kar maksimizasyonuna dayalı olması
