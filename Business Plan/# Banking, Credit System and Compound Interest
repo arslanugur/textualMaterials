@@ -1,3 +1,4 @@
+
 Money = Debt
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -155,13 +156,15 @@ Yani Kendine şunu söylemen gerekiyor zengin hissetmek için..
     uzun vadeli kredide uygulanan oran bu.. halen daha ucuz aslında
     FED faiz arttırmıyor çünkü..
     
-    Özetle
+    Özetle * * *
     1. Credibility (Credit Score)
     2. Borcun maliyetinin üzerine çıkabilecek bir gelir/iş planı (Take calculated risks)
     3. Bunun için nakış akışı oluşturmak (50/30/20 Rule)
     4. Faiz (Compound Interest)
     
-# Uç bir örnek olarak:    
+# Case Study:
+    Twitter
+    Uç bir örnek olarak:    
     Elon Musk, Tesla ve SpaceX şirketlerinin hisselerinin teminatı ile, karşılığında bankalardan kredi çekip borç alarak
     Teminat olarak gösterdiği paketin değeri de artıyor aslında...
     borcu ise belli sabit bir değerde zaten..
@@ -170,6 +173,10 @@ Yani Kendine şunu söylemen gerekiyor zengin hissetmek için..
     SpaceX şirketiyle maliyetleri aza çekti/indirdi, NASAya kıyasla
     44B$ Twitter satın almasının yarısını krediyle yaptı. Tesla hisselerini rehin veriyor. 
     bu yüzden tesla hisse oranlarını mütemeadiyen aşağıya çekiyordu.. sonrasında artırırım diye. çünkü bankadan para almak için
+    
+# Case Study:
+    Netflix
+    01:21
     
     
 # Ülke borçları
@@ -180,15 +187,15 @@ Yani Kendine şunu söylemen gerekiyor zengin hissetmek için..
 
     Yunanistan Batışı: Avrupa bankalarının alacakları
     Yunanistan IMF benzeri bir politika ile yüzdürülüp kurtarıldı.
+    Ama Arjantin kimse kurtarmaya gelmedi..
 
-47:54
 
 # Şirketin borcu ve Şirketin sahibinin borcu
     Tüzel kişilik ve Şahış
     Şirketler borçlu ama sahipleri zengin
     
     TRdeki bankalar der ki biz senin şirketine kredi veriyoruz ama sen de buna şahsi bir imzanı at... 
-    Büyük şirketlerin patronları bu şekilde imza atmaz.. yalnız Esnaf ya da KOBİ'nin "şahsi kefaleti" istenir.
+    Büyük şirketlerin patronları bu şekilde imza atmaz.. yalnız Esnaf ya da KOBİ (50-100kişilik)'nin "şahsi kefaleti" istenir.
     Banka, işletmeden parayı alamazsa sahibinden alırım mantığıyla iş yapar..
     Büyük şirketlerde bilanço kuvvetli zaten öder mantığıyla iş yapılır
     ama yurtdışında şahsi kefalet diye bir kavram yok, banka, işe kredi verir.. banka risk alır, inceler mali durumunu..
@@ -203,15 +210,77 @@ Yani Kendine şunu söylemen gerekiyor zengin hissetmek için..
                                     Varlıkların geliri, yükümlülüklerinin gelirinden fazla olduğu sürece ddevam eder, batmazsın
                                     Şahıs farklı, Şirket Farklı (Tüzel kişilik)
                                     bir şirketi batırmak bankanın işine gelmez, yüzdürme meselesi - yeniden yapılandırma
-                                    ek sermaye verelim, değeri ve varlıkları artsın ki banka borcunu ödesin
+                                    ek sermaye verelim, değeri ve varlıkları artsın ki banka borcunu ödesin ---> too big to fail
                                     çünkü şirket batarsa şirketin varlığı da batar..
                                     banka, şahsi kefalet olmadığı için de şahıştan alamaz parayı
                                     ama iki tarafta ekside olmaz. yni şirket ve şahıs...
+                                    esnaf ve kobiler batar.. kurtarmazlar..
                                     
                                 Batış nedenleri:
                                     Yanlış bir sektör seçimi
-                                    Yanlış bir iş seçimi: Mark Cuban ve Japanese Toilets
-                                
+                                    Yanlış bir iş/yatırım seçimi: Mark Cuban ve 1.3M$ for Japanese Toilets
+                                    
+                                sahışlar ceplerinden harcamazlar.. evi arabayı şirket ile öderler. gelir gösterir vergiden düşüyor
+                                Diyelim ki bir şahsın ithalat-ihracat şirketi var
+                                    100birimlik mal satıyor, 80 birim maliyet, 20 birim kar bu karı isviçredeki banka hesabıma koy diyor..
+                                ya da bi mal ithal edeceksin.. diyorsun mal ne kadar 1 lira sen bana 1,5 fatura et 1/3 benim yurtdışındaki şu hesabıma gönder gerisini sen ala malı da bana gönder...
+                                    böylelikle şirketlerin içinden bu kaynaklar şahsa çekiliyor ve şahış zenginleşiyor..
+                                    isviçreden paranın yüzde 70ni fransa alıyor eğer paranı fransaya getirtirsen...
+                                    
+
+            borç hep olacak. borçlanma eğilimi artar ve azalır. son 10 yılda azalacak
+            sıfır faiz çok çok düşük borçlanma maliyeti gelişmiş ülkelerde
+            gelirin maaliyetini aştığı için borçlanabiliyorsun
+            risk almayı bilmek - borcu yönetebilmek, kayıpla karşılaşttığında bunun kabullenmek ama belli bir sermayede olamlı başta
+            stagfilasyon
+            hiperenflasyon
+            recession
+            borçlanma, doğru zmanda doğru konjektür doğru işle yapılırsa iyi
+                konjektür (düşük faiz, düşük enflasyon, ülke ve dünya bazlı görece güçlü büyüme)
+            ilerde bu borçlanma sorun olacak dünya için
+            dünyada 300t$ üzerinde hanehalkı, şirket, devlet için borç var ama dğnyanın yarattığı gelir 90t$ yıllık
+            10 yıl önce 140t$, gelir 70t$ --> borç, gelirden daha fazla artmışş
+
+            para basımı, ucuz kredi verme konusunda işe yaradığı ve ekonomiyi bu şakilde desteklediği fark edildi.
+
+            # Varlık Balonu
+            bir ürün kolay alınıp satılabiliyorsa, onu alıp satmaya izin veren bir kredi bolluğu varsa, ve fiyatlar hep yukarı gidecek beklentisi varsa orda sistemde balon oluşabilir.
+            o varlıklar borcumuzun altında iner ise batma riskimiz çok
+
+            ülke bazlı reel faizler - enflasyon ile faiz arasındaki fark
+                eksi faiz olayı
+                    - merkez bankası faizi
+                    - tüfe
+            
+            
+            Şirket kote olur (IMKBde)
+            Hisselerin belli bir yüzdesini belli bir değerleme üzerinden halka sunuyor
+            bu noktadan sonra SPKya bağlı, sıkı denetleme görüyor yani regule olmuş oluyor (çelik korsenin içine girmek)... düzenlemeye tabi, her türlü şeyde hesap veriyor
+            artık eskisi gibi şu giderimi şirket masrafına yazıyım olayı yok... ortakların var ona göre davran diyor SPK
+            yine istediği gibi borçlanabilir. yüzde 51 o şahışta sonuçta.. ama belli kurallara tabi
+            kendi zengin şirketi batık gibi durumlar bu şekilde engelleniyor.
+            
+
+# Biri nasıl zengin olur
+Dünyayı iyi oku
+Çok dinamik bir yapı var, bugün ile 5 sene sonrası aynı olmayacak. 
+Makro gidişat: Büyüme nasıl olacak, Borçlanma maliyetleri nasıl olacak, borçlanmaya elverişli bir konjectür var mı?
+Yatırımın tasarrufların kadar olmalı büyümek istiyorsan -- Kontrollü büyümek - temel prensip
+
+eğer ki bir fikrin var, bankadan borç alma zaten vermezler geçmiş bir seceren bilançon özkaynak yok, sadece fikre para vermezler...
+dolayısıyla kendi paranızla yapabiliyorsan yapcan ilk başlarda
+sonrasında işi büyüttükten sonra belli seviyeye getirdikten sonra bankadan kredi alıp büyütebilirsin
+ilk aileye gidilir.. sakın eivi ipotek işine girme.. değmez...
+    çünkü bu tür girişimleri istatistiksel olrak 8/10 başarısız yatırım 2si ayakta kalıyor sadece...
+iş adamlarına gidilebilir. sermaye istemek için
+melek yatırımcılar
+--> girişim sermayesi yatırım fonlarına başvur...
+sadece krediyle büyümek olmaz. innovatif ve yaratıcı fikir varsa
+--> girişimci kredileri devletten...
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -249,6 +318,9 @@ the more money you will make...
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
+
+
+Amortisman - Şirket demirbaşların değerinin yüzde 5ini masraf olarak göstermek. bu malın mesela tablo ya da makinenein şirketin malı olması lazım
 
 
 
