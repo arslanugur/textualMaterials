@@ -1,0 +1,137 @@
+# Ana Kolon Hattı
+
+TEDAŞ          -----> Ana Kolon Hattı -----> Bina
+Trafo Merkezi         Enerji Hattı            |
+OG/AG Hücresi         Enerji Kablosu          |
+                      3Faz + 1 Nötr           |
+                                              Topraklama çubuğu  
+                                              Topraklama Hattı
+                                              
+
+# Kolon Hattı
+  Bina içerisindeki "ana giriş dağıtım (sayaç) panosu" ile daire içinde bulunan "Dağıtım panosu" (Sigorta Panosu/Atölye) arasına çekilen hatta denir.
+  Elektrik şirketinin "ana enerji besleme hattı" binaya çekilmiş
+  Her bir dairenin kendine özgü sayaçları var..
+    Kırmızı ---> Faz
+    Mavi ---> Nötr
+    Yeşil ---> Toprak
+  
+# Linye Hattı
+  Dağıtım panosundan, Aydınlatma/Priz hatlarının bağlandığı buata kadar olan hatta Linye hattı denir.
+  Linye Hattı, dağıtım panosunda bir sigortaya bağlı olan hattır.
+  
+# Sorti Hattı
+  Linye hattında bulunan buatlardan, alıcılara giden hatta Sorti Hattı denir.
+  Alıcı, aydınlatma hattı ise "Aydınlatma Sortisi" denir.
+  Alıcı, priz ise priz hattı ise "Priz Sortisi" denir
+  
+  Sorti Hattı = Priz/Anahtar + Enerji Kablosu + Elektrik Borusu
+
+
+         |   
+         |            Aydınlatma Linyesi              Aydınlatma Sortisi
+         |--------------------------------------|----------------------------
+         |
+         |-- 1*10 Amper AOS -----------------> Buat ---------    ------X Lambayı yakmış
+         |                                                   | /
+         |                                                   |/
+         |                                                 Anahtar
+         |   
+         |   
+ Dağıtım |   
+ Panosu  |                 Priz Linyesi                   Priz Sortisi
+         |--------------------------------------|----------------------------
+         |
+         |-- 1*16 Amper AOS -----------------> Buat -------------------------
+         |                                                   |               |
+         |                                                   |               |
+         |                                                   Topraklı Priz   Etanj Topraklı Priz
+         |
+         |
+         |
+         |-- 3*32 Amper AOS -----------------------------
+         |                                               |
+         |                                               |                                          
+         |                                               |
+         |                                         3 Faz Grup Priz
+
+
+
+# Sorti Çeşitleri
+  Aydınlatma Sortileri
+      - Normal Sorti
+            1 anahtar ile 1 lambanın çalıştığı sortidir
+            "Enerji besleme kablosu" Buattan çıkıp "normal anahtara" giriyor ordanda lambayı yakıyor..
+      - Komütatör Sorti
+            1 Komülatör anahtar ile 2 lambanın çalıştığı sortidir
+                                    2 tane buton bulunur..
+      - Vavien Sorti
+            2 Vavien anahtar ile 1 lambanın çalıştığı sortidir
+            Genelde koridorlarda kullanılır.
+      - Paralel Sorti
+            1 lambaya ek, paralel lambaların bulunduğu sortidir
+            Normal sortiye bir lamba daha bağlamak gibi..
+            
+  Priz Sortileri
+      Topraklı priz sortisi, Etanj Priz Sortisi
+      - Sıva Altı Priz
+      - Sıva Üstü Priz
+      - Sıva Altı Etanj Priz
+      Priz Linyesinde 1 Faz(Faz), 1 Nötr (Mavi), 1 Toprak(Yeşil) Enerji kablosu bulunur
+
+
+
+# Genel Kolon Hattı
+                          KWh                               ------- Buam ------------ =     Priz
+Tedaş ------> Ana Pano --|   |--K.A.K.R-- Dağıtım Panosu ---
+                                                            ------- Buam ------------ x     Aydınlatma
+
+|-----------------|------------------------------|--------------------|-------------|
+  Ana Kolon Hattı           Kolon Hattı               Linye Hattı       Sorti Hattı 
+
+
+
+
+# Proje yaklaşık Maliyet Hesaplaması
+Elektrik projelerinde Linye Hatlarının yaklaşık maliyet hesaplarında, 35 metreden büyük kısmın dağıtım noktasına olan uzunluğu hesaplanmalıdır.
+Çevre ve Şehircilik Bakanlığı pozu olarak 727-000 pozu kullanalarak hesaplanır.
+Ya da 32 metreden büyük olan kısımlar için Linye hattında kullanılan kablonun kesitine göre birim fiyatıyla çarpılır artı kullanılacak tesisat elektrik borusunun metrajı çarpılır artı işçilik fiyatı çarpılır...
+
+Sorti hesaplarında ise:
+  Priz sorti hesabı için:
+    Topraklı priz Sayısı = Priz sorti sayısı
+    Etanj priz sayısı = Etanj sorti sayısı
+
+  Aydınlatma sorti hesabı için:
+    Normal anahtar sayısı = Normal aydınlatma sorti sayısı (NS)
+    Komülatör Anahtar sayısı = Komülatör aydınlatma sorti sayısı (KS)
+    Vaviyen Anahtar sayısı / 2 = Vaviyen aydınlatma sorti sayısı (VS)
+    1den fazla armatürün birbiri ile olan bağlantı sayısı = paralel aydınlatma sorti sayısı (PS)
+    
+Paralel Aydınlatma sorti sayısı (PS) = Toplam Armatür - NS Sayısı - 2*KS - (VS/2) Sayısı
+Yaklaşık Maliyet hesaplarında sortiler için Çevre Şehircilik Bakanlığı Poz fiyatları kullanılabilir.
+
+https://www.birimfiyat.net/
+burda poz aranabilir... 735.102
+
+
+
+
+
+# Keywords
+AOS - Sigorta
+Etanj - ıslak zeminde kapalı priz kullanılır
+KWh - Kilowatt Saat
+KAKR - Kaçak akım rölesi
+
+
+
+
+
+
+
+
+
+
+
+
