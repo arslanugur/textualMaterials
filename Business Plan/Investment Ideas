@@ -18,13 +18,13 @@ https://robinhood.com/us/en/
   Bitcoin   2.500tl   2.500tl         nötr
 
 
-
+halka yeni arz edilen hisselere yatırım 10000tl
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # TRADE ŞEMASI
 
                     sana para kazandırır.
-Boğa Piyasaları ----------------------------------> Fiyat Destekte mi?  --> Yeşil
+Boğa Piyasaları ----------------------------------> Fiyat Destekte/Support mi?  --> Yeşil
                                                     EVET                                            HAYIR
       |                                                  AL --> Yeşil                                   İşlem Yapma
       |                                                  Elde tut ya da Long (Kaldıraçlı) Pozisyon al
@@ -36,7 +36,7 @@ Boğa Piyasaları ----------------------------------> Fiyat Destekte mi?  --> Ye
       |
       |
                     seni zengin eder.                                    
-Ayı Piyasaları  ----------------------------------> Fiyat Dirençte mi?  --> Kırmızı
+Ayı Piyasaları  ----------------------------------> Fiyat Dirençte/Resistance mi?  --> Kırmızı
                                                     EVET                                            HAYIR
                                                         SAT --> Kırmızı                                İşlem Yapma
                                                         Elden çıkar ya da Short (Kaldıraçlı) Pozisyon al
