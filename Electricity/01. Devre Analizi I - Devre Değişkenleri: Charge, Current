@@ -75,3 +75,96 @@ Terminal Uçları / Düğüm / Node
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Elektriksel büyüklükler 
+- Gerilim
+    Kapalı bir elektrik devresinde serbest elektron akışına sebep olan basınca (potansiyel farka) gerilim denir.
+    U ile gösterilir. Birimi Volt (V)'tur
+    
+    1 volt = 1 amper * 1 ohm
+    
+    # Voltaj seviyeleri
+    1 MV = 1 megavolt
+    1 kv = 1 kilovolt
+    1 mV = 1 miliVolt
+    1 µV = 1 mikrovolt
+    
+- Akım
+    Kapalı bir elektrik devresinde birim zamanda geçen elektron miktarına akım şiddeti denir.
+    I ile gösterilir. Birimi ise Amper (A)'dir
+    
+    1 amper (A) = 1 sn'de geçen elektron miktaro 6,28*10^-18 ise 1 amperdir
+    
+    # Voltaj seviyeleri
+    1 MA = 1 megaamper
+    1 kA = 1 kiloamper
+    1 mA = 1 miliamper
+    1 µA = 1 mikroamper
+
+
+
+- Direnç
+    Serbest elektron akışına karşı gösterilen zorluğa direnç denir. 
+    R ile gösterilir. Birimi Ohm (Ω)'dur. 
+    
+    1 ohm = 1 volt / 1 amper
+    
+    1 MΩ = 1 Megaohm
+    1 kΩ = 1 kiloohm
+    1 mΩ = 1 miliohm
+    1 µΩ = 1 mikroohm   bu şekilde ifde edilir
+    
+# Gerilim Akım Direnç
+            
+                |           |
+                |___________|                           gerilim = sıvının basıncı (yüksek/düşük)
+             |  |     su    |                           akım = sıvının akış hızı (yüksek/düşük)
+             |  |___     ___|                           direnç = sıvı akışı önündeki engel
+             |      |   |                                           (direnç büyüdükçe/küçüldükçe akım azalır/artar)
+   Gerilim   |      |   |
+             |      |   |
+             |      |   |_________
+             |      |     O -> direnç --akım-->
+             |      |______________
+        
+        
+- Gerilim Düşümü
+    Hat başı ile hat sonu arasındaki gerilim farkına veya elektrik devrelerinde devreye uygulanan gerilimle, alıcının uçları arasındali gerilim farkına Gerilim Düşümü denir.
+    ΔU ile gösterilir.
+    
+    ΔU = hat başı gerilim - hat sonu gerilim    (24 volt - 23 volt diyelim) ---> 1 volt gerilim düşümü var (hatta kaybolan gerilim anlamına geliyor)
+    ΔU = hat gerilimi - alıcı yük gerilimi
+    
+- Akım Yoğunluğu
+    İletken içindeki birim alana düşen akım miktarına Akım yoğunluğu denir.
+    J ile gösterilir.
+    Her iletkenin belli bir akım taşına kapasitesi vardır
+        1 mm^2 aliminyum ile 1 mm^2 bakırım akım taşıma kapasitesi farklıdır..
+        Aliminyum da kapasite daha yüksek..
+        
+    J = I/A
+    
+    J = akım yoğunluğu (amper/mm^2)
+    I = akım şiddeti (A)
+    A = iletken kesiti (mm^2)
+    
+    
+    
+
+
+
