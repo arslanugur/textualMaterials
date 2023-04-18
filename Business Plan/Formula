@@ -34,8 +34,19 @@
   
 -----------------------------------------------------------------------------------
 
+1. In case of profit,
+    selling price = cost price * (100+profit) / 100
+    cost price = (100*selling price) / (100 + profit)
+2. In case of loss,
+    selling price = cost price * (100-loss) / 100
+    cost price = (100*selling price) / (100 - loss)
+    
+3. Discount = marked price - selling price
+4. rate of discount = discount % = (discount*100) / marked price
+5. selling price = marked price * (100 - discount) / 100
+6. marked price = (100*selling price)/(100-discount)
 
-
+-----------------------------------------------------------------------------------
 
 
 
