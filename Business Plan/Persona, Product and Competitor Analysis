@@ -1,13 +1,14 @@
 Value Props: Create a Product people will actually buy
 https://youtu.be/q8d9uuO1Cf4
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Niş Pazarlama, küçük bir hedef kitlenin hedeflendiği, daha özel gruba hitap ederek odaklanıp strateji barındıran, ürün ve hizmetlerin oluşturduğu bir pazardır.
 Örneğin, Kadın ayakkabı pazarı içinde birçok farklı niş bulunmaktadır. 
 Bunlar, büyük beden kadınlar için ayakkabılar veya 1-3 yaş arası bebekler için ayakkabılar ya da deniz ayakkabısı gibi farklınişleri içinde barındırmaktadır. 
 Bir niş pazar tanımlamak için fiyat, demografik durumu kalite seviyesi, coğrafi durum, yaşam tarzı, tutum ve değerler, fırsatlar devreye girmektedir.
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Amazon ürün araştırması
    - Alt kategorilere in
@@ -41,7 +42,44 @@ Alibabadan ürün araştırma bulma
    
    aliexpress bi ürünün kaç tane sattığını da gösteriyor.. filter order number..
    
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Persona (Hedef Kitle)
+   Müşterini tanı
+   Ürünü kime sattığınız, ne sattığınız kadar önemli
+   - Hedef kitleyi bilmeden başlanan stratejiler, gözü kapalı dart atmaya benzer
+   
+   Persona, ürün sattığınız kişilerin;
+      - Demografik bilgilerini (Yaş, Cinsiyet vb)
+      - Motivasyonlar
+      - Hayattaki hedefleri
+      - Satın alma süreçlerini anlatır.
+   
+   Tüketici araştırmaları
+   Persona çeşitleri
+   
+   Örnek personalar:
+   - Kampüs öğrencileri    Fırsatlara açıktır, sorunları hızlı çözmek ister, seçenek sunulması hoşuna gider, akıllı hissetmek ister
+   - Beyaz yakalılar       Çabuk statü kazanmak ister, işini sorunsuz bir şekilde halletmek ister, imaj kaygısı yüksektir
+   - Yeni anneler          Sorgulanmaktan hoşlanmazlar, zamanı yönetmekte sorun yaşarlar, yetersiz görünmekten korkarlar
+   ...
+   
+   Persona bulmak için;
+   01. Karar alıcılarını belirleyin
+         Ürünü kim satın alıyor?
+         Örnek: Peynir kategorisi - erkeklerin karar alıcı konumunda olduğu kategorilerdir
+                Halı kategorisi - kadınların karar alıcı konumunda olduğu kategorilerdir. 
+   02. Motivasyonlarını belirleyin
+         Ürün neden satın alınıyor?
+         Örnek: Dürüm - ucuz, pratik ve doyurucu olması sebebiyle iyi bir ara öğün alternatifi.
+   03. Beklentileri belirleyin
+         Kategoriden beklenti ne?
+         Örnek: "BIM" markasından tüketicileri fiyat avantajı ve hızlı alışveriş süreci bekler.
+                Özel bir hizmet ya da sıra dışı ürünler beklemez.
+   04. Kendi önceliklerinini belirleyin
+         Hangi persona daha karlı?
+         Personaları, potansiyel satın alma büyüklüğüne ya da başkalarını etkileme önceliğine göre sıralayın
+         
+         
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 # Ürün Faktörleri
@@ -111,7 +149,7 @@ Alibabadan ürün araştırma bulma
 03. Sorun çözüyor olması
 04. en az 20 dolarlık bir kar marjı koyabilmen.. hele ki covid döneminde
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Amazonda Min/Max Order Quantity diye birşey var..
 oraya 1 olarak işaretlemezsen bütün envanterini alabiliyorlar.
