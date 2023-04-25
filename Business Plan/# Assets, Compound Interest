@@ -29,8 +29,104 @@ Investing Assets that will increase in value over time
 “Someone's sitting in the shade today because someone planted a tree a long time ago.” Buffett
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-...
+# EXAMPLE:
+                                      Under Simple Interest     Under Compound Interest
+                                      ---------------------     -----------------------
+First Year  --->  Principal           $100.00                   $100.00
+                  Interest 10%        $10.00                    $10.00
+                  Year-end amount     $110.00                   $110.00
+
+Second Year --->  Principal           $100.00                   $110.00
+                  Interest 10%        $10.00                    $11.00
+                  Year-end amount     $110+$10=120              $121.00
+
+Third Year  --->  Principal           $110.00                   $121.00
+                  Interest 10%        $110.00                   $12.10
+                  Year-end amount     $120+$10=130              $133.10
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Calculate Simple Interest
+  i=interest
+  p = principal (initial value)
+  r = interest rate
+  t = time (years)
+  
+  Formula: i = p*r*t
+  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Calculate Compound Interest
+  
+  p = principal (initial value)
+  i = nominal interest rate
+  a = amount (future value)
+  r = interest rate (decimal)
+  t = time (years)
+  n = number of compounding periods
+      number of times compounded in one "t"
+      number of times interest is compounded per year
+  
+  Compound Interest Formulas..
+    Formula: A=P[(1+i)^n-1]
+    Formula: A=[P(1+i)^n]-P
+    Formula: A=P(1+(r/n))^nt
+    Formula: A=P(1+(r/100))^n
+  
+  Continuously Compounded Interest
+    Formula: A=Pe^r*t
+    
+  ----------------------------------
+  Formula: A=P(1+(r/n))^nt
+ 
+  A = ?
+  P = $35,000
+  r = 6.25% = .0625
+  n = 12
+  t = 10
+  
+  A=$35,000(1+(.0625/12))^12*10    
+  A=$35,000(1+(.005208))^120
+  A=$2000(1.005208)^120
+          1.005208^120 = 1.865
+  A=$35,000(1.865) = $65,282.64
+
+  ----------------------------------
+  Second way:
+    P = 6000
+    r = 9%
+    n = 24months
+  
+    Formula: A=P(1+(r/100))^n
+  
+    A=6000(1+(9/100))^2
+    A=6000(100+9/100))^2
+    A=6000(109/100))^2
+    A=6000*109*109/100*100
+  
+  ----------------------------------
+  Monthly Compound Interest Formula
+    p*[(1+(r/12))^12*t]-p
+    
+    
+    
+# Calculate Rate in Compound Interest
+  Formula: r=n(nt√(A/P)-1)
+
+  A = $1161.47
+  P = $1000
+  r = ?
+  n = 12
+  t = 3
+
+  r=n(nt√A/P-1)
+  r=12(12*3√1161.47/$1000-1)
+  r=12(36√$1.16147-1)
+  r=12(.004167)
+  r=.04999
+  r=.05
+  r=5%
+  
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Compound Effect
 01  02  03  04  05  06  07  08  09  10
