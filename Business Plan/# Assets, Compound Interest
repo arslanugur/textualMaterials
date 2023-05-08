@@ -11,6 +11,9 @@ Investing Assets that will increase in value over time
 - Tangible assets:    Physical assets that can be touched, such as buildings, equipment, inventory, and land. Precious Metal (Gold)
                       eviniz bir varlık değildir...
 - Financial assets:   Assets that have a monetary value, such as stocks, bonds, cash, and bank deposits.
+                              Value Stocks: less risky
+                              Growth Stocks: riskier
+
 - Liquid assets:      Assets that can be easily converted into cash, such as stocks, bonds, and money market funds.
 - Real assets:        Physical assets that have an intrinsic value, such as commodities, real estate, and natural resources.
 
@@ -29,8 +32,8 @@ Investing Assets that will increase in value over time
                       Albert Einstein
                                                       
 “Someone's sitting in the shade today because someone planted a tree a long time ago.” Buffett
-
-
+    
+    
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 # EXAMPLE:
@@ -47,6 +50,8 @@ Second Year --->  Principal           $100.00                   $110.00
 Third Year  --->  Principal           $110.00                   $121.00
                   Interest 10%        $110.00                   $12.10
                   Year-end amount     $120+$10=130              $133.10
+
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Calculate Simple Interest
@@ -70,10 +75,10 @@ Third Year  --->  Principal           $110.00                   $121.00
       number of times interest is compounded per year
   
   Compound Interest Formulas..
-    Formula: A=P[(1+i)^n-1]
-    Formula: A=[P(1+i)^n]-P
-    Formula: A=P(1+(r/n))^nt
-    Formula: A=P(1+(r/100))^n
+    Formula: A = P[(1+i)^n-1]
+    Formula: A = [P(1+i)^n]-P
+    Formula: A = P(1+(r/n))^nt
+    Formula: A = P(1+(r/100))^n
   
   Continuously Compounded Interest
     Formula: A=Pe^r*t
@@ -87,11 +92,11 @@ Third Year  --->  Principal           $110.00                   $121.00
   n = 12
   t = 10
   
-  A=$35,000(1+(.0625/12))^12*10    
-  A=$35,000(1+(.005208))^120
-  A=$2000(1.005208)^120
+  A = $35,000(1+(.0625/12))^12*10    
+  A = $35,000(1+(.005208))^120
+  A = $2000(1.005208)^120
           1.005208^120 = 1.865
-  A=$35,000(1.865) = $65,282.64
+  A = $35,000(1.865) = $65,282.64
 
   ----------------------------------
   Second way:
@@ -101,10 +106,10 @@ Third Year  --->  Principal           $110.00                   $121.00
   
     Formula: A=P(1+(r/100))^n
   
-    A=6000(1+(9/100))^2
-    A=6000(100+9/100))^2
-    A=6000(109/100))^2
-    A=6000*109*109/100*100
+    A = 6000(1+(9/100))^2
+    A = 6000(100+9/100))^2
+    A = 6000(109/100))^2
+    A = 6000*109*109/100*100
   
   ----------------------------------
   Monthly Compound Interest Formula
@@ -181,6 +186,138 @@ Import Summer Product   6-15£      15-20£       6,5-10£     ...
                                     Effectiveness
 0 | | | | | | | | | | | | | | | | | | 100
                                    100%
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# 6 Assets are better and Safer than Cash
+1- Precious Metals: God's Money: Gold, Silver, Platinium
+                              EFTs
+2- Industrial Commodities: Raw Materials
+                        Silver, Cobalt, Nikel, Copper
+                        Stocks: Rio Tinto..
+                                Mutual Funds
+                                
+3- Safe-Haven Currencies:
+              Swiss Bank, Safe-Haven asset
+              forex.com
+              Currency EFTs
+              Swiss Frank, British Pound, Chinese Yuan
+              
+4- Sovereign Guarantee:
+              Government Guarantee
+              G-Sacs
+              
+              https://www.imf.org/en/Home
+              https://www.consilium.europa.eu/en/eurogroup/
+              
+              - Treasury Bills
+              - Notes
+              - Bonds
+              
+  Value stocks and Mutual Funds
+  
+  Value Stocks - industrial metals... nucor.. less risky
+  Growth Stocks - Tech stocks.. riskier
+  
+  Dividend-focused mutual funds: 
+      vanguard high dividend yiels index fund admiral shares
+      
+5- Land & Real Estate
+    Land: non-depreciable asset.. Accountancy
+    
+    Lands always in demand:
+      Residential homes
+      office spaces
+      commercial properties
+    
+    housing prices have tripled between 92 and 21. dollar losing its value..
+    
+    Real Estate Investment Trusts (REITs) to invest.. similar to mutual funds but real estate..
+      popular REIT in US --> https://www.ventasreit.com/
+      
+6- Collectibles
+    art, handcrafted, vintages
+    timeless repositories
+    
+    https://www.whatnot.com/
+    https://konvi.app/
+    
+    
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+- know where your money goes
+- pay and buy everything you need at the beginning of the month
+    to have a clearer idea of how much your monthly basic needs actually cost
+    take advantage of bulk deals
+    ensures your are covering ur basic needs first, before spending on xtra shit.
+- familiarize urself with financial tools
+- save with a purpose
+    opportunity cost
+    u will lose ur money in long run due to inflation
+    saving money for retirement is a bad plan
+    saving money for emergency situation or mortgage is a good plan
+    
+    
+    
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+money validates you in their eyes
+when you have money, you see how high the stakes are for people around you
+  the rich are constantly stressed out.. 
+  the rich are always focused on bigger and bigger deals and new ideas to fulfill
+  the poor have little at stake, there's nothing new happening. always complain about the same things
+everybody has a price, even you.
+  we all have 24 hours in a day, but our time isn't values the same.
+some ppl wont close the gap, so u have to leve them behind. 
+  You level up while they remain down - same level beginning..
+once you have it, money is overrated, but they dont know it
+  the law of diminishing returns:
+    a bigger penthouse or an even more expensive car wont alter the quality of our life
+ppl want the outcome, the secret to your wealth, not the process
+urgency trumps depth in the hierarchy of perceived problems
+When you disagree with them they will always say money changed you 
+    --> growth and evolution dont sit well with those who benefited from you serving them
+
+If you choose the right partner, the money is fine but you’re still grounded
+The poor are emotionally attached to money, while the rich see it as a game ...
+    you can buy anything you want in life, if your envestment is paying for it.
+    if you want to buy a car, buy an apartment instead and use the money you get from renting out the apartment to pay for the luxury car.
+    more and more properties and grow your fortune.. monopoly
+    
+The more money you have, the more you want to be left alone
+  money gives u superpower of saying no
+  
+Everyone will overcharge you for anything
+Most people won’t know you’re rich unless you advertise it ...
+    true wealth doesnt want the attention
+    most ppl cant tell the difference between a $100 and a 15000$ watch
+    they might recognize the brands, if they get close enough, but that's not the case too often
+    
+People are eager to do you favors
+    youre no longer transacting in money, instead its in favors, clouts, network
+    if i help you with this, you have to come back with smth of at least the same value
+    specialized knowledge
+    learn to trade favors based on specialized skills
+
+measure your wealth only in unearned income
+  as long as you have to work for money, you're not wealthy.
+  if you figured out how to make $1, you can figure out how to make $100, $1000, $10000, $100000
+  you have to make the money, not earn the money
+  
+  money has the power to make more of itself... compound interest
+  if u can get urself up to $400k in investable cash, 
+    there are safe and low-risk instruments out there such as the s&p500 that historically brought in a %10return on a yearly basis.
+    some years the economy is booming and youre getting 20-30%, but it averages out at 10%
+    $400k + $40k per year --> your money is earning you $40k per year
+    average income in the US - $31,100 per year...
+    half of the US working population is earning less than $31,100 per year..
+    $1m + $100k per year...
+    
+    
+  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
 
 
 
