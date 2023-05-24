@@ -1,6 +1,9 @@
 Bunu yapamam dersen yapamazsın.. Nasıl yapabileceğinizi sor...
 İş için başvuran adam olma, işi halleden adam ol.
 
+Menkul Kıymetler: Taşınabilir 
+GayriMenkul Kıymetler: Taşınamaz
+
 # Assets
 Asset: On the financial markets, an asset is any tradable financial instrument, including individual commodities, currencies and stocks.
 
@@ -67,6 +70,14 @@ Investing Assets that will increase in value over time
         Agriculture, Vacant Land, Ranches, Farms
         
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Crisis Mechanism (Stock Buying Algorithm)
+    Bir kriz olduğunda, borsa önce düşer sonrasında yükselir
+    Çöküş sırasında hisse alacaksın (Dünyanın sonu etkisi)
+    Havayolu şirketleri pandemi sırasında neredeyse batacaktı, ama sonrasında çıktı..
+    Bu çıkışın da bir düşüşü olur. gelecek ayda olur, önümüzdeki yılın başında mı.. yine çökecek.. Timing
+    
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 # Compound Interest
 
