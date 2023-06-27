@@ -1,0 +1,129 @@
+
+
+
+# Stocks
+BIST100
+    "SISE"        Dayanıklı Tüketim Malları
+    "KCHOL"
+    "THYAO"    
+    "SASA"
+    FROTO        İhracat yüksek        Dayanıklı Tüketim Malları
+    TUPRS
+    ENKAI
+    GARAN
+    EREGL
+    BIMAS
+    AKBNK
+    ISCTR
+
+    ASELSAN
+    ISDEMIR
+    ERDEMIR
+    QNB
+
+    EGEEN        İhracat yüksek
+    ANGEN        İhracat yüksek
+    TLMAN        İhracat yüksek
+    VESBE        İhracat yüksek        Dayanıklı Tüketim Malları
+    JANTS        İhracat yüksek
+
+    VESTL        Dayanıklı Tüketim Malları
+    OTKAR        İhracat yüksek        Dayanıklı Tüketim Malları
+    ARCLK        İhracat yüksek        Dayanıklı Tüketim Malları
+    ADEL         Dayanıklı Tüketim Malları
+    TOASO        Dayanıklı Tüketim Malları
+
+    Enerji: ENJSA, AKSEN, ODAS Elektrik, Alarko Holding (İhracat), CW Enerji, SMRTG, ASTOR, ALFAS, GESAN, ZOREN
+    Yenilenebilir Enerji: GESAN, KONTR, SAHOL, AKSEN, YEOTK, SMRTG, ENJSA, HUNER, ZOREN, GWIND, KCHOL, MAGEN
+    Elektrik: PRKAB, BRLSM, GEREL
+              ALFA, MAGEN, SMRTG, PAMEL, AKENERJI, BIOEN
+    Ulaşım/Ulaştırma: PGSUS, TAV (İhracat), THYAO (İhracat)
+    Oto: TOASO, FROTO
+    Holding: KCHOL, SAHOL, TEKFEN
+    Tekstil: AKSA, SASA
+    Bilişim/Teknoloji:
+    Savunma: OTKAR, ASELS
+    Kimya:
+    Metal:
+    Turizm:
+    Cam/Seramik: QUAGR, EGSER, SISE 
+    Çimento: CIMSA (İhracat), BUCIM, BTCIM
+    Demir: Erdemir
+    Gıda: ULUUN (İhracat), YYLGD (İhracat)
+    Tarım: GUBRF, HEKTS
+
+    Future Stocks:
+    ASTOR
+    TCELL
+    CCOLA    (İhracat)
+    AKSA
+    FROTO
+    THYAO
+
+    Yabancı Yatırımcı Alımları:
+    TOASO, AEFES, KCHOL, ULKER, CCOLA, KLRHO, ENJSA, BIGCH, YKBNK, BRSAN
+
+
+CART STOCKS
+    Petkim        10 LOT
+    TCELL        8 LOT
+    Vestel        6 LOT
+    BIMAS        2 LOT
+
+    TTKOM        16 LOT
+    SISE        8 LOT
+    HEKTAS        3 LOT
+    ARCLK         2 LOT
+
+
+Stock Types
+    Growth
+    Dividend
+    Blue Chip
+    Cyclical
+    Defensive
+    Speculative
+
+NASDAQ %50
+    MSFT
+    AAPL
+    GOOGL
+    AMZN
+    NVDA
+    META
+    Tesla
+
+    PG
+    PEP
+    SBUX
+    UPS
+    MA
+    VCX
+    
+David Tepper Portfolio
+    CEG, GOOG, AMZN, M, ET, EQT, UNH, META, MSFT, HCA, CRM, AR
+
+
+Eleven Sectors in S&P 500
+    Information Technology
+    Customer Discretionary
+    Communication Services
+    Customer Staples
+    Real Estate
+    Utilities
+    Health Care
+    Energy
+    Materials
+    Financials
+    Industrials
+
+
+
+
+
+
+
+
+
+
+
