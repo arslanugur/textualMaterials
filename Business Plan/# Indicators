@@ -7,9 +7,17 @@ Moving average convergence divergence (MACD)
 Stochastic oscillator.
 
 
-
-EMA
-SAR
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# EMA
+Ağırlıklı Hareketli Ortalama'ya (WMA) benzer. 
+EMA göstergesi, n-dönem ayarlarını 50, 100 veya 200 döneme ayarlayarak uzun vadeli alım satımiçin de kullanılabilir; 
+iki EMA arasındaki bir kesişme, trendin tersine döndüğünü gösterebilir. 
+Bir trader, fiyat EMA çizgisinin altına düştüğünde bir long işlem açabilir.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# SAR (Stop and Reverse)
+Parabolic SAR, genellikle bir enstrümanın kısa vadedeki görünümünü analiz etmek isteyen yatırımcılar tarafından kullanılan, 
+    ne zaman alım ne zaman satım yapılacağı hakkında bilgi veren bir göstergedir. 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 VOL
