@@ -172,15 +172,163 @@ Das unpersönliche Pronomen "man" kann für eine oder mehrere unbestimmte Person
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 3. Possessivpronomen im Dativ und im Akkusativ;
 Benim kalemim, benimki
+			Person	 	Possessivpronomen	im Dative	im Akkusativ
+			--------------------------------------------------------------------
+			ich		mein		
+			du		dein
+			er		sein
+			sie		ihr
+			es		sein
+			wir		unser
+			ihr		euer
+			sie		ihr
+			Sie		Ihr
+
+
+							Besitz
+		Besitzer	Kasus		Maskulin	Feminin		Neutrum		Plural
+		--------	------------	------------	------------	------------	------------
+		ich		Nominativ	meiner		meine		mein(e)s	meine
+				Dativ		meinem		meiner		meinem		meinen
+				Akkusativ	meinen		meine		mein(e)s	meine
+				Genitiv		meines		meiner		meines		meiner
+
+		du   		Nominativ	deiner		deine		dein(e)s	deine
+				Dativ		deinem		deiner		deinem		deinen
+				Akkusativ	deinen		deine		dein(e)s	deine
+				Genitiv		deines		deiner		deines		deiner
+
+		er / es		Nominativ	seiner		seine		sein(e)s	seine
+				Dativ		seinem		seiner		seinem		seinen
+				Akkusativ	seinen		seine		sein(e)s	seine
+				Genitiv		seines		seiner		seines		seiner
+
+		sie		Nominativ	ihrer		ihre		ihr(e)s		ihre
+				Dativ		ihrem		ihrer		ihrem		ihren
+				Akkusativ	ihren		ihre		ihr(e)s		ihre
+				Genitiv		ihres		ihrer		ihres		ihrer
+
+		wir		Nominativ	unserer		unsere		unser(e)s	unsere
+				Dativ		unserem		unserer		unserem		unseren
+				Akkusativ	unseren		unsere		unser(e)s	unsere
+				Genitiv		unseres		unserer		unseres		unserer
+
+		ihr		Nominativ	eurer		eure		eur(e)s		eure
+				Dativ		eurem		eurer		eurem		euren
+				Akkusativ	euren		eure		eur(e)s		eure
+				Genitiv		eures		eurer		eures		eurer
+
+		sie   		Nominativ	ihrer		ihre		ihr(e)s		ihre
+				Dativ		ihrem		ihrer		ihrem		ihren
+				Akkusativ	ihren		ihre		ihr(e)s		ihre
+				Genitiv		ihres		ihrer		ihres		ihrer
+
+		Sie		Nominativ	Ihrer		Ihre		Ihr(e)s		Ihre
+				Dativ		Ihrem		Ihrer		Ihrem		Ihren
+				Akkusativ	Ihren		Ihre		Ihr(e)s		Ihre
+				Genitiv		Ihres		Ihrer		Ihres		Ihrer
+
+				--------------------------------------------------------------------------------
+		
+		ich		Nominativ	mein Vater	meine Mutter	mein Kind	meine Eltern
+				Dativ		meinem Vater	meiner Mutter	meinem Kind	meinen Eltern
+				Akkusativ	meinen Vater	meine Mutter	mein Kind	meine Eltern
+				Genitiv		meines Vaters	meiner Mutter	meines Kindes	meiner Eltern
+
+		du	   	Nominativ	dein Vater	deine Mutter	dein Kind	deine Eltern
+				Dativ		deinem Vater	deiner Mutter	deinem Kind	deinen Eltern
+				Akkusativ	deinen Vater	deine Mutter	dein Kind	deine Eltern
+				Genitiv		deines Vaters	deiner Mutter	deines Kindes	deiner Eltern
+
+		er / es		Nominativ	sein Vater	seine Mutter	sein Kind	seine Eltern
+				Dativ		seinem Vater	seiner Mutter	seinem Kind	seinen Eltern
+				Akkusativ	seinen Vater	seine Mutter	sein Kind	seine Eltern
+				Genitiv		seines Vaters	seiner Mutter	seines Kindes	seiner Eltern
+
+		sie		Nominativ	ihr Vater	ihre Mutter	ihr Kind	ihre Eltern
+				Dativ		ihrem Vater	ihrer Mutter	ihrem Kind	ihren Eltern
+				Akkusativ	ihren Vater	ihre Mutter	ihr Kind	ihre Eltern
+				Genitiv		ihres Vaters	ihrer Mutter	ihres Kindes	ihrer Eltern
+
+		wir		Nominativ	unser Vater	unsere Mutter	unser Kind	unsere Eltern
+				Dativ		unserem Vater	unserer Mutter	unserem Kind	unseren Eltern
+				Akkusativ	unseren Vater	unsere Mutter	unser Kind	unsere Eltern
+				Genitiv		unseres Vaters	unserer Mutter	unseres Kindes	unserer Eltern
+
+		ihr		Nominativ	euer Vater	eure Mutter	euer Kind	eure Eltern
+				Dativ		eurem Vater	eurer Mutter	eurem Kind	euren Eltern
+				Akkusativ	euren Vater	eure Mutter	euer Kind	eure Eltern
+				Genitiv		eures Vaters	eurer Mutter	eures Kindes	eurer Eltern
+
+		sie	   	Nominativ	ihr Vater	ihre Mutter	ihr Kind	ihre Eltern
+				Dativ		ihrem Vater	ihrer Mutter	ihrem Kind	ihren Eltern
+				Akkusativ	ihren Vater	ihre Mutter	ihr Kind	ihre Eltern
+				Genitiv		ihres Vaters	ihrer Mutter	ihres Kindes	ihrer Eltern
+
+		Sie		Nominativ	Ihr Vater	Ihre Mutter	Ihr Kind	Ihre Eltern
+				Dativ		Ihrem Vater	Ihrer Mutter	Ihrem Kind	Ihren Eltern
+				Akkusativ	Ihren Vater	Ihre Mutter	Ihr Kind	Ihre Eltern
+				Genitiv		Ihres Vaters	Ihrer Mutter	Ihres Kindes	Ihrer Eltern
+
+			Beispiele:
+				Meine Mutter ist jünger als seine Mutter.	Meine ist jünger als seine.
+					My mother is younger than his mother. 	Mine is younger than his.
+				Ihr Onkel hat seinen Wagen verkauft.		Ihrer hat seinen verkauft.
+					Your uncle sold his car. 		Yours sold his. 					
+				Eure Schule hat eine große Turnhalle.		Eure hat eine große Turnhalle.
+				 	Your school has a large gym. 		Yours has a large gym.
+				
+				Ich bin mir meines Fehlers bewusst, du dir deines offensichtlich nicht. (m/g)
+				I'm aware of my mistake, you obviously aren't aware of yours.
+
+				Heute feiern wir den Geburtstag meines Sohnes. 			gen.		Today we celebrate my son's birthday.
+				Er sitzt ganz stolz vor seiner Geburtstagstorte.		dat.		He is sitting proudly in front of his birthday cake.
+				Auch seine Schwester feiert gern Geburtstag, 			nom.		His sister also likes to celebrate her birthday, 
+				ihrer ist aber erst in einigen Monaten.				nom.		but hers is only a few months away.
+				Wir feiern in unserem Garten und 				dat.		We're celebrating in our garden and
+				meine Eltern haben für die Feier extra ihren Urlaub verschoben.	nom. akk.	my parents have postponed their vacation especially for the celebration.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 4. Possessivartikel und Possessivpronomen;
 
+	Das Radio gefällt mir nicht. Sein Klang ist zu dumpf.
+	Für unsere Augen ist ihr Licht zu stark - die Sonne
+	Ihr Vater liegt schon seit drei Wochen im Krankenhaus. - sie
+	
+		 	Frage			mögliche Antworten
+	Genitiv		Wessen Buch ist das?	Das ist mein Buch. Das Buch ist von mir.
+						Das Buch gehört mir ( nicht ).
+						Das ist nicht mein Buch. Das Buch ist von Peter.
+						Das ist Peters Buch. Das ist sein Buch.
+	Dativ		Von wem ist das Buch?	Das ist mein Buch. Das Buch ist von mir.
+						Das Buch gehört mir ( nicht ).
+						Das ist nicht mein Buch. Das Buch ist von Peter.
+						Das ist Peters Buch. Das ist sein Buch.
+	Dativ		Wem gehört das Buch?	Das ist mein Buch. Das Buch ist von mir.
+						Das Buch gehört mir ( nicht ).
+						Das ist nicht mein Buch. Das Buch ist von Peter.
+						Das ist Peters Buch. Das ist sein Buch.
+	Possessiv	Ist das dein Buch?	Ja, das ist mein Buch. Ja, das Buch ist von mir.
+						Ja, das Buch gehört mir ( nicht ).
+						Nein, das ist nicht mein Buch. Das Buch ist von Peter.
+						Das ist Peters Buch. Das ist sein Buch.
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 5. Relativpronomen im Nominativ und Akkusativ; (Dativ optional, B1)
 (oder Relativpronomen und Relativsatz) - yancümle yaparak relativsatz yaparak açıklamak
-Die Frau, die Schön ist, ist im Garden
 
+	Das Auto gehört Tom. Das Auto ist blau. = Das Auto, das blau ist, gehört Tom.
+	Ich habe heute den Fisch gekauft. Den Fisch isst du so gerne. = Ich habe heute den Fisch, den du so gerne isst, gekauft.
+
+	Die Frau, die Schön ist, ist im Garden
+
+	Der Fisch, den ich am Markt kaufe, ist wirklich frisch. ("kaufen" braucht Akkusativ)
+	Der Mann, dem ich beim Kochen helfe, ist mein Nachbar." ("helfen" braucht Dativ)
+	Das Kleid, dessen Farbe blau ist, habe ich schon drei Jahre." (nähere Beschreibung des Nomens - Genitiv)
+	Das ist der Mann, den ich liebe. (Das ist der Mann. Ich liebe ihn.) - Akk
+
+	
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 6. Demonstrativpronomen;
 Diese 
