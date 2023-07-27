@@ -63,9 +63,80 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Zahlen
+        eins        one                elf        eleven
+        zwei        two                zwölf      twelve
+        drei        three              dreizehn   thirteen
+        vier        four               vierzehn   fourteen
+        fünf        five               fünfzehn
+        sechs       six                sechzehn
+        sieben      seven              siebzehn
+        acht        eight              achtzehn
+        neun        nine               neunzehn
+        zehn        ten                zwanzig
+
+                                einundzwanzig        twenty one
+                                zweiunddreißig       thirty two
+                                dreiundvierzig       forty three
+                                vierundfünfzig       fifty four
+                                fünfundsechzig       sixty five
+                                        siebzig      seventy
+                                        achtzig      eighty
+                                        neunzig      ninty
+                                        (ein)hundert hundred
+                                        zweihunderteins
+                                        (ein)tausend thousand
+
+        ein­tausend­neun­hundert ­fünf­und­neunzig - 1995
+        zwei­tausend­zwei - 2002
+
+        Ich wurde im Jahr zweitausendfünf geboren - in 2005
+
+        Deutschland wurde neunzehnhundertneunzig (1990) wiedervereinigt.
+        Mozart wurde siebzehnhundertsechsundfünfzig (1756) in Salzburg geboren.
+        Karl Lagerfeld starb zweitausendneunzehn (2019) in Paris, aber seine Katze lebt noch.
+        Die Hamburger Elbphilarmonie wurde (im Jahr/Jahre) zweitausendsiebzehn (2017) eingeweiht.
+        Das Hotel wurde neunzehnhundert (1900) gebaut.
+        Die Rechnung beläuft sich auf tausendneunhundert (1 900) Euro.
+
+
+        plus	plus
+        minus	minus
+        gleich	equals
+
+# Die Uhrzeit angeben
+        Wie spät ist es?
+                06:05 Uhr = Es ist sechs Uhr fünf.
+                18:05 Uhr = Es ist achtzehn Uhr fünf.
+                18:15 Uhr = Es ist achtzehn Uhr fünfzehn.
+                08:30 Uhr = Es ist acht Uhr dreißig.
+
+        Wie viel Uhr ist es?
+                06:05 Uhr = Es ist fünf (Minuten) nach sechs (morgens).
+                18:05 Uhr = Es ist fünf (Minuten) nach sechs (abends).
+
+                Es ist zwei Uhr nachmittags.            It's two in the afternoon.
+                Ich bin in zwei Stunden bei dir.        I'll be with you in two hours.
+
+# Die Uhrzeit mit „halb“ und „Viertel“
+                18:15 Uhr = Viertel nach sechs (abends)
+                08:30 Uhr = halb neun (morgens)
+
+        # nach # vor (past # to)
+                07:15 Uhr = Viertel nach sieben
+                07:15 Uhr = viertel acht
+                07:20 Uhr = zwanzig nach sieben
+                07:40 Uhr = zwanzig vor acht
+                07:45 Uhr = Viertel vor acht
+                07:45 Uhr = drei viertel acht
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Personal Pronomen
+# Die Personalpronomen (Nominativ)
+
+        SINGULAR	        PLURAL
+        --------                ------
+        ich lern-e	        wir lern-en
+        du lern-st	        ihr lern-t
+        er, sie, es lern-t	sie, Sie lern-en
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Kasus (3 Fälle) - İsmin halleri
@@ -74,12 +145,101 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
   Dativ (-e)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Verb Konjugation
-  Düzenli Fiiller (Regelmassige Verben)
-  Düzensiz Fiiller (Unregelmassige Verben)
-  Modalverben (können, müssen usw.)
-  Trennbare Verben (Ayrılabilen Fiiller)
-        aufwachen - wake up
-        aufstehen - get up
+        - Regelmäßige Verben (Düzenli Fiiller)
+        - Unregelmassige Verben (Düzensiz Fiiller)
+        - Modalverben
+                (dürfen, können, mögen, müssen, sollen, wollen)
+        - Trennbare Verben (Ayrılabilen Fiiller)
+                auf-wachen - wake up
+                auf-stehen - get up
+                usw.
+
+
+        # Präsenskonjugation - Regelmäßige Verben im Präsens
+                kaufen                arbeiten
+                -------------------------------
+                ich kaufe             arbeite
+                du kaufst             arbeitest
+                er/sie/es kauft       arbeitet
+                wir kaufen            arbeiten
+                ihr kauft             arbeitet
+                sie/Sie kaufen        arbeiten
+
+                Ich gehe nach Hause.              I go home
+                Wir tanzen in der Disco. 
+                Sie kauft eine Flasche Wein.      She buys a bottle of wine. 
+                Sigi badet ein Mal im Monat.      Sigi bathes once a month.
+                Reitest du gerne?                 do you like riding?
+                Magda arbeitet im Hotel.
+
+        # Präsenskonjugation - Unregelmäßige Verben im Präsens 
+                wissen                  gehen       nehmen       tun
+                -------------------------------------------------------------
+                ich weiß                gehe        nehme        tue
+                du weißt                gehst       nimmst       tust
+                er/sie/es weiß          geht *      nimmt        tut *
+                wir wissen              gehen       nehmen       tun
+                ihr wisst               geht        nehmt        tut
+                sie/Sie wissen          gehen       nehmen       tun
+
+                ModalVerben: mögen, dürfen
+
+        # Das Präteritum der regelmäßigen Verben
+                leben                wohnen
+                ---------------------------
+                ich lebte            wohnte
+                du lebtest           wohntest
+                er/sie/es lebte      wohnte
+                wir lebten           wohnten
+                ihr lebtet           wohntet
+                sie/Sie lebten       wohnten
+        
+                Vor langer Zeit lebte eine Gruppe spezieller Menschen im Hotel Brandenbutt.     leben
+                Als sie in Berlin lebte, arbeitete sie im Hotel.                                leben
+
+        # Das Präteritum der unregelmäßigen Verben
+                fahren                  kommen
+                ------------------------------
+                ich fuhr                kam
+                du fuhrst               kamst
+                er/sie/es fuhr          kam
+                wir fuhren              kamen
+                ihr fuhrt               kamt
+                sie/Sie fuhren          kamen
+
+                Als Anna Tennis spielte, schien die Sonne.                 scheinen
+                Eines Tages starb die Chefin des Bandenbutt Hotels.        sterben
+                Anna dachte oft an ihre Großmutter.                        denken
+                Er brachte mir ein Geschenk.                               bringen  
+
+        # ModalVerben
+                dürfen        izin                   be allowed to, may           	
+                können        yetenek                be able to, can, may        
+                mögen         hoşlanmak, istemek     like, enjoy, can, may, would like
+                müssen        zorundalık             have to, must
+                sollen        gereklilik             shall, should, be supposed, be obliged to
+                wollen        istemek                want, be supposed to
+
+
+                Präsens       können      dürfen      mögen      müssen      sollen     wollen
+                -----------------------------------------------------------------------------------------
+                ich           kann        darf        mag        muss        soll        will
+                du        
+                er/sie/es
+                wir
+                ihr
+                sie/Sie
+
+                
+                Präteritum    können      dürfen      mögen      müssen      sollen     wollen
+                -----------------------------------------------------------------------------------------
+                ich           konnte        durfte    mochte     musste      sollte     wollte
+                du        
+                er/sie/es
+                wir
+                ihr
+                sie/Sie
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Nomen und Artikel (İsim ve Tanımlılık)
 
@@ -88,6 +248,16 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Präpositionen (Edatlar)
+        am - on (used with days of the week, times of day)
+                ich gehe am Montag zur Arbeit                     I go to work on Monday
+        um - at (used when indicating time)
+                das Meeting beginnt um 10 Uhr                     The meeting starts at 10
+        vor - before (sth. happening before sth. else)
+                ich habe vor einer Stunde gegessen                I ate an hour ago
+        nach - after (sth. happening after sth. else)
+                ich gehe nach der Arbeit ins Fitnessstudio        I go to the gym after work
+        seit - since (on going action from the past)
+                ich lerne seit zwei Jahren Deutsch                I have been learning German for two years
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Deutsche Zeitformen (Zamanlar)
@@ -111,3 +281,27 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
+
+
+
+
+
+
+
+
+
+EXTRAS:
+in den letzten jahren - in recent years
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Deutscher Zeit-Spickzettel
+        Wann                                 Wie Oft
+        ----                                 -------
+        heute                                taglich - daily
+        am Wochenende - on the weekend       jedes Wochenende - every weekend
+        am Montag - on monday                montags - on Mondays
+        nicht - not                          nie - never
+        gerade - now                         regelmassig - regularly
+        demnachst - soon                     bald wieder - again soon
+        früher - in the past                 nicht mehr - not anymore
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
