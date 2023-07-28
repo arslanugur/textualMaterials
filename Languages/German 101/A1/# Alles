@@ -73,7 +73,7 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Zahlen
+# die Zählen
         eins        one                elf        eleven
         zwei        two                zwölf      twelve
         drei        three              dreizehn   thirteen
@@ -138,14 +138,14 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
         21. einundzwanzigste
 
 # Die Monate (Aylar)
-        Winter     Frühling   Sommer       Herbst
-        -----------------------------------------------
-        Januar     April      Juli         Oktober
-        Februar    Mai        August       November
-        März       Juni       September    Dezember
+        der Winter     der Frühling   der Sommer       der Herbst
+        ---------------------------------------------------------
+   der  Januar         April          Juli             Oktober
+        Februar        Mai            August           November
+        März           Juni           September        Dezember
 
 # Die Wochentage
-        Montag - Monday
+   der  Montag - Monday
         Dienstag - Tuesday
         Mittwoch - Wednesday
         Donnerstag - Thursday
@@ -158,12 +158,21 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
              haben Sie..
 
         Ich habe im Januar Geburtstag
-        Ich habe am zweiundzwanzigsten Januar Geburtstag
-        Ich habe am zweiundzwanzigsten ersten Geburtstag
+        Ich habe am dreiundzwanzigsten Januar Geburtstag  (23.01)
+        Ich habe am dreiundzwanzigsten ersten Geburtstag
 
         im - aylar için kullanılır
         am - gün + ay için kullanılır
-        
+
+# Günün Bölümleri                        # Hava durumu                # Yönler
+        der Morgen                         der Schnee - Snow             der Norden
+        der Vormittag                      der Regen - Rain              der Süden
+        der Mittag                         der Wind - Wind               der Osten
+        der Nachmittag                     der Sturm - Storm             der Westen
+        der Abend                          die Wolke - Bulut
+        die Nacht *
+
+
 # Die Uhrzeit angeben
         Wie spät ist es?
                 06:05 Uhr = Es ist sechs Uhr fünf.
@@ -205,6 +214,10 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
         HochDeutsch # PlattDeutsch
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Die Familie
+
+https://www.colanguage.com/family-members-german
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Sein und Haben
         Unregelmäßige Verben
 
@@ -225,11 +238,7 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
         ihr seid
         sie sind 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Kasus (3 Fälle) - İsmin halleri
-  Nominativ (Yalın)
-  Akkusativ (-i)
-  Dativ (-e)
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Verb Konjugation
         - Regelmäßige Verben (Düzenli Fiiller)
@@ -238,7 +247,6 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
         - Modalverben
                 (dürfen, können, mögen, müssen, sollen, wollen)
         - Trennbare Verben (Ayrılabilen Fiiller)
-
 
 
         # Präsenskonjugation - Regelmäßige Verben im Präsens
@@ -256,6 +264,7 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
                 Sigi badet ein Mal im Monat.      Sigi bathes once a month.
                 Reitest du gerne?                 do you like riding?
                 Magda arbeitet im Hotel.
+
 
 
         # Präsenskonjugation - Unregelmäßige Verben im Präsens 
@@ -358,6 +367,198 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Nomen und Artikel (İsim ve Tanımlılık)
+
+# Kelimeyi çoğul Yapmak
+        - -e
+                der/das Keks        die Kekse
+                das Brot            die Brote
+        - -(e)n
+                die Zweibel         die Zwiebeln
+                die Kartoffel       die Kartoffeln
+                die Packung         die Packungen
+        - -er (+umlaut: ä, ü, ö)
+                das Ei        die Eier        
+                das Glas      die Gläser
+        - Umlaut --> "
+                der Apfel        die Äpfel
+                der Vater        die Väter
+                die Mutter       die Mütter
+        - -s
+                die Kiwi            die Kiwis
+                der/die Paprika     die Paprikas
+        - hiç bir ek almazlar, ama artikel değişir.
+                das Brötchen        die Brötchen
+                der Lehrer          die Lehrer
+                der Schüler         die Schüler
+
+
+# Artikel
+        der - eril
+        die - dişil
+        das - nötr
+        die - çoğul
+
+        der Mann - die Frau
+        der Vater - die Mutter
+        der Arzt - die Ärztin
+        der Schüler - die Schülerin
+
+        das Mädchen - girl
+        das Kind
+        das Baby
+
+        Almanca'da artikeli olan tüm kelimeler büyük yazılır...
+
+        Das ist 'mein Vater'
+        Mein Name is Ugur
+
+        ich habe gestern 'eine Lampe' gekauft. 'Die' ist so schön         ---> Zamir yerine geçer
+
+        # DER
+        - -or
+                der Motor
+                der Dekor
+                der Bachelor
+        - -ing
+                der Lehrling - Çırak
+                der Ring
+        - -ig/-ich
+                der König, der Honig, der Käfig, der Bereich, der Teppish
+                    king,      honey,     cage,      section,      carpet
+        - -er
+                der Lehrer, der Fahrer, der Computer
+                Lehren        Fahren
+
+        - -iker
+                der Musiker, der Akademiker
+
+        - -ist
+                der Kapitalist, der Germanist
+        - -ismus
+                der Kapitalismus, der Optimismus
+        - -and, -ant, -ent
+                der Abstand, der Diamant, der Präsident
+                    distance
+                ** das Dokument
+        - eur/ör
+                der Amateur, der Likör, ** die Zubehör - accesories
+
+        # DIE
+        - die Zählen
+        - die Blume, die Pflanze, die Rose, die Eiche, die Palme
+              flower,    vegatable,             oak                        
+          der Baum.
+        - die Erdbeere, die Wassermelone
+          der Apfel.
+        - -ung
+          die Bedienung, die Rechnung
+              service,       invoice, bill
+        - -heit, -keit
+                die Ewigkeit [eternity], die Gültigkeit [validity]
+        - -schaft
+                die Botschaft [embassy], die Gemeinschaft [community]
+        - -ion
+                die Religion, die Million
+        - -tät
+                die Universität, die Antiquität
+        - -ik
+                die Musik, die Physik
+        - -ur
+                die Kultur, die Reparatur
+        - -age/-ade
+                die Garage, die Etage
+        - -anz/-enz
+                die Kompetenz, die Toleranz 
+        - -ei
+                die Bäckerei [bakery], die Metzgerei [butcher]
+        - -e --> özellikle iki heceli olup sonu -e ile bitenler
+                die Tasche, die Küche
+
+        # DAS
+        - İsim Fiil, Sıfat İsim
+                lesen        das Lesen
+                schlafen     das Schlafen
+                schön        das Schöne
+                gut          das Gute
+
+        - Die Farben: das
+                Rot         Orange
+                Grün
+                Blau        DunkelBlau # Hellblau
+                Gelb
+                Schwarz
+                Weiss
+                Grau
+
+        - Harfler
+                Das A, Das B, Das C
+
+        - Maddeler
+                Das Gold, Das Silber, Das Öl
+
+        - Kesirli sayılar
+                das Viertel --> 1/4
+                das drittel --> 1/3
+        - -lein/-chen
+                das Büchlein
+                das Mädchen
+                das Brötchen
+                das Kätzchen
+
+        - -ma
+                das Thema, das Asthma
+        - -ment
+                das Dokument
+                das Element
+
+        - -um
+                das Datum
+                das Museum
+
+        - -tum
+                das Faktum
+                das Momentum
+        - -icht
+                das Licht, Das Gesicht
+
+        - İngilizceden geçenler: -ing --> das Training, das Shopping
+
+        - -o
+                das Auto, das Kino
+        - -nis
+                das Ergebnis, das Zeugnis
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Belirli Artikeller, Belirsiz Artikeller
+        der - m        ein
+        die - f        eine
+        das - n        ein
+        die - pl        -
+
+        was ist das?
+                das ist/sind ..
+                der Tisch, die Tasche, das Handy, die Bücher
+                ein Tisch, eine Tasche, ein Handy, Bücher
+
+        wer ist das?
+                das ist/sind ..
+                der Mann, die Frau, das Mädchen, die Kinder
+                ein Mann, eine Frau, ein Mädchen, Kinder
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Kasus (3 Fälle) - İsmin halleri
+          Nominativ (Yalın hali)
+          Akkusativ (-i hali)
+          Dativ (-e hali)
+
+                Nom.        der Stuhl, die Lampe, das Buch, die Bücher
+                Akk.        den Stuhl, die Lampe, das Buch, die Bücher
+                Dat.        dem Stuhl, der Lampe, dem Buch, den Büchern
+
+          -de, den hali = Präpositionen + Dat./Akk./Gen.
+                auf den Stuhl - Sandalyenin üzerine
+                auf dem Stuhl - Sandalyenin üzerinde
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Adjektive und Adverbien (Sıfatlar ve Zarflar)
