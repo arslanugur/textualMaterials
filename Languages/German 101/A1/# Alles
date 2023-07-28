@@ -134,9 +134,35 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
 
         SINGULAR	        PLURAL
         --------                ------
-        ich lern-e	        wir lern-en
-        du lern-st	        ihr lern-t
-        er, sie, es lern-t	sie, Sie lern-en
+        ich lern-e	        wir (wia) lern-en
+        du lern-st	        ihr (ia) lern-t
+        er (ea), sie, es lern-t	sie, Sie lern-en
+
+        der (dea), die, das           die                Artikel
+
+
+        HochDeutsch # PlattDeutsch
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Sein und Haben
+        Unregelmäßige Verben
+
+        Präsens        sein        haben
+        ---------------------------------
+        ich            bin         habe
+        du             bist        hast *
+        er/sie/es      ist         hat *
+        wir            sind        haben
+        ihr            seid        habt
+        sie/Sie        sind        haben
+
+        ich bin schön          ich habe ein Kind
+        du bist                du hast ein Auto
+        er ist ein Lehrer      er hat Zeit
+        sie ist                Anna hat eine Idee
+        wir sind Menschen
+        ihr seid
+        sie sind 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Kasus (3 Fälle) - İsmin halleri
@@ -147,6 +173,7 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
 # Verb Konjugation
         - Regelmäßige Verben (Düzenli Fiiller)
         - Unregelmassige Verben (Düzensiz Fiiller)
+                
         - Modalverben
                 (dürfen, können, mögen, müssen, sollen, wollen)
         - Trennbare Verben (Ayrılabilen Fiiller)
@@ -154,31 +181,31 @@ O - o         [Oma, Opa]                  ß - es-zett, ss     [strasse, aussen]
 
 
         # Präsenskonjugation - Regelmäßige Verben im Präsens
-                kaufen                arbeiten
-                -------------------------------
-                ich kaufe             arbeite
-                du kaufst             arbeitest
-                er/sie/es kauft       arbeitet
-                wir kaufen            arbeiten
-                ihr kauft             arbeitet
-                sie/Sie kaufen        arbeiten
+                kauf-en                arbeiten         wohnen        heissen
+                -------------------------------------------------------------
+                ich kauf-e             arbeite          wohne         heisse
+                du kauf-st             arbeitest        wohnst        heisst
+                er/sie/es kauf-t       arbeitet         wohnt         heisst
+                wir kauf-en            arbeiten         wohnen        heissen
+                ihr kauf-t             arbeitet         wohnt         heisst
+                sie/Sie kauf-en        arbeiten         wohnen        heissen
 
-                Ich gehe nach Hause.              I go home
-                Wir tanzen in der Disco. 
+                Ich gehe nach Hause.              I go home 
                 Sie kauft eine Flasche Wein.      She buys a bottle of wine. 
                 Sigi badet ein Mal im Monat.      Sigi bathes once a month.
                 Reitest du gerne?                 do you like riding?
                 Magda arbeitet im Hotel.
 
+
         # Präsenskonjugation - Unregelmäßige Verben im Präsens 
-                wissen                  gehen       nehmen       tun
-                -------------------------------------------------------------
-                ich weiß                gehe        nehme        tue
-                du weißt                gehst       nimmst       tust
-                er/sie/es weiß          geht *      nimmt        tut *
-                wir wissen              gehen       nehmen       tun
-                ihr wisst               geht        nehmt        tut
-                sie/Sie wissen          gehen       nehmen       tun
+                wissen                  gehen       kommen        nehmen       tun
+                ---------------------------------------------------------------------
+                ich weiß                gehe        komme         nehme        tue
+                du weißt                gehst       kommst        nimmst       tust
+                er/sie/es weiß          geht *      kommt         nimmt        tut *
+                wir wissen              gehen       kommen        nehmen       tun
+                ihr wisst               geht        kommt         nehmt        tut
+                sie/Sie wissen          gehen       kommen        nehmen       tun
 
                 ModalVerben: mögen, dürfen
 
