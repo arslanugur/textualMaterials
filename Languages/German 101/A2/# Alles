@@ -171,65 +171,26 @@ Das unpersönliche Pronomen "man" kann für eine oder mehrere unbestimmte Person
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 3. Possessivpronomen im Dativ und im Akkusativ;
-Benim kalemim, benimki
-			Person	 	Possessivpronomen	im Dative	im Akkusativ
-			--------------------------------------------------------------------
-			ich		mein		
-			du		dein
-			er		sein
-			sie		ihr
-			es		sein
-			wir		unser
-			ihr		euer
-			sie		ihr
-			Sie		Ihr
 
+						ich	du	er	sie	es	wir	ihr	sie/Sie
+						---------------------------------------------------------------
+		Nominativ	m/n		mein	dein	sein	ihr	sein	unser	euer	ihr
+				f/p		meine	deine	seine	ihre	seine	unsere	eure	ihre
+		
+		Dativ		m/n		meinem	deinem	seinem	ihrem	seinem	unserem	eurem	ihrem
+				f		meiner	deiner	seiner	ihrer	seiner	unserer	eurer	ihrer
+				p		meinen	deinen	seinen	ihren	seinen	unseren	euren	ihren
+		
+		Akkusative	m		meinen	deinen	seinen	ihren	seinen	unseren	euren	ihren
+				n		mein	dein	sein	ihr	sein	unser	euer	ihr
+				f/p		meine	deine	seine	ihre	seine	unsere	eure	ihre
 
-							Besitz
-		Besitzer	Kasus		Maskulin	Feminin		Neutrum		Plural
-		--------	------------	------------	------------	------------	------------
-		ich		Nominativ	meiner		meine		mein(e)s	meine
-				Dativ		meinem		meiner		meinem		meinen
-				Akkusativ	meinen		meine		mein(e)s	meine
-				Genitiv		meines		meiner		meines		meiner
-
-		du   		Nominativ	deiner		deine		dein(e)s	deine
-				Dativ		deinem		deiner		deinem		deinen
-				Akkusativ	deinen		deine		dein(e)s	deine
-				Genitiv		deines		deiner		deines		deiner
-
-		er / es		Nominativ	seiner		seine		sein(e)s	seine
-				Dativ		seinem		seiner		seinem		seinen
-				Akkusativ	seinen		seine		sein(e)s	seine
-				Genitiv		seines		seiner		seines		seiner
-
-		sie		Nominativ	ihrer		ihre		ihr(e)s		ihre
-				Dativ		ihrem		ihrer		ihrem		ihren
-				Akkusativ	ihren		ihre		ihr(e)s		ihre
-				Genitiv		ihres		ihrer		ihres		ihrer
-
-		wir		Nominativ	unserer		unsere		unser(e)s	unsere
-				Dativ		unserem		unserer		unserem		unseren
-				Akkusativ	unseren		unsere		unser(e)s	unsere
-				Genitiv		unseres		unserer		unseres		unserer
-
-		ihr		Nominativ	eurer		eure		eur(e)s		eure
-				Dativ		eurem		eurer		eurem		euren
-				Akkusativ	euren		eure		eur(e)s		eure
-				Genitiv		eures		eurer		eures		eurer
-
-		sie   		Nominativ	ihrer		ihre		ihr(e)s		ihre
-				Dativ		ihrem		ihrer		ihrem		ihren
-				Akkusativ	ihren		ihre		ihr(e)s		ihre
-				Genitiv		ihres		ihrer		ihres		ihrer
-
-		Sie		Nominativ	Ihrer		Ihre		Ihr(e)s		Ihre
-				Dativ		Ihrem		Ihrer		Ihrem		Ihren
-				Akkusativ	Ihren		Ihre		Ihr(e)s		Ihre
-				Genitiv		Ihres		Ihrer		Ihres		Ihrer
+		Genitiv		m/n		meines	deines	seines	ihres	seines	unseres	eures	ihres
+				f/p		meiner	deiner	seiner	ihrer	seiner	unserer	eurer	ihrer
 
 				--------------------------------------------------------------------------------
-		
+
+
 		ich		Nominativ	mein Vater	meine Mutter	mein Kind	meine Eltern
 				Dativ		meinem Vater	meiner Mutter	meinem Kind	meinen Eltern
 				Akkusativ	meinen Vater	meine Mutter	mein Kind	meine Eltern
@@ -333,22 +294,139 @@ Benim kalemim, benimki
 6. Demonstrativpronomen;
 Diese 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-7. Verben mit Akkusativ und Dativ;
-Hangi fiil akk alır dativ
+		der		das		die [f/p]
+		-----------------------------------------------------
+	Nom.	(k)ein		(k)ein		(k)eine
+	Akk.	(k)einen	(k)ein		(k)eine
+	Dat.	(k)einem	(k)einem	(k)einer
+	Gen.	(k)eines	(k)eines	(k)einer
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-8. Reflexive Verben;
-Dönüşlü fiiller - 
-Kendi dişimi fırçalıyorum
-Kann ich mich setzen?
+7. Verben mit Akkusativ und Dativ;
+
+	# Verben mit Akkusativ
+		Ein Apfel: Ich esse + ein Apfel. → Ich esse einen Apfel.
+
+		brauchen, haben, kochen, mögen, essen, trinken, kaufen, nehmen, sehen, leiten
+
+		ein Kaffee → Anna trinkt einen Kaffee.
+		das Buch → Ich lese das Buch.
+		keine Wohnung → Wir kaufen keine Wohnung.
+
+				Nom.	Akk.
+				------------
+		der / m		x	en
+		das / n		x	x
+		die / f		e	e
+		die / p		e	e
+
+	# Verben mit Dativ
+		Ein Lehrer: Ich helfe + ein Lehrer. → Ich helfe einem Lehrer.
+
+		sagen, helfen, gefallen, gehören, schmecken, danken, antworten, glauben
+
+		Maria glaubt dem Kind.			Mary believes the child.
+		Mir gefällt Berlin.			I like Berlin.
+		Ich antworte dir später.
+		Wir sagen niemandem, was wir machen.	We don't tell anyone what we're doing.
+		Anna antwortet einem Gast, einer Freundin, einem Mädchen.
+						
+				Nom.	Dat.
+				------------
+		der / m		x	em
+		das / n		x	em
+		die / f		e	er
+		die / p		e	en
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+8. Reflexive Verben (Dönüşlü Fiiler)
+	ich wasche mich.	I wash myself.
+	ich frage mich.		I wonder/ask myself
+
+		Nom.		Akk.
+		--------------------
+		ich		mich
+		du		dich
+		er/sie/es	sich
+		wir		uns
+		ihr		euch
+		sie/Sie		sich
+
+
+		sich waschen		to wash oneself
+		sich kämmen		to comb one's hair
+		sich verletzen		to hurt oneself
+		sich erkälten		to catch a cold
+		sich anstecken		to catch something (somebody else's illness) , to come down with something
+		sich schonen		to take it easy
+		sich beeilen		to hurry
+		sich kümmern (um)	to take care of
+		sich ärgern		to be annoyed
+		sich fühlen		to feel
+		sich wohl fühlen	to feel well
+		sich krank fühlen	to feel sick
+
+	Kann ich mich setzen?			Can I take a seat?
+	Der Arzt setzt sich.			The doctor sits down.
+	Wir waschen uns.			We are washing (ourselves).
+	Es ist kalt. Du erkältest dich.		It's cold. You'll catch a cold.
+	Warum ärgern Sie sich?			Why are you annoyed?
+	Ich stecke mich an.			I am catching something./I'm coming down with something.
+
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 9. Verben mit Präpositonen im Akkusativ und Dativ;
-Bazı fiiller prapositionen ile kullanır
+		Bazı fiiller präpositionen ile kullanır
+		Reflexive verben ile ilişkili. Kombinasyon olabilir..
+		Bu fiiller Treenbare verben değil... Karıştırılmamalı.
 
-10. Fragen mit Präpositonaladverbien;
-Bunun soruş biçimi
+	warten auf + akk.		birini/birşeyi beklemek
+	denken an + akk. 		birini/birşeyi düşünmek
+	sprechen mit + dat.		biriyle/birşeyle konuşmak
+	anfangen mit + dat.		birşeye başlamak
+
+	ich warte auf dich. Wann kommt du hier an?
+	ich warte auf einen Anruf von meinem Vater, fangt bitte ohne mich mit dem Essen an.
+		der -> akk -> -en
+	was machst du gerade? - Nichts, ich denke an dich
+	mit wem sprichst du? - ich spreche mit meiner Mutter
+
+
+	* mit her zaman dativ alır..
+
+	https://de.pons.com/daten/pdf/Praxis-Grammatik/01_Verben_mit_Praepositionen.pdf
+
+
+
+10. Fragen mit Präpositonaladverbien; (Üsteki konun soruş biçimleri)
+	Woran denkst du?
+	An was denkst du?
+
+	# Die zwei Möglichkeiten
+		1. Präpositionen + wen/wem/was
+		2. Wo(r) + Präpositionen
+
+	# Nach Personen fragen
+		- Akkusativpräpositionen + "wen"
+		auf		wen		warten wir?
+		an		wen		denkst du?
+
+		- Dativpräpositionen + "Wem"
+		mit		wem		tanzt du?
+		mit		wem		redet er?
+
+	# Nach Dingen fragen
+		- Wo(r) + Präposition
+		wovon		träumst du?
+		womit		machst du die Flasche auf?
+		woran		denkst du?
+
+		- Präposition + "was"
+		an	was	denkst du?
+		mit	was	machst du die Flasche auf?
+		Von	was	trämst du?
+
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 11. Perfekt der trennbaren Verben;
@@ -356,12 +434,70 @@ Ayrılabilen fiillerin perfect biçimleri - konuşma dilinde geçmiş
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-12. Die Modalverben im Präteritum;
-Yazı dilinde Geçmiş zamanda modal verben 
+12. Die Modalverben im Präteritum (Yazı dilindeki Geçmiş Zamanlı Modal Fiiller)
 
+				können		dürfen		sollen		müssen		wollen		mögen
+				-------------------------------------------------------------------------------------
+		ich		konnte		durfte		sollte		musste		wollte 		mochte 
+		du		konntest	durftest	solltest	musstest	wolltest	mochtest
+		er/sie/es 	konnte		durfte		sollte		musste		wollte		mochte
+		wir 		konnten		durften		sollten		mussten		wollten		mochten
+		ihr		konntet		durftet		solltet		musstet		wolltet		mochtet
+		sie/Sie		konnten		durften		sollten		mussten		wollten		mochten
+
+
+		Konnte Sigi das Paket abholen? ‑Nein, er durfte das Hotel nicht verlassen.
+		Du solltest gestern pünktlich zum Termin kommen.
+		Hallo Fred, wie war deine Konferenz gestern? ‑Super, ich konnte nach 5 Minuten gehen.
+		Musstest du keine Präsentation halten?
+		Nein, ich durfte es nicht, weil ich kein Englisch sprechen wollte.
+
+		
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-13. Verb: lassen;
-Bu fiilin kullanımı
+13. Das Verb "lassen"
+	# Das Verb lassen ist unregelmäßig. 
+
+		Präsens		lassen
+		---------------------
+		ich		lasse
+		du		lässt
+		er/sie/es	lässt
+		wir		lassen
+		ihr		lasst
+		sie/Sie		lassen
+
+
+		lass das!					leave it/stop it
+		warum lässt er das nicht?			why can't he let?
+
+		* Birşeyi başkasına yaptırtmak, sen değil, başkası yapıyor
+		er lässt (sich) sein Auto waschen		he has his car washed	 
+		sie lässt (sich) das Essen servieren		she has the food served
+		ich lasse mir die Haare schneiden		i'm going to the barber to cut my hair
+		er lässt sich ...
+		die Jacke ist zu schmutzig. Du must sie reinigen lassen.	the jacket is too dirty. You have to have them cleaned.
+			      so
+		ich lasse sie morgen reinigen				yıkatmak..
+		ich habe die Jacke reinigen lassen	--> geçmiş zaman, ama ge--t gelmez.. yoksa anlamı gider.
+
+
+	# als Hilfsverb (lassen konjugiert  + Infinitiv)
+		Du lässt deine Kleidung nicht auf dem Boden liegen. 	(= etwas zurücklassen)
+				You don't leave your clothes on the floor. 
+		Ich lasse meinen Hund im Bett schlafen. 		(= Erlaubnis / Permission)
+				I let my dog ​​sleep in the bed.
+		Ich habe mir die Haare schneiden lassen. 		(= etwas von jemandem machen lassen)
+				I got my hair cut.
+		Lasst uns nach Hause gehen! 				(= Vorschlag / Suggestion)
+				Let's go home
+
+	# Perfekt
+		Sie haben das Rauchen gelassen. 			They stopped smoking.
+		Ich habe meinen Hund im Bett schlafen lassen.		I let my dog ​​sleep in the bed.
+
+
+
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -400,7 +536,40 @@ Kıyaslama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 22. Genitiv bei Nomen;
-Sadece isimlerde genitiv yapmak
+	Nom. --> Yalın Hal
+	Akk. --> -i hali
+	Dat. --> -e hali
+	-de	Präposition + Akk./Dat.
+	-den	Präposition + Akk./Dat.
+
+		Nom.	Akk.	Dat.		Gen.
+		----------------------------------------
+	m	der	den	dem		des (+s)
+	n	das	das	dem		des (+s)
+	f	die	die	der		der
+	p	die	die	den (+n)	der
+
+	Genitiv ne zman kullanılır?
+	- wegen, aufgrund gibi praposition ile 
+	- isim tamlaması yaparken..
+
+	der Mann - des Mannes
+	das Mädchen - des Mädchens
+	die Frau - der Frau
+	die Männer - der Männer
+
+	der Hut des Mannes	the man's hat
+	die Tasche der Frau	the woman's bag
+	das Buch des Kindes	the child's book
+
+		 der
+	Er trägt den Mantel seines Vaters		he is wearing his father's coat
+	Die Tasche des Lehrers steht auf dem Tisch	the teacher's bag is on the table
+	Am Ende des Monats beginnen die Sommerkurse	at the end of the month the summer courses start
+	Das Verb steht am Ende des Satzes		the verb is at the end of the sentence
+
+
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
