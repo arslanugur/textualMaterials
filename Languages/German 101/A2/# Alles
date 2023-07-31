@@ -94,13 +94,13 @@ b) Personalpronomen im Dativ;
 		Nominativ	m/n		mein	dein	sein	ihr	sein	unser	euer	ihr
 				f/p		meine	deine	seine	ihre	seine	unsere	eure	ihre
 		
-		Dativ		m/n		meinem	deinem	seinem	ihrem	seinem	unserem	eurem	ihrem
-				f		meiner	deiner	seiner	ihrer	seiner	unserer	eurer	ihrer
-				p		meinen	deinen	seinen	ihren	seinen	unseren	euren	ihren
-		
-		Akkusative	m		meinen	deinen	seinen	ihren	seinen	unseren	euren	ihren
-				n		mein	dein	sein	ihr	sein	unser	euer	ihr
+		Akkusativ	m		meinen	deinen	seinen	ihren	seinen	unseren	euren	ihren
+		(-i,-u)		n		mein	dein	sein	ihr	sein	unser	euer	ihr
 				f/p		meine	deine	seine	ihre	seine	unsere	eure	ihre
+
+		Dativ		m/n		meinem	deinem	seinem	ihrem	seinem	unserem	eurem	ihrem
+		(-e, -a)	f		meiner	deiner	seiner	ihrer	seiner	unserer	eurer	ihrer
+				p		meinen	deinen	seinen	ihren	seinen	unseren	euren	ihren
 
 		Genitiv		m/n		meines	deines	seines	ihres	seines	unseres	eures	ihres
 				f/p		meiner	deiner	seiner	ihrer	seiner	unserer	eurer	ihrer
@@ -109,44 +109,40 @@ b) Personalpronomen im Dativ;
 
 
 		ich		Nominativ	mein Vater	meine Mutter	mein Kind	meine Eltern
-				Dativ		meinem Vater	meiner Mutter	meinem Kind	meinen Eltern
 				Akkusativ	meinen Vater	meine Mutter	mein Kind	meine Eltern
+				Dativ		meinem Vater	meiner Mutter	meinem Kind	meinen Eltern
 				Genitiv		meines Vaters	meiner Mutter	meines Kindes	meiner Eltern
 
 		du	   	Nominativ	dein Vater	deine Mutter	dein Kind	deine Eltern
-				Dativ		deinem Vater	deiner Mutter	deinem Kind	deinen Eltern
 				Akkusativ	deinen Vater	deine Mutter	dein Kind	deine Eltern
+				Dativ		deinem Vater	deiner Mutter	deinem Kind	deinen Eltern
 				Genitiv		deines Vaters	deiner Mutter	deines Kindes	deiner Eltern
 
 		er / es		Nominativ	sein Vater	seine Mutter	sein Kind	seine Eltern
-				Dativ		seinem Vater	seiner Mutter	seinem Kind	seinen Eltern
 				Akkusativ	seinen Vater	seine Mutter	sein Kind	seine Eltern
+				Dativ		seinem Vater	seiner Mutter	seinem Kind	seinen Eltern
 				Genitiv		seines Vaters	seiner Mutter	seines Kindes	seiner Eltern
 
 		sie		Nominativ	ihr Vater	ihre Mutter	ihr Kind	ihre Eltern
-				Dativ		ihrem Vater	ihrer Mutter	ihrem Kind	ihren Eltern
 				Akkusativ	ihren Vater	ihre Mutter	ihr Kind	ihre Eltern
+				Dativ		ihrem Vater	ihrer Mutter	ihrem Kind	ihren Eltern
 				Genitiv		ihres Vaters	ihrer Mutter	ihres Kindes	ihrer Eltern
 
 		wir		Nominativ	unser Vater	unsere Mutter	unser Kind	unsere Eltern
-				Dativ		unserem Vater	unserer Mutter	unserem Kind	unseren Eltern
 				Akkusativ	unseren Vater	unsere Mutter	unser Kind	unsere Eltern
+				Dativ		unserem Vater	unserer Mutter	unserem Kind	unseren Eltern
 				Genitiv		unseres Vaters	unserer Mutter	unseres Kindes	unserer Eltern
 
 		ihr		Nominativ	euer Vater	eure Mutter	euer Kind	eure Eltern
-				Dativ		eurem Vater	eurer Mutter	eurem Kind	euren Eltern
 				Akkusativ	euren Vater	eure Mutter	euer Kind	eure Eltern
+				Dativ		eurem Vater	eurer Mutter	eurem Kind	euren Eltern
 				Genitiv		eures Vaters	eurer Mutter	eures Kindes	eurer Eltern
 
-		sie	   	Nominativ	ihr Vater	ihre Mutter	ihr Kind	ihre Eltern
-				Dativ		ihrem Vater	ihrer Mutter	ihrem Kind	ihren Eltern
+		sie/Sie	   	Nominativ	ihr Vater	ihre Mutter	ihr Kind	ihre Eltern
 				Akkusativ	ihren Vater	ihre Mutter	ihr Kind	ihre Eltern
+				Dativ		ihrem Vater	ihrer Mutter	ihrem Kind	ihren Eltern
 				Genitiv		ihres Vaters	ihrer Mutter	ihres Kindes	ihrer Eltern
 
-		Sie		Nominativ	Ihr Vater	Ihre Mutter	Ihr Kind	Ihre Eltern
-				Dativ		Ihrem Vater	Ihrer Mutter	Ihrem Kind	Ihren Eltern
-				Akkusativ	Ihren Vater	Ihre Mutter	Ihr Kind	Ihre Eltern
-				Genitiv		Ihres Vaters	Ihrer Mutter	Ihres Kindes	Ihrer Eltern
 
 			Beispiele:
 				Meine Mutter ist jünger als seine Mutter.	Meine ist jünger als seine.
