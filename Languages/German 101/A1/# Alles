@@ -553,12 +553,12 @@ Belirli Artikeller, Belirsiz Artikeller
 
                 # Die Magie des Deutschen
         
-                           akk.       dat.               akk.        dat.                akk.        dat.
-                           ---------------               ----        ----                ----        ----
-                Der        den        dem                meinen      meinem              einen       einem    
-                Die        die        der                meine       meiner              eine        einer
-                Das        das        dem                mein        meinem              ein         einem
-                Die        die        den                meine       meinen              ---         ---
+                           akk.       dat.               akk.        dat.                akk.        dat.                akk.        dat.
+                           ---------------               ----        ----                ----        ----                ----        ----
+                Der        den        dem                meinen      meinem              einen       einem               diesen      diesem  
+                Die        die        der                meine       meiner              eine        einer               diese       dieser
+                Das        das        dem                mein        meinem              ein         einem               dieses *    diesem
+                Die        die        den                meine       meinen              ---         ---                 diese       diesen
 
 
                 Nom.        der Stuhl, die Lampe, das Buch, die Bücher
@@ -741,6 +741,17 @@ in den letzten jahren - in recent years
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+                           akk.       dat.               akk.        dat.                akk.        dat.                akk.        dat.                akk.              dat.
+                           ---------------               ----------------                ----------------                ----------------                ---------------------------
+                Der        den        dem                meinen      meinem              einen       einem               diesen      diesem              mich - beni       mir - bana
+                Die        die        der                meine       meiner              eine        einer               diese       dieser              dich - seni       dir - sana
+                Das        das        dem                mein        meinem              ein         einem               dieses *    diesem              sich - onu        sich - ona
+                Die        die        den                meine       meinen              ---         ---                 diese       diesen              uns  - bizi       uns - bize
+                                                                                                                                                         euch - sizi       euch - size
+                                                                                                                                                         sich - onları     sich - onlara
+
+
 # Verben mit Akkusativ (-i,-u)
 
 bestellen (hat bestellt) – to order: 
@@ -761,9 +772,10 @@ beantworten (hat beantwortet) – to answer, reply:
 buchen (hat gebucht) – to book: 
         Maria bucht einen Flug nach Deutschland. – Maria books a flight to Germany. 
         Wir haben ein günstiges Hotel gebucht. – We booked a cheap hotel.
-brauchen (hat gebraucht) – to need: 
+brauchen (hat gebraucht) – to need: ****
         Ich brauche deine Hilfe. – I need your help. 
         Sie braucht mich nicht mehr. – She doesn’t need me anymore.
+        ich brauche dich - I need you ****
 hören (hat gehört) – to hear, listen: 
         Hörst du das? – Do you hear that? 
         Wir haben nichts gehört. – We didn’t hear anything.
@@ -789,6 +801,14 @@ lesen (hat gelesen) – to read:
         Ich lese ein interessantes Buch. – I’m reading an interesting book. 
         Er hat die Zeitung gelesen. – He read the newspaper.
         Sie liest ein Buch. – She is reading a book.
+legen (hat gelegt) – to put, place: 
+        Ich lege das Buch auf das Tisch. – I put the book on the table. 
+        Sie hat ihre Tasche auf den Tisch gelegt. – She put her bag on the table.
+lieben (hat geliebt) – to love: 
+        Liebst du ihn? – Do you love him? 
+        Er hat mich nicht geliebt. – He didn’t love me.
+leiten - to lead, to conduct
+
 mögen (mochte – hat gemocht) – to like: 
         Ich mag deinen Freund nicht. – I don’t like your boyfriend. 
         Wie magst du deinen Kaffee? – How do you like (to have) your coffee?
@@ -839,9 +859,6 @@ finden (hat gefunden) – to find:
 holen (hat geholt) – to get, fetch: 
         Ich hole das Kleid aus dem Schrank. – I’ll fetch the dress from the closet. 
         Wir haben Pflanzen aus dem Keller geholt. – We took plants from the basement.
-legen (hat gelegt) – to put, place: 
-        Ich lege das Buch auf das Tisch. – I put the book on the table. 
-        Sie hat ihre Tasche auf den Tisch gelegt. – She put her bag on the table.
 stellen (hat gestellt) – to put, place: 
         Sie stellt die Vase auf den Tisch. – She puts the vase on the table. 
         Wir haben die Blumen in die Vase gestellt. – We put the flowers in the vase.
@@ -860,9 +877,6 @@ schreiben (hat geschrieben) – to write:
 schließen (hat geschlossen) – to close: 
         Ich schließe meine Augen. – I close my eyes. 
         Hast du die Fenster geschlossen? – Did you close the windows?
-lieben (hat geliebt) – to love: 
-        Liebst du ihn? – Do you love him? 
-        Er hat mich nicht geliebt. – He didn’t love me.
 wählen (hat gewählt) – to choose, elect: 
         Wir wählen ein Sofa für unsere neue Wohnung. – We are choosing a sofa for our new apartment. 
         Albanien hat ein neues Parlament gewählt. – Albania has elected a new parliament.
@@ -908,6 +922,8 @@ mieten - to rent
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Verben mit Dativ (-e, -a)
+
+sagen - to say
 
 antworten (antwortete – hat geantwortet) – to answer, respond
         Die Schülerin antwortet der Lehrerin. – The student answers the teacher.
@@ -1065,6 +1081,8 @@ schmeicheln (schmeichelte – hat geschmeichelt) – to flatter
 schenken (schenkte – hat geschenkt) – to give(a present)
         Was hast du ihm zum Geburtstag geschenkt? – What did you give him for his birthday?
         Ich habe meiner Frau die Blumen geschenkt. – I gave the flowers to my wife.
+
+schmecken - to taste
 
 schulden (schuldete – hat geschuldet) – to owe
         Mein Freund schuldet mir noch 10 Euro. – My friend still owes me 10 euros.
