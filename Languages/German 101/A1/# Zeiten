@@ -1,6 +1,9 @@
 # Präsens
 A1
 
+# Partizip Präsens
+B1
+
 
 # Passiv Präsens
 A2
@@ -21,9 +24,29 @@ A2
 
 # Passiv Präsens mit Modalverben
 B1
+      Formul: ... Modalverb ... + Partizip Perfekt + werden
+      
+          ein Tee muss heiß getrunken werden.                  tea must be drunk hot.
+
+      Beispiele:
+          Aktiv Präsens                                Passiv Präsens
+          -----------------------------------------------------------------------------
+          sie trinkt einen heißen Tee (A1)             ein heißer Tee wird getrunken (A2)
+          sie muss einen heißen Tee trinken (A1)       ein Tee muss heiße getrunken werden (B1)
+                                                       ein heißer Tee muss getrunken werden (B1)
+          ich schließe das Fenster                     das Fenster wird geschloßen                (Passiv Präsens)
+          ich muss das Fenster schließen               das Fenster muss geschlossen werden        (Passiv Präsens mit Modalverb)
+
+          du nimmst diese Medikamente auf nüchternen Magen ein.          diese Medikamente werden auf nüchternen Magen eingenommen         (Passiv Präsens)
+            bu ilaçları aç karnına alıyorsun.                                bu ilaçlar aç karnına alınır.
+          du sollst diese Medikamente auf nüchternen Magen einnehmen.    diese Medikamente sollen auf nüchternen Magen eingenommen werden  (Passiv Präsens mit Modalverb)     
+            bu ilaçları aç karnına almalısın.                                bu ilaçlar aç karnına alınmalı.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Perfekt
+
+# Partizip Perfekt
+B1
 
 # Passiv Perfekt
 B1
@@ -45,13 +68,14 @@ B1
             ------------------------------------------------------------------------------------------
             ich kaufe den Wagen                                  der Wagen wird gekauft
             der Arzt untersucht den Patienten vor der Op.        der Patient wird vor der Op. untersucht                untersuchen - muayene etmek (akk.)
-            sie schliesst die Türen ab                           die Türen werden abgeschlossen
+            sie schließt die Türen ab                            die Türen werden abgeschlossen
 
             Aktiv Perfekt                                        Passiv Perfekt
             -------------------------------------------------------------------------------------------
             ich habe den Wagen gekauft.                          der Wagen ist gekauft worden
             der Arzt hat den Patienten vor der Op. untersucht    der Patient ist vor der Op. untersucht worden
             sie hat die Türen abgeschlossen                      die Türen sind abgeschlossen worden
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Präteritum
@@ -134,8 +158,21 @@ B1 (alles)
 
 # Passiv Präteritum
 B1
+            Passiv Perfect Formul:      ... sein ...   + Partizip Perfekt + worden
+            Passiv Präteritum Formul:   ... wurden ... + Partizip Perfekt                  (Daha yaygın kullanılan geçmiş passiv)
 
 
+            Aktiv Perfekt                                        Passiv Perfekt
+            -------------------------------------------------------------------------------------------
+            ich habe den Wagen gekauft.                          der Wagen ist gekauft worden
+            der Arzt hat den Patienten vor der Op. untersucht    der Patient ist vor der Op. untersucht worden
+            sie hat die Türen abgeschlossen                      die Türen sind abgeschlossen worden
+
+            Aktiv Präteritum                                     Passiv Präteritum
+            -------------------------------------------------------------------------------------------
+                                                                 der Wagen wurde gekauft
+                                                                 der Patient wurde vor der Op. untersucht
+                                                                 die Türen wurden abgeschlossen
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Futur I
