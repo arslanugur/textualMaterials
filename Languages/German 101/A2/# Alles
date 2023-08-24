@@ -461,14 +461,15 @@ Dativ - B1'de öğretilir.
 
 
 	# Reflexivpronomen
-		Nom.		Akk.		Dat.
-		----------------------------------------
-		ich		mich		mir *
-		du		dich		dir *
-		er/sie/es	sich		sich
-		wir		uns		uns
-		ihr		euch		euch
-		sie/Sie		sich		sich
+		Nom.		Akk.		Dat.			Akk.		Dat.
+		----------------------------------------		-------------------------
+		ich		mich		mir *			mich		mir
+		du		dich		dir *			dich		dir
+		er/sie/es	sich		sich			ihn/sie/es	ihm/ihr/ihm
+		wir		uns		uns			uns		uns
+		ihr		euch		euch			euch		euch
+		sie/Sie		sich		sich			sie/Sie		ihnen/Ihnen
+
 
 	Ich wasche mich.		--> Akkusativ
 	Ich wasche mir die Hände.	--> Dativ
