@@ -36,10 +36,11 @@
     Lesson 2: Expediting YouTube Monetization
     Lesson 3: Community Growth - Injecting Personality
     Lesson 4: How To Do Channel Reviews
-# Module 7: Moving Forward
+# Module 7: Moving Forward (Youtube Monetization)
     Lesson 1: Video Just Exploded (Watch This) 
     Lesson 2: Videos Are Not Going Viral (Watch This)
-
+# Advanced Scaling Strategies
+# FAQ
 
 
 
