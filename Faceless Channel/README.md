@@ -1,3 +1,4 @@
+# The Birds-Eye View of the Program
 # Module 1: Mindset and Fundamentals
     Lesson 1: Journey To 6-Figures 
     Lesson 2: Mastering Your Mindset 
