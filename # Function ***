@@ -1,0 +1,58 @@
+# FUNCTION
+
+Input/Output Relationship
+- Constants
+- Variables/Attributes
+          1. Name
+          2. Type
+          3. Value
+
+Results what you want to see  
+- Minimization
+- Maximization
+- Optimization
+
+
+Examples: Feel the Need
+- Variable Speed for a Shave Machine
+- Variable Voice for a Phone
+
+
+Hayatta herşey bir fonksiyondur. Minimize ettiğin maksimize ettiğin ya optimize ettiğin
+  - arabayla giderken hızını tutturmak: girdi, gaz çıktı arabanın hızı ortasını bulmaya çalışırsın
+  - havadurumu: girdi basınç sıcaklık çıktı derecesi
+  - borsa neye oynarsam ne gelir
+  - ev fiyatları
+  - Sağlığın: girdi kan değerleri, şeker ölçümü, testler çıktı hastasın ölüyorsun ya da ne kanseri var
+  - partner seçimi: bişeyi maximize etmeye çalışırsın en iyi çocuğu versin iyi bir arkadaşlık kuralım girdi yaş, dil, sevdiği film çıktı şu kız mı o kız mı
+  - satışı maksimize et girdi veri çıktı hangi durumlar daha verimli
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Mathematics
+  Matematik, evren ile ilgili çok fazla veriyi sıkıştırıp, sadeleştirip daha az veriyle onları anlama sanatıdır. Bir modellemedir.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# ABSTRACTION
+Soyutlama; Fikirlerin, nesnelerden uzaklaştırılması sürecine denir.
+Gerçekte başlıbaşına varlığı olan bir şeyi, maddesinden sıyırarak, soyarak düşünmek, tasarlamak; gerçekte ayrılamaz olanı zihinde, düşüncede ayırmak.
+
+Soyutlama, bir basitleştirme stratejisi olarak kullanılabilir. 
+          Örneğin birçok nesne kırmızı olabilir. 
+          Bu açıdan, bir nesneye ait kırmızılık özelliği bir soyutlamadır.
+
+Bir hisse senedini ele alalım
+          bir canlı, organizmalar gibidir, mesela serçe...
+          biz o serçe için gelişme bazlı soyutlama yaparız.
+          serçenin kendisine çok benzeyen bir soyutlamadır bu.
+          göç şekilleri, rüzgarı, havayı ve diğer değişkenleri dikkate alırız.
+          
+          hissede de benzer bir soyutlama yaparız, 
+          temel bağımlılıklarını temsil eden spesifik borsa yatırımı fonlarından aldığımız bilgileri birleştiririz.
+          bunu hisseye uygularsak soyut versiyonunda yola çıkarak delta değerini tahmin edebiliriz.
+          çünkü doğa soyutlamayı takip eder..
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
