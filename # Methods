@@ -374,7 +374,35 @@ Kimin Parasını Harcıyorsunuz?	Kendinize ait		Fiyat ve kalite birlikte dikkate
 	A vitality curve is a performance management practice that calls for individuals to be ranked or rated against their coworkers. 
 	It is also called stack ranking, forced ranking, and rank and yank. Pioneered by GE's Jack Welch in the 1980s, it has remained controversial. 
 	Numerous companies practice it, but mostly covertly to avoid direct criticism.
+
+	Seviye Belirleme
+
+# Vitality Curve Example
+                        	                  Eylül
+                                	          Ekim
+                                        	  Kasım
 	
+	                                           GÜZ                   YAZ
+	                                         --------              --------
+	Age    Class *                           W1 W3 W5              W2 W4 W6
+	                                         T1 T3 T5              T2 T4 T6
+	--------------------------------------------------------------------------------
+				low	average		top
+	Primary      	-------------------------------------
+	6-7     	1.          	W1      	W2            1.sınıf sts yapılmadan ---> W1 
+	8-9     	2.          	W2      	W3            Anaokul geçmişi varsa  ---> W2'den başlar
+	        	3.	W2     	W3      	W4
+        		4.   	W4     	W5      	W6            orta okula gelene kadar Welcome bitmeli, 4.sınıfta Teen başlayabilir. ama önceden varsa yoksa W5 W6
+	Secondary    	-------------------------------------
+	        	5.          	T1      	T2
+	        	6.   	T2     	T3      	T4	T5 (Wunderkind)
+	12-13-14   	7.          	T3      	T4
+	        	8.          	T5      	T6            Teen Advanced        A1 kitabı kullanabiliyorsa başlat, kullanamıyorsa T3 T4
+	Adult        	------------------------------------
+	        	9.          	A1		A2
+
+
+
 🔻 False Positive vs. False Negative (Steve Yegge's Rule)
 		Boolean Algebra
 		
