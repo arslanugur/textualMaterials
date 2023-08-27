@@ -1,0 +1,270 @@
+# HOLDİNGLER
+TKFEN
+DEVA
+KCHOL            döviz fazlası
+    AYGAZ
+    ARCLK        ihracatı güçlü        Dayanıklı Tüketim Malları
+    FROTO        ihracatı güçlü        Dayanıklı Tüketim Malları
+    MAALT
+    OTKAR        savunma        ihracatı güçlü        Dayanıklı Tüketim Malları
+    TATGD
+    TOASO                            Dayanıklı Tüketim Malları
+    TUPRS
+    TTRAK
+    YKBNK
+
+
+SAHOL            döviz fazlası
+    BRISA
+    CIMSA
+    ENJSA
+
+ALARK            ihracatı güçlü
+
+AKCNS        inşaat
+
+# DEMİR ÇELİK
+KRDMA
+
+
+VESBE        elektronik        ihracatı güçlü
+ZOREN        enerji
+
+
+
+
+
+# YATIRIM ORTAKLIKLARI
+ECZYT
+ZRGYO
+BFREN
+
+
+# GIDA
+YYLGD
+ULKER
+
+
+# BANKALAR
+QNBFB
+GARAN
+AKBNK
+YKBNK
+VAKBN
+HALKB
+TSKB
+
+# ELEKTRİK
+ODAS
+
+# HAVACILIK
+THYAO        ihracatı güçlü
+PGSUS
+TAVHL
+
+# SİGORTA
+ANHYT
+
+
+# OTOMOTİV
+FROTO        ihracatı güçlü
+TTRAK        döviz fazlası
+TOASO
+ASUZU
+BFREN
+
+# LOJİSTİK
+RYSAS
+
+# SANAYİ
+SASA
+
+
+# TELEKOMUNİKASYON
+TCELL
+
+
+QNBFL        leasing
+
+
+ASELS        savunma    yüksek sipariş
+AGHOL
+AKSEN
+ALFAS
+AKSA
+ANSGR
+AKFYE
+
+BIMAS
+CWENE
+DOHOL
+EREGL
+ECILC
+ENKAI
+AEFES
+
+KLRHO
+KONYA
+KLNMA
+NUHCM
+
+SISE        döviz fazlası
+SELEC
+SOKM
+TURSG
+
+SMRTG
+GESAN
+OTKAR
+EUPWR        yüksek sipariş
+
+ISDMR
+KENT
+GUBRF
+CCOLA
+TTKOM
+KOZAL
+BRSAN
+OYAKC
+HEKTS
+INVES
+MGROS
+ISMEN
+DOAS        döviz fazlası
+KONTR        yüksek sipariş
+BRYAT
+KLSER
+PETKM
+MPARK
+KOZAA
+EGEEN
+VESTL
+CLEBI
+KMPUR
+CVKMD
+QUAGR
+TBORG
+SDTTR
+MAVI
+POLTK
+GENIL
+OYYAT
+EUREN
+SARKY
+
+
+
+
+
+    Future Stocks:
+    ASTOR    yüksek sipariş
+    TCELL
+    CCOLA    (İhracat)
+    AKSA
+    FROTO
+    THYAO
+
+
+    SISE        Dayanıklı Tüketim Malları
+
+    EGEEN        İhracat yüksek
+    ANGEN        İhracat yüksek
+    TLMAN        İhracat yüksek
+    VESBE        İhracat yüksek        Dayanıklı Tüketim Malları
+    JANTS        İhracat yüksek
+
+    VESTL        Dayanıklı Tüketim Malları
+    ADEL         Dayanıklı Tüketim Malları
+
+    Enerji: ENJSA, AKSEN, ODAS Elektrik, Alarko Holding (İhracat), CW Enerji, SMRTG, ASTOR, ALFAS, GESAN, ZOREN, MAGEN
+
+    Yenilenebilir Enerji: GESAN, KONTR, SAHOL, AKSEN, YEOTK, SMRTG (yüksek sipariş), ENJSA, HUNER, ZOREN, GWIND, KCHOL, MAGEN
+    Elektrik: PRKAB, BRLSM, GEREL
+              ALFA, MAGEN, SMRTG, PAMEL, AKENERJI, BIOEN
+    Ulaşım/Ulaştırma: PGSUS, TAV (İhracat), THYAO (İhracat)
+    Tekstil: AKSA, SASA
+    Bilişim/Teknoloji:
+    Kimya:
+    Metal:
+    Turizm:
+    Cam/Seramik: QUAGR, EGSER, SISE 
+    Çimento: CIMSA (İhracat), BUCIM, BTCIM
+    Demir: Erdemir
+    Gıda: ULUUN (İhracat), YYLGD (İhracat)
+    Tarım: GUBRF, HEKTS
+
+    Yabancı Yatırımcı Alımları:
+    TOASO, AEFES, KCHOL, ULKER, CCOLA, KLRHO, ENJSA, BIGCH, YKBNK, BRSAN
+
+CART STOCKS
+    Petkim        10 LOT
+    TCELL        8 LOT
+    Vestel        6 LOT
+    BIMAS        2 LOT
+
+    TTKOM        16 LOT
+    SISE        8 LOT
+    HEKTAS        3 LOT
+    ARCLK         2 LOT
+
+
+
+
+
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Stock Types
+    Growth
+    Dividend
+    Blue Chip
+    Cyclical
+    Defensive
+    Speculative
+
+NASDAQ %50
+    MSFT
+    AAPL
+    GOOGL
+    AMZN
+    NVDA
+    META
+    Tesla
+
+    PG
+    PEP
+    SBUX
+    UPS
+    MA
+    VCX
+    
+David Tepper Portfolio
+    CEG, GOOG, AMZN, M, ET, EQT, UNH, META, MSFT, HCA, CRM, AR
+
+
+Eleven Sectors in S&P 500
+    Information Technology
+    Customer Discretionary
+    Communication Services
+    Customer Staples
+    Real Estate
+    Utilities
+    Health Care
+    Energy
+    Materials
+    Financials
+    Industrials
+
+
+
+
+
+
+
+
+
+
+
