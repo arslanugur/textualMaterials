@@ -3,9 +3,9 @@
                                                                         -ar, -er
                                                                         -iyor
          -mıştı                           -dı                           -acak, -ecek                   -acak, -ecek
-        🔵-------------------------------🔵-----------------------------🟡 - - - - - - - - - - - - - - 🔵
+        🔵-------------------------------🔵-----------------------------🔴 - - - - - - - - - - - - - - 🔵
         * plusquamperfekt                * perfekt                       * präsens                      * futur I
-          (eylem önceliği)               * präteritum                                                   * futur II
+          (eylem önceliği)               * präteritum                                                   * futur II (-acaktı)
           (präteritum + perfekt)
 
 
@@ -20,12 +20,36 @@
               Futur I:                                        werden                + Infinitiv
               Futur II:                                       werden                + Partizip Perfekt    + sein/haben
               Plusquamperfekt                                 waren/hatten          + Partizip Perfekt 
+ 
 
+
+
+              Präsens              sie spielt Schach.                  O, satranç oynar/oynuyor/oynayacak.
+              Perfekt              sie hat Schach gespielt.            O, satranç oynadı.           
+              Präteritum           sie spielte Schach.                 O, satranç oynadı.
+              Plusquamperfekt      sie hatte Schach gespielt.          O, satranç oynamış/oynamıştı.
+              Futur 1              sie wird Schach spielen.            O, satranç oynayacak.
+              Futur 2              sie wird Schach gespielt haben.     O, satranç oynayacaktı.
+
+              Präsens              sie bleibt zu Hause.
+              Perfekt              sie ist zu Hause geblieben.
+              Präteritum           sie blieb zu Hause.
+              Plusquamperfekt      sie war zu Hause geblieben.
+              Futur 1              sie wird zu Hause bleiben.
+              Futur 2              sie wird zu Hause geblieben sein.
+
+              Präsens              ich gehe ins Kino.
+              Perfekt              ich bin ins Kino gegangen.
+              Präteritum           ich ging ins Kino.
+              Plusquamperfekt      ich war ins Kino gegangen.
+              Futur 1              ich werde ins Kino gehen.
+              Futur 2              ich werde ins Kino gegangen sein.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Präsens
 A1
       Beispiele:
+            Morgens stehe ich immer um 8 Uhr auf
             Ich spiele Fußball.                        (I play soccer.)
             Ich gehe zur Schule.                       (I am going to school.)
             Wir essen heute Abend Pizza.               (We are eating pizza tonight.)
@@ -37,6 +61,15 @@ A1
             Mein Bruder lernt Deutsch.                 (My brother is learning German.)
             Sie singt wunderschön.                     (She sings beautifully.)
             Wir besuchen oft unsere Großeltern.        (We often visit our grandparents.)
+            In Deutschland spricht man Deutsch
+
+            Was machst du gerade?
+            Ich lerne gerade Deutsch
+            Ich gehe gerade spazieren
+
+            Am Montag fliege ich nach Spanien
+            Am Wochenende treffe ich eine Freundin
+
 
 
 # Modal Verben (Präsens)
@@ -149,15 +182,21 @@ B1
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Perfekt
 
-        Präsens        haben
+        Präsens        sein      haben
         ---------------------------------
-        ich            habe
-        du             hast *
-        er/sie/es      hat *            +        Partizip Perfekt
-        wir            haben
-        ihr            habt
-        sie/Sie        haben
+        ich            bin       habe
+        du             bist      hast *
+        er/sie/es      ist       hat *            +        Partizip Perfekt (Partizip 2)
+        wir            sind      haben
+        ihr            seid      habt
+        sie/Sie        sind      haben
 
+
+            ich bin gelaufen
+            ich bin gefahren
+            ich bin gerannt
+            ich bin aufgestanden        ich bin gestern um 8 Uhr aufgestanden
+              und so wieder (usw.)
 
 
         Beispiele:
@@ -172,7 +211,8 @@ B1
             Sie hat gestern mit ihrem Freund telefoniert.                              (She talked on the phone with her boyfriend yesterday.)
             Habt ihr den Film schon gesehen?                                           (Have you all seen the movie yet?)
             Er hat viel für die Prüfung gelernt.                                       (He studied a lot for the exam.)
-
+            Sie hat gestern zwei Stunden Deutsch gelernt.
+            
 
 # Passiv Perfekt
 B1
@@ -206,14 +246,16 @@ B1
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Präteritum
 A2 (war - hatte)
-                            sein                   haben
-                            ------                 ------
-    ich            bin      war            habe    hatte
-    du             bist     warst          hast    hattest
-    er/sie/es      ist      war            hat     hatte
-    wir            sind     waren          haben   hatten
-    ihr            seid     wart           habt    hattet
-    sie/Sie        sind     waren          haben   hatten
+                  
+                   Präsens      sein                   haben
+                   Präteritum   waren                  hatten
+                                ------                 ------
+    ich            bin          war            habe    hatte
+    du             bist         warst          hast    hattest
+    er/sie/es      ist          war            hat     hatte
+    wir            sind         waren          haben   hatten
+    ihr            seid         wart           habt    hattet
+    sie/Sie        sind         waren          haben   hatten
 
     Beispiele:
         Heute ist Dienstag                        gestern war Montag
@@ -233,13 +275,32 @@ A2 (war - hatte)
         Während des Urlaubs entspannten wir uns am Strand.     (During the vacation, we relaxed on the beach.)
         Sie trugen gestern Abend ihre besten Kleider.          (They wore their best clothes last night.)
         Der Zug kam pünktlich an.                              (The train arrived on time.)
+        Ich stand gestern um 8 Uhr auf
 
+        Ich war gestern im Kino                  Präteritum
+        Ich bin gestern im Kino gewesen *        Perfekt
+
+        Früher hatte ich ein Auto                Präteritum
+        Früher habe ich ein Auto gehabt          Perfekt
+
+
+        Gemischte Verben: rennen, brennen, bringen, kennen, wissen
+        Er rannte schnell zum Bus                Präteritum
+        Er ist schnell zum Bus gerannt           Perfekt
+
+        Ich wusste das leider nicht              Präteritum
+        Ich habe das leider nicht gewusst        Perfekt
+
+
+        
+        
 
 
 # Modalverben (Präteritum)
 A2
 
-                Präteritum      wollen    müssen    sollen    dürfen      mögen        können
+                Präsens         wollen    müssen    sollen    dürfen      mögen        können
+                Präteritum      wollten   mussten   sollten   durften                  konnten              
                 -----------------------------------------------------------------------------
                 ich             wollte		musste		sollte		durfte      mochte       konnte
                 du              wolltest	musstest	solltest	durftest    mochtest     konntest
@@ -256,8 +317,10 @@ A2
         in der Schule muss ich viel lernen aber ich habe wenig Lust       Präsens
         in der Schule musste ich viel lernen aber ich hatte wenig Lust    Präteritum
 
-        Er ging gestern ins Kino.             (He went to the cinema yesterday.)
+        Gestern wollte ich ins Kino gehen, aber ich hatte keine Zeit
+        Am Samstag musste ich arbeiten
 
+        
 
 B1 (alles)
 
@@ -326,6 +389,39 @@ B1
                   Das Auto wurde in der Werkstatt repariert.          (The car was repaired in the workshop.)
                   Die Geschichte wurde oft erzählt.                   (The story was told frequently.)
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Plusquamperfekt
+B1
+    Präteritum + Perfekt = Plusquamperfekt
+
+     -mıştı                        -dı
+    🔵----------------------------🔵----------------------------🔵----------------------------🔵
+    plusquamperfekt                perfekt                       präsens                       futur I
+    (eylem önceliği)               präteritum                                                  futur II
+    
+
+
+    Präteritum     +     Perfekt Partizip II
+    ----------           -------------------
+    waren                gekommen
+                         gegangen
+    hatten               gegessen
+                         geplant
+
+    
+
+    Beispiele:
+        der Fahrer hatte Alkohol getrunken (plusquamperfekt), deswegen ist der Unfall passiert. (perfekt)            sürücü alkol içmişti, bu yüzden kaza oldu.
+        ich bin heute sehr spät zur Arbeit gekommen (perfekt). ich hatte zu lange geschlafen. (plusquamperfekt)      bugün işe çok geç geldim. Gereğinden fazla uyumuşum.
+        um sieben Uhr war ich im Bahnhof. Aber der Zug war schon weggefahren.                                        saat yedide istasyonun içindeydim. ama tren çoktan hareket etmişti.
+        in der Kantine konnte ich nicht bezahlen. Ich hatte meinem Geldbeutel vergessen                              Kantinde ödeme yapamadım. (çünkü) cüzdanımı unutmuştum.
+        ich hatte bereits gegessen, als er ankam.                                                                    I had already eaten when he arrived.
+
+        Nachdem ich gestern geduscht hatte, habe ich eine Freundin getroffen
+        Gestern war ich im Kino. Davor hatte ich mit meiner Mutter telefoniert
+        Am Montag musste ich um 12 Uhr arbeiten. Davor war ich zu Hause gewesen
+
+        ...........
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Futur I
@@ -387,7 +483,10 @@ A1
 
     Beispiele:
         Wir werden morgen einkaufen gehen.             (We will go shopping tomorrow.)
-        ........
+        Am Montag werde ich meine Oma besuchen
+        Ich werde wohl/wahrscheinlich Andreas besuchen
+
+        
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -405,6 +504,8 @@ B1
 
 
       Beispiele:
+          Nächstes Jahr im Juni werde ich meine Frau geheiratet haben
+          Ende des Jahres werde ich mein Studium abgeschlossen haben.
           Ich werde das Buch gelesen haben, bevor du zurückkommst.                         (I will have read the book before you come back.)
           Bis nächste Woche werden wir den Film gesehen haben.                             (By next week, we will have watched the movie.)
           Bis nächste Woche wird sie ihr Buch fertig gelesen haben.                        (By next week, she will have finished reading her book.)
@@ -418,49 +519,30 @@ B1
           Bis zum Ende des Monats wird er das Buch dreimal gelesen haben.                  (By the end of the month, he will have read the book three times.)
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Plusquamperfekt
-B1
-    Präteritum + Perfekt = Plusquamperfekt
-
-     -mıştı                        -dı
-    🔵----------------------------🔵----------------------------🔵----------------------------🔵
-    plusquamperfekt                perfekt                       präsens                       futur I
-    (eylem önceliği)               präteritum                                                  futur II
-    
+          Was hat Anne gestern gemacht?      sie wird wohl zu Hause gewesen sein
+                                             sie wird wahrscheinlich in der Uni gelernt haben
 
 
-    Präteritum     +     Perfekt Partizip II
-    ----------           -------------------
-    waren                gekommen
-                         gegangen
-    hatten               gegessen
-                         geplant
-
-    
-
-    Beispiele:
-        der Fahrer hatte Alkohol getrunken (plusquamperfekt), deswegen ist der Unfall passiert. (perfekt)            sürücü alkol içmişti, bu yüzden kaza oldu.
-        ich bin heute sehr spät zur Arbeit gekommen (perfekt). ich hatte zu lange geschlafen. (plusquamperfekt)      bugün işe çok geç geldim. Gereğinden fazla uyumuşum.
-        um sieben Uhr war ich im Bahnhof. Aber der Zug war schon weggefahren.                                        saat yedide istasyonun içindeydim. ama tren çoktan hareket etmişti.
-        in der Kantine konnte ich nicht bezahlen. Ich hatte meinem Geldbeutel vergessen                              Kantinde ödeme yapamadım. (çünkü) cüzdanımı unutmuştum.
-        ich hatte bereits gegessen, als er ankam.                                                                    I had already eaten when he arrived.
 
 
-        ...........
-    
+
+
+
+
+
+
+
+
+
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Konjunktiv II - Wünsche (Dilek-Şart Kipi: -se,-sa)
   A1
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Konjunktiv II - Wünsche (Dilek-Şart Kipi: -se,-sa)
   A2
 
-
     wäre, hätte, würde
-
 
     sein            Präsens       Präteritum       Konjunktiv II
     --------------------------------------------------------------
