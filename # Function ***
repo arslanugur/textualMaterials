@@ -1,13 +1,14 @@
-# FUNCTION
+# FUNCTION / İŞLEV
 
-Input/Output Relationship
+Input/Output Relationship                           Basitce girdileri ve çıktıları olan makine gibidir. Fonksiyon, Girdi ile Çıktı arasındaki ilişkiyi gösterir.
+
 - Constants
-- Variables/Attributes
+- Variables/Attributes                              Değişken'e çeşitli değerler verilerek işlemin sonucu elde edilir... Değişken 3 boyutlu olarak düşünülür.
           1. Name
           2. Type
           3. Value
 
-Results what you want to see  
+Results what you want to see                        Değişkenler işleme girer, ihtiyaçları karşılar...
 - Minimization
 - Maximization
 - Optimization
@@ -18,15 +19,33 @@ Examples: Feel the Need
 - Variable Voice for a Phone
 
 
-Hayatta herşey bir fonksiyondur. Minimize ettiğin maksimize ettiğin ya optimize ettiğin
-  - arabayla giderken hızını tutturmak: girdi, gaz çıktı arabanın hızı ortasını bulmaya çalışırsın
-  - havadurumu: girdi basınç sıcaklık çıktı derecesi
-  - borsa neye oynarsam ne gelir
-  - ev fiyatları
-  - Sağlığın: girdi kan değerleri, şeker ölçümü, testler çıktı hastasın ölüyorsun ya da ne kanseri var
-  - partner seçimi: bişeyi maximize etmeye çalışırsın en iyi çocuğu versin iyi bir arkadaşlık kuralım girdi yaş, dil, sevdiği film çıktı şu kız mı o kız mı
-  - satışı maksimize et girdi veri çıktı hangi durumlar daha verimli
+Hayatta herşey bir fonksiyondur. Minimize ettiğin maksimize ettiğin ya optimize ettiğin. (Fonksiyonların günlük hayatımızdaki yeri ve kullanımı:)
+          - arabayla giderken hızını tutturmak: girdi, gaz çıktı arabanın hızı ortasını bulmaya çalışırsın
+          - havadurumu: girdi basınç sıcaklık çıktı derecesi
+          - borsa neye oynarsam ne gelir
+          - ev fiyatları
+          - Sağlığın: girdi kan değerleri, şeker ölçümü, testler çıktı hastasın ölüyorsun ya da ne kanseri var
+          - partner seçimi: bişeyi maximize etmeye çalışırsın en iyi çocuğu versin iyi bir arkadaşlık kuralım girdi yaş, dil, sevdiği film çıktı şu kız mı o kız mı
+          - satışı maksimize et girdi veri çıktı hangi durumlar daha verimli
+	- Borsa grafikleri, paranın, dövizin, altının, petrolün değişim değerlerinin hesaplanması ve tüm grafik gösterimlerinde fonksiyonlar kullanılır.
+	- Araçların hızı bir fonksiyon şeklinde ifade edilir.Bunun avantajı yakıt tüketimini kolayca hesaplanabilmesini sağlar.
+	- Bir çok makina,elektrikli cihazlardaki özellikler fonksiyonlar sayesinde yapılır.
+	- Araçlardaki özellikle otobüslerdeki raylı koltuk sistemi fonksiyonlar ile hesaplanmaktadır.
+	- Bilgisayarda kullanılan programların çoğunda fonksiyonlar kullanılmaktadır.
 
+
+
+Fonksiyon, birşey'i bişey'e götüren değildir... Birşey tarafından, başka birşey tarafına götürülen birşeydir.
+          	 
+Fonksiyon, Matematikte değişken sayıları girdi olarak kabul edip bunlardan bir çıktı sayısı oluşmasını sağlayan kurallardır. Bir işlem türüdür.
+	Fonksiyonların görevi, karmaşık işlemleri bir araya toplayarak, bu işlemleri tek adımda yapmamızı sağlamaktır. 
+	Fonksiyonlar, çoğu zaman bir şablon vazifesi görür. Fonksiyonlar ile bir veya birkaç adımdan oluşan işlemleri tek bir isim altında toplayabiliriz.
+	İşlev, diğer bir adıyla fonksiyon, en basit tanımı ile, ortaya konan ürünün bir amaca hizmet etmesidir. Diğer bir tanımla, referans ettiği şeyin sonucudur.
+
+Örneğin toplama işlemi için bir fonksiyon tasarlayabilirsiniz.
+	fonksiyon kullanarak bu işi yapmanızın avantajı tekrar tekrar toplama işlemini tanımlamak yerine sadece işlem yapılacak değerleri göndererek kullanım kolaylığı sağlamaktır.
+	yani denklem kurma. her fonksiyon bir denklemdir ama her denklem bir fonksiyon değildir.
+	
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Mathematics
@@ -54,5 +73,78 @@ Bir hisse senedini ele alalım
           çünkü doğa soyutlamayı takip eder..
 
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# INHERITANCE
+          Kalıtım
+
+          Types of Inheritance
+          - Single Inheritance
+          - Multiple Inheritance
+          - Multilevel Inheritance
+          - Hierarchical Inheritance
+          - Hybrid Inheritance
+
+
+                                         -----> Class C
+                                        |
+          Class A -----> Class B ----->
+                                        |
+                                         -----> Class D
+
+                         -------------------------------> Hierarchical Inheritance
+          -----------------------> Single Inheritance 
+
+
+
+                                ------------------------------> Multiple Inheritance
+
+                         -----> Class B ---->
+                        |                    |
+          Class A ----->                       -----> Class D
+                        |                    |
+                         -----> Class C ---->
+
+          -----------------------------> Hierarchical Inheritance
+          ----------------------------------------------------> Hybrid Inheritance
+
+
+          -------------------------------------> Multilevel Inheritance
+          Class A -----> Class B -----> Class A 
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# POLYMORPHISM
+          Çok-Biçimlilik
+
+
+          Animals          speak()      w Loud / Normal / Low 
+                                        -------------------
+                                        voice
+
+                              inheritance
+          -------------------------------------------------
+          Main     Sub          Sub          Sub
+          Class    Class        Class        Class
+          -------  ----------   -----------  ------------
+          Animals: dog.speak(), cat.speak(), bird.speak()     
+          Voice:   loud.speak(), normal.speak(), low.speak()
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# ENCAPSULATION
+   Data Hiding
+
+                     ____
+                    |
+                    |                class
+     encapsulation  |      -------------------------
+                    |     |   variables + methods   |
+                    |
+                    |____
+          
+
+
+
+
 
