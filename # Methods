@@ -86,36 +86,24 @@ Metot ve Fonksiyon Nedir?
 	Nasıl/How?
 	Metod = bir sınıfa/nesneye bağlı function, illa bir değer döndürmesi gerekir yoksa func olmaz
 	Function = İşlev --> 	bir yerde fonksiyon varsa bilim de vardır...
-				değişkenler işleme girer, ihtiyaçları karsılar...
 				belirli ilişkiler sistemi içindeki objelerin özelliklerinin dış tezahürü.
 				bir değişkene bağlı işlemler topluluğuna verilen isimdir. 
 
-				değişken'e çeşitli değerler verilerek işlemin sonucu elde edilir... 
 				grafiği çizilir turev'i alınır... 
-				ve bişey'i bişey'e götüren değildir... 
-				birşey tarafından başka birşey tarafına götürülen bişeydir...
-	
-				basitce girdi ve ciktilari olan makine gibidir. girdi ile cikti arasindaki iliskiyi gosterir.
-	
+		
 	Zamanla değişen bir fiziksel olgunun matematiksel olarak ifade edilmesidir. notasyonu f(x)'tir. 
 	dependent value (function) olarak da tanımlanabilir. 
 	x ise independent value ya da argument olarak tanımlanır. 
 	x'in alabileceği değerler kümesi domain, f'nin alabileceği değerler kümesi range'dir.
-	
-	
+		
 	matematikte dört işlemden sonra gelen, değişken sayıları girdi kabul edip bunlara karşılık bir çıktı sayısı bulan beşinci işlem türüdür. kümeler kuramının varlık sebebi denebilir.
 	
 	programlama dillerinde belli bir işi yapmak üzere özelleşmiş yapılar olarak ifade edilebilir.
 
-	örneğin toplama işlemi için bir fonksiyon tasarlayabilirsiniz.
-	fonksiyon kullanarak bu işi yapmanızın avantajı tekrar tekrar toplama işlemini tanımlamak yerine sadece işlem yapılacak değerleri göndererek kullanım kolaylığı sağlamaktır.
-	yani denklem kurma. her fonk denlem ama her denklem fonksiyon değildir
 	
-	işlev.
 	girilen n sayıdaki parametreyi alıp, enkapsüle edilmiş bir mantık çerçevesinde "tek bir sonuç" 
 	(değer değil bakınız, sonuç diyorum... birden fazla değeri kapsayan bir sonuç da üretebilir) üreten ve çağrıldığı noktaya döndüren yapısal bloklardır.
 	programlama dillerinde statement'lar grubunda incelenir.
-
 	
 	sayi tahmin etme oyunlarinda kullanilan islev.
 		herhangi bir x degisken olsun. cesitli islemlere sokan f(x) tanimlayin. 
@@ -125,18 +113,8 @@ Metot ve Fonksiyon Nedir?
 		daha sonra sonucu size soylesin. 
 		siz de denklemi cozun ve karsi tarafin aklindan tuttugu sayi olan x'i bulun ve karsi tarafa soyleyin.
 
-	Fonksiyon, matematikte değişken sayıları girdi olarak kabul edip bunlardan bir çıktı sayısı oluşmasını sağlayan kurallardır. Bir işlem türüdür.
-	Fonksiyonların görevi, karmaşık işlemleri bir araya toplayarak, bu işlemleri tek adımda yapmamızı sağlamaktır. Fonksiyonlar, çoğu zaman bir şablon vazifesi görür. Fonksiyonlar ile bir veya birkaç adımdan oluşan işlemleri tek bir isim altında toplayabiliriz.
-	İşlev, diğer bir adıyla fonksiyon, en basit tanımı ile, ortaya konan ürünün bir amaca hizmet etmesidir. Diğer bir tanımla, referans ettiği şeyin sonucudur.
+	
 
-	Fonksiyonların günlük hayatımızdaki yeri ve kullanımı:
-	1-Borsa grafikleri, paranın, dövizin, altının, petrolün değişim değerlerinin hesaplanması ve tüm grafik gösterimlerinde fonksiyonlar kullanılır.
-	2-Araçların hızı bir fonksiyon şeklinde ifade edilir.Bunun avantajı yakıt tüketimini kolayca hesaplanabilmesini sağlar.
-	3-Bir çok makina,elektrikli cihazlardaki özellikler fonksiyonlar sayesinde yapılır.
-	4-Araçlardaki özellikle otobüslerdeki raylı koltuk sistemi fonksiyonlar ile hesaplanmaktadır.
-	5-Bilgisayarda kullanılan programların çoğunda fonksiyonlar kullanılmaktadır.
-
-	Değişken, üç temel boyutu ile düşünmelidir: Adı, Türü, Değeri.
 
 🔻 Proactivity versus Reactivity
 		
