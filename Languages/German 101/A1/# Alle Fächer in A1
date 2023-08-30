@@ -938,12 +938,12 @@ A1
 
                 # Die Magie des Deutschen
         
-                           akk.       dat.               akk.        dat.                akk.        dat.                akk.        dat.
-                           ---------------               ----        ----                ----        ----                ----        ----
-                Der        den        dem                meinen      meinem              einen       einem               diesen      diesem  
-                Die        die        der                meine       meiner              eine        einer               diese       dieser
-                Das        das        dem                mein        meinem              ein         einem               dieses *    diesem
-                Die        die        den                meine       meinen              ---         ---                 diese       diesen
+                           akk.       dat.    	gen.         	akk.        dat.                akk.        dat.                akk.        dat.
+                           -----------------------------	----        ----                ----        ----                ----        ----
+                Der        den        dem     	des (+s)        meinen      meinem              einen       einem               diesen      diesem  
+                Die        die        der     	der           	meine       meiner              eine        einer               diese       dieser
+                Das        das        dem     	des (+s)        mein        meinem              ein         einem               dieses *    diesem
+                Die        die        den (+n)  der           	meine       meinen              ---         ---                 diese       diesen
 
 
                 Nom.        der Stuhl, die Lampe, das Buch, die Bücher
@@ -956,6 +956,8 @@ A1
 
         Beispiele:
 	...
+
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔴 Adjektive und Adverbien (Sıfatlar ve Zarflar)
