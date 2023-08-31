@@ -3,8 +3,7 @@
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 a           a - ä                      u                               a
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-backen      bäckt                      buk                             gebacken                A            B1
-bake              backen          backe         backt           backte            gebacken                  büke              bake
+backen      backe, bäckt               buk                             gebacken                A            B1                  büke              bake
 fahren      fährt                      fuhr                            gefahren                --           A2
 graben      gräbt                      grub                            gegraben                A            C1
 laden       lädt                       lud                             geladen                 A            A2
@@ -14,9 +13,6 @@ tragen      trägt                      trug                            getragen
 wachsen     wächst                     wuchs                           gewachsen               --           B1
 waschen     wäscht                     wusch                           gewaschen               A            A2
 
-
-
-break             brechen         brech         bricht          brach             hat/ist gebrochen                           break  
 
 
 
@@ -55,11 +51,11 @@ sehen       sieht                      sah                             gesehen  
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 e           e - ei                     a                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------ 	 
-befehlen    befiehlt                   befahl                          befohlen                D, A        B1
-command, order    befehlen        befehl        befiehlt        befahl            befohlen                  befähle           command, order 
+befehlen    befehl, befiehlt           befahl                          befohlen                D, A        B1                  befähle           command, order 
 empfehlen   empfiehlt                  empfahl                         empfohlen               D, A        A2
 stehlen     stiehlt                    stahl                           gestohlen               A           A2
 gebären     gebiert                    gebar                           geboren                 A           B1
+brechen     brech, bricht              brach                           hat/ist gebrochen                                                         break  
 
 
 
@@ -100,8 +96,7 @@ werfen      wirft                      warf                            geworfen 
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 e           e - i                      o                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-bewegen     bewegt *                   bewog                           bewogen                 A           B1
-move              bewegen 1       bewege        bewegt          bewog             bewogen                   betrüge           move 
+bewegen 1   bewege, bewegt *           bewog                           bewogen                 A           B1                   betrüge           move 
 dreschen    drischt                    drosch                          gedroschen              A           C2
 fechten     ficht                      focht                           gefochten               --          C1
 flechten    flicht                     flocht                          geflochten              A           C2
@@ -135,10 +130,8 @@ stehen                                 stand                           gestanden
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 ie          schwach                    o                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-biegen                                 bog                             gebogen                 --          B1
-bend, turn        biegen          biege         biegt           bog (bin etc.)    hat/ist gebogen           böge              bend, turn  
-offer, bid        bieten          biete         bietet          bot               geboten                   böte              offer, bid  
-bieten                                 bot                             geboten                 D, A        A2
+biegen      biege, biegt               bog (bin etc.)                  hat/ist gebogen         --          B1                 böge              bend, turn  
+bieten      biete, bietet              bot                             geboten                 D, A        A2                 böte              offer, bid  
 fliegen                                flog                            geflogen                --          A2
 fliehen                                floh                            geflohen                --          B2
 fließen                                floss                           geflossen               --          B1
@@ -172,14 +165,13 @@ liegen                                 lag                             gelegen  
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 i           schwach                    a                               e
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-beginnen                               begann                          begonnen                A           A2
+beginnen    beginne, beginnt           begann                          begonnen                A           A2                  begänne           begin  
+gewinnen                               gewann                          gewonnen                A           A2
+schwimmen                              schwamm                         geschwommen             --          A2
+rinnen                                 rann                            geronnen                --          C2
+sinnen                                 sann                            gesonnen                A           C2
+spinnen                                spann                           gesponnen               A           C2
 
-begin             beginnen        beginne       beginnt         begann            begonnen                  begänne           begin  
-gewinnen	 	gewann	gewonnen	 A           A2
-schwimmen	 	schwamm	geschwommen	 --          A2
-rinnen	 	rann	geronnen	 --          C2
-sinnen	 	sann	gesonnen	 A           C2
-spinnen	 	spann	gesponnen	 A           C2
 
 
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
@@ -187,6 +179,7 @@ i           schwach                    o                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------
 glimmen                                glomm                           geglommen               --          C2
 klimmen                                klomm                           geklommen               --          C2
+
 
 
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
@@ -198,18 +191,18 @@ dringen                                drang                           gedrungen
 finden                                 fand                            gefunden                A           A2
 gelingen                               gelang                          gelungen                D           B1
 klingen                                klang                           geklungen               --          B1
-ringen	 	rang	gerungen	 --          C2
-schlingen	 	schlang	geschlungen	 A           C2
-schwinden	 	schwand	geschwunden	 --          B1
-schwingen	 	schwang	geschwungen	 --          C2
-singen	 	sang	gesungen	 A           A2
-sinken	 	sank	gesunken	--          B1
-springen	 	sprang	gesprungen	  --          B1
-stinken	 	stank	gestunken	  --          C1
-trinken	 	trank	getrunken	  A           A2
-winden	 	wand	gewunden	 A           C2
-wringen	 	wrang	gewrungen	 A           C2
-zwingen	 	zwang	gezwungen	 A           B1
+ringen                                 rang                            gerungen                --          C2
+schlingen                              schlang                         geschlungen             A           C2
+schwinden                              schwand                         geschwunden             --          B1
+schwingen                              schwang                         geschwungen             --          C2
+singen                                 sang                            gesungen                A           A2
+sinken                                 sank                            gesunken                --          B1
+springen                               sprang                          gesprungen              --          B1
+stinken                                stank                           gestunken               --          C1
+trinken                                trank                           getrunken               A           A2
+winden                                 wand                            gewunden                A           C2
+wringen                                wrang                           gewrungen               A           C2
+zwingen                                zwang                           gezwungen               A           B1
 
 
 
@@ -288,8 +281,8 @@ Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizi
 au          äu                         o                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------
 saufen      säuft                      soff                            gesoffen                --          B2
-saugen      saugt	*                    sog                             gesogen                 A           C1
-schnauben	  schnaubt *                 schnob                          geschnoben              --          C2
+saugen      saugt *                    sog                             gesogen                 A           C1
+schnauben   schnaubt *                 schnob                          geschnoben              --          C2
 
 
 
@@ -404,5 +397,68 @@ sollen      soll                       sollte                          gesollt  
 wollen      will                       wollte                          gewollt                 --          A2
 
 
+
+
+
+
+1 Also used as a reflexive verb, i.e. sich bewegen, e.g. Die Erde bewegt sich um die Sonne (The Earth) moves/revolves around the sun) 
+2 When used in the meaning “to frighten someone”, it’s a weak verb: Ich erschreckte ihn (I frightened him). 
+3 essen is for eating done by humans, not by animals. See fressen. 
+4 This is used impersonally: Es gelang mir, ein gutes Hotel zu finden (I succeeded in finding a good hotel).
+5 E.g. Diese Karte gilt nicht mehr (This ticket is no longer valid). 
+  Also has the meaning of “to be considered to be...”, e.g. Sie gilt als beste Spielerin im Verein (She is widely considered to be the best player in the club) 
+6 E.g. Der Klub ist letztes Jahr in Schwierigkeiten geraten (The club got into difficulties last year). 
+7 Another meaning: Das geschieht ihm recht (That serves him right/he deserves that). 
+8 Another meaning: Ich halte ihn für intelligent (I consider him to be intelligent). 
+9 When used in the meaning “to hang something”, it’s a weak verb: Ich hängte das Bild an die Wand im Wohnzimmer (I hung the picture on the wall in the living room). 
+10 “to bid” as in: Sie hieß mich willkommen (She bid me welcome/she welcomed me). 
+11 Note also anrufen (separable verb) “to phone someone”: Ich rufe ihn oft an. (I often phone/call him) 
+12 E.g. Die Kosten steigen (The costs are rising). 
+13 Can also mean “to come across a person, bump into someone”, and in this meaning the verb uses bin/bist etc in the perfect tense. 
+   E.g. Ich bin auf Steffi im Supermarkt gestoßen (I came across Steffi in the supermarket). 
+14 Also used as a reflexive verb, i.e. sich streiten – Er streitet sich oft mit seiner Kusine (He often quarrels with his cousin) 
+15 E.g. Ich treffe das Ziel immer (I always hit the target). 
+16 E.g. bitte wenden (P.T.O. – please turn over [the page]). 
+   Also as a reflexive verb, i.e. sich wenden, e.g. Ich wende mich an einen Experten (I am consulting/seeing an expert) 
+17 E.g. Das Foto ist gut geworden (The photo has turned out well). 
+18 Present tense of wissen: ich weiß, du weißt, er/sie/es weiß, wir wissen, ihr wisst, sie/Sie wissen. 
+19 In the meaning “to go to, to move to” the verb uses bin/bist etc in the perfect tense. 
+   E.g. umziehen (separable verb) “to move (house)”: Sie ist zum nächsten Dorf umgezogen (She has moved to the next village).
+   
+   
+
 https://www.deutschplus.net/pages/Tabelle_starker_Verben
+https://mein-deutschbuch.de/verbliste-starker-verben.html
 https://www.deutschplus.net/pages/Stammformen
+
+https://www.germanveryeasy.com/irregular-verbs-in-german
+https://jakubmarian.com/list-of-irregular-strong-german-verbs/
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+                Infinitive      Imperative    Present         Imperfect         Participle                Subjective
+                                              Präsens         Präteritum        Aux Verb + Partizip II
+                                              er/sie/es       ich-er/sie/es     (Perfect, Passive)
+                ------------------------------------------------------------------------------------------------------------------------------------------------
+                sein            sei           ist             war (bin etc.)    ist gewesen               wäre              to be         very irregular
+                haben           habe          hat             hatte             hat gehabt                hätte             to have
+                werden          werde         wird            wurde (bin etc.)  ist geworden/worden       würde             to become, ALSO turn out... 17	
+
+
+
+
+
+                MODALE VERBEN
+                dürfen                        darf            durfte            hat gedurft               dürfte            to be allowed to, may	
+                können                        kann            konnte            hat gekonnt               könnte            to be able to, can, may
+                mögen                         mag             mochte            hat gemocht               möchte            to like, to enjoy, can, may, would like to 
+                müssen                        muss            musste            hat gemusst               müsste            to have to, must
+                sollen                        soll            sollte            hat gesollt               sollte            shall, should, to be supposed, be obliged to -  to	following a norm
+                wollen                        will            wollte            hat gewollt               wollte            to want, to be supposed
+
+
