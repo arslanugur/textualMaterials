@@ -139,15 +139,15 @@ kriechen                               kroch                           gekrochen
 riechen                                roch                            gerochen                A           A2
 schieben                               schob                           geschoben               A           B2
 schießen                               schoss                          geschossen              --          B2
-076	schließen	 	schloss	geschlossen	 A A2
-077	sieden	 	sott	gesotten	 --  C2
-078	sprießen	 	spross	gesprossen	 -- C2
-079	stieben	 	stob	gestoben	 -- C2
-080	triefen	 	troff	getroffen	 -- C2
-081	verdrießen	 	verdross	verdrossen	 A C2
-082	verlieren	 	verlor	verloren	 A A2
-083	wiegen	 	wog	gewogen	 A B1
-084	ziehen	 	zog	gezogen	 A A2
+schließen                              schloss                         geschlossen             A           A2
+sieden                                 sott                            gesotten                --          C2
+sprießen                               spross                          gesprossen              --          C2
+stieben                                stob                            gestoben                --          C2
+triefen                                troff                           getroffen               --          C2
+verdrießen                             verdross                        verdrossen              A           C2
+verlieren                              verlor                          verloren                A           A2
+wiegen                                 wog                             gewogen                 A           B1
+ziehen                                 zog                             gezogen                 A           A2
 
 
 
@@ -162,12 +162,12 @@ liegen                                 lag                             gelegen  
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 i           schwach                    a                               e
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-beginnen	 	begann	begonnen	 A A2
-gewinnen	 	gewann	gewonnen	 A A2
+beginnen                               begann                          begonnen                A           A2
+gewinnen	 	gewann	gewonnen	 A           A2
 schwimmen	 	schwamm	geschwommen	 -- A2
 rinnen	 	rann	geronnen	 -- C2
-sinnen	 	sann	gesonnen	 A C2
-spinnen	 	spann	gesponnen	 A C2
+sinnen	 	sann	gesonnen	 A           C2
+spinnen	 	spann	gesponnen	 A           C2
 
 
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
@@ -181,23 +181,23 @@ Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizi
 i           schwach                    a                               u
 ----------  ---------------------      ------------------------        ----------------        --------    ------
 binden                                 band                            gebunden                A           B1
-095	dingen	 	dang	gedungen	 A C2
+095	dingen	 	dang	gedungen	 A           C2
 096	dringen	 	drang	gedrungen	 -- B2
-097	finden	 	fand	gefunden	 A A2
-098	gelingen	 	gelang	gelungen	 D B1
+097	finden	 	fand	gefunden	 A           A2
+098	gelingen	 	gelang	gelungen	 D           B1
 099	klingen	 	klang	geklungen	 -- B1
 100	ringen	 	rang	gerungen	 -- C2
-101	schlingen	 	schlang	geschlungen	 A C2
+101	schlingen	 	schlang	geschlungen	 A           C2
 102	schwinden	 	schwand	geschwunden	 -- B1
 103	schwingen	 	schwang	geschwungen	 -- C2
-104	singen	 	sang	gesungen	 A   A2
+104	singen	 	sang	gesungen	 A           A2
 105	sinken	 	sank	gesunken	-- B1
 106	springen	 	sprang	gesprungen	  --  B1
 107	stinken	 	stank	gestunken	  --  C1
-108	trinken	 	trank	getrunken	  A  A2
-109	winden	 	wand	gewunden	 A C2
-110	wringen	 	wrang	gewrungen	 A C2
-111	zwingen	 	zwang	gezwungen	 A B1
+108	trinken	 	trank	getrunken	  A           A2
+109	winden	 	wand	gewunden	 A           C2
+110	wringen	 	wrang	gewrungen	 A           C2
+111	zwingen	 	zwang	gezwungen	 A           B1
 
 
 
@@ -221,19 +221,19 @@ ei          schwach                    ie                              ie
 bleiben	 	blieb	geblieben	 -- A2
 116	gedeihen	 	gedieh	gediehen	 -- B2
 117	leihen	 	lieh	geliehen	  D A    A2
-118	meiden	 	mied	gemieden	 A B2
-119	preisen	 	pries	gepriesen	 A C2
-120	reiben	 	rieb	gerieben	 A C1
-121	scheiden	 	schied	geschieden	 A A2
+118	meiden	 	mied	gemieden	 A           B2
+119	preisen	 	pries	gepriesen	 A           C2
+120	reiben	 	rieb	gerieben	 A           C1
+121	scheiden	 	schied	geschieden	 A           A2
 122	scheinen	 	schien	geschienen	 -- B1
-123	schreiben	 	schrieb	geschrieben	 A A2
+123	schreiben	 	schrieb	geschrieben	 A           A2
 124	schreien	 	schrie	geschrie(e)n	 -- B1
 125	schweigen	 	schwieg	geschwiegen	 -- B2
 126	speien	 	spie	gespi(e)en	 -- C2
 127	steigen	 	stieg	gestiegen	 -- A2
 128	treiben	 	trieb	getrieben	 -- A2
-129	weisen	 	wies	gewiesen	 A B2
-130	verzeihen	 	verzieh	verziehen	 D B1
+129	weisen	 	wies	gewiesen	 A           B2
+130	verzeihen	 	verzieh	verziehen	 D           B1
 
 
 
@@ -243,21 +243,21 @@ ei          schwach                    i                               i
 ----------  ---------------------      ------------------------        ----------------        --------    ------
 beißen	 	biss	gebissen	 A B2
 132	bleichen	 	blich	geblichen	 -- C2
-133	gleichen	 	glich	geglichen	 D B2
+133	gleichen	 	glich	geglichen	 D           B2
 134	gleiten	 	glitt	geglitten	 -- C2
-135	greifen	 	griff	gegriffen	 A B1
-136	kneifen	 	kniff	gekniffen	 A C2
+135	greifen	 	griff	gegriffen	 A           B1
+136	kneifen	 	kniff	gekniffen	 A           C2
 137	leiden	 	litt	gelitten	 an D A2
 138	pfeifen	 	pfiff	gepfiffen	 -- C1
-139	reißen	 	riss	gerissen	 A C1
+139	reißen	 	riss	gerissen	 A           C1
 140	reiten	 	ritt	geritten	 -- B1
 141	scheißen	 	schiss	geschissen	 -- B2
 142	schleichen	 	schlich	geschlichen	 -- C2
-143	schleifen	 	schliff	geschliffen	 A C2
-144	schmeißen	 	schmiss	geschmissen	 A B1
-145	schneiden	 	schnitt	geschnitten	 A B1
+143	schleifen	 	schliff	geschliffen	 A           C2
+144	schmeißen	 	schmiss	geschmissen	 A           B1
+145	schneiden	 	schnitt	geschnitten	 A           B1
 146	schreiten	 	schritt	geschritten	 -- B2
-147	streichen	 	strich	gestrichen	A	 B2
+147	streichen	 	strich	gestrichen	A           B2
 148	streiten	 	stritt	gestritten	 -- A2
 149	weichen	 	wich	gewichen	 -- C1
 
@@ -272,17 +272,17 @@ heißen                                 hieß                            geheiß
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 au          äu                         o                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-saufen	säuft	soff	gesoffen	 -- B2
-152	saugen	s a u g t	sog	gesogen	 A  C1
-153	schnauben	 s c h n a u b t   schnob	geschnoben	  --  C2
+saufen      säuft                      soff                            gesoffen                --          B2
+saugen      saugt	*                    sog                             gesogen                 A           C1
+schnauben	  schnaubt *                 schnob                          geschnoben              --          C2
 
 
 
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 au          äu                         ie                              au
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-hauen	h a u t	hieb / haute	gehauen	 A B2
-155	laufen	läuft	lief	gelaufen	 --  A2
+hauen       haut *                     hieb / haute                    gehauen                 A           B2
+laufen      läuft                      lief                            gelaufen                --          A2
 
 
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
@@ -291,108 +291,97 @@ o           schwach                    a                               o
 kommen                                 kam                             gekommen                --          A2
 
 
-F2	
-o
-ö
-ie
-o
- 	 
-157	stoßen	stößt	stieß	gestoßen	 A  B1
-G1	
-u
-schwach
-a
-a
- 	 
-158	tun	 	tat	getan	 A A2
-G2	
-u
-schwach
-ie
-u
- 	 
-159	rufen	 	rief	gerufen	 A A2
-H	
-ä
-schwach
-i
-a
- 	 
-160	hängen	 	hing	gehangen	 -- A2
-I	
-ö
-schwach
-o
-o
- 	 
-161	erlöschen	e r l i s c h t	erlosch	erloschen	
---
-C2
-162	schwören	 	schwor	geschworen	 D A  B2
-J	
-ü
-schwach
-o
-o
- 	 
-163	lügen	 	log	gelogen	 -- A2
-164	trügen	 	trog	getrogen	A	 B1
+Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
+o           ö                          ie                              o
+----------  ---------------------      ------------------------        ----------------        --------    ------
+stoßen      stößt                      stieß                           gestoßen                A           B1
 
 
-K	
-a
-schwach
-a
-a
- 	 
-165	mahlen	 	mahlte	gemahlen	 A C1
-166	salzen	 	salzte	gesalzen	 A B2
-167	spalten	 	spaltete	gespalten	 A C1
-L	
-wissen
-168	wissen	weiß	wusste	gewusst	A	 A2
-Gemischte Verben
- 	 
-M	
-e
-schwach
-a
-a
- 	 
-169	brennen	 	brannte	gebrannt	 A  B1
-170	bringen	 	brachte	gebracht	  A D   A2
-171	denken	 	dachte	gedacht	  an A   A2
-172	kennen	 	kannte	gekannt	  A   A2
-173	nennen	 	nannte	genannt	  A A   B1
-174	rennen	 	rannte	gerannt	  -- B1
-175	senden	 	sandte	gesandt	 D A   B1
-176	wenden	 	wandte	gewandt	 refl. an A        B1
+
+Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
+u           schwach                    a                               a
+----------  ---------------------      ------------------------        ----------------        --------    ------
+tun                                    tat                             getan                   A           A2
 
 
-Hilfsverben
-N	
-***
-***
-***
-***
-177	haben	hat	hatte	gehabt	 A A2
-178	sein	ist	war	gewesen	N	 A2
-179	werden	wird	wurde	geworden	 N  A2
+Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
+u           schwach                    ie                              u
+----------  ---------------------      ------------------------        ----------------        --------    ------
+rufen                                  rief                            gerufen                 A           A2
 
 
-Modalverben 	 
-O	
-***
-***
-***
-***
- 	 
-180	können	kann	konnte	gekonnt	 -- A2
-181	mögen	mag	mochte	gemocht	 -- A2
-182	dürfen	darf	durfte	gedurft	 -- A2
-183	müssen	muss	musste	gemusst	 -- A2
-184	sollen	soll	sollte	gesollt	 -- A2
-185	wollen	will	wollte	gewollt	 -- A2
+Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
+ä           schwach                    i                               a
+----------  ---------------------      ------------------------        ----------------        --------    ------
+hängen                                 hing                            gehangen                --          A2
+
+
+Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
+ö           schwach                    o                               o
+----------  ---------------------      ------------------------        ----------------        --------    ------
+erlöschen   erlischt *                 erlosch                         erloschen               --          C2
+schwören                               schwor                          geschworen              D, A        B2
+
+
+Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
+ü           schwach                    o                               o
+----------  ---------------------      ------------------------        ----------------        --------    ------
+lügen                                  log                             gelogen                 --          A2
+trügen                                 trog                            getrogen                A           B1
+
+
+Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
+a           schwach                    a                               a
+----------  ---------------------      ------------------------        ----------------        --------    ------
+mahlen                                 mahlte                          gemahlen                A           C1
+salzen                                 salzte                          gesalzen                A           B2
+spalten                                spaltete                        gespalten               A           C1
+
+
+
+Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
+                                                   wissen
+------------------------------------------------------------------------------------------------------------------
+wissen      weiß                       wusste                          gewusst                 A           A2
+
+
+Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
+                                                   Gemischte Verben
+e           schwach                    a                               a        
+----------  ---------------------      ------------------------        ----------------        --------    ------
+brennen                                brannte                         gebrannt                A           B1
+bringen                                brachte                         gebracht                A, D        A2
+denken                                 dachte                          gedacht                 an A        A2
+kennen                                 kannte                          gekannt                 A           A2
+nennen                                 nannte                          genannt                 A A         B1
+rennen                                 rannte                          gerannt                 --          B1
+senden                                 sandte                          gesandt                 D, A        B1
+wenden                                 wandte                          gewandt                 refl. an A  B1
+
+
+
+Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
+                                                   Hilfsverben
+***         ***                        ***                             ***         
+----------  ---------------------      ------------------------        ----------------        --------    ------
+haben       hat                        hatte                           gehabt                  A           A2
+sein        ist                        war                             gewesen                 N           A2
+werden      wird                       wurde                           geworden                N           A2
+
+
+
+
+Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
+                                                   Modalverben
+***         ***                        ***                             ***         
+----------  ---------------------      ------------------------        ----------------        --------    ------
+können      kann                       konnte                          gekonnt                 --          A2
+mögen       mag                        mochte                          gemocht                 --          A2
+dürfen      darf                       durfte                          gedurft                 --          A2
+müssen      muss                       musste                          gemusst                 --          A2
+sollen      soll                       sollte                          gesollt                 --          A2
+wollen      will                       wollte                          gewollt                 --          A2
 
 
 https://www.deutschplus.net/pages/Tabelle_starker_Verben
+https://www.deutschplus.net/pages/Stammformen
