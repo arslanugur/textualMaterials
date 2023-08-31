@@ -4,6 +4,7 @@ Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizi
 a           a - ä                      u                               a
 ----------  ---------------------      ------------------------        ----------------        --------    ------
 backen      bäckt                      buk                             gebacken                A            B1
+bake              backen          backe         backt           backte            gebacken                  büke              bake
 fahren      fährt                      fuhr                            gefahren                --           A2
 graben      gräbt                      grub                            gegraben                A            C1
 laden       lädt                       lud                             geladen                 A            A2
@@ -15,11 +16,16 @@ waschen     wäscht                     wusch                           gewasche
 
 
 
+break             brechen         brech         bricht          brach             hat/ist gebrochen                           break  
+
+
+
+
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 a           a - ä                      ie                              a
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-blasen      bläst                      blies                           geblasen                --          C1
-braten      brät                       briet                           gebraten                A           B1
+blasen      blase, bläst               blies                           geblasen                --          C1                 bliese            blow, sound 
+braten      brate, brät                briet                           ist gebraten            A           B1                 briete            roast 
 fallen      fällt                      fiel                            gefallen                --          A2
 halten      hält                       hielt                           gehalten                A           A2
 lassen      lässt                      ließ                            gelassen                A           A2
@@ -50,6 +56,7 @@ Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizi
 e           e - ei                     a                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------ 	 
 befehlen    befiehlt                   befahl                          befohlen                D, A        B1
+command, order    befehlen        befehl        befiehlt        befahl            befohlen                  befähle           command, order 
 empfehlen   empfiehlt                  empfahl                         empfohlen               D, A        A2
 stehlen     stiehlt                    stahl                           gestohlen               A           A2
 gebären     gebiert                    gebar                           geboren                 A           B1
@@ -94,6 +101,7 @@ Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizi
 e           e - i                      o                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------
 bewegen     bewegt *                   bewog                           bewogen                 A           B1
+move              bewegen 1       bewege        bewegt          bewog             bewogen                   betrüge           move 
 dreschen    drischt                    drosch                          gedroschen              A           C2
 fechten     ficht                      focht                           gefochten               --          C1
 flechten    flicht                     flocht                          geflochten              A           C2
@@ -128,6 +136,8 @@ Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizi
 ie          schwach                    o                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------
 biegen                                 bog                             gebogen                 --          B1
+bend, turn        biegen          biege         biegt           bog (bin etc.)    hat/ist gebogen           böge              bend, turn  
+offer, bid        bieten          biete         bietet          bot               geboten                   böte              offer, bid  
 bieten                                 bot                             geboten                 D, A        A2
 fliegen                                flog                            geflogen                --          A2
 fliehen                                floh                            geflohen                --          B2
@@ -163,9 +173,11 @@ Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizi
 i           schwach                    a                               e
 ----------  ---------------------      ------------------------        ----------------        --------    ------
 beginnen                               begann                          begonnen                A           A2
+
+begin             beginnen        beginne       beginnt         begann            begonnen                  begänne           begin  
 gewinnen	 	gewann	gewonnen	 A           A2
-schwimmen	 	schwamm	geschwommen	 -- A2
-rinnen	 	rann	geronnen	 -- C2
+schwimmen	 	schwamm	geschwommen	 --          A2
+rinnen	 	rann	geronnen	 --          C2
 sinnen	 	sann	gesonnen	 A           C2
 spinnen	 	spann	gesponnen	 A           C2
 
@@ -180,31 +192,31 @@ klimmen                                klomm                           geklommen
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 i           schwach                    a                               u
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-binden                                 band                            gebunden                A           B1
-095	dingen	 	dang	gedungen	 A           C2
-096	dringen	 	drang	gedrungen	 -- B2
-097	finden	 	fand	gefunden	 A           A2
-098	gelingen	 	gelang	gelungen	 D           B1
-099	klingen	 	klang	geklungen	 -- B1
-100	ringen	 	rang	gerungen	 -- C2
-101	schlingen	 	schlang	geschlungen	 A           C2
-102	schwinden	 	schwand	geschwunden	 -- B1
-103	schwingen	 	schwang	geschwungen	 -- C2
-104	singen	 	sang	gesungen	 A           A2
-105	sinken	 	sank	gesunken	-- B1
-106	springen	 	sprang	gesprungen	  --  B1
-107	stinken	 	stank	gestunken	  --  C1
-108	trinken	 	trank	getrunken	  A           A2
-109	winden	 	wand	gewunden	 A           C2
-110	wringen	 	wrang	gewrungen	 A           C2
-111	zwingen	 	zwang	gezwungen	 A           B1
+binden      binde, bindet              band                            gebunden                A           B1                  bände             tie 
+dingen                                 dang                            gedungen                A           C2
+dringen                                drang                           gedrungen               --          B2
+finden                                 fand                            gefunden                A           A2
+gelingen                               gelang                          gelungen                D           B1
+klingen                                klang                           geklungen               --          B1
+ringen	 	rang	gerungen	 --          C2
+schlingen	 	schlang	geschlungen	 A           C2
+schwinden	 	schwand	geschwunden	 --          B1
+schwingen	 	schwang	geschwungen	 --          C2
+singen	 	sang	gesungen	 A           A2
+sinken	 	sank	gesunken	--          B1
+springen	 	sprang	gesprungen	  --          B1
+stinken	 	stank	gestunken	  --          C1
+trinken	 	trank	getrunken	  A           A2
+winden	 	wand	gewunden	 A           C2
+wringen	 	wrang	gewrungen	 A           C2
+zwingen	 	zwang	gezwungen	 A           B1
 
 
 
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 i           schwach                    a                               e
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-bitten                                 bat                             gebeten                 A           A2
+bitten      bitte, bittet              bat                             gebeten                 A           A2                   bäte              request, ask someone to do...  
 sitzen                                 saß                             gesessen                --          A2
 
 
@@ -218,22 +230,23 @@ schinden                               schund                          geschunde
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 ei          schwach                    ie                              ie
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-bleiben	 	blieb	geblieben	 -- A2
-116	gedeihen	 	gedieh	gediehen	 -- B2
-117	leihen	 	lieh	geliehen	  D A    A2
-118	meiden	 	mied	gemieden	 A           B2
-119	preisen	 	pries	gepriesen	 A           C2
-120	reiben	 	rieb	gerieben	 A           C1
-121	scheiden	 	schied	geschieden	 A           A2
-122	scheinen	 	schien	geschienen	 -- B1
-123	schreiben	 	schrieb	geschrieben	 A           A2
-124	schreien	 	schrie	geschrie(e)n	 -- B1
-125	schweigen	 	schwieg	geschwiegen	 -- B2
-126	speien	 	spie	gespi(e)en	 -- C2
-127	steigen	 	stieg	gestiegen	 -- A2
-128	treiben	 	trieb	getrieben	 -- A2
-129	weisen	 	wies	gewiesen	 A           B2
-130	verzeihen	 	verzieh	verziehen	 D           B1
+bleiben     bleibe, bleibt             blieb (bin etc.)                ist geblieben           --          A2                bliebe            stay, remain 
+gedeihen                               gedieh                          gediehen                --          B2
+leihen                                 lieh                            geliehen                D, A        A2
+meiden                                 mied                            gemieden                A           B2
+preisen                                pries                           gepriesen               A           C2
+reiben                                 rieb                            gerieben                A           C1
+scheiden                               schied                          geschieden              A           A2
+scheinen                               schien                          geschienen              --          B1
+schreiben                              schrieb                         geschrieben             A           A2
+schreien                               schrie                          geschrie(e)n            --          B1
+schweigen                              schwieg                         geschwiegen             --          B2
+speien                                 spie                            gespi(e)en              --          C2
+steigen                                stieg                           gestiegen               --          A2
+treiben                                trieb                           getrieben               --          A2
+weisen                                 wies                            gewiesen                A           B2
+beweisen    beweise, bewist            bewies                          bewiesen                                              bewöge            prove
+verzeihen                              verzieh                         verziehen               D           B1
 
 
 
@@ -241,25 +254,27 @@ bleiben	 	blieb	geblieben	 -- A2
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 ei          schwach                    i                               i
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-beißen	 	biss	gebissen	 A B2
-132	bleichen	 	blich	geblichen	 -- C2
-133	gleichen	 	glich	geglichen	 D           B2
-134	gleiten	 	glitt	geglitten	 -- C2
-135	greifen	 	griff	gegriffen	 A           B1
-136	kneifen	 	kniff	gekniffen	 A           C2
-137	leiden	 	litt	gelitten	 an D A2
-138	pfeifen	 	pfiff	gepfiffen	 -- C1
-139	reißen	 	riss	gerissen	 A           C1
-140	reiten	 	ritt	geritten	 -- B1
-141	scheißen	 	schiss	geschissen	 -- B2
-142	schleichen	 	schlich	geschlichen	 -- C2
-143	schleifen	 	schliff	geschliffen	 A           C2
-144	schmeißen	 	schmiss	geschmissen	 A           B1
-145	schneiden	 	schnitt	geschnitten	 A           B1
-146	schreiten	 	schritt	geschritten	 -- B2
-147	streichen	 	strich	gestrichen	A           B2
-148	streiten	 	stritt	gestritten	 -- A2
-149	weichen	 	wich	gewichen	 -- C1
+beißen      beiße, beißt               biss                            gebissen                A           B2                bisse             bite 
+bleichen                               blich                           geblichen               --          C2
+gleichen                               glich                           geglichen               D           B2
+gleiten                                glitt                           geglitten               --          C2
+greifen                                griff                           gegriffen               A           B1
+kneifen                                kniff                           gekniffen               A           C2
+leiden                                 litt                            gelitten                an D        A2
+pfeifen                                pfiff                           gepfiffen               --          C1
+reißen                                 riss                            gerissen                A           C1
+reiten                                 ritt                            geritten                --          B1
+scheißen                               schiss                          geschissen              --          B2
+schleichen                             schlich                         geschlichen             --          C2
+schleifen                              schliff                         geschliffen             A           C2
+schmeißen                              schmiss                         geschmissen             A           B1
+schneiden                              schnitt                         geschnitten             A           B1
+schreiten                              schritt                         geschritten             --          B2
+streichen                              strich                          gestrichen              A           B2
+streiten                               stritt                          gestritten              --          A2
+weichen                                wich                            gewichen                --          C1
+
+
 
 
 
@@ -285,10 +300,13 @@ hauen       haut *                     hieb / haute                    gehauen  
 laufen      läuft                      lief                            gelaufen                --          A2
 
 
+
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 o           schwach                    a                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------
 kommen                                 kam                             gekommen                --          A2
+bekommen    bekomme, bekommt           bekam                           bekommen                                                    bekäme            receive, get
+
 
 
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
@@ -327,7 +345,8 @@ Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizi
 ü           schwach                    o                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------
 lügen                                  log                             gelogen                 --          A2
-trügen                                 trog                            getrogen                A           B1
+trügen                                 trog                            getrogen                A           B1                                      deceive, cheat
+betrügen    betrüge, betrügt           betrog                          betrogen                                                  bewiese           deceive, cheat
 
 
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
@@ -345,12 +364,14 @@ Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizi
 wissen      weiß                       wusste                          gewusst                 A           A2
 
 
+
+
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
                                                    Gemischte Verben
 e           schwach                    a                               a        
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-brennen                                brannte                         gebrannt                A           B1
-bringen                                brachte                         gebracht                A, D        A2
+brennen     brenne, brennt             brannte                         hat gebrannt            A           B1                   brennte           burn 
+bringen     bringe, bringt             brachte                         hat gebracht            A, D        A2                   brächte           bring, take to...  
 denken                                 dachte                          gedacht                 an A        A2
 kennen                                 kannte                          gekannt                 A           A2
 nennen                                 nannte                          genannt                 A A         B1
