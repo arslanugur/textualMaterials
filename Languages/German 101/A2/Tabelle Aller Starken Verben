@@ -120,7 +120,7 @@ bewegen 1   bewege, bewegt *           bewog                           bewogen  
 dreschen    drischt                    drosch                          gedroschen              A           C2
 fechten     ficht                      focht                           gefochten               --          C1
 flechten    flicht                     flocht                          geflochten              A           C2
-heben       hebt *                     hob                             gehoben                 A           B2
+heben       hebe, hebt *               hob                             gehoben                 A           B2                   höbe/hübe         raise, lift  
 melken      melkt *                    molk                            gemolken                A           C1
 pflegen     pflegt *                   pflog                           gepflogen               A           C1
 quellen     quillt                     quoll                           gequollen               A           C1
@@ -131,7 +131,7 @@ weben       webt *                     wob                             gewoben  
 gären       gärt                       gor                             gegoren                 --          C2
 wägen       wägt                       wog                             gewogen                 A           C2
 
-                  heben           hebe          hebt            hob               gehoben                   höbe/hübe         raise, lift  
+                  
 
 
 
@@ -140,10 +140,7 @@ wägen       wägt                       wog                             gewogen
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 e           schwach                    i                               a
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-gehen                                  ging                            gegangen                --          A2
-
-
-go, walk          gehen           gehe          geht            ging (bin etc.)   ist gegangen              ginge             go, walk  
+gehen       gehe, geht                 ging (bin etc.)                 ist gegangen                --          A2              ginge             go, walk  
 
 
 
@@ -153,8 +150,7 @@ go, walk          gehen           gehe          geht            ging (bin etc.) 
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 a           schwach                    a                               a
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-stehen                                 stand                           gestanden               --          A2
-stand             stehen          stehe         steht           stand             hat/ist gestanden         stünde/stände     stand 
+stehen      stehe, steht               stand                           hat/ist gestanden       --          A2                 stünde/stände     stand 
 aufstehen
 
 
@@ -163,47 +159,35 @@ ie          schwach                    o                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------
 biegen      biege, biegt               bog (bin etc.)                  hat/ist gebogen         --          B1                 böge              bend, turn  
 bieten      biete, bietet              bot                             geboten                 D, A        A2                 böte              offer, bid  
-fliegen     fliege, fliegt             flog (bin etc.)                 hat/ist geflogen                --          A2
-fliehen                                floh (bin etc.)                 ist geflohen                --          B2
-fließen                                floss                           ist geflossen               --          B1
-frieren                                fror (bin etc.)                 gefroren                --          B1
-genießen                               genoss                          genossen                A           A2
-gießen                                 goss                            gegossen                A           B2
+fliegen     fliege, fliegt             flog (bin etc.)                 hat/ist geflogen        --          A2                 flöge             fly 
+fliehen     fliehe, flieht             floh (bin etc.)                 ist geflohen            --          B2                 flöhe             flee, run away
+fließen     fließe, fließt             floss                           ist geflossen           --          B1                 flösse            flow
+frieren     friere, friert             fror (bin etc.)                 gefroren                --          B1                 fröre             freeze, be cold  
+genießen    genieße, genießt           genoss                          genossen                A           A2                 genösse           enjoy  
+gießen      gieße, gießt               goss                            gegossen                A           B2                 gösse             pour  
 kriechen                               kroch                           gekrochen               --          B2
-riechen                                roch                            gerochen                A           A2
-schieben                               schob                           geschoben               A           B2
-schießen                               schoss                          geschossen              --          B2
+riechen     rieche, riecht             roch                            gerochen                A           A2                 röche             smell
+schieben    schiebe, schiebt           schob                           geschoben               A           B2                 schöbe            shove, push 
+schießen    schieße, schießt           schoss                          geschossen              --          B2                 schösse           shoot
 schließen                              schloss                         geschlossen             A           A2
 sieden                                 sott                            gesotten                --          C2
 sprießen                               spross                          gesprossen              --          C2
 stieben                                stob                            gestoben                --          C2
 triefen                                troff                           getroffen               --          C2
 verdrießen                             verdross                        verdrossen              A           C2
-verlieren    verliere, verliert        verlor                          verloren                A           A2                  verlöre           lose 
+verlieren    verliere, verliert        verlor                          verloren                A           A2                 verlöre           lose 
 wiegen                                 wog                             gewogen                 A           B1
-ziehen                                 zog                             gezogen                 A           A2
-
-
-fly               fliegen                   flog    hat/ist geflogen          flöge             fly  
-flee, run away    fliehen         fliehe, flieht          floh (bin etc.)   ist geflohen              flöhe             flee, run away  
-                  fließen         fließe, fließt          floss             ist geflossen             flösse            flow  
-                  frieren         friere, friert          fror (bin etc.)   gefroren                  fröre             freeze, be cold  
-                  genießen        genieße       genießt         genoss            genossen                  genösse           enjoy  
-pour              gießen          gieße         gießt           goss              gegossen                  gösse             pour  
-smell             riechen         rieche        riecht          roch              gerochen                  röche             smell 
-                  schieben        schiebe       schiebt         schob             geschoben                 schöbe            shove, push 
-shoot             schießen        schieße       schießt         schoss            geschossen                schösse           shoot 
-                  ziehen          ziehe         zieht           zog               hat/ist gezogen 19        zöge              pull, draw, ALSO go, move
+ziehen       ziehe, zieht              zog                             hat/ist gezogen 19      A           A2                 zöge              pull, draw, ALSO go, move
+umziehen                                                                                                                                        move out
 
 
 
+  
 
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 ie          schwach                    a                               e
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-liegen                                 lag                             gelegen                 --          A2
-
-liegen          liege         liegt           lag               hat/ist gelegen           läge              lie (in a place) 
+liegen      liege, liegt               lag                             hat/ist gelegen         --          A2               läge              lie (in a place) 
 
 
 
@@ -489,11 +473,9 @@ Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizi
                                                    Hilfsverben
 ***         ***                        ***                             ***         
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-haben       hat                        hatte                           gehabt                  A           A2
+haben       habe, hat                  hatte                           gehabt                  A           A2                    hätte             have 
 sein        ist                        war                             gewesen                 N           A2
 werden      wird                       wurde                           geworden                N           A2
-
-                  haben           habe          hat             hatte             gehabt                    hätte             have 
 
 
 
