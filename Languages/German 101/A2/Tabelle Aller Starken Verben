@@ -47,13 +47,9 @@ fangen      fange, fängt               fing                            gefangen
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 e           e - ei                     a                               e
 ----------  ---------------------      ------------------------        ----------------        --------    ------ 	 
-geschehen   geschieht                  geschah                         geschehen               --          B1
-lesen       liest                      las                             gelesen                 A           A2
-sehen       sieht                      sah                             gesehen                 A           A2
-
-                  geschehen 7                   geschieht       geschah (bin etc.)ist geschehen             geschähe          happen 
-read              lesen           lies          liest           las               gelesen                   läse              read 
-see               sehen           seihe         sieht           sah               gesehen                   sähe              see 
+geschehen 7 geschieht                  geschah (bin etc.)              ist geschehen           --          B1                   geschähe          happen 
+lesen       lies, liest                las                             gelesen                 A           A2                   läse              read 
+sehen       seihe, sieht               sah                             gesehen                 A           A2                   sähe              see 
 
 
 
@@ -65,11 +61,11 @@ e           e - ei                     a                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------ 	 
 befehlen    befehl, befiehlt           befahl                          befohlen                D, A        B1                  befähle           command, order 
 empfehlen   empfiehlt                  empfahl                         empfohlen               D, A        A2
-stehlen     stiehlt                    stahl                           gestohlen               A           A2
+stehlen     stiehl, stiehlt            stahl                           gestohlen               A           A2                  stähle/stöhle     steal 
 gebären     gebiert                    gebar                           geboren                 A           B1
 brechen     brech, bricht              brach                           hat/ist gebrochen                                                         break  
 
-steal             stehlen         stiehl        stiehlt         stahl             gestohlen                 stähle/stöhle     steal 
+
 
 
 
@@ -77,17 +73,14 @@ Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizi
 e           e - i                      a                               e
 ----------  ---------------------      ------------------------        ----------------        --------    ------
 essen       isst                       aß                              gegessen                A           A2
-fressen     frisst                     fraß                            gefressen               A           B1
+fressen     friss, frisst              fraß                            gefressen               A           B1                 fräße             eat (done by animals), devour  
 genesen     genest *                   genas                           genesen                 --          B2
-geben       gibt                       gab                             gegeben                 D, A        A2
+geben       gib, gibt                  gab                             gegeben                 D, A        A2                 gäbe              give 
 messen      misst                      maß                             gemessen                A           B1
-treten      tritt                      trat                            getreten                A           A2
-vergessen   vergisst                   vergaß                          vergessen               A           A2
+treten      tritt, tritt               trat (bin etc.)                 hat/ist getreten        A           A2                 träte             step, go 
+vergessen   vergiss, vergisst          vergaß                          vergessen               A           A2                 vergäße           forget 
 
-give              geben           gib           gibt            gab               gegeben                   gäbe              give 
-                  fressen         friss         frisst          fraß              gefressen                 fräße             eat (done by animals), devour  
-                  treten          tritt         tritt           trat (bin etc.)   hat/ist getreten          träte             step, go 
-forget            vergessen       vergiss       vergisst        vergaß            vergessen                 vergäße           forget 
+
 
 
 
@@ -100,29 +93,20 @@ bergen      birgt                      barg                            geborgen 
 bersten     birst                      barst                           geborsten               --          C2
 brechen     bricht                     brach                           gebrochen               A           A2
 erschrecken erschrickt                 erschrak                        erschrocken             --          B1
-gelten      gilt                       galt                            gegolten                --          B1
-helfen      hilft                      half                            geholfen                D           A2
+gelten 5    gilt, gilt                 galt                            gegolten                --          B1                 gälte/gölte       be valid, be of worth 
+helfen      helfe, hilft               half                            geholfen                D           A2                 hülfe/hälfe       help 
 nehmen      nimmt                      nahm                            genommen                A           A2
 schelten    schilt                     schalt                          gescholten              A           C2
-sprechen    spricht                    sprach                          gesprochen              A           A2
-stechen     sticht                     stach                           gestochen               A           B1
-sterben     stirbt                     starb                           gestorben               --          B1
-treffen     trifft                     traf                            getroffen               A           A2
-verderben   verdirbt                   verdarb                         verdorben               A           C1
-werben      wirbt                      warb                            geworben                für A       B1
-werfen      wirft                      warf                            geworfen                A           A2
+sprechen    sprich, spricht            sprach                          gesprochen              A           A2                 spräche           speak 
+stechen     stich, sticht              stach                           gestochen               A           B1                 stäche            prick, sting, stab 
+sterben     stirb, stirbt              starb (bin etc.)                ist gestorben           --          B1                 stürbe            die 
+treffen     triff, trifft              traf                            getroffen               A           A2                 träfe             meet, ALSO hit 15 
+verbergen   verbirg, verbirgt          verbarg                         verborgen                                              verbärge          hide, conceal 
+verderben   verdirb, verdirbt          verdarb                         verdorben               A           C1                 verdürbe          spoil, ruin 
+werben      wirb, wirbt                warb                            geworben                für A       B1                 würbe             advertise, push 
+werfen      wirf, wirft                warf                            geworfen                A           A2                 würfe             throw 
+                  
 
-                  verbergen       verbirg       verbirgt        verbarg           verborgen                 verbärge          hide, conceal 
-                  verderben       verdirb       verdirbt        verdarb           verdorben                 verdürbe          spoil, ruin 
-                  gelten 5        gilt          gilt            galt              gegolten                  gälte/gölte       be valid, be of worth 
-help              helfen          helfe         hilft           half              geholfen                  hülfe/hälfe       help 
-meet              treffen         triff         trifft          traf              getroffen                 träfe             meet, ALSO hit 15 
-
-                  werben          wirb          wirbt           warb              geworben                  würbe             advertise, push 
-throw             werfen          wirf          wirft           warf              geworfen                  würfe             throw 
-speak             sprechen        sprich        spricht         sprach            gesprochen                spräche           speak 
-                  stechen         stich         sticht          stach             gestochen                 stäche            prick, sting, stab 
-die               sterben         stirb         stirbt          starb (bin etc.)  ist gestorben             stürbe            die 
 
 
 
@@ -142,15 +126,13 @@ pflegen     pflegt *                   pflog                           gepflogen
 quellen     quillt                     quoll                           gequollen               A           C1
 scheren     schert *                   schor                           geschoren               A           C2
 schmelzen   schmilzt                   schmolz                         geschmolzen             A           B2
-schwellen   schwillt                   schwoll                         geschwollen             --          B2 
+schwellen   schwillt                   schwoll  (bin etc.)             ist geschwollen         --          B2                   schwölle          swell  
 weben       webt *                     wob                             gewoben                 A           C2
 gären       gärt                       gor                             gegoren                 --          C2
 wägen       wägt                       wog                             gewogen                 A           C2
 
                   heben           hebe          hebt            hob               gehoben                   höbe/hübe         raise, lift  
-pfeifen         pfeife        pfeift          pfiff             gepfiffen                 pfiffe            whistle, pipe 
 
-                  schwellen       schwill       schwillt        schwoll (bin etc.)ist geschwollen           schwölle          swell 
 
 
 
@@ -181,10 +163,10 @@ ie          schwach                    o                               o
 ----------  ---------------------      ------------------------        ----------------        --------    ------
 biegen      biege, biegt               bog (bin etc.)                  hat/ist gebogen         --          B1                 böge              bend, turn  
 bieten      biete, bietet              bot                             geboten                 D, A        A2                 böte              offer, bid  
-fliegen                                flog                            geflogen                --          A2
-fliehen                                floh                            geflohen                --          B2
-fließen                                floss                           geflossen               --          B1
-frieren                                fror                            gefroren                --          B1
+fliegen     fliege, fliegt             flog (bin etc.)                 hat/ist geflogen                --          A2
+fliehen                                floh (bin etc.)                 ist geflohen                --          B2
+fließen                                floss                           ist geflossen               --          B1
+frieren                                fror (bin etc.)                 gefroren                --          B1
 genießen                               genoss                          genossen                A           A2
 gießen                                 goss                            gegossen                A           B2
 kriechen                               kroch                           gekrochen               --          B2
@@ -197,16 +179,15 @@ sprießen                               spross                          gespross
 stieben                                stob                            gestoben                --          C2
 triefen                                troff                           getroffen               --          C2
 verdrießen                             verdross                        verdrossen              A           C2
-verlieren                              verlor                          verloren                A           A2
+verlieren    verliere, verliert        verlor                          verloren                A           A2                  verlöre           lose 
 wiegen                                 wog                             gewogen                 A           B1
 ziehen                                 zog                             gezogen                 A           A2
 
 
-lose              verlieren       verliere      verliert        verlor            verloren                  verlöre           lose 
-fly               fliegen         fliege        fliegt          flog (bin etc.)   hat/ist geflogen          flöge             fly  
-flee, run away    fliehen         fliehe        flieht          floh (bin etc.)   ist geflohen              flöhe             flee, run away  
-                  fließen         fließe        fließt          floss             ist geflossen             flösse            flow  
-                  frieren         friere        friert          fror (bin etc.)   gefroren                  fröre             freeze, be cold  
+fly               fliegen                   flog    hat/ist geflogen          flöge             fly  
+flee, run away    fliehen         fliehe, flieht          floh (bin etc.)   ist geflohen              flöhe             flee, run away  
+                  fließen         fließe, fließt          floss             ist geflossen             flösse            flow  
+                  frieren         friere, friert          fror (bin etc.)   gefroren                  fröre             freeze, be cold  
                   genießen        genieße       genießt         genoss            genossen                  genösse           enjoy  
 pour              gießen          gieße         gießt           goss              gegossen                  gösse             pour  
 smell             riechen         rieche        riecht          roch              gerochen                  röche             smell 
@@ -277,15 +258,16 @@ winden                                 wand                            gewunden 
 wringen                                wrang                           gewrungen               A           C2
 zwingen                                zwang                           gezwungen               A           B1
 
-find              finden          finde         findet          fand              gefunden                  fände             find  
-                  gelingen 4      gelinge       gelingt         gelang (bin etc.) ist gelungen              gelänge           succeed  
-                  schwingen                     schwingt        schwang           geschwungen                                 swing 
-drink             trinken         trinke        trinkt          trank             getrunken                 tränke            drink
-sing              singen          singe         singt           sang              gesungen                  sänge             sing 
-sink              sinken          sinke         sinkt           sank (bin etc.)   gesunken                  sänke             sink 
-                  springen        springe       springt         sprang (bin etc.) ist gesprungen            spränge           jump, spring 
-                  stinken         stinke        stinkt          stank             gestunken                 stänke            stink 
-                  zwingen         zwinge        zwingt          zwang             gezwungen                 zwänge            compel, force 
+
+finden          finde         findet          fand              gefunden                  fände             find  
+gelingen 4      gelinge       gelingt         gelang (bin etc.) ist gelungen              gelänge           succeed  
+schwingen                     schwingt        schwang           geschwungen                                 swing 
+trinken         trinke        trinkt          trank             getrunken                 tränke            drink
+singen          singe         singt           sang              gesungen                  sänge             sing 
+sinken          sinke         sinkt           sank (bin etc.)   gesunken                  sänke             sink 
+springen        springe       springt         sprang (bin etc.) ist gesprungen            spränge           jump, spring 
+stinken         stinke        stinkt          stank             gestunken                 stänke            stink 
+zwingen         zwinge        zwingt          zwang             gezwungen                 zwänge            compel, force 
 
 
 
@@ -318,32 +300,23 @@ leihen                                 lieh                            geliehen 
 meiden                                 mied                            gemieden                A           B2
 preisen                                pries                           gepriesen               A           C2
 reiben                                 rieb                            gerieben                A           C1
-scheiden                               schied                          geschieden              A           A2
-scheinen                               schien                          geschienen              --          B1
-schreiben                              schrieb                         geschrieben             A           A2
-schreien                               schrie                          geschrie(e)n            --          B1
-schweigen                              schwieg                         geschwiegen             --          B2
+scheiden     scheide, scheidet         schied (bin etc.)               geschieden              A           A2               schiede           separate 
+scheinen     scheine, scheint          schien                          geschienen              --          B1               schiene           seem, ALSO shine 
+schreiben    schreibe, schreibt        schrieb                         geschrieben             A           A2               schriebe          write 
+schreien     schreie, schreit          schrie                          geschrie(e)n            --          B1               schriee           shout, yell 
+schweigen    schweige, schweigt        schwieg                         geschwiegen             --          B2               schwiege          be(come) silent 
 speien                                 spie                            gespi(e)en              --          C2
 steigen                                stieg                           gestiegen               --          A2
-treiben                                trieb                           getrieben               --          A2
+treiben     treibe, treibt             trieb                           hat/ist getrieben       --          A2                triebe            force, drive, urge, ALSO drift
 weisen                                 wies                            gewiesen                A           B2
 beweisen    beweise, bewist            bewies                          bewiesen                                              bewöge            prove
-verzeihen                              verzieh                         verziehen               D           B1
-
-                  verzeihen       verzeihe      verzeiht        verzieh           verziehen                 verziehe          pardon, excuse, forgive
-
-                  treiben         treibe        treibt          trieb             hat/ist getrieben         triebe            force, drive, urge, ALSO drift 
-write             schreiben       schreibe      schreibt        schrieb           geschrieben               schriebe          write 
-                  schreien        schreie       schreit         schrie            geschrie(e)n              schriee           shout, yell 
-                  schweigen       schweige      schweigt        schwieg           geschwiegen               schwiege          be(come) silent 
-                  scheiden        scheide       scheidet        schied (bin etc.) geschieden                schiede           separate 
-                  scheinen        scheine       scheint         schien            geschienen                schiene           seem, ALSO shine 
+verzeihen   verzeihe, verzeiht         verzieh                         verziehen               D           B1                verziehe          pardon, excuse, forgive
 
 
 gedeihen        gedeihe       gedeiht         gedieh (bin etc.) ist gediehen              gediehe           flourish, prosper  
-                  leihen          leihe         leiht           lieh              geliehen                  liehe             lend (out) 
-                  reiben          reibe         reibt           rieb              gerieben                  riebe             rub 
-                  steigen         steige        steigt          stieg (bin etc.)  ist gestiegen             stiege            rise, mount 12 
+leihen          leihe         leiht           lieh              geliehen                  liehe             lend (out) 
+reiben          reibe         reibt           rieb              gerieben                  riebe             rub 
+steigen         steige        steigt          stieg (bin etc.)  ist gestiegen             stiege            rise, mount 12 
 
 
 
@@ -353,14 +326,14 @@ gedeihen        gedeihe       gedeiht         gedieh (bin etc.) ist gediehen    
 Infinitiv   Präsens 3. Person Sg.      Präteritum 3. Person Sg.        Partizip Perfekt        Rektion     Stufe
 ei          schwach                    i                               i
 ----------  ---------------------      ------------------------        ----------------        --------    ------
-beißen      beiße, beißt               biss                            gebissen                A           B2                bisse             bite 
+beißen       beiße, beißt              biss                            gebissen                A           B2                bisse             bite 
 bleichen                               blich                           geblichen               --          C2
 gleichen                               glich                           geglichen               D           B2
 gleiten                                glitt                           geglitten               --          C2
 greifen                                griff                           gegriffen               A           B1
 kneifen                                kniff                           gekniffen               A           C2
 leiden                                 litt                            gelitten                an D        A2
-pfeifen                                pfiff                           gepfiffen               --          C1
+pfeifen      pfeife, pfeift            pfiff                           gepfiffen               --          C1                 pfiffe            whistle, pipe 
 reißen                                 riss                            gerissen                A           C1
 reiten                                 ritt                            geritten                --          B1
 scheißen                               schiss                          geschissen              --          B2
