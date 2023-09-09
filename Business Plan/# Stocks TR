@@ -1,158 +1,574 @@
-# HOLDİNGLER
-TKFEN
-DEVA
-KCHOL            döviz fazlası
+"Yaptıkları işin tümü süreli, kısa ve uzun vadeli plan yapmaktan geçiyor. 
+    Yüksek getirisi olan işte riskleri azaltmak,
+                                kaçınılmaz düşüş başladığında da riskleri düşünmeden fondan çıkmak."
+
+
+"Borsada an fiyatlanmaz.. an satın alınmaz.
+    borsa ya geleceği satın alır.. gerçekleştiğinde de satar                                            beklenti satın alınır, gerçekleşen satılır.
+          ya da geleceği satar.. gerçekleştiğinde de en kötüsü görüldüğü günde satın almaya başlar.     beklenti satılır gerçekleşen alınır."
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+firma yükselen bir rota da mı anlamak için
+    şirkette büyüme istikrarı var mı.
+        satış rakamları artıyor mu her sene... satamayan şirketten uzak dur.    enflasyon %50-60 şirket satışını %10 arttırmış...
+        her yıl ortalama olarak cirosunu arttırmış mı?
+        trde son 10 yılda cironun yıllık büyüme oranı artış oranı %30 üzeriyse gayet iyi 
+                                                                  altındaysa %20 gibi kötü.. çünkü son on yılın sermaye maliyeti var neflasyonu var
+                                                                            yıllık ortalama, bileşik büyüme hızı açısından az
+    özkaynaklar/özsermaye artışına bakılır artıyor mu?
+            formül:        özsermaye = toplam varlıklar - toplam borç
+                                                                        özsermaye ne kadar artarsa senin de hissen o kadar artar..
+
+şirket verimli bir şirket mi?
+    iki farklı şirket cirosunu %30 arttırmış ama hangisinin cirosu daha kıymetli?
+    Net kar marjına bakılır.
+    'esas faaliyet kar marjı'na bakılır.
+                    %30 üzerindeyse alınır... ama istikrarlıysa bu değer yarattığı anlamına gelir.
+
+                    Net esas faaliyet karı artışı - şirketin Esas ve asıl işlerinden satışlarından elde etmiştir...
+
+
+    cirosu da artıyorsa daha iyi
+    %30luk kar marjı da varsa long pozisyonda inanılmaz kar
+
+Artışı beklenen üç sey:
+    özsermaye
+    kar
+    ciro
+    satışlar
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+COSMO    holding    Cosmos Yatırım Holding A.Ş. Şirket Logosu
+DAGHL    holding    Dagi Yatırım Holding A.Ş. Şirket Logosu
+EUHOL    holding    Euro Yatırım Holding A.Ş. Şirket Logosu
+IEYHO    holding    Işıklar Enerji ve Yapı Holding A.Ş. Şirket Logosu
+UMPAS    holding    Umpaş Holding A.Ş. Şirket Logosu
+KERVN    holding    Kervansaray Yatırım Holding A.Ş. Şirket Logosu
+TKFEN    holding    Tekfen Holding A.Ş. Şirket Logosu
+MMCAS    holding    Mmc Sanayi ve Ticari Yatırımlar A.Ş. Şirket Logosu
+OTTO    holding    Otto Holding A.Ş. Şirket Logosu
+UFUK    holding    Ufuk Yatırım Yönetim ve Gayrimenkul A.Ş. Şirket Logosu
+YESIL   holding     Yeşil Yatırım Holding A.Ş. Şirket Logosu
+KLRHO   holding     Kiler Holding A.Ş. Şirket Logosu
+MARKA    holding    Marka Yatırım Holding A.Ş. Şirket Logosu
+BRYAT    holding    Borusan Yatırım ve Pazarlama A.Ş. Şirket Logosu
+OYLUM    holding    Oylum Sınai Yatırımlar A.Ş. Şirket Logosu
+BLCYT    holding    Bilici Yatırım Sanayi ve Ticaret A.Ş. Şirket Logosu
+OSTIM    holding    Ostim Endüstriyel Yatırımlar ve İşletme A.Ş. Şirket Logosu
+INVES    holding    Investco Holding A.Ş. Şirket Logosu
+POLHO    holding    Polisan Holding A.Ş. Şirket Logosu
+ALARK    holding    Alarko Holding A.Ş. Şirket Logosu
+ITTFH    holding    İttifak Holding A.Ş. Şirket Logosu
+NTHOL    holding    Net Holding A.Ş. Şirket Logosu
+VERUS    holding    Verusa Holding A.Ş. Şirket Logosu
+UNLU    holding    Ünlü Yatırım Holding A.Ş. Şirket Logosu
+DOHOL    holding    Doğan Şirketler Grubu Holding A.Ş. Şirket Logosu
+ECILC    holding    Eis Eczacıbaşı İlaç, Sınai ve Finansal Yatırımlar Sanayi ve Ticaret A.Ş. Şirket Logosu
+MZHLD    holding    Mazhar Zorlu Holding A.Ş. Şirket Logosu
+METRO    holding    Metro Ticari ve Mali Yatırımlar Holding A.Ş. Şirket Logosu
+AVHOL    holding    Avrupa Yatırım Holding A.Ş. Şirket Logosu
+GLRYH    holding    Güler Yatırım Holding A.Ş. Şirket Logosu
+RALYH    holding    Ral Yatırım Holding A.Ş. Şirket Logosu
+IHLAS    holding    İhlas Holding A.Ş. Şirket Logosu
+IHYAY    holding    İhlas Yayın Holding A.Ş. Şirket Logosu
+IZINV    holding    İZ Yatırım Holding A.Ş Şirket Logosu
+GLYHO    holding    Global Yatırım Holding A.Ş. Şirket Logosu
+INVEO    holding    Inveo Yatırım Holding A.Ş. Şirket Logosu
+GSDHO    holding    Gsd Holding A.Ş. Şirket Logosu
+AGHOL    holding    AG Anadolu Grubu Holding A.Ş. Şirket Logosu
+BERA    holding    Bera Holding A.Ş. Şirket Logosu
+ECZYT    holding    Eczacıbaşı Yatırım Holding Ortaklığı A.Ş. Şirket Logosu
+HEDEF    holding    Hedef Holding A.Ş. Şirket Logosu
+DENGE    holding    Denge Yatırım Holding A.Ş. Şirket Logosu
+ATSYH    holding    Atlantis Yatırım Holding A.Ş. Şirket Logosu
+ISBIR    holding    İşbir Holding A.Ş. Şirket Logosu
+
+KCHOL *    holding    döviz fazlası    Koç Holding A.Ş. Şirket Logosu
     AYGAZ
-    ARCLK        ihracatı güçlü        Dayanıklı Tüketim Malları
-    FROTO        ihracatı güçlü        Dayanıklı Tüketim Malları
+    ARCLK        ihracatı güçlü         dayanıklı Tüketim Malları
+    FROTO        ihracatı güçlü         dayanıklı Tüketim Malları
     MAALT
-    OTKAR        savunma        ihracatı güçlü        Dayanıklı Tüketim Malları
+    OTKAR        savunma                ihracatı güçlü                dayanıklı Tüketim Malları
     TATGD
-    TOASO                            Dayanıklı Tüketim Malları
+    TOASO                               dayanıklı Tüketim Malları
     TUPRS
     TTRAK
-    YKBNK
+    YKBNK        bankacılık
 
-
-SAHOL            döviz fazlası
-    BRISA
-    CIMSA
-    ENJSA
-
-ALARK            ihracatı güçlü
-
-AKCNS        inşaat
-
-# DEMİR ÇELİK
-KRDMA
-
-
-VESBE        elektronik        ihracatı güçlü
-ZOREN        enerji
+SAHOL *    holding    döviz fazlası    Hacı Ömer Sabancı Holding A.Ş. Şirket Logosu
+    AKBNK        bankacılık
+    BRISA        otomotiv
+    CIMSA        inşaat
+    ENJSA        enerji
+    TKNSA        teknoloji perakende
+    CRFSA        perakende
+    KORDS        tekstil
 
 
 
+AKBNK            bankacılık *
+YKBNK            bankacılık *
+ISCTR            bankacılık *
+QNBFB            bankacılık
+GARAN            bankacılık
+VAKBN            bankacılık
+HALKB            bankacılık
+TSKB             bankacılık
+SKBNK            bankacılık
+KLNMA            bankacılık
+ICBCT            bankacılık
+ALBRK            bankacılık
+
+LOGO     bilişim    Logo Yazılım Sanayi ve Ticaret A.Ş. Şirket Logosu
+SMART    bilişim    Smartiks Yazılım A.Ş. Şirket Logosu
+KAREL    bilişim    Karel Elektronik Sanayi ve Ticaret A.Ş. Şirket Logosu
+KONTR    bilişim    Kontrolmatik Teknoloji Enerji ve Mühendislik A.Ş. Şirket Logosu
+OBASE    bilişim    Obase Bilgisayar ve Danışmanlık Hizmetleri Ticaret A.Ş. Şirket Logosu
+FORTE    bilişim    Forte Bilgi İletişim Teknolojileri ve Savunma Sanayi A.Ş. Şirket Logosu
+ARENA    bilişim    Arena Bilgisayar Sanayi ve Ticaret A.Ş. Şirket Logosu
+INDES    bilişim    İndeks Bilgisayar Sistemleri Mühendislik Sanayi ve Ticaret A.Ş. Şirket Logosu
+ATATP    bilişim    Atp Ticari Bilgisayar Ağı ve Elektrik Güç Kaynakları Üretim Pazarlama ve Ticaret A.Ş. Şirket Logosu
+YEOTK    bilişim    YEO Teknoloji Enerji ve Endüstri A.Ş. Şirket Logosu
+KRONT    bilişim    Kron Telekomünikasyon Hizmetleri A.Ş. Şirket Logosu
+DESPC    bilişim    Despec Bilgisayar Pazarlama ve Ticaret A.Ş. Şirket Logosu
+HTTBT    bilişim    Hitit Bilgisayar Hizmetleri A.Ş. Şirket Logosu
+LINK     bilişim    Link Bilgisayar Sistemleri Yazılımı ve Donanımı Sanayi ve Ticaret A.Ş. Şirket Logosu
+MOBTL    bilişim    Mobiltel İletişim Hizmetleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+KFEIN    bilişim    Kafein Yazılım Hizmetleri Ticaret A.Ş. Şirket Logosu
+MTRKS    bilişim    Matriks Bilgi Dağıtım Hizmetleri A.Ş. Şirket Logosu
+EDATA    bilişim    E-Data Teknoloji Pazarlama A.Ş. Şirket Logosu
+MIATK    bilişim    Mia Teknoloji A.Ş. Şirket Logosu
+INGRM    bilişim    Ingram Micro Bilişim Sistemleri A.Ş. Şirket Logosu
+VBTYZ    bilişim    VBT Yazılım A.Ş. Şirket Logosu
+ARDYZ    bilişim    Ard Grup Bilişim Teknolojileri A.Ş Şirket Logosu
+AZTEK    bilişim    Aztek Teknoloji Ürünleri Ticaret A.Ş. Şirket Logosu
+IDEAS    bilişim    İdeal Finansal Teknolojiler ve Danışmanlık A.Ş. Şirket Logosu
+ESCOM    bilişim    Escort Teknoloji Yatırım A.Ş. Şirket Logosu
+FONET    bilişim    Fonet Bilgi Teknolojileri A.Ş. Şirket Logosu
+NETAS    bilişim    Netaş Telekomünikasyon A.Ş. Şirket Logosu
+PENTA    bilişim    Penta Teknoloji Ürünleri Dağıtım Ticaret A.Ş. Şirket Logosu
+PCILT    bilişim    PC İletişim ve Medya Hizmetleri Sanayi Ticaret A.Ş. Şirket Logosu
+DGATE    bilişim    Datagate Bilgisayar Malzemeleri Ticaret A.Ş. Şirket Logosu
+PAPIL    bilişim    Papilon Savunma-Güvenlik Sistemleri Bilişim Mühendislik Hizmetleri İthalat İhracat Sanayi ve Ticaret A.Ş. Şirket Logosu
+PKART    bilişim    Plastikkart Akıllı Kart İletişim Sistemleri Sanayi ve Ticaret A.Ş.
+
+ALCAR    dayanıklı tüketim ürünleri    Alarko Carrier Sanayi ve Ticaret A.Ş. Şirket Logosu
+ARCLK    dayanıklı tüketim ürünleri *    Arçelik A.Ş. Şirket Logosu
+SILVR    dayanıklı tüketim ürünleri    Silverline Endüstri ve Ticaret A.Ş. Şirket Logosu
+VESBE    dayanıklı tüketim ürünleri    Vestel Beyaz Eşya Sanayi ve Ticaret A.Ş. Şirket Logosu
+VESTL    dayanıklı tüketim ürünleri    Vestel Elektronik Sanayi ve Ticaret A.Ş. Şirket Logosu
+ARZUM    dayanıklı tüketim ürünleri    Arzum Elektrikli Ev Aletleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+IHEVA    dayanıklı tüketim ürünleri    İhlas Ev Aletleri İmalat Sanayi ve Ticaret A.Ş. Şirket Logosu
+KLMSN    dayanıklı tüketim ürünleri    Klimasan Klima Sanayi ve Ticaret A.Ş. Şirket Logosu
 
 
-# YATIRIM ORTAKLIKLARI
-ECZYT
-ZRGYO
-BFREN
 
 
-# GIDA
-YYLGD
-ULKER
+ENJSA *    enerji üretim ve dağıtım    Enerjisa Enerji A.Ş.
+AKSEN *    enerji üretim ve dağıtım    Aksa Enerji Üretim A.Ş.
+ALARK    enerji üretim ve dağıtım    Alarko Holding A.Ş.
+GWIND    enerji üretim ve dağıtım    Galata Wind Enerji A.Ş.
+ZOREN    enerji üretim ve dağıtım    Zorlu Enerji Elektrik Üretim A.Ş.
+ENERY    enerji üretim ve dağıtım    Enerya Enerji A.Ş.
+AKFYE    enerji üretim ve dağıtım    Akfen Yenilenebilir Enerji A.Ş.
+ARASE    enerji üretim ve dağıtım    Doğu Aras Enerji Yatırımları A.Ş.
+TATEN    enerji üretim ve dağıtım    Tatlıpınar Enerji Üretim A.Ş.
+IZENR    enerji üretim ve dağıtım    İzdemir Enerji Elektrik Üretim A.Ş.
+NTGAZ    enerji üretim ve dağıtım    Naturelgaz Sanayi ve Ticaret A.Ş.
+ODAS     enerji üretim ve dağıtım    Odaş Elektrik Üretim Sanayi Ticaret A.Ş.
+CONSE    enerji üretim ve dağıtım    Consus Enerji İşletmeciliği ve Hizmetleri A.Ş.
+NATEN    enerji üretim ve dağıtım    Naturel Yenilenebilir Enerji Ticaret A.Ş.
+AYDEM    enerji üretim ve dağıtım    Aydem Yenilenebilir Enerji A.Ş.
+HUNER    enerji üretim ve dağıtım    Hun Yenilenebilir Enerji Üretim A.Ş.
+MAGEN    enerji üretim ve dağıtım    Margün Enerji Üretim Sanayi ve Ticaret A.Ş.
+ESEN     enerji üretim ve dağıtım    Esenboğa Elektrik Üretim A.Ş.
+BIOEN    enerji üretim ve dağıtım    Biotrend Çevre ve Enerji Yatırımları A.Ş.
+BASGZ    enerji üretim ve dağıtım    Başkent Doğalgaz Dağıtım Gayrimenkul Yatırım Ortaklığı A.Ş.
+AKSUE    enerji üretim ve dağıtım    Aksu Enerji ve Ticaret A.Ş.
+PRKME    enerji üretim ve dağıtım    Park Elektrik Üretim Madencilik Sanayi ve Ticaret A.Ş.
+ZEDUR    enerji üretim ve dağıtım    Zedur Enerji Elektrik Üretim A.Ş.
+YAYLA    enerji üretim ve dağıtım    Yayla Enerji Üretim Turizm ve İnşaat Ticaret A.Ş.
+AYEN     enerji üretim ve dağıtım    Ayen Enerji A.Ş.
+CANTE    enerji üretim ve dağıtım    Çan2 Termik A.Ş.
+AHGAZ    enerji üretim ve dağıtım    Ahlatcı Doğal Gaz Dağıtım Enerji ve Yatırım A.Ş.
+AKENR    enerji üretim ve dağıtım    Akenerji Elektrik Üretim A.Ş.
+MANAS    enerji üretim ve dağıtım    Manas Enerji Yönetimi Sanayi ve Ticaret A.Ş.
+KARYE    enerji üretim ve dağıtım    Kartal Yenilenebilir Enerji Üretim A.Ş.
+PAMEL    enerji üretim ve dağıtım    inşaat    Pamukova Yenilenebilir Elektrik Üretimi A.Ş. 
 
 
-# BANKALAR
-QNBFB
-GARAN
-AKBNK
-YKBNK
-VAKBN
-HALKB
-TSKB
-
-# ELEKTRİK
-ODAS
-
-# HAVACILIK
-THYAO        ihracatı güçlü
-PGSUS
-TAVHL
-
-# SİGORTA
-ANHYT
+TKFEN *    inşaat    Tekfen Holding A.Ş.
+ENKAI *    inşaat    Enka İnşaat ve Sanayi A.Ş.
+BRLSM *    inşaat    Birleşim Mühendislik Isıtma Soğutma Havalandırma Sanayi ve Ticaret A.Ş
+ANELE    inşaat    Anel Elektrik Proje Taahhüt ve Ticaret A.Ş.
+GESAN    inşaat    Girişim Elektrik Sanayi Taahhüt ve Ticaret A.Ş.
+BRKSN    inşaat    Berkosan Yalıtım ve Tecrit Maddeleri Üretim ve Ticaret A.Ş.
+CMBTN    inşaat    Çimbeton Hazırbeton ve Prefabrik Yapı Elemanları Sanayi ve Ticaret A.Ş. 
+YYAPI    inşaat    Yeşil Yapı Endüstrisi A.Ş.
+YBTAS    inşaat    Yibitaş Yozgat İşçi Birliği İnşaat Malzemeleri Ticaret ve Sanayi A.Ş.
+EDIP     inşaat    Edip Gayrimenkul Yatırım Sanayi ve Ticaret A.Ş.
+IHLGM    inşaat    İhlas Gayrimenkul Proje Geliştirme ve Ticaret A.Ş.
+ORGE     inşaat    Orge Enerji Elektrik Taahhüt A.Ş.
+SANEL    inşaat    San-El Mühendislik Elektrik Taahhüt Sanayi ve Ticaret A.Ş.
+TURGG    inşaat    Türker Proje Gayrimenkul ve Yatırım Geliştirme A.Ş.
+PAMEL    inşaat    Pamukova Yenilenebilir Elektrik Üretimi A.Ş.
+PNLSN    inşaat    imalat    Panelsan Çatı Cephe Sistemleri Sanayi ve Ticaret A.Ş.
+EUREN    inşaat    Europen Endüstri İnşaat Sanayi ve Ticaret A.Ş.
 
 
-# OTOMOTİV
-FROTO        ihracatı güçlü
-TTRAK        döviz fazlası
-TOASO
-ASUZU
-BFREN
-
-# LOJİSTİK
-RYSAS
-
-# SANAYİ
-SASA
-
-
-# TELEKOMUNİKASYON
-TCELL
-
-
-QNBFL        leasing
+CIMSA *    taş, toprak, çimento    Çimsa Çimento Sanayi ve Ticaret A.Ş. Şirket Logosu
+AFYON    taş, toprak, çimento    Afyon Çimento Sanayi T.A.Ş. Şirket Logosu
+AKCNS    taş, toprak, çimento    Akçansa Çimento Sanayi ve Ticaret A.Ş. Şirket Logosu
+BOBET    taş, toprak, çimento    Boğaziçi Beton Sanayi ve Ticaret A.Ş. Şirket Logosu
+BASCM    taş, toprak, çimento    Baştaş Başkent Çimento Sanayi ve Ticaret A.Ş. Şirket Logosu
+BSOKE    taş, toprak, çimento    Batısöke Söke Çimento Sanayii T.A.Ş. Şirket Logosu
+BTCIM    taş, toprak, çimento    Batıçim Batı Anadolu Çimento Sanayii A.Ş. Şirket Logosu
+CMBTN    taş, toprak, çimento    Çimbeton Hazırbeton ve Prefabrik Yapı Elemanları Sanayi ve Ticaret A.Ş. Şirket Logosu
+CMENT    taş, toprak, çimento    Çimentaş İzmir Çimento Fabrikası T.A.Ş. Şirket Logosu
+GOLTS    taş, toprak, çimento    Göltaş Göller Bölgesi Çimento Sanayi ve Ticaret A.Ş. Şirket Logosu
+KONYA    taş, toprak, çimento    Konya Çimento Sanayii A.Ş. Şirket Logosu
+NIBAS    taş, toprak, çimento    Niğbaş Niğde Beton Sanayi ve Ticaret A.Ş. Şirket Logosu
+NUHCM    taş, toprak, çimento    Nuh Çimento Sanayi A.Ş. Şirket Logosu
+OYAKC    taş, toprak, çimento    Oyak Çimento Fabrikaları A.Ş. Şirket Logosu
+BUCIM    taş, toprak, çimento    Bursa Çimento Fabrikası A.Ş. Şirket Logosu
 
 
-ASELS        savunma    yüksek sipariş
-AGHOL
-AKSEN
-ALFAS
-AKSA
-ANSGR
-AKFYE
+EBEBK    toptan ve perakende ticaret    Ebebek Mağazacılık A.Ş. Şirket Logosu
+SANKO    toptan ve perakende ticaret    Sanko Pazarlama İthalat İhracat A.Ş. Şirket Logosu
+ARENA    toptan ve perakende ticaret    Arena Bilgisayar Sanayi ve Ticaret A.Ş. Şirket Logosu
+INDES    toptan ve perakende ticaret    İndeks Bilgisayar Sistemleri Mühendislik Sanayi ve Ticaret A.Ş. Şirket Logosu
+MIPAZ    toptan ve perakende ticaret    Milpa Ticari ve Sınai Ürünler Pazarlama Sanayi ve Ticaret A.Ş. Şirket Logosu
+KIMMR    toptan ve perakende ticaret    Ersan Alışveriş Hizmetleri ve Gıda Sanayi Ticaret A.Ş. Şirket Logosu
+TGSAS    toptan ve perakende ticaret    TGS Dış Ticaret A.Ş. Şirket Logosu
+DESPC    toptan ve perakende ticaret    Despec Bilgisayar Pazarlama ve Ticaret A.Ş. Şirket Logosu
+AVTUR    toptan ve perakende ticaret    Avrasya Petrol ve Turistik Tesisler Yatırımlar A.Ş. Şirket Logosu
+MEPET    toptan ve perakende ticaret    Mepet Metro Petrol ve Tesisleri Sanayi Ticaret A.Ş. Şirket Logosu
+MOBTL    toptan ve perakende ticaret    Mobiltel İletişim Hizmetleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+INGRM    toptan ve perakende ticaret    Ingram Micro Bilişim Sistemleri A.Ş. Şirket Logosu
+INTEM    toptan ve perakende ticaret    İntema İnşaat ve Tesisat Malzemeleri Yatırım ve Pazarlama A.Ş. Şirket Logosu
+BIZIM    toptan ve perakende ticaret    Bizim Toptan Satış Mağazaları A.Ş. Şirket Logosu
+AZTEK    toptan ve perakende ticaret    Aztek Teknoloji Ürünleri Ticaret A.Ş. Şirket Logosu
+ETILR    toptan ve perakende ticaret    Etiler Gıda ve Ticari Yatırımlar Sanayi ve Ticaret A.Ş. Şirket Logosu
+BIMAS    toptan ve perakende ticaret    Bim Birleşik Mağazalar A.Ş. Şirket Logosu
+DOAS     toptan ve perakende ticaret    Doğuş Otomotiv Servis ve Ticaret A.Ş. Şirket Logosu
+MGROS    toptan ve perakende ticaret    Migros Ticaret A.Ş. Şirket Logosu
+GMTAS    toptan ve perakende ticaret    Gimat Mağazacılık Sanayi ve Ticaret A.Ş. Şirket Logosu
+TKNSA    toptan ve perakende ticaret    Teknosa İç ve Dış Ticaret A.Ş. Şirket Logosu
+SOKM     toptan ve perakende ticaret    Şok Marketler Ticaret A.Ş. Şirket Logosu
+PENTA    toptan ve perakende ticaret    Penta Teknoloji Ürünleri Dağıtım Ticaret A.Ş. Şirket Logosu
+PSDTC    toptan ve perakende ticaret    Pergamon Status Dış Ticaret A.Ş. Şirket Logosu
+CRFSA    toptan ve perakende ticaret    Carrefoursa Carrefour Sabancı Ticaret Merkezi A.Ş. Şirket Logosu
+DGATE    toptan ve perakende ticaret    Datagate Bilgisayar Malzemeleri Ticaret A.Ş. Şirket Logosu
 
-BIMAS
-CWENE
-DOHOL
-EREGL
-ECILC
-ENKAI
-AEFES
 
-KLRHO
-KONYA
-KLNMA
-NUHCM
 
+MGROS *    Gıda Prekandeciliği    Migros Ticaret A.Ş. 
+BIMAS *    Gıda Prekandeciliği    Bim Birleşik Mağazalar A.Ş. Şirket Logosu
+BIZIM    Gıda Prekandeciliği    Bizim Toptan Satış Mağazaları A.Ş. Şirket Logosu
+CRFSA    Gıda Prekandeciliği    Carrefoursa Carrefour Sabancı Ticaret Merkezi A.Ş. Şirket Logosu
+GMTAS    Gıda Prekandeciliği    Gimat Mağazacılık Sanayi ve Ticaret A.Ş. Şirket Logosu
+SOKM     Gıda Prekandeciliği    Şok Marketler Ticaret A.Ş. Şirket Logosu
+KIMMR    Gıda Prekandeciliği    Ersan Alışveriş Hizmetleri ve Gıda Sanayi Ticaret A.Ş. Şirket Logosu
+
+
+OFSYM    gıda-içecek    Ofis Yem Gıda Sanayi ve Ticaret A.Ş. Şirket Logosu
+KENT    gıda-içecek    Kent Gıda Maddeleri Sanayii ve Ticaret A.Ş. Şirket Logosu
+TBORG    gıda-içecek    Türk Tuborg Bira ve Malt Sanayii A.Ş. Şirket Logosu
+ULKER    gıda-içecek    Ülker Bisküvi Sanayi A.Ş. Şirket Logosu
+KAYSE    gıda-içecek    Kayseri Şeker Fabrikası A.Ş. Şirket Logosu
+KERVT    gıda-içecek    Kerevitaş Gıda Sanayi ve Ticaret A.Ş. Şirket Logosu
+SELVA    gıda-içecek    Selva Gıda Sanayi A.Ş. Şirket Logosu
+MERKO    gıda-içecek    Merko Gıda Sanayi ve Ticaret A.Ş. Şirket Logosu
+PNSUT    gıda-içecek    Pınar Süt Mamülleri Sanayi A.Ş. Şirket Logosu
+PETUN    gıda-içecek    Pınar Entegre Et ve Un Sanayii A.Ş. Şirket Logosu
+PINSU    gıda-içecek    Pınar Su Sanayi ve Ticaret A.Ş. Şirket Logosu
+KUVVA    gıda-içecek    Kuvva Gıda Ticaret ve Sanayi Yatırımları A.Ş. Şirket Logosu
+SELGD    gıda-içecek    Selçuk Gıda Endüstri İhracat İthalat A.Ş. Şirket Logosu
+BYDNR    gıda-içecek    Baydöner Restoranları A.Ş. Şirket Logosu
+DARDL    gıda-içecek    Dardanel Önentaş Gıda Sanayi A.Ş. Şirket Logosu
+OYLUM    gıda-içecek    Oylum Sınai Yatırımlar A.Ş. Şirket Logosu
+BIGCH    gıda-içecek    Büyük Şefler Gıda Turizm Tekstil Danışmanlık Organizasyon Eğitim Sanayi ve Ticaret A.Ş. Şirket Logosu
+GOKNR    gıda-içecek    Göknur Gıda Maddeleri Enerji İmalat İthalat İhracat Ticaret ve Sanayi AŞ Şirket Logosu
+TUKAS    gıda-içecek    Tukaş Gıda Sanayi ve Ticaret A.Ş. Şirket Logosu
+BANVT    gıda-içecek    Banvit Bandırma Vitaminli Yem Sanayii A.Ş. Şirket Logosu
+TATGD    gıda-içecek    Tat Gıda Sanayi A.Ş. Şirket Logosu
+VANGD    gıda-içecek    Vanet Gıda Sanayi İç ve Dış Ticaret A.Ş. Şirket Logos
+TETMT    gıda-içecek    Tetamat Gıda Yatırımları A.Ş. Şirket Logosu
+AVOD    gıda-içecek    A.V.O.D. Kurutulmuş Gıda ve Tarım Ürünleri A.Ş. Şirket Logosu
+SOKE    gıda-içecek    Söke Değirmencilik Sanayi ve Ticaret A.Ş. Şirket Logosu
+AEFES    gıda-içecek    Anadolu Efes Biracılık ve Malt Sanayii A.Ş. Şirket Logosu
+CCOLA    gıda-içecek    Coca-Cola İçecek A.Ş. Şirket Logosu
+FADE    gıda-içecek    Fade Gıda Yatırım Sanayi Ticaret A.Ş. Şirket Logosu
+YYLGD    gıda-içecek    Yayla Agro Gıda Sanayi ve Ticaret A.Ş. Şirket Logosu
+FRIGO    gıda-içecek    Frigo-Pak Gıda Maddeleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+ORCAY    gıda-içecek    Orçay Ortaköy Çay Sanayi ve Ticaret A.Ş. Şirket Logosu
+ELITE    gıda-içecek    Elite Naturel Organik Gıda Sanayi ve Ticaret A.Ş. Şirket Logosu
+ATAKP    gıda-içecek    Atakey Patates Gıda Sanayi ve Ticaret AŞ Şirket Logosu
+EKSUN    gıda-içecek    Eksun Gıda Tarım Sanayi ve Ticaret A.Ş Şirket Logosu
+ULUUN    gıda-içecek    Ulusoy Un Sanayi ve Ticaret A.Ş. Şirket Logosu
+KRVGD    gıda-içecek    Kervan Gıda Sanayi ve Ticaret A.Ş. Şirket Logosu
+KNFRT    gıda-içecek    Konfrut Gıda Sanayi ve Ticaret A.Ş. Şirket Logosu
+KTSKR    gıda-içecek    Kütahya Şeker Fabrikası A.Ş Şirket Logosu
+GRTRK    gıda-içecek    Graınturk Tarım A.Ş. Şirket Logosu
+KRSTL    gıda-içecek    Kristal Kola ve Meşrubat Sanayi Ticaret A.Ş. Şirket Logosu
+PENGD    gıda-içecek    Penguen Gıda Sanayi A.Ş. Şirket Logosu
+ERSU    gıda-içecek    Ersu Meyve ve Gıda Sanayi A.Ş. Şirket Logosu
+
+
+
+TCELL *    haberleşme    Turkcell İletişim Hizmetleri A.Ş. Şirket Logosu
+TTKOM *    haberleşme    Türk Telekomünikasyon A.Ş. Şirket Logosu
+ALCTL    haberleşme    Alcatel Lucent Teletaş Telekomünikasyon A.Ş. Şirket Logosu
+KRONT    haberleşme    Kron Telekomünikasyon Hizmetleri A.Ş. Şirket Logosu
+NETAS    haberleşme    Netaş Telekomünikasyon A.Ş. Şirket Logosu
+IHAAS    haberleşme    İhlas Haber Ajansı A.Ş. Şirket Logosu
+
+
+
+ASELS *    imalat    Aselsan Elektronik Sanayi ve Ticaret A.Ş. Şirket Logosu
+EREGL *    imalat    demir-çelik    Ereğli Demir ve Çelik Fabrikaları T.A.Ş. Şirket Logosu
+    ISDMR    imalat    demir-çelik    İskenderun Demir ve Çelik A.Ş. Şirket Logosu
+KRDMA *    imalat    demir-çelik    Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş. Şirket Logosu
+KRDMB    imalat    Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş. Şirket Logosu
+KRDMD    imalat    Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.
+AYGAZ *    imalat    Aygaz A.Ş.
+ALCAR    imalat    Alarko Carrier Sanayi ve Ticaret A.Ş. Şirket Logosu
+PNLSN    imalat    Panelsan Çatı Cephe Sistemleri Sanayi ve Ticaret A.Ş.
+GIPTA    imalat    Gıpta Ofis Kırtasiye ve Promosyon Ürünleri İmalat Sanayi A.Ş. Şirket Logosu
+BNTAS    imalat    Bantaş Bandırma Ambalaj Sanayi Ticaret A.Ş. Şirket Logosu
+JANTS    imalat    Jantsa Jant Sanayi ve Ticaret A.Ş. Şirket Logosu
+KARSN    imalat    Karsan Otomotiv Sanayii ve Ticaret A.Ş. Şirket Logosu
+IHEVA    imalat    İhlas Ev Aletleri İmalat Sanayi ve Ticaret A.Ş. Şirket Logosu
+BURVA    imalat    Burçelik Vana Sanayi ve Ticaret A.Ş. Şirket Logosu
+KORDS    imalat    Kordsa Teknik Tekstil A.Ş. Şirket Logosu
+BOSSA    imalat    Bossa Ticaret ve Sanayi İşletmeleri T.A.Ş. Şirket Logosu
+GENTS    imalat    Gentaş Dekoratif Yüzeyler Sanayi ve Ticaret A.Ş. Şirket Logosu
+PRKAB    imalat    Türk Prysmian Kablo ve Sistemleri A.Ş. Şirket Logosu
+HKTM     imalat    Hidropar Hareket Kontrol Teknolojileri Merkezi Sanayi ve Ticaret A.Ş. Şirket Logosu
+CELHA    imalat    Çelik Halat ve Tel Sanayii A.Ş. Şirket Logosu
+CEMAS    imalat    Çemaş Döküm Sanayi A.Ş. Şirket Logosu
+BFREN    imalat    Bosch Fren Sistemleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+KATMR    imalat    Katmerciler Araç Üstü Ekipman Sanayi ve Ticaret A.Ş. Şirket Logosu
+YKSLN    imalat    Yükselen Çelik A.Ş. Şirket Logosu
+BAYRK    imalat    Bayrak Ebt Taban Sanayi ve Ticaret A.Ş. Şirket Logosu
+KCAER    imalat    Kocaer Çelik Sanayi ve Ticaret A.Ş. Şirket Logosu
+TUCLK    imalat    Tuğçelik Alüminyum ve Metal Mamülleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+ORMA     imalat    Orma Orman Mahsulleri Entegre Sanayi ve Ticaret A.Ş.
+FMIZP    imalat    Federal-Mogul İzmit Piston ve Pim Üretim Tesisleri A.Ş. Şirket Logosu
+ARZUM    imalat    Arzum Elektrikli Ev Aletleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+SNICA    imalat    Sanica Isı Sanayi A.Ş. Şirket Logosu
+ARCLK    imalat    Arçelik A.Ş. Şirket Logosu
+SASA     imalat    Sasa Polyester Sanayi A.Ş. Şirket Logosu
+TOASO    imalat    Tofaş Türk Otomobil Fabrikası A.Ş. Şirket Logosu
+AKSA     imalat    Aksa Akrilik Kimya Sanayii A.Ş. Şirket Logosu
+SAYAS    imalat    Say Yenilenebilir Enerji Ekipmanları Sanayi ve Ticaret A.Ş Şirket Logosu
+ULUSE    imalat    Ulusoy Elektrik İmalat Taahhüt ve Ticaret A.Ş. Şirket Logosu
+SAFKR    imalat    Safkar Ege Soğutmacılık Klima Soğuk Hava Tesisleri İhracat İthalat Sanayi ve Ticaret A.Ş. Şirket Logosu
+ADEL     imalat    Adel Kalemcilik Ticaret ve Sanayi A.Ş. Şirket Logosu
+CUSAN    imalat    Çuhadaroğlu Metal Sanayi ve Pazarlama A.Ş. Şirket Logosu
+BRSAN    imalat    Borusan Mannesmann Boru Sanayi ve Ticaret A.Ş. Şirket Logosu
+ERBOS    imalat    Erbosan Erciyas Boru Sanayii ve Ticaret A.Ş. Şirket Logosu
+ALKIM    imalat    Alkim Alkali Kimya A.Ş. Şirket Logosu
+BRISA    imalat    Brisa Bridgestone Sabancı Lastik Sanayi ve Ticaret A.Ş. Şirket Logosu
+DOKTA    imalat    Döktaş Dökümcülük Ticaret ve Sanayi A.Ş. Şirket Logosu
+CEMTS    imalat    Çemtaş Çelik Makina Sanayi ve Ticaret A.Ş. Şirket Logosu
+HEKTS    imalat    Hektaş Ticaret T.A.Ş. Şirket Logosu
+KLKIM    imalat    Kalekim Kimyevi Maddeler Sanayi ve Ticaret A.Ş. Şirket Logosu
+KLMSN    imalat    Klimasan Klima Sanayi ve Ticaret A.Ş. Şirket Logosu Şirket Logosu
+KARTN    imalat    Kartonsan Karton Sanayi ve Ticaret A.Ş. Şirket Logosu
+FORMT    imalat    Formet Çelik Kapı Sanayi ve Ticaret A.Ş. Şirket Logosu
+GEDZA    imalat    Gediz Ambalaj Sanayi ve Ticaret A.Ş. Şirket Logosu
+GEREL    imalat    Gersan Elektrik Ticaret ve Sanayi A.Ş. Şirket Logosu
+SILVR    imalat    Silverline Endüstri ve Ticaret A.Ş. Şirket Logosu
+IZMDC    imalat    İzmir Demir Çelik Sanayi A.Ş. Şirket Logosu
+IZFAS    imalat    İzmir Fırça Sanayi ve Ticaret A.Ş. Şirket Logosu
+BVSAN    imalat    Bülbüloğlu Vinç Sanayi ve Ticaret A.Ş. Şirket Logosu
+FROTO    imalat    Ford Otomotiv Sanayi A.Ş. Şirket Logosu
+GUBRF    imalat    Gübre Fabrikaları T.A.Ş. Şirket Logosu
+DMSAS    imalat    Demisaş Döküm Emaye Mamülleri Sanayi A.Ş. Şirket Logosu
+DERHL    imalat    Derlüks Yatırım Holding A.Ş. Şirket Logosu
+DOGUB    imalat    Doğusan Boru Sanayii ve Ticaret A.Ş. Şirket Logosu
+EPLAS    imalat    Egeplast Ege Plastik Ticaret ve Sanayi A.Ş. Şirket Logosu
+KAPLM    imalat    Kaplamin Ambalaj Sanayi ve Ticaret A.Ş. Şirket Logosu
+MAKIM    imalat    Makim Makina Teknolojileri San. Tic. A.Ş Şirket Logosu
+MRSHL    imalat    Marshall Boya ve Vernik Sanayii A.Ş. Şirket Logosu
+POLTK    imalat    Politeknik Metal Sanayi ve Ticaret A.Ş. Şirket Logosu
+BURCE    imalat    Burçelik Bursa Çelik Döküm Sanayii A.Ş. Şirket Logosu
+EMKEL    imalat    Emek Elektrik Endüstrisi A.Ş. Şirket Logosu
+RNPOL    imalat    Rainbow Polikarbonat Sanayi Ticaret A.Ş. Şirket Logosu
+AYES    imalat    Ayes Çelik Hasır ve Çit Sanayi A.Ş. Şirket Logosu
+BALAT    imalat    Balatacılar Balatacılık Sanayi ve Ticaret A.Ş. Şirket Logosu
+BRKO    imalat    Birko Birleşik Koyunlulular Mensucat Ticaret ve Sanayi A.Ş. Şirket Logosu
+BRMEN    imalat    Birlik Mensucat Ticaret ve Sanayi İşletmesi A.Ş. Şirket Logosu
+SUMAS    imalat    Sumaş Suni Tahta ve Mobilya Sanayi A.Ş. Şirket Logosu
+
+
+MAVI *    tekstil, giyim, deri    Mavi Giyim Sanayi ve Ticaret A.Ş. Şirket Logosu
+DAGHL    tekstil, giyim, deri    Dagi Yatırım Holding A.Ş. Şirket Logos
+ENSRI    tekstil, giyim, deri    Ensari Deri Gıda Sanayi ve Ticaret A.Ş. Şirket Logosu
+BOSSA    tekstil, giyim, deri    Bossa Ticaret ve Sanayi İşletmeleri T.A.Ş. Şirket Logosu
+KRTEK    tekstil, giyim, deri    Karsu Tekstil Sanayii ve Ticaret A.Ş. Şirket Logosu
+SANKO    tekstil, giyim, deri    Sanko Pazarlama İthalat İhracat A.Ş. Şirket Logosu
+VAKKO    tekstil, giyim, deri    Vakko Tekstil ve Hazır Giyim Sanayi İşletmeleri A.Ş. Şirket Logosu
+MNDRS    tekstil, giyim, deri    Menderes Tekstil Sanayi ve Ticaret A.Ş. Şirket Logosu
+BAYRK    tekstil, giyim, deri    Bayrak Ebt Taban Sanayi ve Ticaret A.Ş. Şirket Logosu
+LUKSK    tekstil, giyim, deri    Lüks Kadife Ticaret ve Sanayii A.Ş. Şirket Logosu
+RODRG    tekstil, giyim, deri    Rodrigo Tekstil Sanayi ve Ticaret A.Ş. Şirket Logosu
+BLCYT    tekstil, giyim, deri    Bilici Yatırım Sanayi ve Ticaret A.Ş. Şirket Logosu
+ROYAL    tekstil, giyim, deri    Royal Halı İplik Tekstil Mobilya Sanayi ve Ticaret A.Ş. Şirket Logosu
+RUBNS    tekstil, giyim, deri    Rubenis Tekstil Sanayi Ticaret A.Ş. Şirket Logosu
+SNPAM    tekstil, giyim, deri    Sönmez Pamuklu Sanayii A.Ş. Şirket Logosu
+SKTAS    tekstil, giyim, deri    Söktaş Tekstil Sanayi ve Ticaret A.Ş. Şirket Logosu
+SUWEN    tekstil, giyim, deri    Suwen Tekstil Sanayi Pazarlama A.Ş. Şirket Logosu
+ARSAN    tekstil, giyim, deri    Arsan Tekstil Ticaret ve Sanayi A.Ş. Şirket Logosu
+ATEKS    tekstil, giyim, deri    Akın Tekstil A.Ş. Şirket Logosu
+DERIM    tekstil, giyim, deri    Derimod Konfeksiyon Ayakkabı Deri Sanayi ve Ticaret A.Ş. Şirket Logosu
+SONME    tekstil, giyim, deri    Sönmez Filament Sentetik İplik ve Elyaf Sanayi A.Ş. Şirket Logosu
+YUNSA    tekstil, giyim, deri    Yünsa Yünlü Sanayi ve Ticaret A.Ş. Şirket Logosu
+DESA    tekstil, giyim, deri    Desa Deri Sanayi ve Ticaret A.Ş. Şirket Logosu
+SUNTK    tekstil, giyim, deri    Sun Tekstil Sanayi ve Ticaret A.Ş. Şirket Logosu
+HATEK    tekstil, giyim, deri    Hateks Hatay Tekstil İşletmeleri A.Ş. Şirket Logosu
+MEGAP    tekstil, giyim, deri    Mega Polietilen Köpük Sanayi A.Ş. Şirket Logosu
+DERHL    tekstil, giyim, deri    Derlüks Yatırım Holding A.Ş. Şirket Logosu
+DAGI    tekstil, giyim, deri    Dagi Giyim Sanayi ve Ticaret A.Ş. Şirket Logosu
+BRKO    tekstil, giyim, deri    Birko Birleşik Koyunlulular Mensucat Ticaret ve Sanayi A.Ş. Şirket Logosu
+BRMEN    tekstil, giyim, deri    Birlik Mensucat Ticaret ve Sanayi İşletmesi A.Ş. Şirket Logosu
+DIRIT    tekstil, giyim, deri    Diriteks Diriliş Tekstil Sanayi ve Ticaret A.Ş. Şirket Logosu
+
+
+
+DEVA    ilaç ve sağlık    Deva Holding A.Ş. Şirket Logosu
+ECILC    ilaç ve sağlık    Eis Eczacıbaşı İlaç, Sınai ve Finansal Yatırımlar Sanayi ve Ticaret A.Ş. Şirket Logosu
+GENIL    ilaç ve sağlık    Gen İlaç ve Sağlık Ürünleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+TRILC    ilaç ve sağlık    Türk İlaç ve Serum Sanayi A.Ş. Şirket Logosu
+LKMNH    ilaç ve sağlık    Lokman Hekim Engürüsağ Sağlık, Turizm, Eğitim Hizmetleri ve İnşaat Taahhüt A.Ş. Şirket Logosu
+MPARK    ilaç ve sağlık    Mlp Sağlık Hizmetleri A.Ş. Şirket Logosu
+RTALB    ilaç ve sağlık    RTA Laboratuvarları Biyolojik Ürünler İlaç ve Makina Sanayi Ticaret A.Ş. Şirket Logosu
+SELEC    ilaç ve sağlık    Selçuk Ecza Deposu Ticaret ve Sanayi A.Ş. Şirket Logosu
+SEYKM    ilaç ve sağlık    Seyitler Kimya Sanayi A.Ş. Şirket Logosu
+EGEPO    ilaç ve sağlık    Nasmed Özel Sağlık Hizmetleri Ticaret A.Ş. Şirket Logosu
+ANGEN    ilaç ve sağlık    Anatolia Tanı ve Biyoteknoloji Ürünleri Araştırma Geliştirme Sanayi ve Ticaret A.Ş. Şirket Logosu
+MEDTR    ilaç ve sağlık    Meditera Tıbbi Malzeme Sanayi ve Ticaret A.Ş. Şirket Logosu
+ONCSM    ilaç ve sağlık    Oncosem Onkolojik Sistemler Sanayi ve Ticaret A.Ş. Şirket Logosu
+TNZTP    ilaç ve sağlık    Tapdi Oksijen Özel Sağlık ve Eğitim Hizmetleri Sanayi Ticaret A.Ş. Şirket Logosu
+
+
+
+AVGYO    gayrimenkul    Avrasya Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+FZLGY    gayrimenkul    Fuzul Gayrimenkul Yatırım Ortaklığı AŞ Şirket Logosu
+KZGYO    gayrimenkul    Kuzugrup Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+KZBGY    gayrimenkul    Kızılbük Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+TSGYO    gayrimenkul    TSKB Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+ISGYO    gayrimenkul    İş Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+MRGYO    gayrimenkul    Martı Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+VKGYO    gayrimenkul    Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+AGYO     gayrimenkul    Atakule Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+MIPAZ    gayrimenkul    Milpa Ticari ve Sınai Ürünler Pazarlama Sanayi ve Ticaret A.Ş. Şirket Logosu
+OZGYO    gayrimenkul    Özderici Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+IDGYO    gayrimenkul    İdealist Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+ZRGYO    gayrimenkul    Ziraat Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+KLGYO    gayrimenkul    Kiler Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+MSGYO    gayrimenkul    Mistral Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+TDGYO    gayrimenkul    Trend Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+DGGYO    gayrimenkul    Doğuş Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+YGGYO    gayrimenkul    Yeni Gimat Gayrimenkul Yatırım Ortaklığı A.Ş.
+IHLGM    gayrimenkul    İhlas Gayrimenkul Proje Geliştirme ve Ticaret A.Ş.
+KRGYO    gayrimenkul    Körfez Gayrimenkul Yatırım Ortaklığı A.Ş.
+BASGZ    gayrimenkul    Başkent Doğalgaz Dağıtım Gayrimenkul Yatırım Ortaklığı A.Ş.
+NUGYO    gayrimenkul    Nurol Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+SRVGY    gayrimenkul    Servet Gayrimenkul Yatırım Ortaklığı A.Ş.
+TRGYO    gayrimenkul    Torunlar Gayrimenkul Yatırım Ortaklığı A.Ş.
+AKSGY    gayrimenkul    Akiş Gayrimenkul Yatırım Ortaklığı A.Ş.
+YGYO     gayrimenkul    Yeşil Gayrimenkul Yatırım Ortaklığı A.Ş.
+OZKGY    gayrimenkul    Özak Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+RYGYO    gayrimenkul    Reysaş Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+ALGYO    gayrimenkul    Alarko Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+DAPGM    gayrimenkul    DAP Gayrimenkul Geliştirme A.Ş. Şirket Logosu
+ASGYO    gayrimenkul    Asce Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+HLGYO    gayrimenkul    Halk Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+AKFGY    gayrimenkul    Akfen Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+EKGYO    gayrimenkul    Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+SEGYO    gayrimenkul    Şeker Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+SNGYO    gayrimenkul    Sinpaş Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+EYGYO    gayrimenkul    EYG Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+PSGYO    gayrimenkul    Pasifik Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+ADESE    gayrimenkul    Adese Gayrimenkul Yatırım A.Ş Şirket Logosu
+AKMGY    gayrimenkul    Akmerkez Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+DZGYO    gayrimenkul    Deniz Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+KGYO     gayrimenkul    Koray Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+KUYAS    gayrimenkul    Kuyumcukent Gayrimenkul Yatırımları A.Ş. Şirket Logosu
+PAGYO    gayrimenkul    Panora Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+PEKGY    gayrimenkul    Peker Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+PEGYO    gayrimenkul    Pera Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+ATAGY    gayrimenkul    Ata Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+
+
+CLEBI    ulaştırma    havacılık    Çelebi Hava Servisi A.Ş. Şirket Logosu
+GSDDE    ulaştırma                 Gsd Denizcilik Gayrimenkul İnşaat Sanayi ve Ticaret A.Ş. Şirket Logosu
+LIDER    ulaştırma                 LDR Turizm A.Ş. Şirket Logosu
+PGSUS    ulaştırma    havacılık    Pegasus Hava Taşımacılığı A.Ş. Şirket Logosu
+RYSAS    ulaştırma    lojistik     Reysaş Taşımacılık ve Lojistik Ticaret A.Ş. Şirket Logosu
+TAVHL    ulaştırma    havacılık    Tav Havalimanları Holding A.Ş. Şirket Logosu
+THYAO    ulaştırma    havacılık    ihracatı güçlü    Türk Hava Yolları A.O. Şirket Logosu
+TLMAN    ulaştırma                 Trabzon Liman İşletmeciliği A.Ş. Şirket Logosu
+PLTUR    ulaştırma                 Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hizmetleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+PASEU    ulaştırma                 Pasifik Eurasia Lojistik Dış Ticaret A.Ş. Şirket Logosu
+
+
+FROTO *    otomotiv    ihracatı güçlü    Ford Otomotiv Sanayi A.Ş. Şirket Logosu
+TTRAK *    otomotiv    döviz fazlası    Türk Traktör ve Ziraat Makineleri A.Ş. Şirket Logosu
+DOAS    otomotiv    Doğuş Otomotiv Servis ve Ticaret A.Ş. Şirket Logosu
+KARSN    otomotiv    Karsan Otomotiv Sanayii ve Ticaret A.Ş. Şirket Logosu
+OTKAR    otomotiv    Otokar Otomotiv ve Savunma Sanayi A.Ş. Şirket Logosu
+TMSN    otomotiv    Tümosan Motor ve Traktör Sanayi A.Ş. Şirket Logosu
+TOASO    otomotiv    Tofaş Türk Otomobil Fabrikası A.Ş. Şirket Logosu
+ESCAR    otomotiv    Escar Turizm Taşımacılık Ticaret A.Ş. Şirket Logosu
+PLTUR    otomotiv    Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hizmetleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+ASUZU    otomotiv    Anadolu Isuzu Otomotiv Sanayi ve Ticaret A.Ş. Şirket Logosu
+
+
+
+
+
+
+BFREN            otomotiv        
+SASA             sanayi
+QNBFL            leasing
+ASELS            savunma    yüksek sipariş
 SISE        döviz fazlası
-SELEC
-SOKM
-TURSG
-
-SMRTG
-GESAN
-OTKAR
-EUPWR        yüksek sipariş
-
-ISDMR
-KENT
-GUBRF
-CCOLA
-TTKOM
-KOZAL
-BRSAN
-OYAKC
-HEKTS
-INVES
-MGROS
-ISMEN
+OTKAR        otomotiv
+EUPWR        enerji        yüksek sipariş
 DOAS        döviz fazlası
 KONTR        yüksek sipariş
-BRYAT
-KLSER
-PETKM
-MPARK
-KOZAA
-EGEEN
-VESTL
-CLEBI
-KMPUR
-CVKMD
-QUAGR
-TBORG
-SDTTR
-MAVI
-POLTK
-GENIL
-OYYAT
-EUREN
-SARKY
+ALARK            ihracatı güçlü
+AKCNS            inşaat
+VESBE            elektronik        ihracatı güçlü
+ZOREN            enerji
+VESTL            sanayi
+MGROS            perakende
+BIMAS            perakende
+ECZYT            yatırım ortaklığı
+ZRGYO            yatırım ortaklığı
+BFREN            yatırım ortaklığı
+YYLGD            gıda
+ULKER            gıda
+ODAS            elektrik
+ANHYT            sigorta
 
 
+factoring - borçları tahsil eden şirketler. banka alacaklarını bankalardan satın alırlar..
+bu iki factoringin arkasında banka var
+iş finans - leasing factoring
+garanti factoring    
+
+lider factoring --
+ereğli *
+aselsan *
+oyak *
 
 
 
@@ -261,6 +677,14 @@ Eleven Sectors in S&P 500
 
 
 
+# INFLATION
+
+    200 tl          2010        2023                   TR            UK       
+                    -------------------                -----------------
+    gas/oil         54 l        5.44 l                     
+    milk            266 l       6 l                    
+    egg             1449 p      62 p                   
+    olive oil       15 l        1 l                    
 
 
 
