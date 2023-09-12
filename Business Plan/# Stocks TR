@@ -24,7 +24,7 @@ firma yükselen bir rota da mı anlamak için
 şirket verimli bir şirket mi?
     iki farklı şirket cirosunu %30 arttırmış ama hangisinin cirosu daha kıymetli?
     Net kar marjına bakılır.
-    'esas faaliyet kar marjı'na bakılır.
+    'esas faaliyet kar marjı'na bakılır.                    net faaliyet karı - EBIT (Earnings Before Interest and Tax)
                     %30 üzerindeyse alınır... ama istikrarlıysa bu değer yarattığı anlamına gelir.
 
                     Net esas faaliyet karı artışı - şirketin Esas ve asıl işlerinden satışlarından elde etmiştir...
@@ -68,10 +68,10 @@ UMPAS    holding    Umpaş Holding A.Ş. Şirket Logosu
 KERVN    holding    Kervansaray Yatırım Holding A.Ş. Şirket Logosu
 TKFEN    holding    Tekfen Holding A.Ş. Şirket Logosu
 MMCAS    holding    Mmc Sanayi ve Ticari Yatırımlar A.Ş. Şirket Logosu
-OTTO    holding    Otto Holding A.Ş. Şirket Logosu
-UFUK    holding    Ufuk Yatırım Yönetim ve Gayrimenkul A.Ş. Şirket Logosu
-YESIL   holding     Yeşil Yatırım Holding A.Ş. Şirket Logosu
-KLRHO   holding     Kiler Holding A.Ş. Şirket Logosu
+OTTO     holding    Otto Holding A.Ş. Şirket Logosu
+UFUK     holding    Ufuk Yatırım Yönetim ve Gayrimenkul A.Ş. Şirket Logosu
+YESIL    holding     Yeşil Yatırım Holding A.Ş. Şirket Logosu
+KLRHO    holding     Kiler Holding A.Ş. Şirket Logosu
 MARKA    holding    Marka Yatırım Holding A.Ş. Şirket Logosu
 BRYAT    holding    Borusan Yatırım ve Pazarlama A.Ş. Şirket Logosu
 OYLUM    holding    Oylum Sınai Yatırımlar A.Ş. Şirket Logosu
@@ -83,7 +83,7 @@ ALARK    holding    Alarko Holding A.Ş. Şirket Logosu
 ITTFH    holding    İttifak Holding A.Ş. Şirket Logosu
 NTHOL    holding    Net Holding A.Ş. Şirket Logosu
 VERUS    holding    Verusa Holding A.Ş. Şirket Logosu
-UNLU    holding    Ünlü Yatırım Holding A.Ş. Şirket Logosu
+UNLU     holding    Ünlü Yatırım Holding A.Ş. Şirket Logosu
 DOHOL    holding    Doğan Şirketler Grubu Holding A.Ş. Şirket Logosu
 ECILC    holding    Eis Eczacıbaşı İlaç, Sınai ve Finansal Yatırımlar Sanayi ve Ticaret A.Ş. Şirket Logosu
 MZHLD    holding    Mazhar Zorlu Holding A.Ş. Şirket Logosu
@@ -98,7 +98,7 @@ GLYHO    holding    Global Yatırım Holding A.Ş. Şirket Logosu
 INVEO    holding    Inveo Yatırım Holding A.Ş. Şirket Logosu
 GSDHO    holding    Gsd Holding A.Ş. Şirket Logosu
 AGHOL    holding    AG Anadolu Grubu Holding A.Ş. Şirket Logosu
-BERA    holding    Bera Holding A.Ş. Şirket Logosu
+BERA     holding    Bera Holding A.Ş. Şirket Logosu
 ECZYT    holding    Eczacıbaşı Yatırım Holding Ortaklığı A.Ş. Şirket Logosu
 HEDEF    holding    Hedef Holding A.Ş. Şirket Logosu
 DENGE    holding    Denge Yatırım Holding A.Ş. Şirket Logosu
@@ -128,9 +128,9 @@ SAHOL *    holding    döviz fazlası    Hacı Ömer Sabancı Holding A.Ş. Şir
 
 
 
-AKBNK *    bankacılık    Akbank T.A.Ş. Şirket Logosu
-YKBNK *    bankacılık    Yapı ve Kredi Bankası A.Ş. Şirket Logosu
-ISCTR *    bankacılık    Türkiye İş Bankası A.Ş. Şirket Logosu
+AKBNK *  bankacılık    Akbank T.A.Ş. Şirket Logosu
+YKBNK *  bankacılık    Yapı ve Kredi Bankası A.Ş. Şirket Logosu
+ISCTR *  bankacılık    Türkiye İş Bankası A.Ş. Şirket Logosu
 QNBFB    bankacılık    QNB Finansbank A.Ş. Şirket Logosu
 GARAN    bankacılık    Türkiye Garanti Bankası A.Ş. Şirket Logosu
 VAKBN    bankacılık    Türkiye Vakıflar Bankası T.A.O. Şirket Logosu
@@ -165,39 +165,25 @@ RAYSG    sigorta    Ray Sigorta A.Ş. Şirket Logosu
 TURSG    sigorta    Türkiye Sigorta A.Ş. Şirket Logosu
 
 
-aracı kurum
-Oyak Yatırım Menkul Değerler A.Ş. Şirket Logosu
-OYYAT
-Gedik Yatırım Menkul Değerler A.Ş. Şirket Logosu
-GEDIK
-Global Menkul Değerler A.Ş. Şirket Logosu
-GLBMD
-İnfo Yatırım Menkul Değerler A.Ş. Şirket Logosu
-INFO
-İş Yatırım Menkul Değerler A.Ş. Şirket Logosu
-ISMEN
-Osmanlı Yatırım Menkul Değerler A.Ş. Şirket Logosu
-OSMEN
-Tera Yatırım Menkul Değerler A.Ş. Şirket Logosu
-TERA
-A1 Capital Yatırım Menkul Değerler A.Ş. Şirket Logosu
-A1CAP
+ISMEN *  aracı kurum    İş Yatırım Menkul Değerler A.Ş. Şirket Logosu
+OYYAT    aracı kurum    Oyak Yatırım Menkul Değerler A.Ş. Şirket Logosu
+GEDIK    aracı kurum    Gedik Yatırım Menkul Değerler A.Ş. Şirket Logosu
+GLBMD    aracı kurum    Global Menkul Değerler A.Ş. Şirket Logosu
+INFO     aracı kurum    İnfo Yatırım Menkul Değerler A.Ş. Şirket Logosu
+OSMEN    aracı kurum    Osmanlı Yatırım Menkul Değerler A.Ş. Şirket Logosu
+TERA     aracı kurum    Tera Yatırım Menkul Değerler A.Ş. Şirket Logosu
+A1CAP    aracı kurum    A1 Capital Yatırım Menkul Değerler A.Ş. Şirket Logosu
+
 
 girişim sermayesi yatırım ortaklığı
-Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş. Şirket Logosu
-GOZDE
-Hedef Girişim Sermayesi Yatırım Ortaklığı A.Ş. Şirket Logosu
-HDFGS
-Hub Girişim Sermayesi Yatırım Ortaklığı A.Ş. Şirket Logosu
-HUBVC
-İş Girişim Sermayesi Yatırım Ortaklığı A.Ş. Şirket Logosu
-ISGSY
-Verusatürk Girişim Sermayesi Yatırım Ortaklığı A.Ş. Şirket Logosu
-VERTU
-Pardus Girişim Sermayesi Yatırım Ortaklığı A.Ş Şirket Logosu
-PRDGS
-ICU Girişim Sermayesi Yatırım Ortaklığı A.Ş. Şirket Logosu
-ICUGS
+GOZDE    Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş. Şirket Logosu
+HDFGS    Hedef Girişim Sermayesi Yatırım Ortaklığı A.Ş. Şirket Logosu
+HUBVC    Hub Girişim Sermayesi Yatırım Ortaklığı A.Ş. Şirket Logosu
+ISGSY    İş Girişim Sermayesi Yatırım Ortaklığı A.Ş. Şirket Logosu
+VERTU    Verusatürk Girişim Sermayesi Yatırım Ortaklığı A.Ş. Şirket Logosu
+PRDGS    Pardus Girişim Sermayesi Yatırım Ortaklığı A.Ş Şirket Logosu
+ICUGS    ICU Girişim Sermayesi Yatırım Ortaklığı A.Ş. Şirket Logosu
+
 
 LOGO     bilişim ve yazılım   Logo Yazılım Sanayi ve Ticaret A.Ş. Şirket Logosu
 SMART    bilişim    Smartiks Yazılım A.Ş. Şirket Logosu
@@ -233,24 +219,16 @@ PAPIL    bilişim    Papilon Savunma-Güvenlik Sistemleri Bilişim Mühendislik 
 PKART    bilişim    Plastikkart Akıllı Kart İletişim Sistemleri Sanayi ve Ticaret A.Ş.
 
 teknolojik ürün ticareti
-Arena Bilgisayar Sanayi ve Ticaret A.Ş. Şirket Logosu
-ARENA
-Aztek Teknoloji Ürünleri Ticaret A.Ş. Şirket Logosu
-AZTEK
-Despec Bilgisayar Pazarlama ve Ticaret A.Ş. Şirket Logosu
-DESPC
-Datagate Bilgisayar Malzemeleri Ticaret A.Ş. Şirket Logosu
-DGATE
-İndeks Bilgisayar Sistemleri Mühendislik Sanayi ve Ticaret A.Ş. Şirket Logosu
-INDES
-Mobiltel İletişim Hizmetleri Sanayi ve Ticaret A.Ş. Şirket Logosu
-MOBTL
-Penta Teknoloji Ürünleri Dağıtım Ticaret A.Ş. Şirket Logosu
-PENTA
-Teknosa İç ve Dış Ticaret A.Ş. Şirket Logosu
-TKNSA
-Ingram Micro Bilişim Sistemleri A.Ş. Şirket Logosu
-INGRM
+ARENA    Arena Bilgisayar Sanayi ve Ticaret A.Ş. Şirket Logosu
+AZTEK    Aztek Teknoloji Ürünleri Ticaret A.Ş. Şirket Logosu
+DESPC    Despec Bilgisayar Pazarlama ve Ticaret A.Ş. Şirket Logosu
+DGATE    Datagate Bilgisayar Malzemeleri Ticaret A.Ş. Şirket Logosu
+INDES    İndeks Bilgisayar Sistemleri Mühendislik Sanayi ve Ticaret A.Ş. Şirket Logosu
+MOBTL    Mobiltel İletişim Hizmetleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+PENTA    Penta Teknoloji Ürünleri Dağıtım Ticaret A.Ş. Şirket Logosu
+TKNSA    Teknosa İç ve Dış Ticaret A.Ş. Şirket Logosu
+INGRM    Ingram Micro Bilişim Sistemleri A.Ş. Şirket Logosu
+
 
 ALCAR    dayanıklı tüketim ürünleri    Alarko Carrier Sanayi ve Ticaret A.Ş. Şirket Logosu
 ARCLK    dayanıklı tüketim ürünleri *    Arçelik A.Ş. Şirket Logosu
@@ -263,9 +241,8 @@ KLMSN    dayanıklı tüketim ürünleri    Klimasan Klima Sanayi ve Ticaret A.�
 
 
 
-
-ENJSA *    enerji üretim ve dağıtım    Enerjisa Enerji A.Ş.
-AKSEN *    enerji üretim ve dağıtım    Aksa Enerji Üretim A.Ş.
+ENJSA *  enerji üretim ve dağıtım    Enerjisa Enerji A.Ş.
+AKSEN *  enerji üretim ve dağıtım    Aksa Enerji Üretim A.Ş.
 ALARK    enerji üretim ve dağıtım    Alarko Holding A.Ş.
 GWIND    enerji üretim ve dağıtım    Galata Wind Enerji A.Ş.
 ZOREN    enerji üretim ve dağıtım    Zorlu Enerji Elektrik Üretim A.Ş.
@@ -296,35 +273,22 @@ MANAS    enerji üretim ve dağıtım    Manas Enerji Yönetimi Sanayi ve Ticare
 KARYE    enerji üretim ve dağıtım    Kartal Yenilenebilir Enerji Üretim A.Ş.
 PAMEL    enerji üretim ve dağıtım    inşaat    Pamukova Yenilenebilir Elektrik Üretimi A.Ş. 
 
-enerji teknolojileri
-Smart Güneş Enerjisi Teknolojileri Araştırma Geliştirme Üretim Sanayi ve Ticaret A.Ş. Şirket Logosu
-SMRTG
-Alfa Solar Enerji Sanayi ve Ticaret A.Ş. Şirket Logosu
-ALFAS
-Astor Enerji A.Ş. Şirket Logosu
-ASTOR
-Europower Enerji ve Otomasyon Teknolojileri Sanayi Ticaret A.Ş. Şirket Logosu
-EUPWR
-CW Enerji Mühendislik Ticaret ve Sanayi A.Ş. Şirket Logosu
-CWENE
-Girişim Elektrik Sanayi Taahhüt ve Ticaret A.Ş. Şirket Logosu
-GESAN
-YEO Teknoloji Enerji ve Endüstri A.Ş. Şirket Logosu
-YEOTK
-Kontrolmatik Teknoloji Enerji ve Mühendislik A.Ş. Şirket Logosu
-KONTR
-Birleşim Mühendislik Isıtma Soğutma Havalandırma Sanayi ve Ticaret A.Ş Şirket Logosu
-BRLSM
-Orge Enerji Elektrik Taahhüt A.Ş. Şirket Logosu
-ORGE
-Say Yenilenebilir Enerji Ekipmanları Sanayi ve Ticaret A.Ş Şirket Logosu
-SAYAS
 
-payını kaptıranlar, payını kapanlar: iki cinsiyet var
+SMRTG    enerji teknolojileri                Smart Güneş Enerjisi Teknolojileri Araştırma Geliştirme Üretim Sanayi ve Ticaret A.Ş. Şirket Logosu
+ALFAS    enerji teknolojileri                Alfa Solar Enerji Sanayi ve Ticaret A.Ş. Şirket Logosu
+ASTOR    enerji teknolojileri                Astor Enerji A.Ş. Şirket Logosu
+EUPWR    enerji teknolojileri                Europower Enerji ve Otomasyon Teknolojileri Sanayi Ticaret A.Ş. Şirket Logosu
+CWENE    enerji teknolojileri                CW Enerji Mühendislik Ticaret ve Sanayi A.Ş. Şirket Logosu
+GESAN    enerji teknolojileri                Girişim Elektrik Sanayi Taahhüt ve Ticaret A.Ş. Şirket Logosu
+YEOTK    enerji teknolojileri                YEO Teknoloji Enerji ve Endüstri A.Ş. Şirket Logosu
+KONTR    enerji teknolojileri                Kontrolmatik Teknoloji Enerji ve Mühendislik A.Ş. Şirket Logosu
+BRLSM *  enerji teknolojileri    inşaat      Birleşim Mühendislik Isıtma Soğutma Havalandırma Sanayi ve Ticaret A.Ş
+ORGE     enerji teknolojileri    inşaat      Orge Enerji Elektrik Taahhüt A.Ş.
+SAYAS    enerji teknolojileri                Say Yenilenebilir Enerji Ekipmanları Sanayi ve Ticaret A.Ş Şirket Logosu
 
-TKFEN *    inşaat    Tekfen Holding A.Ş.
-ENKAI *    inşaat    Enka İnşaat ve Sanayi A.Ş.
-BRLSM *    inşaat    Birleşim Mühendislik Isıtma Soğutma Havalandırma Sanayi ve Ticaret A.Ş
+
+TKFEN *  inşaat    Tekfen Holding A.Ş.
+ENKAI *  inşaat    Enka İnşaat ve Sanayi A.Ş.
 ANELE    inşaat    Anel Elektrik Proje Taahhüt ve Ticaret A.Ş.
 GESAN    inşaat    Girişim Elektrik Sanayi Taahhüt ve Ticaret A.Ş.
 BRKSN    inşaat    Berkosan Yalıtım ve Tecrit Maddeleri Üretim ve Ticaret A.Ş.
@@ -333,7 +297,6 @@ YYAPI    inşaat    Yeşil Yapı Endüstrisi A.Ş.
 YBTAS    inşaat    Yibitaş Yozgat İşçi Birliği İnşaat Malzemeleri Ticaret ve Sanayi A.Ş.
 EDIP     inşaat    Edip Gayrimenkul Yatırım Sanayi ve Ticaret A.Ş.
 IHLGM    inşaat    İhlas Gayrimenkul Proje Geliştirme ve Ticaret A.Ş.
-ORGE     inşaat    Orge Enerji Elektrik Taahhüt A.Ş.
 SANEL    inşaat    San-El Mühendislik Elektrik Taahhüt Sanayi ve Ticaret A.Ş.
 TURGG    inşaat    Türker Proje Gayrimenkul ve Yatırım Geliştirme A.Ş.
 PAMEL    inşaat    Pamukova Yenilenebilir Elektrik Üretimi A.Ş.
@@ -358,18 +321,13 @@ OYAKC    taş, toprak, çimento    Oyak Çimento Fabrikaları A.Ş. Şirket Logo
 BUCIM    taş, toprak, çimento    Bursa Çimento Fabrikası A.Ş. Şirket Logosu
 
 madencilik ve taş ocakçılığı
-İpek Doğal Enerji Kaynakları Araştırma ve Üretim A.Ş. Şirket Logosu
-IPEKE
-Koza Anadolu Metal Madencilik İşletmeleri A.Ş. Şirket Logosu
-KOZAA
-Koza Altın İşletmeleri A.Ş. Şirket Logosu
-KOZAL
-Sarkuysan Elektrolit Bakır Sanayi ve Ticaret A.Ş. Şirket Logosu
-SARKY
-Altınyağ Madencilik ve Enerji Yatırımları Sanayi ve Ticaret A.Ş. Şirket Logosu
-ALMAD
-CVK Maden İşletmeleri Sanayi ve Ticaret A.Ş. Şirket Logosu
-CVKMD
+IPEKE    İpek Doğal Enerji Kaynakları Araştırma ve Üretim A.Ş. Şirket Logosu
+KOZAA    Koza Anadolu Metal Madencilik İşletmeleri A.Ş. Şirket Logosu
+KOZAL    Koza Altın İşletmeleri A.Ş. Şirket Logosu
+SARKY    Sarkuysan Elektrolit Bakır Sanayi ve Ticaret A.Ş. Şirket Logosu
+ALMAD    Altınyağ Madencilik ve Enerji Yatırımları Sanayi ve Ticaret A.Ş. Şirket Logosu
+CVKMD    CVK Maden İşletmeleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+
 
 ana metal
 Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş. Şirket Logosu
