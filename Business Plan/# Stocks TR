@@ -128,15 +128,15 @@ SAHOL *    holding    döviz fazlası    tbtf    Hacı Ömer Sabancı Holding A.
 
 
 
-AKBNK *  bankacılık    Akbank T.A.Ş. Şirket Logosu
-YKBNK *  bankacılık    Yapı ve Kredi Bankası A.Ş. Şirket Logosu
-ISCTR *  bankacılık    Türkiye İş Bankası A.Ş. Şirket Logosu
-QNBFB    bankacılık    QNB Finansbank A.Ş. Şirket Logosu
+AKBNK *  bankacılık    Akbank T.A.Ş.
+YKBNK *  bankacılık    Yapı ve Kredi Bankası A.Ş.
+ISCTR *  bankacılık    Türkiye İş Bankası A.Ş.
+QNBFB    bankacılık    QNB Finansbank A.Ş.
 GARAN    bankacılık    Türkiye Garanti Bankası A.Ş. Şirket Logosu
 VAKBN    bankacılık    Türkiye Vakıflar Bankası T.A.O. Şirket Logosu
-HALKB    bankacılık    Türkiye Halk Bankası A.Ş. Şirket Logosu
-TSKB     bankacılık    Türkiye Sınai Kalkınma Bankası A.Ş. Şirket Logosu
-SKBNK    bankacılık    Şekerbank T.A.Ş. Şirket Logosu
+HALKB    bankacılık    Türkiye Halk Bankası A.Ş.
+TSKB     bankacılık    Türkiye Sınai Kalkınma Bankası A.Ş.
+SKBNK    bankacılık    Şekerbank T.A.Ş.
 KLNMA    bankacılık    Türkiye Kalkınma ve Yatırım Bankası A.Ş. Şirket Logosu
 ICBCT    bankacılık    Icbc Turkey Bank A.Ş. Şirket Logosu
 ALBRK    bankacılık    Albaraka Türk Katılım Bankası A.Ş. Şirket Logosu
@@ -156,7 +156,7 @@ VAKFN *   finansal kiralama / leasing    Vakıf Finansal Kiralama A.Ş. Şirket 
 GLCVY    varlık yönetimi    Gelecek Varlık Yönetimi A.Ş. Şirket Logosu
 BRKVY    varlık yönetimi    Birikim Varlık Yönetim A.Ş Şirket Logosu
 
-ANHYT    emeklilik    Anadolu Hayat Emeklilik A.Ş. Şirket Logosu
+ANHYT *   emeklilik    Anadolu Hayat Emeklilik A.Ş. Şirket Logosu
 AGESA    emeklilik    Agesa Hayat ve Emeklilik A.Ş. Şirket Logosu
 
 AKGRT    sigorta    Aksigorta A.Ş. Şirket Logosu
@@ -224,7 +224,7 @@ PCILT    bilişim ve yazılım                                    PC İletişim 
 PAPIL    bilişim ve yazılım                                    Papilon Savunma-Güvenlik Sistemleri Bilişim Mühendislik Hizmetleri İthalat İhracat Sanayi ve Ticaret A.Ş. Şirket Logosu
 PKART    bilişim ve yazılım                                    Plastikkart Akıllı Kart İletişim Sistemleri Sanayi ve Ticaret A.Ş.
 
-
+enerji depolama maliyeti var.
 ENJSA *  enerji üretim ve dağıtım                  Enerjisa Enerji A.Ş.
 AKSEN *  enerji üretim ve dağıtım                  Aksa Enerji Üretim A.Ş.
 ALARK    enerji üretim ve dağıtım                  Alarko Holding A.Ş.
@@ -362,6 +362,7 @@ SAMAT    kağıt ve kağıt ürünleri               Saray Matbaacılık Kağıt
 TEZOL    kağıt ve kağıt ürünleri               Europap Tezol Kağıt Sanayi ve Ticaret A.Ş. Şirket Logosu
 VKING    kağıt ve kağıt ürünleri               Viking Kağıt ve Selülöz A.Ş. Şirket Logosu
 
+ambalaj şirketleri tüketime bakar. tüketim olmazsa yükselmez.
 BAKAB    ambalaj    Bak Ambalaj Sanayi ve Ticaret A.Ş. Şirket Logosu
 BARMA    ambalaj    Barem Ambalaj Sanayi ve Ticaret A.Ş. Şirket Logosu
 BNTAS    ambalaj    Bantaş Bandırma Ambalaj Sanayi Ticaret A.Ş. Şirket Logosu
@@ -658,8 +659,8 @@ BRMEN    tekstil, giyim, deri    Birlik Mensucat Ticaret ve Sanayi İşletmesi A
 DIRIT    tekstil, giyim, deri    Diriteks Diriliş Tekstil Sanayi ve Ticaret A.Ş. Şirket Logosu
 
 
-
-DEVA    ilaç ve sağlık    Deva Holding A.Ş. Şirket Logosu
+ilaç sektöründe ar-ge gideri var. bu yüzden kolayca kar göstermez. fiyatı hemen yükselmez.
+DEVA *   ilaç ve sağlık    Deva Holding A.Ş. Şirket Logosu
 ECILC    ilaç ve sağlık    Eis Eczacıbaşı İlaç, Sınai ve Finansal Yatırımlar Sanayi ve Ticaret A.Ş. Şirket Logosu
 GENIL    ilaç ve sağlık    Gen İlaç ve Sağlık Ürünleri Sanayi ve Ticaret A.Ş. Şirket Logosu
 TRILC    ilaç ve sağlık    Türk İlaç ve Serum Sanayi A.Ş. Şirket Logosu
