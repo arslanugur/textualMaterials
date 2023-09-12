@@ -40,6 +40,23 @@ Artışı beklenen üç sey:
     satışlar
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Borsada yatırım yapıyorsan bu üçü her zman olsun
+
+- stop point
+- hedge
+- ek bir nakit
+- never lose money
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Hangisi senin paran için kazandırıyorsa ona kay..
+  borsa              #   vadeli mevduat (faiz)
+  riskli enstruman   #   risksiz enstruman
+
+hacmi büyümüş şişmiş şirketleri gözlemle,
+
+balinalar/yabancılar önde gider bize de kırıntılar kalır. yabancıların yatırdığı şirketlere çök
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 https://fintables.com/sektorler
 
@@ -111,18 +128,31 @@ SAHOL *    holding    döviz fazlası    Hacı Ömer Sabancı Holding A.Ş. Şir
 
 
 
-AKBNK            bankacılık *
-YKBNK            bankacılık *
-ISCTR            bankacılık *
-QNBFB            bankacılık
-GARAN            bankacılık
-VAKBN            bankacılık
-HALKB            bankacılık
-TSKB             bankacılık
-SKBNK            bankacılık
-KLNMA            bankacılık
-ICBCT            bankacılık
-ALBRK            bankacılık
+AKBNK *    bankacılık    Akbank T.A.Ş. Şirket Logosu
+YKBNK *    bankacılık    Yapı ve Kredi Bankası A.Ş. Şirket Logosu
+ISCTR *    bankacılık    Türkiye İş Bankası A.Ş. Şirket Logosu
+QNBFB    bankacılık    QNB Finansbank A.Ş. Şirket Logosu
+GARAN    bankacılık    Türkiye Garanti Bankası A.Ş. Şirket Logosu
+VAKBN    bankacılık    Türkiye Vakıflar Bankası T.A.O. Şirket Logosu
+HALKB    bankacılık    Türkiye Halk Bankası A.Ş. Şirket Logosu
+TSKB     bankacılık    Türkiye Sınai Kalkınma Bankası A.Ş. Şirket Logosu
+SKBNK    bankacılık    Şekerbank T.A.Ş. Şirket Logosu
+KLNMA    bankacılık    Türkiye Kalkınma ve Yatırım Bankası A.Ş. Şirket Logosu
+ICBCT    bankacılık    Icbc Turkey Bank A.Ş. Şirket Logosu
+ALBRK    bankacılık    Albaraka Türk Katılım Bankası A.Ş. Şirket Logosu
+
+
+GARFA *    faktoring    Garanti Faktoring A.Ş. Şirket Logosu
+CRDFA    faktoring    Creditwest Faktoring A.Ş. Şirket Logosu
+LIDFA    faktoring    Lider Faktoring A.Ş. Şirket Logosu
+ULUFA    faktoring    Ulusal Faktoring A.Ş. Şirket Logosu
+
+ISFIN    finansal kiralama / leasing    İş Finansal Kiralama A.Ş. Şirket Logosu
+QNBFL    finansal kiralama / leasing    QNB Finans Finansal Kiralama A.Ş. Şirket Logosu
+SEKFK    finansal kiralama / leasing    Şeker Finansal Kiralama A.Ş. Şirket Logosu
+VAKFN    finansal kiralama / leasing    Vakıf Finansal Kiralama A.Ş. Şirket Logosu
+
+
 
 LOGO     bilişim    Logo Yazılım Sanayi ve Ticaret A.Ş. Şirket Logosu
 SMART    bilişim    Smartiks Yazılım A.Ş. Şirket Logosu
@@ -320,6 +350,18 @@ PENGD    gıda-içecek    Penguen Gıda Sanayi A.Ş. Şirket Logosu
 ERSU    gıda-içecek    Ersu Meyve ve Gıda Sanayi A.Ş. Şirket Logosu
 
 
+BAKAB    ambalaj    Bak Ambalaj Sanayi ve Ticaret A.Ş. Şirket Logosu
+BNTAS    ambalaj    Bantaş Bandırma Ambalaj Sanayi Ticaret A.Ş. Şirket Logosu
+DURDO    ambalaj    Duran Doğan Basım ve Ambalaj Sanayi A.Ş. Şirket Logosu
+EMNIS    ambalaj    Eminiş Ambalaj Sanayi ve Ticaret A.Ş. Şirket Logosu
+GEDZA    ambalaj    Gediz Ambalaj Sanayi ve Ticaret A.Ş. Şirket Logosu
+KAPLM    ambalaj    Kaplamin Ambalaj Sanayi ve Ticaret A.Ş. Şirket Logosu
+SEKUR    ambalaj    Sekuro Plastik Ambalaj Sanayi A.Ş. Şirket Logosu
+KRPLS    ambalaj    Koroplast Temizlik Ambalaj Ürünleri Sanayi ve Dış Ticaret A.Ş. Şirket Logosu
+BARMA    ambalaj    Barem Ambalaj Sanayi ve Ticaret A.Ş. Şirket Logosu
+MNDTR    ambalaj    Mondi Turkey Oluklu Mukavva Kağıt ve Ambalaj Sanayi A.Ş. Şirket Logosu
+OZRDN    ambalaj    Özerden Ambalaj Sanayi A.Ş. Şirket Logosu
+
 
 TCELL *    haberleşme    Turkcell İletişim Hizmetleri A.Ş. Şirket Logosu
 TTKOM *    haberleşme    Türk Telekomünikasyon A.Ş. Şirket Logosu
@@ -327,6 +369,59 @@ ALCTL    haberleşme    Alcatel Lucent Teletaş Telekomünikasyon A.Ş. Şirket 
 KRONT    haberleşme    Kron Telekomünikasyon Hizmetleri A.Ş. Şirket Logosu
 NETAS    haberleşme    Netaş Telekomünikasyon A.Ş. Şirket Logosu
 IHAAS    haberleşme    İhlas Haber Ajansı A.Ş. Şirket Logosu
+
+
+ana metal
+Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş. Şirket Logosu
+KRDMA
+Döktaş Dökümcülük Ticaret ve Sanayi A.Ş. Şirket Logosu
+DOKTA
+Bms Çelik Hasır Sanayi ve Ticaret A.Ş. Şirket Logosu
+BMSCH
+Erbosan Erciyas Boru Sanayii ve Ticaret A.Ş. Şirket Logosu
+ERBOS
+Yükselen Çelik A.Ş. Şirket Logosu
+YKSLN
+Sarkuysan Elektrolit Bakır Sanayi ve Ticaret A.Ş. Şirket Logosu
+SARKY
+Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş. Şirket Logosu
+KRDMB
+Çemaş Döküm Sanayi A.Ş. Şirket Logosu
+CEMAS
+Çemtaş Çelik Makina Sanayi ve Ticaret A.Ş. Şirket Logosu
+CEMTS
+Say Yenilenebilir Enerji Ekipmanları Sanayi ve Ticaret A.Ş Şirket Logosu
+SAYAS
+Burçelik Vana Sanayi ve Ticaret A.Ş. Şirket Logosu
+BURVA
+Kocaer Çelik Sanayi ve Ticaret A.Ş. Şirket Logosu
+KCAER
+Borusan Mannesmann Boru Sanayi ve Ticaret A.Ş. Şirket Logosu
+BRSAN
+Tuğçelik Alüminyum ve Metal Mamülleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+TUCLK
+BMS Birleşik Metal Sanayi ve Ticaret A.Ş. Şirket Logosu
+BMSTL
+Çelik Halat ve Tel Sanayii A.Ş. Şirket Logosu
+CELHA
+İskenderun Demir ve Çelik A.Ş. Şirket Logosu
+ISDMR
+Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş. Şirket Logosu
+KRDMD
+İzmir Demir Çelik Sanayi A.Ş. Şirket Logosu
+IZMDC
+Çuhadaroğlu Metal Sanayi ve Pazarlama A.Ş. Şirket Logosu
+CUSAN
+Erciyas Çelik Boru Sanayi A.Ş. Şirket Logosu
+ERCB
+Ereğli Demir ve Çelik Fabrikaları T.A.Ş. Şirket Logosu
+EREGL
+Demisaş Döküm Emaye Mamülleri Sanayi A.Ş. Şirket Logosu
+DMSAS
+Politeknik Metal Sanayi ve Ticaret A.Ş. Şirket Logosu
+POLTK
+Burçelik Bursa Çelik Döküm Sanayii A.Ş. Şirket Logosu
+BURCE
 
 
 
@@ -407,6 +502,22 @@ BRKO    imalat    Birko Birleşik Koyunlulular Mensucat Ticaret ve Sanayi A.Ş. 
 BRMEN    imalat    Birlik Mensucat Ticaret ve Sanayi İşletmesi A.Ş. Şirket Logosu
 SUMAS    imalat    Sumaş Suni Tahta ve Mobilya Sanayi A.Ş. Şirket Logosu
 
+
+cam, seramik, porselen
+QUA Granite Hayal Yapı ve Ürünleri Sanayi Ticaret A.Ş. Şirket Logosu
+QUAGR
+Ege Seramik Sanayi ve Ticaret A.Ş. Şirket Logosu
+EGSER
+Kütahya Porselen Sanayi A.Ş. Şirket Logosu
+KUTPO
+Türkiye Şişe ve Cam Fabrikaları A.Ş. Şirket Logosu
+SISE
+Uşak Seramik Sanayi A.Ş. Şirket Logosu
+USAK
+Bien Yapı Ürünleri Sanayi Turizm ve Ticaret A.Ş. Şirket Logosu
+BIENY
+Kaleseramik, Çanakkale Kalebodur Seramik Sanayi AŞ Şirket Logosu
+KLSER
 
 MAVI *    tekstil, giyim, deri    Mavi Giyim Sanayi ve Ticaret A.Ş. Şirket Logosu
 DAGHL    tekstil, giyim, deri    Dagi Yatırım Holding A.Ş. Şirket Logos
@@ -534,6 +645,44 @@ ASUZU    otomotiv    Anadolu Isuzu Otomotiv Sanayi ve Ticaret A.Ş. Şirket Logo
 
 
 
+aracı kurum
+Oyak Yatırım Menkul Değerler A.Ş. Şirket Logosu
+OYYAT
+Gedik Yatırım Menkul Değerler A.Ş. Şirket Logosu
+GEDIK
+Global Menkul Değerler A.Ş. Şirket Logosu
+GLBMD
+İnfo Yatırım Menkul Değerler A.Ş. Şirket Logosu
+INFO
+İş Yatırım Menkul Değerler A.Ş. Şirket Logosu
+ISMEN
+Osmanlı Yatırım Menkul Değerler A.Ş. Şirket Logosu
+OSMEN
+Tera Yatırım Menkul Değerler A.Ş. Şirket Logosu
+TERA
+A1 Capital Yatırım Menkul Değerler A.Ş. Şirket Logosu
+A1CAP
+
+
+destek ve hizmet
+Beyaz Filo Oto Kiralama A.Ş. Şirket Logosu
+BEYAZ
+Ceo Event Medya A.Ş. Şirket Logosu
+CEOEM
+Akdeniz Yatırım Holding A.Ş. Şirket Logosu
+AKYHO
+Flap Kongre Toplantı Hizmetleri Otomotiv ve Turizm A.Ş. Şirket Logosu
+FLAP
+Senkron Güvenlik ve İletişim Sistemleri A.Ş. Şirket Logosu
+SNKRN
+Mackolik İnternet Hizmetleri Ticaret A.Ş. Şirket Logosu
+MACKO
+
+emeklilik
+Anadolu Hayat Emeklilik A.Ş. Şirket Logosu
+ANHYT
+Agesa Hayat ve Emeklilik A.Ş. Şirket Logosu
+AGESA
 
 
 BFREN            otomotiv        
