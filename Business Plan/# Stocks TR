@@ -57,6 +57,9 @@ hacmi büyümüş şişmiş şirketleri gözlemle,
 
 balinalar/yabancılar önde gider bize de kırıntılar kalır. yabancıların yatırdığı şirketlere çök
 
+büyüme şirketleri para kazandırır. temel analiz neyi alacağını söyler, teknik analiz nerde alıp satacağını söyler.
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 https://fintables.com/sektorler
 
@@ -99,7 +102,7 @@ INVEO    holding    Inveo Yatırım Holding A.Ş. Şirket Logosu
 GSDHO    holding    Gsd Holding A.Ş. Şirket Logosu
 AGHOL    holding    AG Anadolu Grubu Holding A.Ş. Şirket Logosu
 BERA     holding    Bera Holding A.Ş. Şirket Logosu
-ECZYT    holding    Eczacıbaşı Yatırım Holding Ortaklığı A.Ş. Şirket Logosu
+ECZYT    holding    yatırım ortaklığı    Eczacıbaşı Yatırım Holding Ortaklığı A.Ş. Şirket Logosu
 HEDEF    holding    Hedef Holding A.Ş. Şirket Logosu
 DENGE    holding    Denge Yatırım Holding A.Ş. Şirket Logosu
 ATSYH    holding    Atlantis Yatırım Holding A.Ş. Şirket Logosu
@@ -151,14 +154,13 @@ ULUFA    faktoring    Ulusal Faktoring A.Ş. Şirket Logosu
 ISFIN *  finansal kiralama / leasing    İş Finansal Kiralama A.Ş. Şirket Logosu
 QNBFL    finansal kiralama / leasing    QNB Finans Finansal Kiralama A.Ş. Şirket Logosu
 SEKFK    finansal kiralama / leasing    Şeker Finansal Kiralama A.Ş. Şirket Logosu
-VAKFN *   finansal kiralama / leasing    Vakıf Finansal Kiralama A.Ş. Şirket Logosu
+VAKFN *  finansal kiralama / leasing    Vakıf Finansal Kiralama A.Ş. Şirket Logosu
 
 GLCVY    varlık yönetimi    Gelecek Varlık Yönetimi A.Ş. Şirket Logosu
 BRKVY    varlık yönetimi    Birikim Varlık Yönetim A.Ş Şirket Logosu
 
-ANHYT *   emeklilik    Anadolu Hayat Emeklilik A.Ş. Şirket Logosu
+ANHYT *  sigorta / emeklilik    Anadolu Hayat Emeklilik A.Ş.
 AGESA    emeklilik    Agesa Hayat ve Emeklilik A.Ş. Şirket Logosu
-
 AKGRT    sigorta    Aksigorta A.Ş. Şirket Logosu
 ANSGR    sigorta    Anadolu Anonim Türk Sigorta Şirketi Şirket Logosu
 RAYSG    sigorta    Ray Sigorta A.Ş. Şirket Logosu
@@ -192,42 +194,45 @@ ICUGS    girişim sermayesi yatırım ortaklığı    ICU Girişim Sermayesi Yat
 
 
 KONTR *  bilişim ve yazılım    enerji teknolojileri            Kontrolmatik Teknoloji Enerji ve Mühendislik A.Ş.
-ARENA    bilişim ve yazılım    teknolojik ürün ticareti        Arena Bilgisayar Sanayi ve Ticaret A.Ş. Şirket Logosu
-INDES    bilişim ve yazılım    teknolojik ürün ticareti        İndeks Bilgisayar Sistemleri Mühendislik Sanayi ve Ticaret A.Ş. Şirket Logosu
-DESPC    bilişim ve yazılım    teknolojik ürün ticareti        Despec Bilgisayar Pazarlama ve Ticaret A.Ş. Şirket Logosu
-MOBTL    bilişim ve yazılım    teknolojik ürün ticareti        Mobiltel İletişim Hizmetleri Sanayi ve Ticaret A.Ş. Şirket Logosu
-INGRM    bilişim ve yazılım    teknolojik ürün ticareti        Ingram Micro Bilişim Sistemleri A.Ş. Şirket Logosu
-AZTEK    bilişim ve yazılım    teknolojik ürün ticareti        Aztek Teknoloji Ürünleri Ticaret A.Ş. Şirket Logosu
-PENTA    bilişim ve yazılım    teknolojik ürün ticareti        Penta Teknoloji Ürünleri Dağıtım Ticaret A.Ş. Şirket Logosu
-DGATE    bilişim ve yazılım    teknolojik ürün ticareti        Datagate Bilgisayar Malzemeleri Ticaret A.Ş. Şirket Logosu
-OBASE    bilişim ve yazılım                                    Obase Bilgisayar ve Danışmanlık Hizmetleri Ticaret A.Ş. Şirket Logosu
-FORTE    bilişim ve yazılım                                    Forte Bilgi İletişim Teknolojileri ve Savunma Sanayi A.Ş. Şirket Logosu
-LOGO     bilişim ve yazılım                                    Logo Yazılım Sanayi ve Ticaret A.Ş. Şirket Logosu
-SMART    bilişim ve yazılım                                    Smartiks Yazılım A.Ş. Şirket Logosu
-KAREL    bilişim ve yazılım                                    Karel Elektronik Sanayi ve Ticaret A.Ş. Şirket Logosu
-ATATP    bilişim ve yazılım                                    Atp Ticari Bilgisayar Ağı ve Elektrik Güç Kaynakları Üretim Pazarlama ve Ticaret A.Ş. Şirket Logosu
-YEOTK    bilişim ve yazılım                                    YEO Teknoloji Enerji ve Endüstri A.Ş. Şirket Logosu
-KRONT    bilişim ve yazılım                                    Kron Telekomünikasyon Hizmetleri A.Ş. Şirket Logosu
-HTTBT    bilişim ve yazılım                                    Hitit Bilgisayar Hizmetleri A.Ş. Şirket Logosu
-LINK     bilişim ve yazılım                                    Link Bilgisayar Sistemleri Yazılımı ve Donanımı Sanayi ve Ticaret A.Ş. Şirket Logosu
-KFEIN    bilişim ve yazılım                                    Kafein Yazılım Hizmetleri Ticaret A.Ş. Şirket Logosu
-MTRKS    bilişim ve yazılım                                    Matriks Bilgi Dağıtım Hizmetleri A.Ş. Şirket Logosu
-EDATA    bilişim ve yazılım                                    E-Data Teknoloji Pazarlama A.Ş. Şirket Logosu
-MIATK    bilişim ve yazılım                                    Mia Teknoloji A.Ş. Şirket Logosu
-VBTYZ    bilişim ve yazılım                                    VBT Yazılım A.Ş. Şirket Logosu
-ARDYZ    bilişim ve yazılım                                    Ard Grup Bilişim Teknolojileri A.Ş Şirket Logosu
-IDEAS    bilişim ve yazılım                                    İdeal Finansal Teknolojiler ve Danışmanlık A.Ş. Şirket Logosu
-ESCOM    bilişim ve yazılım                                    Escort Teknoloji Yatırım A.Ş. Şirket Logosu
-FONET    bilişim ve yazılım                                    Fonet Bilgi Teknolojileri A.Ş. Şirket Logosu
-NETAS    bilişim ve yazılım                                    Netaş Telekomünikasyon A.Ş. Şirket Logosu
-PCILT    bilişim ve yazılım                                    PC İletişim ve Medya Hizmetleri Sanayi Ticaret A.Ş. Şirket Logosu
-PAPIL    bilişim ve yazılım                                    Papilon Savunma-Güvenlik Sistemleri Bilişim Mühendislik Hizmetleri İthalat İhracat Sanayi ve Ticaret A.Ş. Şirket Logosu
+                               yenilenebilir enerji
+                               enerji depolama - "pomega"
+                               yüksek sipariş            
+ARENA    bilişim ve yazılım    teknolojik ürün ticareti        Arena Bilgisayar Sanayi ve Ticaret A.Ş.
+INDES    bilişim ve yazılım    teknolojik ürün ticareti        İndeks Bilgisayar Sistemleri Mühendislik Sanayi ve Ticaret A.Ş.
+DESPC    bilişim ve yazılım    teknolojik ürün ticareti        Despec Bilgisayar Pazarlama ve Ticaret A.Ş.
+MOBTL    bilişim ve yazılım    teknolojik ürün ticareti        Mobiltel İletişim Hizmetleri Sanayi ve Ticaret A.Ş.
+INGRM    bilişim ve yazılım    teknolojik ürün ticareti        Ingram Micro Bilişim Sistemleri A.Ş. 
+AZTEK    bilişim ve yazılım    teknolojik ürün ticareti        Aztek Teknoloji Ürünleri Ticaret A.Ş.
+PENTA    bilişim ve yazılım    teknolojik ürün ticareti        Penta Teknoloji Ürünleri Dağıtım Ticaret A.Ş.
+DGATE    bilişim ve yazılım    teknolojik ürün ticareti        Datagate Bilgisayar Malzemeleri Ticaret A.Ş.
+OBASE    bilişim ve yazılım                                    Obase Bilgisayar ve Danışmanlık Hizmetleri Ticaret A.Ş.
+FORTE    bilişim ve yazılım                                    Forte Bilgi İletişim Teknolojileri ve Savunma Sanayi A.Ş.
+LOGO     bilişim ve yazılım                                    Logo Yazılım Sanayi ve Ticaret A.Ş.
+SMART    bilişim ve yazılım                                    Smartiks Yazılım A.Ş. 
+KAREL    bilişim ve yazılım                                    Karel Elektronik Sanayi ve Ticaret A.Ş. 
+ATATP    bilişim ve yazılım                                    Atp Ticari Bilgisayar Ağı ve Elektrik Güç Kaynakları Üretim Pazarlama ve Ticaret A.Ş.
+YEOTK    bilişim ve yazılım                                    YEO Teknoloji Enerji ve Endüstri A.Ş.
+KRONT    bilişim ve yazılım                                    Kron Telekomünikasyon Hizmetleri A.Ş.
+HTTBT    bilişim ve yazılım                                    Hitit Bilgisayar Hizmetleri A.Ş.
+LINK     bilişim ve yazılım                                    Link Bilgisayar Sistemleri Yazılımı ve Donanımı Sanayi ve Ticaret A.Ş. 
+KFEIN    bilişim ve yazılım                                    Kafein Yazılım Hizmetleri Ticaret A.Ş.
+MTRKS    bilişim ve yazılım                                    Matriks Bilgi Dağıtım Hizmetleri A.Ş. 
+EDATA    bilişim ve yazılım                                    E-Data Teknoloji Pazarlama A.Ş.
+MIATK    bilişim ve yazılım                                    Mia Teknoloji A.Ş.
+VBTYZ    bilişim ve yazılım                                    VBT Yazılım A.Ş.
+ARDYZ    bilişim ve yazılım                                    Ard Grup Bilişim Teknolojileri A.Ş
+IDEAS    bilişim ve yazılım                                    İdeal Finansal Teknolojiler ve Danışmanlık A.Ş.
+ESCOM    bilişim ve yazılım                                    Escort Teknoloji Yatırım A.Ş. 
+FONET    bilişim ve yazılım                                    Fonet Bilgi Teknolojileri A.Ş.
+NETAS    bilişim ve yazılım                                    Netaş Telekomünikasyon A.Ş. 
+PCILT    bilişim ve yazılım                                    PC İletişim ve Medya Hizmetleri Sanayi Ticaret A.Ş. 
+PAPIL    bilişim ve yazılım                                    Papilon Savunma-Güvenlik Sistemleri Bilişim Mühendislik Hizmetleri İthalat İhracat Sanayi ve Ticaret A.Ş.
 PKART    bilişim ve yazılım                                    Plastikkart Akıllı Kart İletişim Sistemleri Sanayi ve Ticaret A.Ş.
 
 enerji depolama maliyeti var.
 ENJSA *  enerji üretim ve dağıtım                  Enerjisa Enerji A.Ş.
 AKSEN *  enerji üretim ve dağıtım                  Aksa Enerji Üretim A.Ş.
-ALARK    enerji üretim ve dağıtım                  Alarko Holding A.Ş.
+ALARK    enerji üretim ve dağıtım    ihracatı güçlü        Alarko Holding A.Ş.
 AKFYE    enerji üretim ve dağıtım                  Akfen Yenilenebilir Enerji A.Ş.
 ARASE    enerji üretim ve dağıtım                  Doğu Aras Enerji Yatırımları A.Ş.
 AYDEM    enerji üretim ve dağıtım                  Aydem Yenilenebilir Enerji A.Ş.
@@ -249,7 +254,7 @@ MANAS    enerji üretim ve dağıtım                  Manas Enerji Yönetimi Sa
 MAGEN    enerji üretim ve dağıtım                  Margün Enerji Üretim Sanayi ve Ticaret A.Ş.
 NTGAZ    enerji üretim ve dağıtım                  Naturelgaz Sanayi ve Ticaret A.Ş.
 NATEN    enerji üretim ve dağıtım                  Naturel Yenilenebilir Enerji Ticaret A.Ş.
-ODAS     enerji üretim ve dağıtım                  Odaş Elektrik Üretim Sanayi Ticaret A.Ş.
+ODAS     enerji üretim ve dağıtım    elektrik      Odaş Elektrik Üretim Sanayi Ticaret A.Ş.
 PAMEL    enerji üretim ve dağıtım    inşaat        Pamukova Yenilenebilir Elektrik Üretimi A.Ş. 
 PRKME    enerji üretim ve dağıtım                  Park Elektrik Üretim Madencilik Sanayi ve Ticaret A.Ş.
 TATEN    enerji üretim ve dağıtım                  Tatlıpınar Enerji Üretim A.Ş.
@@ -257,14 +262,15 @@ YAYLA    enerji üretim ve dağıtım                  Yayla Enerji Üretim Turi
 ZOREN    enerji üretim ve dağıtım                  Zorlu Enerji Elektrik Üretim A.Ş.
 ZEDUR    enerji üretim ve dağıtım                  Zedur Enerji Elektrik Üretim A.Ş.
 
-SMRTG *  enerji teknolojileri                Smart Güneş Enerjisi Teknolojileri Araştırma Geliştirme Üretim Sanayi ve Ticaret A.Ş.
+
+SMRTG *  enerji teknolojileri                    Smart Güneş Enerjisi Teknolojileri Araştırma Geliştirme Üretim Sanayi ve Ticaret A.Ş.
+BRLSM *  enerji teknolojileri    inşaat          Birleşim Mühendislik Isıtma Soğutma Havalandırma Sanayi ve Ticaret A.Ş
+EUPWR *  enerji teknolojileri    yüksek sipariş  Europower Enerji ve Otomasyon Teknolojileri Sanayi Ticaret A.Ş.
 ALFAS    enerji teknolojileri                Alfa Solar Enerji Sanayi ve Ticaret A.Ş.
 ASTOR    enerji teknolojileri                Astor Enerji A.Ş.
-EUPWR    enerji teknolojileri                Europower Enerji ve Otomasyon Teknolojileri Sanayi Ticaret A.Ş.
 CWENE    enerji teknolojileri                CW Enerji Mühendislik Ticaret ve Sanayi A.Ş.
 GESAN    enerji teknolojileri                Girişim Elektrik Sanayi Taahhüt ve Ticaret A.Ş.
 YEOTK    enerji teknolojileri                YEO Teknoloji Enerji ve Endüstri A.Ş. Şirket Logosu
-BRLSM *  enerji teknolojileri    inşaat      Birleşim Mühendislik Isıtma Soğutma Havalandırma Sanayi ve Ticaret A.Ş
 ORGE     enerji teknolojileri    inşaat      Orge Enerji Elektrik Taahhüt A.Ş.
 SAYAS    enerji teknolojileri                Say Yenilenebilir Enerji Ekipmanları Sanayi ve Ticaret A.Ş Şirket Logosu
 
@@ -386,7 +392,7 @@ GUBRF    kimya ve plastik    Gübre Fabrikaları T.A.Ş.
 KLKIM    kimya ve plastik    Kalekim Kimyevi Maddeler Sanayi ve Ticaret A.Ş.
 KMPUR    kimya ve plastik    Kimteks Poliüretan Sanayi ve Ticaret A.Ş.
 EKIZ     kimya ve plastik    Ekiz Kimya Sanayi ve Ticaret A.Ş.
-SASA     kimya ve plastik    Sasa Polyester Sanayi A.Ş. 
+SASA     kimya ve plastik    imalat    sanayi    Sasa Polyester Sanayi A.Ş.
 TUPRS    kimya ve plastik    TÜPRAŞ - Türkiye Petrol Rafinerileri A.Ş. 
 PETKM    kimya ve plastik    Petkim Petrokimya Holding A.Ş. Şirket Logosu
 MERCN    kimya ve plastik    Mercan Kimya Sanayi ve Ticaret A.Ş. Şirket Logosu
@@ -435,7 +441,7 @@ BIZIM    toptan ve perakende ticaret    Bizim Toptan Satış Mağazaları A.Ş. 
 AZTEK    toptan ve perakende ticaret    Aztek Teknoloji Ürünleri Ticaret A.Ş. Şirket Logosu
 ETILR    toptan ve perakende ticaret    Etiler Gıda ve Ticari Yatırımlar Sanayi ve Ticaret A.Ş. Şirket Logosu
 BIMAS *  toptan ve perakende ticaret    Gıda Perakandeciliği    tbtf    Bim Birleşik Mağazalar A.Ş.
-DOAS     toptan ve perakende ticaret    Doğuş Otomotiv Servis ve Ticaret A.Ş.
+DOAS     toptan ve perakende ticaret    otomotiv    döviz fazlası    Doğuş Otomotiv Servis ve Ticaret A.Ş.
 MGROS *  toptan ve perakende ticaret    Gıda Perakandeciliği    tbtf    Migros Ticaret A.Ş. 
 GMTAS    toptan ve perakende ticaret    Gıda Perakandeciliği            Gimat Mağazacılık Sanayi ve Ticaret A.Ş. Şirket Logosu
 TKNSA    toptan ve perakende ticaret    teknolojik ürün ticareti    Teknosa İç ve Dış Ticaret A.Ş. Şirket Logosu
@@ -445,6 +451,7 @@ PSDTC    toptan ve perakende ticaret    Pergamon Status Dış Ticaret A.Ş. Şir
 CRFSA    toptan ve perakende ticaret    Gıda Perakandeciliği            Carrefoursa Carrefour Sabancı Ticaret Merkezi A.Ş. Şirket Logosu
 DGATE    toptan ve perakende ticaret    Datagate Bilgisayar Malzemeleri Ticaret A.Ş. Şirket Logosu
 BIZIM    Gıda Perakandeciliği            Bizim Toptan Satış Mağazaları A.Ş. Şirket Logosu
+
 
 
 AVOD     gıda-içecek    A.V.O.D. Kurutulmuş Gıda ve Tarım Ürünleri A.Ş. Şirket Logosu
@@ -491,9 +498,6 @@ VANGD    gıda-içecek    Vanet Gıda Sanayi İç ve Dış Ticaret A.Ş. Şirket
 YYLGD    gıda-içecek    Yayla Agro Gıda Sanayi ve Ticaret A.Ş. Şirket Logosu
 
 
-
-
-
 PAPIL    savunma              Papilon Savunma-Güvenlik Sistemleri Bilişim Mühendislik Hizmetleri İthalat İhracat Sanayi ve Ticaret A.Ş. Şirket Logosu
 SDTTR    savunma              SDT Uzay ve Savunma Teknolojileri A.Ş. Şirket Logosu
 
@@ -507,21 +511,23 @@ IHAAS    haberleşme    İhlas Haber Ajansı A.Ş. Şirket Logosu
 
 
 
-ASELS *  savunma   imalat                        Aselsan Elektronik Sanayi ve Ticaret A.Ş.
+ASELS *  savunma   imalat         yüksek sipariş Aselsan Elektronik Sanayi ve Ticaret A.Ş.
 EREGL *  imalat    demir-çelik    tbtf           Ereğli Demir ve Çelik Fabrikaları T.A.Ş.
    ISDMR imalat    demir-çelik                   İskenderun Demir ve Çelik A.Ş.
 KRDMA *  imalat    demir-çelik                   Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.
 KRDMB    imalat                                  Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.
 KRDMD    imalat                                  Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.
 AYGAZ *  imalat                                  Aygaz A.Ş.
+ARCLK *  imalat    dayanıklı tüketim ürünleri    tbtf    Arçelik A.Ş.
 ALCAR    imalat    dayanıklı tüketim ürünleri    Alarko Carrier Sanayi ve Ticaret A.Ş.
 ARZUM    imalat    dayanıklı tüketim ürünleri    Arzum Elektrikli Ev Aletleri Sanayi ve Ticaret A.Ş.
-ARCLK *  imalat    dayanıklı tüketim ürünleri    tbtf    Arçelik A.Ş.
 IHEVA    imalat    dayanıklı tüketim ürünleri    İhlas Ev Aletleri İmalat Sanayi ve Ticaret A.Ş.
 SILVR    imalat    dayanıklı tüketim ürünleri    Silverline Endüstri ve Ticaret A.Ş.
 KLMSN    imalat    dayanıklı tüketim ürünleri    Klimasan Klima Sanayi ve Ticaret A.Ş.
-VESBE              dayanıklı tüketim ürünleri    Vestel Beyaz Eşya Sanayi ve Ticaret A.Ş.
-VESTL              dayanıklı tüketim ürünleri    Vestel Elektronik Sanayi ve Ticaret A.Ş.
+VESBE              dayanıklı tüketim ürünleri    elektronik        ihracatı güçlü    Vestel Beyaz Eşya Sanayi ve Ticaret A.Ş.
+VESTL              dayanıklı tüketim ürünleri    sanayi                              Vestel Elektronik Sanayi ve Ticaret A.Ş.
+
+
 AYES     imalat                                  Ayes Çelik Hasır ve Çit Sanayi A.Ş.
 ALKIM    imalat                                  Alkim Alkali Kimya A.Ş.
 ADEL     imalat                                  Adel Kalemcilik Ticaret ve Sanayi A.Ş.
@@ -575,13 +581,12 @@ PNLSN    imalat    Panelsan Çatı Cephe Sistemleri Sanayi ve Ticaret A.Ş.
 PRKAB    imalat    Türk Prysmian Kablo ve Sistemleri A.Ş.
 RNPOL    imalat    Rainbow Polikarbonat Sanayi Ticaret A.Ş.
 SUMAS    imalat    mobilya ve dekorasyon                                    Sumaş Suni Tahta ve Mobilya Sanayi A.Ş. Şirket Logosu
-SNICA    imalat    Sanica Isı Sanayi A.Ş. Şirket Logosu
-SASA     imalat    Sasa Polyester Sanayi A.Ş. Şirket Logosu
-SAYAS    imalat    Say Yenilenebilir Enerji Ekipmanları Sanayi ve Ticaret A.Ş Şirket Logosu
-SAFKR    imalat    Safkar Ege Soğutmacılık Klima Soğuk Hava Tesisleri İhracat İthalat Sanayi ve Ticaret A.Ş. Şirket Logosu
-TUCLK    imalat    Tuğçelik Alüminyum ve Metal Mamülleri Sanayi ve Ticaret A.Ş. Şirket Logosu
-ULUSE    imalat    Ulusoy Elektrik İmalat Taahhüt ve Ticaret A.Ş. Şirket Logosu
-YKSLN    imalat    Yükselen Çelik A.Ş. Şirket Logosu
+SNICA    imalat    Sanica Isı Sanayi A.Ş.
+SAYAS    imalat    Say Yenilenebilir Enerji Ekipmanları Sanayi ve Ticaret A.Ş.
+SAFKR    imalat    Safkar Ege Soğutmacılık Klima Soğuk Hava Tesisleri İhracat İthalat Sanayi ve Ticaret A.Ş.
+TUCLK    imalat    Tuğçelik Alüminyum ve Metal Mamülleri Sanayi ve Ticaret A.Ş.
+ULUSE    imalat    Ulusoy Elektrik İmalat Taahhüt ve Ticaret A.Ş.
+YKSLN    imalat    Yükselen Çelik A.Ş.
 
 
 FROTO *  otomotiv    imalat    ihracatı güçlü    Ford Otomotiv Sanayi A.Ş. Şirket Logosu
@@ -589,18 +594,18 @@ TTRAK *  otomotiv              döviz fazlası     Türk Traktör ve Ziraat Maki
 KARSN    otomotiv    imalat                      Karsan Otomotiv Sanayii ve Ticaret A.Ş. Şirket Logosu
 TOASO    otomotiv    imalat                      Tofaş Türk Otomobil Fabrikası A.Ş. Şirket Logosu
 OTKAR    otomotiv    savunma                     Otokar Otomotiv ve Savunma Sanayi A.Ş. Şirket Logosu
-DOAS     otomotiv                                Doğuş Otomotiv Servis ve Ticaret A.Ş. Şirket Logosu
 TMSN     otomotiv                                Tümosan Motor ve Traktör Sanayi A.Ş. Şirket Logosu
 ESCAR    otomotiv                                Escar Turizm Taşımacılık Ticaret A.Ş. Şirket Logosu
 PLTUR    otomotiv                                Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hizmetleri Sanayi ve Ticaret A.Ş. Şirket Logosu
 ASUZU    otomotiv                                Anadolu Isuzu Otomotiv Sanayi ve Ticaret A.Ş. Şirket Logosu
 
 BALAT    otomotiv yan sanayi    Balatacılar Balatacılık Sanayi ve Ticaret A.Ş. Şirket Logosu
-BFREN    otomotiv yan sanayi    Bosch Fren Sistemleri Sanayi ve Ticaret A.Ş. Şirket Logosu
+BFREN    otomotiv yan sanayi    yatırım ortaklığı    Bosch Fren Sistemleri Sanayi ve Ticaret A.Ş.
 DITAS    otomotiv yan sanayi    Ditaş Doğan Yedek Parça İmalat ve Teknik A.Ş. Şirket Logosu
 EGEEN    otomotiv yan sanayi    Ege Endüstri ve Ticaret A.Ş. Şirket Logosu
 GOODY    otomotiv yan sanayi    Goodyear Lastikleri T.A.Ş. Şirket Logosu
 PARSN    otomotiv yan sanayi    Parsan Makina Parçaları Sanayii A.Ş. Şirket Logosu
+
 
 LIDER    servis taşımacılığı ve araç kiralama    LDR Turizm A.Ş. Şirket Logosu
 PLTUR    servis taşımacılığı ve araç kiralama    Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hizmetleri Sanayi ve Ticaret A.Ş. Şirket Logosu
@@ -610,7 +615,7 @@ ESCAR    servis taşımacılığı ve araç kiralama    Escar Turizm Taşımacı
 BEYAZ    servis taşımacılığı ve araç kiralama    Beyaz Filo Oto Kiralama A.Ş. Şirket Logosu
 
 
-SISE *   cam, seramik, porselen    tbtf    Türkiye Şişe ve Cam Fabrikaları A.Ş. Şirket Logosu
+SISE *   cam, seramik, porselen    tbtf    döviz fazlası    Dayanıklı Tüketim Malları    Türkiye Şişe ve Cam Fabrikaları A.Ş. 
 QUAGR    cam, seramik, porselen            QUA Granite Hayal Yapı ve Ürünleri Sanayi Ticaret A.Ş. Şirket Logosu
 EGSER    cam, seramik, porselen            Ege Seramik Sanayi ve Ticaret A.Ş. Şirket Logosu
 KUTPO    cam, seramik, porselen            Kütahya Porselen Sanayi A.Ş. Şirket Logosu
@@ -689,7 +694,7 @@ AGYO     gayrimenkul    Atakule Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket
 MIPAZ    gayrimenkul    Milpa Ticari ve Sınai Ürünler Pazarlama Sanayi ve Ticaret A.Ş. Şirket Logosu
 OZGYO    gayrimenkul    Özderici Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
 IDGYO    gayrimenkul    İdealist Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-ZRGYO    gayrimenkul    Ziraat Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+ZRGYO    gayrimenkul    yatırım ortaklığı    Ziraat Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
 KLGYO    gayrimenkul    Kiler Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
 MSGYO    gayrimenkul    Mistral Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
 TDGYO    gayrimenkul    Trend Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
@@ -698,43 +703,42 @@ YGGYO    gayrimenkul    Yeni Gimat Gayrimenkul Yatırım Ortaklığı A.Ş.
 IHLGM    gayrimenkul    İhlas Gayrimenkul Proje Geliştirme ve Ticaret A.Ş.
 KRGYO    gayrimenkul    Körfez Gayrimenkul Yatırım Ortaklığı A.Ş.
 BASGZ    gayrimenkul    Başkent Doğalgaz Dağıtım Gayrimenkul Yatırım Ortaklığı A.Ş.
-NUGYO    gayrimenkul    Nurol Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+NUGYO    gayrimenkul    Nurol Gayrimenkul Yatırım Ortaklığı A.Ş.
 SRVGY    gayrimenkul    Servet Gayrimenkul Yatırım Ortaklığı A.Ş.
 TRGYO    gayrimenkul    Torunlar Gayrimenkul Yatırım Ortaklığı A.Ş.
 AKSGY    gayrimenkul    Akiş Gayrimenkul Yatırım Ortaklığı A.Ş.
 YGYO     gayrimenkul    Yeşil Gayrimenkul Yatırım Ortaklığı A.Ş.
-OZKGY    gayrimenkul    Özak Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-RYGYO    gayrimenkul    Reysaş Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-ALGYO *   gayrimenkul    Alarko Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-DAPGM    gayrimenkul    DAP Gayrimenkul Geliştirme A.Ş. Şirket Logosu
-ASGYO    gayrimenkul    Asce Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-HLGYO    gayrimenkul    Halk Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-AKFGY    gayrimenkul    Akfen Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-EKGYO    gayrimenkul    Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-SEGYO    gayrimenkul    Şeker Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-SNGYO    gayrimenkul    Sinpaş Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-EYGYO    gayrimenkul    EYG Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-PSGYO    gayrimenkul    Pasifik Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-ADESE    gayrimenkul    Adese Gayrimenkul Yatırım A.Ş Şirket Logosu
-AKMGY    gayrimenkul    Akmerkez Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-DZGYO    gayrimenkul    Deniz Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-KGYO     gayrimenkul    Koray Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-KUYAS    gayrimenkul    Kuyumcukent Gayrimenkul Yatırımları A.Ş. Şirket Logosu
-PAGYO    gayrimenkul    Panora Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-PEKGY *   gayrimenkul    Peker Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-PEGYO    gayrimenkul    Pera Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
-ATAGY    gayrimenkul    Ata Gayrimenkul Yatırım Ortaklığı A.Ş. Şirket Logosu
+OZKGY    gayrimenkul    Özak Gayrimenkul Yatırım Ortaklığı A.Ş.
+RYGYO    gayrimenkul    Reysaş Gayrimenkul Yatırım Ortaklığı A.Ş.
+ALGYO *   gayrimenkul    Alarko Gayrimenkul Yatırım Ortaklığı A.Ş.
+DAPGM    gayrimenkul    DAP Gayrimenkul Geliştirme A.Ş. 
+ASGYO    gayrimenkul    Asce Gayrimenkul Yatırım Ortaklığı A.Ş.
+HLGYO    gayrimenkul    Halk Gayrimenkul Yatırım Ortaklığı A.Ş.
+AKFGY    gayrimenkul    Akfen Gayrimenkul Yatırım Ortaklığı A.Ş.
+EKGYO    gayrimenkul    Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş.
+SEGYO    gayrimenkul    Şeker Gayrimenkul Yatırım Ortaklığı A.Ş.
+SNGYO    gayrimenkul    Sinpaş Gayrimenkul Yatırım Ortaklığı A.Ş.
+EYGYO    gayrimenkul    EYG Gayrimenkul Yatırım Ortaklığı A.Ş.
+PSGYO    gayrimenkul    Pasifik Gayrimenkul Yatırım Ortaklığı A.Ş.
+ADESE    gayrimenkul    Adese Gayrimenkul Yatırım A.Ş
+AKMGY    gayrimenkul    Akmerkez Gayrimenkul Yatırım Ortaklığı A.Ş. 
+DZGYO    gayrimenkul    Deniz Gayrimenkul Yatırım Ortaklığı A.Ş.
+KGYO     gayrimenkul    Koray Gayrimenkul Yatırım Ortaklığı A.Ş.
+KUYAS    gayrimenkul    Kuyumcukent Gayrimenkul Yatırımları A.Ş.
+PAGYO    gayrimenkul    Panora Gayrimenkul Yatırım Ortaklığı A.Ş.
+PEKGY *   gayrimenkul    Peker Gayrimenkul Yatırım Ortaklığı A.Ş.
+PEGYO    gayrimenkul    Pera Gayrimenkul Yatırım Ortaklığı A.Ş. 
+ATAGY    gayrimenkul    Ata Gayrimenkul Yatırım Ortaklığı A.Ş. 
 
-menkul kıymet yatırım ortaklığı
-ATLAS    Atlas Menkul Kıymetler Yatırım Ortaklığı A.Ş. Şirket Logosu
-ETYAT    Euro Trend Yatırım Ortaklığı A.Ş. Şirket Logosu
-EUKYO    Euro Kapital Yatırım Ortaklığı A.Ş. Şirket Logosu
-EUYO     Euro Menkul Kıymet Yatırım Ortaklığı A.Ş. Şirket Logosu
-GRNYO    Garanti Yatırım Ortaklığı A.Ş. Şirket Logosu
-ISYAT    İş Yatırım Ortaklığı A.Ş. Şirket Logosu
-MTRYO    Metro Yatırım Ortaklığı A.Ş. Şirket Logosu
-OYAYO    Oyak Yatırım Ortaklığı A.Ş. Şirket Logosu
-VKFYO    Vakıf Menkul Kıymet Yatırım Ortaklığı A.Ş. Şirket Logosu
+ATLAS    menkul kıymet yatırım ortaklığı    Atlas Menkul Kıymetler Yatırım Ortaklığı A.Ş. Şirket Logosu
+ETYAT    menkul kıymet yatırım ortaklığı    Euro Trend Yatırım Ortaklığı A.Ş. Şirket Logosu
+EUKYO    menkul kıymet yatırım ortaklığı    Euro Kapital Yatırım Ortaklığı A.Ş. Şirket Logosu
+EUYO     menkul kıymet yatırım ortaklığı    Euro Menkul Kıymet Yatırım Ortaklığı A.Ş. Şirket Logosu
+GRNYO    menkul kıymet yatırım ortaklığı    Garanti Yatırım Ortaklığı A.Ş. Şirket Logosu
+ISYAT    menkul kıymet yatırım ortaklığı    İş Yatırım Ortaklığı A.Ş. Şirket Logosu
+MTRYO    menkul kıymet yatırım ortaklığı    Metro Yatırım Ortaklığı A.Ş. Şirket Logosu
+OYAYO    menkul kıymet yatırım ortaklığı    Oyak Yatırım Ortaklığı A.Ş. Şirket Logosu
+VKFYO    menkul kıymet yatırım ortaklığı    Vakıf Menkul Kıymet Yatırım Ortaklığı A.Ş. Şirket Logosu
 
 
 THYAO *  ulaştırma    havacılık    ihracatı güçlü    tbtf    Türk Hava Yolları A.O.
@@ -749,57 +753,26 @@ PLTUR    ulaştırma                 Platform Turizm Taşımacılık Gıda İnş
 PASEU    ulaştırma                 Pasifik Eurasia Lojistik Dış Ticaret A.Ş. Şirket Logosu
 
 
-
-
-
-
-
-turizm
-GRSEL    GÜR-SEL Turizm Taşımacılık ve Servis Ticaret A.Ş. Şirket Logosu
-AYCES    Altın Yunus Çeşme Turistik Tesisler A.Ş. Şirket Logosu
-KSTUR    Kuştur Kuşadası Turizm Endüstri A.Ş. Şirket Logosu
-MAALT    Marmaris Altınyunus Turistik Tesisler A.Ş. Şirket Logosu
-MARTI    Martı Otel İşletmeleri A.Ş. Şirket Logosu
-MERIT    Merit Turizm Yatırım ve İşletme A.Ş. Şirket Logosu
-METUR    Metemtur Otelcilik ve Turizm İşletmeleri A.Ş. Şirket Logosu
-GZNMI    Gezinomi Seyahat Turizm Ticaret A.Ş. Şirket Logosu
-PKENT    Petrokent Turizm A.Ş. Şirket Logosu
-ZEDUR    Zedur Enerji Elektrik Üretim A.Ş. Şirket Logosu
-TUREX    Tureks Turizm Taşımacılık A.Ş. Şirket Logosu
-TEKTU    Tek-Art İnşaat Ticaret Turizm Sanayi ve Yatırımlar A.Ş. Şirket Logosu
-ULAS    Ulaşlar Turizm Yatırımları ve Dayanıklı Tüketim Malları Ticaret Pazarlama A.Ş. Şirket Logosu
-MEPET    Mepet Metro Petrol ve Tesisleri Sanayi Ticaret A.Ş. Şirket Logosu
+GRSEL    turizm    GÜR-SEL Turizm Taşımacılık ve Servis Ticaret A.Ş. Şirket Logosu
+AYCES    turizm    Altın Yunus Çeşme Turistik Tesisler A.Ş. Şirket Logosu
+KSTUR    turizm    Kuştur Kuşadası Turizm Endüstri A.Ş. Şirket Logosu
+MAALT    turizm    Marmaris Altınyunus Turistik Tesisler A.Ş. Şirket Logosu
+MARTI    turizm    Martı Otel İşletmeleri A.Ş. Şirket Logosu
+MERIT    turizm    Merit Turizm Yatırım ve İşletme A.Ş. Şirket Logosu
+METUR    turizm    Metemtur Otelcilik ve Turizm İşletmeleri A.Ş. Şirket Logosu
+GZNMI    turizm    Gezinomi Seyahat Turizm Ticaret A.Ş. Şirket Logosu
+PKENT    turizm    Petrokent Turizm A.Ş. Şirket Logosu
+ZEDUR    turizm    Zedur Enerji Elektrik Üretim A.Ş. Şirket Logosu
+TUREX    turizm    Tureks Turizm Taşımacılık A.Ş. Şirket Logosu
+TEKTU    turizm    Tek-Art İnşaat Ticaret Turizm Sanayi ve Yatırımlar A.Ş. Şirket Logosu
+ULAS     turizm    Ulaşlar Turizm Yatırımları ve Dayanıklı Tüketim Malları Ticaret Pazarlama A.Ş. Şirket Logosu
+MEPET    turizm    Mepet Metro Petrol ve Tesisleri Sanayi Ticaret A.Ş. Şirket Logosu
 
 
 
 https://fintables.com/sektorler
 
 
-
-
-BFREN            otomotiv        
-SASA             sanayi
-QNBFL            leasing
-ASELS            savunma    yüksek sipariş
-SISE        döviz fazlası
-OTKAR        otomotiv
-EUPWR        enerji        yüksek sipariş
-DOAS        döviz fazlası
-KONTR        yüksek sipariş
-ALARK            ihracatı güçlü
-AKCNS            inşaat
-VESBE            elektronik        ihracatı güçlü
-ZOREN            enerji
-VESTL            sanayi
-MGROS            perakende
-BIMAS            perakende
-ECZYT            yatırım ortaklığı
-ZRGYO            yatırım ortaklığı
-BFREN            yatırım ortaklığı
-YYLGD            gıda
-ULKER            gıda
-ODAS            elektrik
-ANHYT            sigorta
 
 
 
@@ -813,8 +786,6 @@ ANHYT            sigorta
     FROTO
     THYAO
 
-
-    SISE        Dayanıklı Tüketim Malları
 
     EGEEN        İhracat yüksek
     ANGEN        İhracat yüksek
