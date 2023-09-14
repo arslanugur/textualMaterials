@@ -366,31 +366,48 @@
 		doc: blocked words cheatsheet
 			Copy: ?sub_confirmation=1
 
+--> What's Covered
+	• My Secret Metadata Overdrive Process
+		Overview of finding the best keywords on youtube
+			Brainstorm -> Research -> Cleanse -> Sort -> Analyse
+	• What we will need
+		vidIQ (Pro or Boost Plan both work)	to find the best keywords and to generate video ideas
+			Keywords --> Related keywords
 
+	Seed Keywords: if you cant find 20 seed words, your niche doesnt work much.
+		Example: Car Niche
+			1. car			6. racing	11. super cars		16. pick up truck
+			2. fastest cars		7. car racing	12. luxury cars		17. car review
+			3. most expensive cars	8. car crashes	13. trucks		18. car crash test
+			4. electric cars	9. crashes	14. hatchbacks		19. car test drive
+			5. cheapest cars	10. cars	15. semis		20. vehicles
 
+			to edit on Excel...
+			Overall score must be high... best keywords...
+			Excel Formula: =UNIQUE(A1:D)		to sort out all the reapeating words.. and to take all unique words.
 
+	Final Keywords:
+		Example: Car Niche
+			1. hyprid cars
+			2. zero emissions
+			3. ev
+			4. renewable energy
+			5. top car reviews
+			6. automotive
+		All the tags are relatable to all your videos.
 
+		Add keywords to all your videos as default
+			Settings -> Channel -> Basic Info --> paste the keywords..
+				 -> upload default -> Tags -->  paste the keywords..
 
+		Docs: Default Video Description Template
 
+		Generate a shorter link: https://bitly.com/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	Summary
+		follow the metadata process and complete it for your channel
 
 
 
 
 .
-
