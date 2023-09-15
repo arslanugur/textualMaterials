@@ -8,6 +8,13 @@
           ya da geleceği satar.. gerçekleştiğinde de en kötüsü görüldüğü günde satın almaya başlar.     beklenti satılır gerçekleşen alınır."
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Borsada yatırım yapıyorsan bu üçü her zman olsun
+
+- stop point
+- hedge
+- ek bir nakit
+- never lose money
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 firma yükselen bir rota da mı anlamak için
@@ -39,16 +46,56 @@ Artışı beklenen üç sey:
     ciro
     satışlar
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Karlılık:
+    - şirket açısından karlılık
+            özkaynak karlılığı diye birşey yoktur. yatırılan sermayenin getirisi diye birşey vardır.
+    - yatırımcı açısından karlılık
+            özsermaye karlılığı yatırımcılar için önemli
+            yani ödenmiş sermayeye ortak oluyorsun, bu da özsermayenin için önemli bir kalem
+            yatırdığın her bir liranın yüzde kaç karlılık olarak döndüğünü size söyler.
+            özsermaye karlılığı yüksek olan şirketler uzun vadede yatırımcılarına daha fazla getiri sunarlar.
+            özkaynak karlılığı, özkaynağın bir tür büyüme oranıdır.
+                net kar / özsermaye = özkaynak karlılığı                                    ne kadar yüksek olursa o kadar iyi yani %100 üstünde olması iyi yoksa şirket faiz ile yarışamaz..
+                                        yatırımcı biraz bakmalı: enflasyon yüzde kaç?
+                                                                 sektör ortalaması kaç? ortalamaya göre düşük mü yüksek mi?
+                                                                 sonuç olarak getiriye bakmak lazım: sermaye maliyetin nedir?    mevduata mı yatırmak yoksa borsaya mı yatırmak daha mantıklı...
+                                                            
+            mevduat faizi %40 ise bunun altında bir sermaye karlılığı olan bir şirkete para yatırmak anlamsız..
+                çünkü daha risksiz ve daha iyi bir yatırım var faizde...
+                faiz biraz borsanın düşmanıdır bu yüzden...
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Borsada yatırım yapıyorsan bu üçü her zman olsun
+            otomotiv şirketlerinin özsermaye karlılığı şu an için mevduat faizinden daha fazla kazandırıyor..
 
-- stop point
-- hedge
-- ek bir nakit
-- never lose money
+            kar, enflasyondan etkilenir ve artar genel olarak.. bu da özsermayeyi artış yönünde etkiler..
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+            # özsermaye karlılğını piyasa değeri defter değeri ratiosu ile bakılıyor.
+            piyasa değeri defter değeri ratiosu veya fk (fiyat/satış) gibi gibi ratiolar sana şirketin balon olup olmadığını gösterir     
+
+            pd/dd ratio = 10 diyelim bu yüksek bulunuyor.. yanlış biraz..               TTRAK özsermayesi, hisse olarak diğer şirketlerden daha değerli karlılık anlamına gelir.
+                          10 olabilir ama özsermaye karlılığı kaç.. diyelim %160
+
+            TTRAK --> pd/dd = 19,46
+                      fiyat kazanç oranı = 17,60
+                      özsermaye karlılığı = %164
+
+                        bu değerlerin anlamı traktör bir miktar primlenmiş.
+                        biz şunu isteriz            
+                            10 fk yaklaşımına göre yani 10 yılda amorti etme yaklaşımına göre
+
+                        formül:    (pd/dd) = özsermaye karlılığı / fk oranı
+
+                            özsermaye karlılığı / 10 = 16.40 olur ---> yani en yüksek pd/dd oranı bu olmalı yoksa primlenmiş olur. 16dan bile alınmaz. ondan daha aşağıda olmalı
+                                                    yani 16.40 oranının altında olacak ki biz alabilelim..... üstündeyse satarsın..
+
+                        bir şirketin F/K değeri 10 ise yatırımcılar her 1 dolarlık şirket kârı için 10 dolar ödemeye razılar demektir.
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Hangisi senin paran için kazandırıyorsa ona kay..
   borsa              #   vadeli mevduat (faiz)
   riskli enstruman   #   risksiz enstruman
@@ -60,7 +107,7 @@ balinalar/yabancılar önde gider bize de kırıntılar kalır. yabancıların y
 büyüme şirketleri para kazandırır. temel analiz neyi alacağını söyler, teknik analiz nerde alıp satacağını söyler.
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 https://fintables.com/sektorler
 
 COSMO    holding    Cosmos Yatırım Holding A.Ş. Şirket Logosu
