@@ -16,6 +16,50 @@ Borsada yatırım yapıyorsan bu üçü her zman olsun
 - ek bir nakit
 - never lose money
 
+Hisse senedi portföyü yaratmak
+        geleceğin belirsizliğini önler.
+        iyi yatırım tezlerinin basit olması - bir şirkete neden yatıırım yaptığını basitçe açıklayabilmelisin. şirkete güvenmek
+        şirketler uzun vadeli görünümlerinin durağan olması - bazı şirletleri tahmin edebilirsin, hepsi invest değildir, trade için olan şirketler de vardır.
+        büyük kayıp riskinin azalması. ancak ekonominin genelini etkileyen durum olduğunda portföyün erir ya da yükselir. tek şirketin derdiyle uğraşmazsın.
+        oynaklıktaki azalmanın uzun vadede elde edeceğin birleşik getiriyi artırır.
+        gerçek performansının ortaya çıkıp şans faltörünün azalmasını sağlar.
+        yatırımcının bilgi seviyesi - özel bilgin yoksa tek şirkete yatırım yapmamak daha iyi
+        uygulanan stratejilerin çeşitliliği. farklı LOT vesaire
+        alfa potansiyeline uygun çeşitlendirme.
+            4-5 şirketten %10luk bir getiri bekliyorsan ve sonrasında yeni bir şirket eklediğinde o beklentin düşüyorsa o anda çeşitlendirmeyi durdurmak en iyisi.
+            standart sapmayı arttırmamak için o portföyünü bozmazsın. kare vs dikdörtgen kenarlar metodu....
+
+    # Modern Portföy Teorisi
+        birleşik getiri hesabı
+            1,1^10=2,59        eğer %10luk bir reel getirimiz varsa, enflasyonun üzerinde bir kazanç. bunu 10 yıl boyunca sürdürürsen 2.6 katını verir.
+            1,1'25=10,8        yani 1 birimlik bir yatırım 25 yılda 11 katını verir..
+                               esas olan getirinin sürdürülebilir olması...
+
+            kare kenarları       dikdörtgen kenarları
+            4 * 4 = 16     >     2 * 6 = 12
+            5 * 5 = 25     >     3 * 7 = 21
+            10 * 10 = 100  >     6 * 14 = 84
+
+            aslında toplama bakarsan aynı malzeme var elimizde yani 8 tane ama sonuç farklı..
+            istikrarlı ve standard sapması düşük bir şekilde bu getiriyi sürdürürsek
+
+            her bir hisse tek başına bakıldığında ciddi düşüşleri ve yükselişleri vardır
+            ama portföy olarak bakıldığında bunu optimizasyon yaparsın. hareketleri de daha yumuşak olur..
+
+            Sharpe Ratiosun portföy daha çok ortalamaya sahip
+
+        Çeşitlendirme
+            Hisse sayısı arttıkça oynaklık ve sapma azalır. Portföy, standart sapmayı minimize eder..
+            Piyasa getirisinden %10 kazanmayı bekliyorsan 10-20 hissen varsa piyasanın altında kalmazsın.
+            20 hisseyi geçtiğinde güvendesin..
+                Frank Martin      12-15 hisse
+                Mason Hawkins     18-22 hisse
+                Joel Greenblat    >6-8 hisse
+                Seth Klarman      10-15 hisse
+                Bill Ackman       15-20 hisse
+                Charlie Munger    Modern Portföy Teorisi karşıtı, S&P500e yatırın kendi kendine hisse seçmeye kalkma. piyasayı geçebilecek yetenek var mı?
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 firma yükselen bir rota da mı anlamak için
     şirkette büyüme istikrarı var mı.
@@ -155,16 +199,16 @@ HEDEF    holding    Hedef Holding A.Ş.
     SEYKM    kimya ve plastik                           Seyitler Kimya Sanayi A.Ş.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 DOHOL    holding    Doğan Şirketler Grubu Holding A.Ş.
-    DOBUR    kağıt ve kağıt ürünleri           Doğan Burda Dergi Yayıncılık ve Pazarlama A.Ş.
-    MIPAZ    gayrimenkul                       Milpa Ticari ve Sınai Ürünler Pazarlama Sanayi ve Ticaret A.Ş.
-    DITAS    otomotiv yan sanayi               Ditaş Doğan Yedek Parça İmalat ve Teknik A.Ş. 
-    CELHA    ana metal                         Çelik Halat ve Tel Sanayii A.Ş.
-    GWIND    enerji üretim ve dağıtım          Galata Wind Enerji A.Ş.
+    DOBUR    kağıt ve kağıt ürünleri                       Doğan Burda Dergi Yayıncılık ve Pazarlama A.Ş.
+    MIPAZ    gayrimenkul                                   Milpa Ticari ve Sınai Ürünler Pazarlama Sanayi ve Ticaret A.Ş.
+    DITAS    otomotiv yan sanayi                           Ditaş Doğan Yedek Parça İmalat ve Teknik A.Ş. 
+    CELHA    ana metal                                     Çelik Halat ve Tel Sanayii A.Ş.
+    GWIND    enerji üretim ve dağıtım                      Galata Wind Enerji A.Ş.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 GLYHO *    holding    Global Yatırım Holding A.Ş.
-    CONSE    enerji üretim ve dağıtım                  Consus Enerji İşletmeciliği ve Hizmetleri A.Ş.
-    NTGAZ    enerji üretim ve dağıtım                  Naturelgaz Sanayi ve Ticaret A.Ş.
-    PEGYO    gayrimenkul                               Pera Gayrimenkul Yatırım Ortaklığı A.Ş. 
+    CONSE    enerji üretim ve dağıtım                      Consus Enerji İşletmeciliği ve Hizmetleri A.Ş.
+    NTGAZ    enerji üretim ve dağıtım                      Naturelgaz Sanayi ve Ticaret A.Ş.
+    PEGYO    gayrimenkul                                   Pera Gayrimenkul Yatırım Ortaklığı A.Ş. 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 UFUK     holding                                                    Ufuk Yatırım Yönetim ve Gayrimenkul A.Ş.
     ULKER    gıda-içecek    yabancı alımlı                          Ülker Bisküvi Sanayi A.Ş.
@@ -177,16 +221,16 @@ ALARK *    enerji üretim ve dağıtım    holding    ihracatı güçlü      Al
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 KCHOL *    holding    döviz fazlası    tbtf    yabancı alımlı    Koç Holding A.Ş.
-    TTRAK        tbtf
-    AYGAZ
-    ARCLK        ihracatı güçlü         dayanıklı tüketim malları
-    FROTO        ihracatı güçlü         dayanıklı tüketim malları    tbtf
-    MAALT
-    OTKAR        savunma                ihracatı güçlü                dayanıklı tüketim malları
-    TATGD
-    TOASO                               dayanıklı tüketim malları    yabancı alımlı
-    TUPRS        tbtf
-    YKBNK        bankacılık            yabancı alımlı
+    TTRAK *      otomotiv          döviz fazlası                tbtf                                   Türk Traktör ve Ziraat Makineleri A.Ş.
+    AYGAZ *      kimya ve plastik  imalat                                                              Aygaz A.Ş.
+    ARCLK *      imalat            dayanıklı tüketim malları              ihracatı güçlü    tbtf       Arçelik A.Ş.
+    FROTO        otomotiv          dayanıklı tüketim malları    imalat    ihracatı güçlü    tbtf       Ford Otomotiv Sanayi A.Ş.
+    MAALT        turizm                                                                                Marmaris Altınyunus Turistik Tesisler A.Ş.
+    OTKAR        otomotiv          dayanıklı tüketim malları    savunma   ihracatı güçlü               Otokar Otomotiv ve Savunma Sanayi A.Ş.
+    TATGD        gıda-içecek                                                                           Tat Gıda Sanayi A.Ş.
+    TOASO        otomotiv          dayanıklı tüketim malları    imalat    yabancı alımlı               Tofaş Türk Otomobil Fabrikası A.Ş.
+    TUPRS        kimya ve plastik  tbtf      endeksi sırtlayan                                         TÜPRAŞ - Türkiye Petrol Rafinerileri A.Ş. 
+    YKBNK *      bankacılık        yabancı alımlı                                                      Yapı ve Kredi Bankası A.Ş.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -255,8 +299,10 @@ Varlık yönetim şirketleri öncelikli olarak bankalardan olmak üzere finansal
 GLCVY    varlık yönetimi    Gelecek Varlık Yönetimi A.Ş.
 BRKVY    varlık yönetimi    Birikim Varlık Yönetim A.Ş.
 
-İnsanların ya da kurumların sahip olduğu tüm varlık ve riskleri koruma altına alan ve oluşabilecek zararları karşılayan finansal araç sigortadır. 
+Sigortacılık sektörü, İnsanların ya da kurumların sahip olduğu tüm varlık ve riskleri koruma altına alan ve oluşabilecek zararları karşılayan finansal araç sigortadır. 
 Sigortacılık sektörü bu sözleşmelerin hazırlanması, satılması faaliyetlerini yürütmektedir.
+Emeklilik sektörü, Bu şirketler emeklilik ürünleri sunan finansal kuruluşlardır. 
+Ana faaliyetleri bireysel emeklilik olsa da gerekli lisansları alarak hayat sigortası alanında da faaliyet gösterirler.
 ANHYT *  sigorta / emeklilik    Anadolu Hayat Emeklilik A.Ş.
 AGESA    emeklilik    Agesa Hayat ve Emeklilik A.Ş.
 AKGRT    sigorta        Aksigorta A.Ş.
@@ -306,6 +352,8 @@ PRDGS    girişim sermayesi yatırım ortaklığı    Pardus Girişim Sermayesi 
 ICUGS    girişim sermayesi yatırım ortaklığı    ICU Girişim Sermayesi Yatırım Ortaklığı A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Bilişim ve yazılım sektörü bilgisayarlar, bilgisayar ağları, yazılım, donanım, web tasarımı, yarı iletken gibi ürün ve hizmetler üzerine çalışır. 
+Yazılım sektörü firmaları daha çok hizmet sağlayıcılığı yaparken bilişim sektöründe donanım ürünlerinin ticareti de yapılmaktadır.
 KONTR *  bilişim ve yazılım    enerji teknolojileri            Kontrolmatik Teknoloji Enerji ve Mühendislik A.Ş.
                                yenilenebilir enerji
                                enerji depolama - "pomega"
@@ -343,7 +391,9 @@ PCILT    bilişim ve yazılım                                    PC İletişim 
 PAPIL    bilişim ve yazılım                                    Papilon Savunma-Güvenlik Sist. Bil. Müh. Hiz. İth.-İhr. Sanayi ve Ticaret A.Ş.
 PKART    bilişim ve yazılım                                    Plastikkart Akıllı Kart İletişim Sistemleri Sanayi ve Ticaret A.Ş.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-enerji depolama maliyeti var.
+Enerji üretim sektörü çeşitli doğal ve fosil kaynakları kullanarak bunları elektrik enerjisine çeviren şirketlerden oluşur. 
+Enerji dağıtım sektörü ise doğal gaz ve elektriğin konut ve sanayiye ulaştırılmasından sorumludur.
+Enerji depolama maliyeti var.
 ENJSA *  enerji üretim ve dağıtım    yenilenebilir enerji    sabancı    Enerjisa Enerji A.Ş.
 AKSEN *  enerji üretim ve dağıtım    yenilenebilir enerji                Aksa Enerji Üretim A.Ş.
 ALARK    enerji üretim ve dağıtım    ihracatı güçlü        Alarko Holding A.Ş.
@@ -377,6 +427,9 @@ ZOREN    enerji üretim ve dağıtım    yenilenebilir enerji                  Z
 ZEDUR    enerji üretim ve dağıtım                  Zedur Enerji Elektrik Üretim A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Enerji teknolojileri sektörü; enerji üretimi, iletimi ve dağıtımı için gerekli olan ekipmanların imalatı ve kurulumuyla ilgilenen şirketlerden oluşur. 
+Sektörün imal ettiği ürünler, elektrik üretimi yapmak üzere kurulmuş şirketlerle kendi kullandığı elektriği üretmek isteyen sanayi şirketleri tarafından kullanılır.
+
 SMRTG *  enerji teknolojileri    yenilenebilir enerji    yüksek sipariş        Smart Güneş Enerjisi Teknolojileri Araştırma Geliştirme Üretim Sanayi ve Ticaret A.Ş.
 BRLSM *  enerji teknolojileri    inşaat          Birleşim Mühendislik Isıtma Soğutma Havalandırma Sanayi ve Ticaret A.Ş
 EUPWR *  enerji teknolojileri    yüksek sipariş  Europower Enerji ve Otomasyon Teknolojileri Sanayi Ticaret A.Ş.
@@ -390,6 +443,9 @@ SAYAS    enerji teknolojileri                    Say Yenilenebilir Enerji Ekipma
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+İnşaat, konut başta olmak üzere fabrika, okul, işyeri, depo, hastane gibi yapıları inşa eden, yol, baraj, köprü, tünel gibi altyapıların yapımını sağlayan sektördür.
+
+Taş, toprak ve çimento sektöründeki şirketler yeraltı ve yerüstü kaynaklardan elde edilen ürünlerin işlenmesi ve inşaat başta olmak üzere çeşitli sektörlere tedarik sağlanmasından sorumludur.
 TKFEN *  inşaat    holding                 Tekfen Holding A.Ş.
 ENKAI *  inşaat    tbtf                    Enka İnşaat ve Sanayi A.Ş.
 ANELE    inşaat                            Anel Elektrik Proje Taahhüt ve Ticaret A.Ş.
@@ -420,6 +476,13 @@ YYAPI    inşaat                            Yeşil Yapı Endüstrisi A.Ş.
 YBTAS    inşaat                            Yibitaş Yozgat İşçi Birliği İnşaat Malzemeleri Ticaret ve Sanayi A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Ana metal sektörü demir çelik ile bunun dışında kalan diğer alt sektörlerden oluşmaktadır. 
+Değerli metaller, alüminyum, kurşun, çinko, bakır dışındaki metallerin üretimi bu sektör tarafından yapılır. 
+Sektörün ürünleri inşaat, otomotiv, enerji kimya sektörlerde kullanılmaktadır.
+
+Madencilik ve taş ocakçılığı sektörü yeraltı kaynaklarının çıkarılması ve işlenmesi faaliyetini yürütmektedir. 
+Demir, bakır, alüminyum, lityum, kömür, altın, gümüş, nikel, grafit, kobalt gibi ürünleri çıkarır ve gerekli sektörlere hammadde tedariğini sağlar.
+
 ALMAD    madencilik ve taş ocakçılığı                 Altınyağ Madencilik ve Enerji Yatırımları Sanayi ve Ticaret A.Ş.
 BMSCH    ana metal                                    Bms Çelik Hasır Sanayi ve Ticaret A.Ş.
 BURVA    ana metal                                    Burçelik Vana Sanayi ve Ticaret A.Ş.
@@ -450,6 +513,8 @@ SAYAS    ana metal                                    Say Yenilenebilir Enerji E
 TUCLK    ana metal                                    Tuğçelik Alüminyum ve Metal Mamülleri Sanayi ve Ticaret A.Ş.
 YKSLN    ana metal                                    Yükselen Çelik A.Ş. 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Metal eşya ve makine sektörü, sanayi içinde yatırım mallarını üreten sektördür. 
+Diğer sektörlerde kullanılan makinelerin, bu makinelere ilişkin ekipman ve yedek parçaların üretiminden sorumludur.
 BMSCH    metal eşya ve makine    Bms Çelik Hasır Sanayi ve Ticaret A.Ş. 
 ERCB     metal eşya ve makine    Erciyas Çelik Boru Sanayi A.Ş.
 FORMT    metal eşya ve makine    Formet Çelik Kapı Sanayi ve Ticaret A.Ş.
@@ -468,6 +533,9 @@ VESTL    metal eşya ve makine    Vestel Elektronik Sanayi ve Ticaret A.Ş.
     ZOREN    enerji üretim ve dağıtım                  Zorlu Enerji Elektrik Üretim A.Ş.
 SNICA    metal eşya ve makine    Sanica Isı Sanayi A.Ş.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Kağıt ve kağıt ürünleri sektörü gündelik hayatın her alanında ihtiyaç duyulan basım ve ambalaj ürünlerine ara mal üretimi yapmaktadır. 
+Eğitim, sağlık, sanayi, iletişim gibi sektörlerde yoğun olarak kağıt ve kağıt ürünleri kullanılmaktadır.
+
 ALKA     kağıt ve kağıt ürünleri               Alkim Kağıt Sanayi ve Ticaret A.Ş.
 DOBUR    kağıt ve kağıt ürünleri               Doğan Burda Dergi Yayıncılık ve Pazarlama A.Ş.
 DURDO    kağıt ve kağıt ürünleri               Duran Doğan Basım ve Ambalaj Sanayi A.Ş.
@@ -481,7 +549,10 @@ SAMAT    kağıt ve kağıt ürünleri               Saray Matbaacılık Kağıt
 TEZOL    kağıt ve kağıt ürünleri               Europap Tezol Kağıt Sanayi ve Ticaret A.Ş. 
 VKING    kağıt ve kağıt ürünleri               Viking Kağıt ve Selülöz A.Ş. 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-ambalaj şirketleri tüketime bakar. tüketim olmazsa yükselmez.
+Ambalaj sektörü sanayi ve perakendenin her dalına destek sağlayan sektörlerden biri. 
+Bu sektörde firmalar plastik, kağıt, karton, cam, metal ve ahşap gibi ürünleri kullanarak üretim yapmaktadırlar.
+
+Ambalaj şirketleri tüketime bakar. tüketim olmazsa yükselmez.
 BAKAB    ambalaj    Bak Ambalaj Sanayi ve Ticaret A.Ş. 
 BARMA    ambalaj    Barem Ambalaj Sanayi ve Ticaret A.Ş. 
 BNTAS    ambalaj    Bantaş Bandırma Ambalaj Sanayi Ticaret A.Ş.
@@ -492,7 +563,9 @@ KAPLM    ambalaj    Kaplamin Ambalaj Sanayi ve Ticaret A.Ş.
 SEKUR    ambalaj    Sekuro Plastik Ambalaj Sanayi A.Ş.
 KRPLS    ambalaj    Koroplast Temizlik Ambalaj Ürünleri Sanayi ve Dış Ticaret A.Ş. 
 OZRDN    ambalaj    Özerden Ambalaj Sanayi A.Ş. 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Cam sanayi inşaat, otomobil, ambalaj gibi alanlara ürün veren temel sanayi sektörlerinden biridir. 
+Porselen, seramik, granit gibi ürünler de inşaat, dekorasyon, ambalaj gibi sektörlerde yaygın olarak kullanılır.
 SISE *   cam, seramik, porselen    tbtf    döviz fazlası    Dayanıklı Tüketim Malları    kimya ve plastik    Türkiye Şişe ve Cam Fabrikaları A.Ş.
 BIENY    cam, seramik, porselen            Bien Yapı Ürünleri Sanayi Turizm ve Ticaret A.Ş.
 EGSER    cam, seramik, porselen            Ege Seramik Sanayi ve Ticaret A.Ş.
@@ -502,8 +575,10 @@ QUAGR    cam, seramik, porselen            QUA Granite Hayal Yapı ve Ürünleri
 USAK     cam, seramik, porselen            Uşak Seramik Sanayi A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Kimya ve plastik sektörü pek çok sektöre ara mal ve hammadde tedariği yapmaktadır. 
+Tarım ilaçları, gübreler, sentetik malzemeler, temizlik ürünleri, kozmetik ürünler, boya, plastik hammaddeleri, petro-kimya ürünleri bu sektör tarafından üretilir.
+
 SISE     kimya ve plastik                        Türkiye Şişe ve Cam Fabrikaları A.Ş.
-AYGAZ    kimya ve plastik                        Aygaz A.Ş.
 KOPOL    kimya ve plastik                        Koza Polyester Sanayi ve Ticaret A.Ş.    polyester ve elyaf üretimi
 BRISA    kimya ve plastik    sabancı             Brisa Bridgestone Sabancı Lastik Sanayi ve Ticaret A.Ş.
 KORDS    kimya ve plastik    sabancı             Kordsa Teknik Tekstil A.Ş.
@@ -628,6 +703,8 @@ VANGD    gıda-içecek    Vanet Gıda Sanayi İç ve Dış Ticaret A.Ş.
 PAPIL    savunma              Papilon Savunma-Güvenlik Sistemleri Bilişim Mühendislik Hizmetleri İthalat İhracat Sanayi ve Ticaret A.Ş.
 SDTTR    savunma              SDT Uzay ve Savunma Teknolojileri A.Ş. 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Haberleşme sektörü her türlü ulusal ve uluslararası iletişim altyapısından sorumludur. 
+Kablosuz operatör, internet servis sağlayıcılığı, uydu hizmetleri gibi temel iletişim faaliyetlerini yürütmektedir.
 TCELL *  haberleşme            Turkcell İletişim Hizmetleri A.Ş. 
 TTKOM *  haberleşme            Türk Telekomünikasyon A.Ş.
 ALCTL    haberleşme            Alcatel Lucent Teletaş Telekomünikasyon A.Ş. 
@@ -650,7 +727,6 @@ EREGL *  imalat    demir-çelik    tbtf                   Ereğli Demir ve Çeli
 KRDMA *  imalat    demir-çelik    bilançosu iyi gibi               Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.
 KRDMB    imalat                                                    Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.
 KRDMD    imalat                                                    Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.
-AYGAZ *  imalat                                   Aygaz A.Ş.
 AYES     imalat                                   Ayes Çelik Hasır ve Çit Sanayi A.Ş.
 ALKIM    imalat                                   Alkim Alkali Kimya A.Ş.
 ADEL     imalat    Dayanıklı Tüketim Malları      Adel Kalemcilik Ticaret ve Sanayi A.Ş.
@@ -845,7 +921,7 @@ PEGYO    gayrimenkul    Pera Gayrimenkul Yatırım Ortaklığı A.Ş.
 ATAGY    gayrimenkul    Ata Gayrimenkul Yatırım Ortaklığı A.Ş. 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-THYAO *  ulaştırma    havacılık    ihracatı güçlü    tbtf    Türk Hava Yolları A.O.
+THYAO *  ulaştırma    havacılık    ihracatı güçlü    tbtf    endeksi sırtlayan    Türk Hava Yolları A.O.
 CLEBI    ulaştırma    havacılık            Çelebi Hava Servisi A.Ş.
 GSDDE    ulaştırma                         Gsd Denizcilik Gayrimenkul İnşaat Sanayi ve Ticaret A.Ş.
 LIDER    ulaştırma                         LDR Turizm A.Ş. 
@@ -858,9 +934,9 @@ PASEU    ulaştırma                         Pasifik Eurasia Lojistik Dış Tica
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 GRSEL    turizm    GÜR-SEL Turizm Taşımacılık ve Servis Ticaret A.Ş. 
-AYCES    turizm    Altın Yunus Çeşme Turistik Tesisler A.Ş. 
+AYCES    turizm    yaşar holding    Altın Yunus Çeşme Turistik Tesisler A.Ş.
+MAALT    turizm    koç holding       Marmaris Altınyunus Turistik Tesisler A.Ş.
 KSTUR    turizm    Kuştur Kuşadası Turizm Endüstri A.Ş. 
-MAALT    turizm    Marmaris Altınyunus Turistik Tesisler A.Ş.
 MARTI    turizm    Martı Otel İşletmeleri A.Ş.
 MERIT    turizm    Merit Turizm Yatırım ve İşletme A.Ş. 
 METUR    turizm    Metemtur Otelcilik ve Turizm İşletmeleri A.Ş.
