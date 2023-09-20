@@ -180,7 +180,8 @@ AVHOL    holding    Avrupa Yatırım Holding A.Ş.
 GLRYH    holding    Güler Yatırım Holding A.Ş.
 RALYH    holding    Ral Yatırım Holding A.Ş.
 IHLAS    holding    İhlas Holding A.Ş.
-IHYAY    holding    İhlas Yayın Holding A.Ş.
+    IHYAY    holding                    İhlas Yayın Holding A.Ş.
+    IHLGM    inşaat    gayrimenkul      İhlas Gayrimenkul Proje Geliştirme ve Ticaret A.Ş.
 IZINV    holding    İZ Yatırım Holding A.Ş.
 INVEO    holding    Inveo Yatırım Holding A.Ş. 
 GSDHO    holding    Gsd Holding A.Ş.
@@ -270,6 +271,7 @@ VAKBN    bankacılık    Türkiye Vakıflar Bankası T.A.O.
     VKFYO    menkul kıymet yatırım ortaklığı    Vakıf Menkul Kıymet Yatırım Ortaklığı A.Ş.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ISCTR *  bankacılık    Türkiye İş Bankası A.Ş.
+    ISKUR    bankacılık                                     Türkiye İş Bankası A.Ş.
     TSKB     bankacılık                                     Türkiye Sınai Kalkınma Bankası A.Ş.
     ISMEN *  aracı kurum                                    İş Yatırım Menkul Değerler A.Ş.
     ISFIN *  finansal kiralama / leasing                    İş Finansal Kiralama A.Ş.
@@ -465,7 +467,6 @@ EDIP     inşaat                            Edip Gayrimenkul Yatırım Sanayi ve
 EUREN    inşaat                            Europen Endüstri İnşaat Sanayi ve Ticaret A.Ş.
 GESAN    inşaat                            Girişim Elektrik Sanayi Taahhüt ve Ticaret A.Ş.
 GOLTS    taş, toprak, çimento              Göltaş Göller Bölgesi Çimento Sanayi ve Ticaret A.Ş.
-IHLGM    inşaat                            İhlas Gayrimenkul Proje Geliştirme ve Ticaret A.Ş.
 KONYA    taş, toprak, çimento              Konya Çimento Sanayii A.Ş.
 NIBAS    taş, toprak, çimento              Niğbaş Niğde Beton Sanayi ve Ticaret A.Ş.
 NUHCM    taş, toprak, çimento              Nuh Çimento Sanayi A.Ş.
@@ -795,38 +796,6 @@ ULUSE    imalat    Ulusoy Elektrik İmalat Taahhüt ve Ticaret A.Ş.
 YKSLN    imalat    Yükselen Çelik A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Otomotiv sektörü motorlu taşıtların tasarımını, üretimini ve pazarlamasını yapar.
-Sıfır ve ikinci el satışlar, kısa ve uzun dönem kiralamalar, satış sonrası hizmetler, bakım hizmetleri sektör tarafından yapılır.
-
-FROTO *  otomotiv    imalat    ihracatı güçlü    Ford Otomotiv Sanayi A.Ş.
-TTRAK *  otomotiv              döviz fazlası     Türk Traktör ve Ziraat Makineleri A.Ş.
-KARSN    otomotiv    imalat                      Karsan Otomotiv Sanayii ve Ticaret A.Ş.
-TOASO    otomotiv    imalat                      Tofaş Türk Otomobil Fabrikası A.Ş.
-OTKAR    otomotiv    savunma                     Otokar Otomotiv ve Savunma Sanayi A.Ş. 
-TMSN     otomotiv                                Tümosan Motor ve Traktör Sanayi A.Ş.
-ESCAR    otomotiv                                Escar Turizm Taşımacılık Ticaret A.Ş.
-PLTUR    otomotiv                                Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hiz. San. ve T.A.Ş.
-ASUZU    otomotiv                                Anadolu Isuzu Otomotiv Sanayi ve Ticaret A.Ş.
-
-Otomotiv yan sanayi otomotiv sektörüne direkt olarak parça imal eden sektördür. 
-Her türlü otomobil parçası, ekipmanı, lastikler, jantlar bu sektör tarafından üretilir.
-Türkiye'nin ihracat oranı yüksek sektörlerinden biridir....
-BALAT    otomotiv yan sanayi                         Balatacılar Balatacılık Sanayi ve Ticaret A.Ş.
-DITAS    otomotiv yan sanayi                         Ditaş Doğan Yedek Parça İmalat ve Teknik A.Ş. 
-EGEEN    otomotiv yan sanayi    ihracat yüksek       Ege Endüstri ve Ticaret A.Ş. 
-GOODY    otomotiv yan sanayi                         Goodyear Lastikleri T.A.Ş.
-PARSN    otomotiv yan sanayi                         Parsan Makina Parçaları Sanayii A.Ş. 
-
-Servis taşımacılığı sektörü, çalışan personelin ve eğitim görmekte olan öğrencilerin ulaşım ihtiyacını, ticari minibüs ve otobüsler aracılığıyla karşılama hizmeti veren firmaları bünyesinde barındırır. 
-Araç kiralama sektörü ise bireylerin ya da şirketlerin bir veya birden fazla araç ihtiyacını belirli bir süre diliminde karşılayan firmalardan oluşur.
-LIDER    servis taşımacılığı ve araç kiralama    LDR Turizm A.Ş. 
-PLTUR    servis taşımacılığı ve araç kiralama    Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hizmetleri Sanayi ve T.A.Ş.
-GRSEL    servis taşımacılığı ve araç kiralama    GÜR-SEL Turizm Taşımacılık ve Servis Ticaret A.Ş.
-TUREX    servis taşımacılığı ve araç kiralama    Tureks Turizm Taşımacılık A.Ş.
-ESCAR    servis taşımacılığı ve araç kiralama    Escar Turizm Taşımacılık Ticaret A.Ş.
-BEYAZ    servis taşımacılığı ve araç kiralama    Beyaz Filo Oto Kiralama A.Ş.
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Mobilya ve Dekorasyon sektörü, dekoratif ürünler ve masa, sehpa, sandalye, koltuk, dolap, karyola gibi mobilyaların tasarımı, planlaması ve üretimi faaliyetlerini yürütmektedir.
 DGNMO    mobilya ve dekorasyon    Doğanlar Mobilya Grubu İmalat Sanayi ve Ticaret A.Ş.
 EUREN    mobilya ve dekorasyon    Europen Endüstri İnşaat Sanayi ve Ticaret A.Ş.
@@ -911,7 +880,6 @@ KLGYO    gayrimenkul    Kiler Gayrimenkul Yatırım Ortaklığı A.Ş.
 MSGYO    gayrimenkul    Mistral Gayrimenkul Yatırım Ortaklığı A.Ş.
 TDGYO    gayrimenkul    Trend Gayrimenkul Yatırım Ortaklığı A.Ş.
 DGGYO    gayrimenkul    Doğuş Gayrimenkul Yatırım Ortaklığı A.Ş.
-IHLGM    gayrimenkul    İhlas Gayrimenkul Proje Geliştirme ve Ticaret A.Ş.
 KRGYO    gayrimenkul    Körfez Gayrimenkul Yatırım Ortaklığı A.Ş.
 BASGZ    gayrimenkul    Başkent Doğalgaz Dağıtım Gayrimenkul Yatırım Ortaklığı A.Ş.
 NUGYO    gayrimenkul    Nurol Gayrimenkul Yatırım Ortaklığı A.Ş.
@@ -943,20 +911,51 @@ PEKGY *  gayrimenkul    Peker Gayrimenkul Yatırım Ortaklığı A.Ş.
 PEGYO    gayrimenkul    Pera Gayrimenkul Yatırım Ortaklığı A.Ş. 
 ATAGY    gayrimenkul    Ata Gayrimenkul Yatırım Ortaklığı A.Ş. 
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Otomotiv sektörü motorlu taşıtların tasarımını, üretimini ve pazarlamasını yapar.
+Sıfır ve ikinci el satışlar, kısa ve uzun dönem kiralamalar, satış sonrası hizmetler, bakım hizmetleri sektör tarafından yapılır.
+
+FROTO *  otomotiv    imalat    ihracatı güçlü    Ford Otomotiv Sanayi A.Ş.
+TTRAK *  otomotiv              döviz fazlası     Türk Traktör ve Ziraat Makineleri A.Ş.
+KARSN    otomotiv    imalat                      Karsan Otomotiv Sanayii ve Ticaret A.Ş.
+TOASO    otomotiv    imalat                      Tofaş Türk Otomobil Fabrikası A.Ş.
+OTKAR    otomotiv    savunma                     Otokar Otomotiv ve Savunma Sanayi A.Ş. 
+TMSN     otomotiv                                Tümosan Motor ve Traktör Sanayi A.Ş.
+ESCAR    otomotiv                                Escar Turizm Taşımacılık Ticaret A.Ş.
+PLTUR    otomotiv                                Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hiz. San. ve T.A.Ş.
+ASUZU    otomotiv                                Anadolu Isuzu Otomotiv Sanayi ve Ticaret A.Ş.
+
+Otomotiv yan sanayi otomotiv sektörüne direkt olarak parça imal eden sektördür. 
+Her türlü otomobil parçası, ekipmanı, lastikler, jantlar bu sektör tarafından üretilir.
+Türkiye'nin ihracat oranı yüksek sektörlerinden biridir....
+BALAT    otomotiv yan sanayi                         Balatacılar Balatacılık Sanayi ve Ticaret A.Ş.
+DITAS    otomotiv yan sanayi                         Ditaş Doğan Yedek Parça İmalat ve Teknik A.Ş. 
+EGEEN    otomotiv yan sanayi    ihracat yüksek       Ege Endüstri ve Ticaret A.Ş. 
+GOODY    otomotiv yan sanayi                         Goodyear Lastikleri T.A.Ş.
+PARSN    otomotiv yan sanayi                         Parsan Makina Parçaları Sanayii A.Ş. 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Ulaştırma sektörü insanların ve üretilmiş malların bir yerden başka bir yere taşınmasını sağlar. 
 Ulaştırma faaliyetleri hava, deniz, kara ve demiryolları üzerinden yürütülür.
 
 THYAO *  ulaştırma    havacılık    ihracatı güçlü    tbtf    endeksi sırtlayan    Türk Hava Yolları A.O.
 CLEBI    ulaştırma    havacılık            Çelebi Hava Servisi A.Ş.
-GSDDE    ulaştırma                         Gsd Denizcilik Gayrimenkul İnşaat Sanayi ve Ticaret A.Ş.
-LIDER    ulaştırma                         LDR Turizm A.Ş. 
+GSDDE    ulaştırma                                            Gsd Denizcilik Gayrimenkul İnşaat Sanayi ve Ticaret A.Ş.
+LIDER    ulaştırma    servis taşımacılığı ve araç kiralama    LDR Turizm A.Ş.
 PGSUS    ulaştırma    havacılık            Pegasus Hava Taşımacılığı A.Ş.
 RYSAS    ulaştırma    lojistik             Reysaş Taşımacılık ve Lojistik Ticaret A.Ş.
 TAVHL    ulaştırma    havacılık            Tav Havalimanları Holding A.Ş.
 TLMAN    ulaştırma    ihracat yüksek       Trabzon Liman İşletmeciliği A.Ş.
-PLTUR    ulaştırma                         Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hizmetleri Sanayi ve Ticaret A.Ş.
+PLTUR    ulaştırma    servis taşımacılığı ve araç kiralama    Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hizmetleri Sanayi ve T.A.Ş.
 PASEU    ulaştırma                         Pasifik Eurasia Lojistik Dış Ticaret A.Ş.
+
+Servis taşımacılığı sektörü, çalışan personelin ve eğitim görmekte olan öğrencilerin ulaşım ihtiyacını, ticari minibüs ve otobüsler aracılığıyla karşılama hizmeti veren firmaları bünyesinde barındırır. 
+Araç kiralama sektörü ise bireylerin ya da şirketlerin bir veya birden fazla araç ihtiyacını belirli bir süre diliminde karşılayan firmalardan oluşur.
+GRSEL    servis taşımacılığı ve araç kiralama    GÜR-SEL Turizm Taşımacılık ve Servis Ticaret A.Ş.
+TUREX    servis taşımacılığı ve araç kiralama    Tureks Turizm Taşımacılık A.Ş.
+ESCAR    servis taşımacılığı ve araç kiralama    Escar Turizm Taşımacılık Ticaret A.Ş.
+BEYAZ    servis taşımacılığı ve araç kiralama    Beyaz Filo Oto Kiralama A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Turizm sektörü dinlenme, eğlenme, gezme, tanıma amacıyla yapılan gezi ve ziyaretler dolayısıyla oluşan talebi karşılayan ve turistlere hizmet amacıyla yürütülen ekonomik çalışmaları üstlenen sektördür. 
@@ -973,8 +972,10 @@ PKENT    turizm    Petrokent Turizm A.Ş.
 ZEDUR    turizm    Zedur Enerji Elektrik Üretim A.Ş.
 TUREX    turizm    Tureks Turizm Taşımacılık A.Ş. 
 TEKTU    turizm    Tek-Art İnşaat Ticaret Turizm Sanayi ve Yatırımlar A.Ş.
-ULAS     turizm    Ulaşlar Turizm Yatırımları ve Dayanıklı Tüketim Malları Ticaret Pazarlama A.Ş.
+ULAS     turizm                                   Ulaşlar Turizm Yatırımları ve Dayanıklı Tüketim Malları Ticaret Pazarlama A.Ş.
 MEPET    turizm    toptan ve perakende ticaret    Mepet Metro Petrol ve Tesisleri Sanayi Ticaret A.Ş.
+
+
 
 
 
