@@ -153,7 +153,8 @@ büyüme şirketleri para kazandırır. temel analiz neyi alacağını söyler, 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 https://fintables.com/sektorler
-
+Holdingler başka ortaklıkların paylarının bir kısmını ya da tamamını elinde bulunduran ve diğer ortaklıkların yönetimini yapan şirketler topluluğudur. 
+Holdingler çatıları altında çok farklı sektörlerde faaliyetler gösterebilirler.
 COSMO    holding    Cosmos Yatırım Holding A.Ş.
 EUHOL    holding    Euro Yatırım Holding A.Ş. 
 IEYHO    holding    Işıklar Enerji ve Yapı Holding A.Ş. 
@@ -623,6 +624,8 @@ TRCAS    kimya ve plastik    Turcas Petrol A.Ş.
 TMPOL    kimya ve plastik    Temapol Polimer Plastik ve İnşaat Sanayi Ticaret A.Ş.
 UZERB    kimya ve plastik    Uzertaş Boya Sanayi Ticaret ve Yatırım A.Ş.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Perakende sektörü üreticiyle tüketici arasındaki köprü görevini üstlenen ve malların nihai tüketiciye ulaşmasını sağlayan sektördür. 
+Market zincirleri, otomobil distribütörleri, teknoloji marketleri bu sektörün en bilinen oyuncularıdır.
 MGROS *  toptan ve perakende ticaret    gıda perakandeciliği    tbtf             Migros Ticaret A.Ş. 
 BIMAS *  toptan ve perakende ticaret    gıda perakandeciliği    tbtf             Bim Birleşik Mağazalar A.Ş.
 DOAS     toptan ve perakende ticaret    otomotiv                döviz fazlası    Doğuş Otomotiv Servis ve Ticaret A.Ş.
@@ -659,6 +662,7 @@ PNSUT    gıda-içecek                        Pınar Süt Mamülleri Sanayi A.Ş
     VKING    kağıt ve kağıt ürünleri           Viking Kağıt ve Selülöz A.Ş. 
     AYCES    turizm                            Altın Yunus Çeşme Turistik Tesisler A.Ş.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Gıda ve içecek sektörü, her türlü sebze, meyve üretimi ve işlenmesi, et ürünlerinin imalatı ve işlenmesi, süt ürünlerinin imalatı ve işlenmesi, alkollü ve alkolsüz içeceklerin imalatı, şişelenmesi ve dağıtımı faaliyetlerini yürütmektedir.
 AEFES    gıda-içecek    yabancı alımlı    Anadolu Efes Biracılık ve Malt Sanayii A.Ş.
 CCOLA    gıda-içecek    yabancı alımlı    Coca-Cola İçecek A.Ş.
 ULKER    gıda-içecek    yabancı alımlı    Ülker Bisküvi Sanayi A.Ş.
@@ -700,6 +704,8 @@ VANGD    gıda-içecek    Vanet Gıda Sanayi İç ve Dış Ticaret A.Ş.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Savunma sanayi sektörü askeri teknolojinin üretimini ve satışını gerçekleştirmektedir. 
+Silahlı ürünlerin, askeri haberleşme sistemlerinin, askeri teçhizatların araştırma ve geliştirme faaliyetlerini yürütmektedir.
 PAPIL    savunma              Papilon Savunma-Güvenlik Sistemleri Bilişim Mühendislik Hizmetleri İthalat İhracat Sanayi ve Ticaret A.Ş.
 SDTTR    savunma              SDT Uzay ve Savunma Teknolojileri A.Ş. 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -713,6 +719,8 @@ NETAS    haberleşme            Netaş Telekomünikasyon A.Ş.
 IHAAS    haberleşme            İhlas Haber Ajansı A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+İmalat bir yarı mamulün ya da bir hammaddenin işlenerek bir sanayi ürününe ya da ara mala dönüştürülmesi faaliyetidir. 
+Bu süreçte makineler ve insan gücü ayrı ayrı ya da birlikte kullanılabilir. İmalat sektörü ağır ve hafif sanayi olarak ikiye ayrılır.
 ASELS *  savunma   imalat         yüksek sipariş         Aselsan Elektronik Sanayi ve Ticaret A.Ş.
 ARCLK *  imalat    dayanıklı tüketim ürünleri    tbtf    Arçelik A.Ş.
 ALCAR    imalat    dayanıklı tüketim ürünleri            Alarko Carrier Sanayi ve Ticaret A.Ş.
@@ -787,6 +795,9 @@ ULUSE    imalat    Ulusoy Elektrik İmalat Taahhüt ve Ticaret A.Ş.
 YKSLN    imalat    Yükselen Çelik A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Otomotiv sektörü motorlu taşıtların tasarımını, üretimini ve pazarlamasını yapar.
+Sıfır ve ikinci el satışlar, kısa ve uzun dönem kiralamalar, satış sonrası hizmetler, bakım hizmetleri sektör tarafından yapılır.
+
 FROTO *  otomotiv    imalat    ihracatı güçlü    Ford Otomotiv Sanayi A.Ş.
 TTRAK *  otomotiv              döviz fazlası     Türk Traktör ve Ziraat Makineleri A.Ş.
 KARSN    otomotiv    imalat                      Karsan Otomotiv Sanayii ve Ticaret A.Ş.
@@ -797,12 +808,17 @@ ESCAR    otomotiv                                Escar Turizm Taşımacılık Ti
 PLTUR    otomotiv                                Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hiz. San. ve T.A.Ş.
 ASUZU    otomotiv                                Anadolu Isuzu Otomotiv Sanayi ve Ticaret A.Ş.
 
+Otomotiv yan sanayi otomotiv sektörüne direkt olarak parça imal eden sektördür. 
+Her türlü otomobil parçası, ekipmanı, lastikler, jantlar bu sektör tarafından üretilir.
+Türkiye'nin ihracat oranı yüksek sektörlerinden biridir....
 BALAT    otomotiv yan sanayi                         Balatacılar Balatacılık Sanayi ve Ticaret A.Ş.
 DITAS    otomotiv yan sanayi                         Ditaş Doğan Yedek Parça İmalat ve Teknik A.Ş. 
 EGEEN    otomotiv yan sanayi    ihracat yüksek       Ege Endüstri ve Ticaret A.Ş. 
 GOODY    otomotiv yan sanayi                         Goodyear Lastikleri T.A.Ş.
 PARSN    otomotiv yan sanayi                         Parsan Makina Parçaları Sanayii A.Ş. 
 
+Servis taşımacılığı sektörü, çalışan personelin ve eğitim görmekte olan öğrencilerin ulaşım ihtiyacını, ticari minibüs ve otobüsler aracılığıyla karşılama hizmeti veren firmaları bünyesinde barındırır. 
+Araç kiralama sektörü ise bireylerin ya da şirketlerin bir veya birden fazla araç ihtiyacını belirli bir süre diliminde karşılayan firmalardan oluşur.
 LIDER    servis taşımacılığı ve araç kiralama    LDR Turizm A.Ş. 
 PLTUR    servis taşımacılığı ve araç kiralama    Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hizmetleri Sanayi ve T.A.Ş.
 GRSEL    servis taşımacılığı ve araç kiralama    GÜR-SEL Turizm Taşımacılık ve Servis Ticaret A.Ş.
@@ -811,6 +827,7 @@ ESCAR    servis taşımacılığı ve araç kiralama    Escar Turizm Taşımacı
 BEYAZ    servis taşımacılığı ve araç kiralama    Beyaz Filo Oto Kiralama A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mobilya ve Dekorasyon sektörü, dekoratif ürünler ve masa, sehpa, sandalye, koltuk, dolap, karyola gibi mobilyaların tasarımı, planlaması ve üretimi faaliyetlerini yürütmektedir.
 DGNMO    mobilya ve dekorasyon    Doğanlar Mobilya Grubu İmalat Sanayi ve Ticaret A.Ş.
 EUREN    mobilya ve dekorasyon    Europen Endüstri İnşaat Sanayi ve Ticaret A.Ş.
 KLSYN    mobilya ve dekorasyon    Koleksiyon Mobilya Sanayi A.Ş.
@@ -819,6 +836,10 @@ YATAS    mobilya ve dekorasyon    Yataş Yatak ve Yorgan Sanayi ve Ticaret A.Ş.
 YONGA    mobilya ve dekorasyon    Yonga Mobilya Sanayi ve Ticaret A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Tekstil sektörü elyaftan ipliğe ve kumaşa sonrasında da kumaştan hazır giyim ürünlerine uzanan üretim faaliyetlerini yürütür. 
+Elde edilen giyim ürünlerinin satışı, pazarlanması da sektör tarafından yapılır. 
+Deri sektörü de derinin fiziksel ve kimyasal işlemler sonrasında eşyaya dönüştürülmesini gerçekleştirir.
+Türkiye'nin ihracat oranı yüksek sektörlerinden biridir....
 MAVI *   tekstil, giyim, deri    Mavi Giyim Sanayi ve Ticaret A.Ş.
 DAGHL    tekstil, giyim, deri    holding    Dagi Yatırım Holding A.Ş.
 BLCYT    tekstil, giyim, deri    holding    Bilici Yatırım Sanayi ve Ticaret A.Ş.
@@ -852,7 +873,9 @@ BRMEN    tekstil, giyim, deri    Birlik Mensucat Ticaret ve Sanayi İşletmesi A
 DIRIT    tekstil, giyim, deri    Diriteks Diriliş Tekstil Sanayi ve Ticaret A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-ilaç sektöründe ar-ge gideri var. bu yüzden kolayca kar göstermez. fiyatı hemen yükselmez.
+İlaç sektörü, tedavi etme, iyileştirme, aşılama, semptom azaltma ya da takviye sağlama amacıyla hastalara verilen ilaçları geliştiren, üreten ve pazarlayan sektördür. 
+Sağlık sektörü ise hastaneler, poliklinikler, tıp merkezleri, özel klinikler gibi hastalara hizmet sağlayan kurumlardan oluşur.
+İlaç sektöründe ar-ge gideri var. bu yüzden kolayca kar göstermez. fiyatı hemen yükselmez.
 DEVA *   ilaç ve sağlık    Deva Holding A.Ş.
 ECILC    ilaç ve sağlık    holding    Eis Eczacıbaşı İlaç, Sınai ve Finansal Yatırımlar Sanayi ve Ticaret A.Ş.
 GENIL    ilaç ve sağlık    Gen İlaç ve Sağlık Ürünleri Sanayi ve Ticaret A.Ş. 
@@ -921,6 +944,9 @@ PEGYO    gayrimenkul    Pera Gayrimenkul Yatırım Ortaklığı A.Ş.
 ATAGY    gayrimenkul    Ata Gayrimenkul Yatırım Ortaklığı A.Ş. 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Ulaştırma sektörü insanların ve üretilmiş malların bir yerden başka bir yere taşınmasını sağlar. 
+Ulaştırma faaliyetleri hava, deniz, kara ve demiryolları üzerinden yürütülür.
+
 THYAO *  ulaştırma    havacılık    ihracatı güçlü    tbtf    endeksi sırtlayan    Türk Hava Yolları A.O.
 CLEBI    ulaştırma    havacılık            Çelebi Hava Servisi A.Ş.
 GSDDE    ulaştırma                         Gsd Denizcilik Gayrimenkul İnşaat Sanayi ve Ticaret A.Ş.
@@ -933,6 +959,8 @@ PLTUR    ulaştırma                         Platform Turizm Taşımacılık Gı
 PASEU    ulaştırma                         Pasifik Eurasia Lojistik Dış Ticaret A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Turizm sektörü dinlenme, eğlenme, gezme, tanıma amacıyla yapılan gezi ve ziyaretler dolayısıyla oluşan talebi karşılayan ve turistlere hizmet amacıyla yürütülen ekonomik çalışmaları üstlenen sektördür. 
+Ana amacı uluslararası turistleri ülkeye çekmektir.
 GRSEL    turizm    GÜR-SEL Turizm Taşımacılık ve Servis Ticaret A.Ş. 
 AYCES    turizm    yaşar holding    Altın Yunus Çeşme Turistik Tesisler A.Ş.
 MAALT    turizm    koç holding       Marmaris Altınyunus Turistik Tesisler A.Ş.
