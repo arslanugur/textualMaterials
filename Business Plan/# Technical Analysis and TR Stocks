@@ -23,6 +23,45 @@ Borsada yatırım yapıyorsan bu üçü her zman olsun
 - ek bir nakit
 - never lose money
 
+# Güvenlik Marjları
+    1. İçsel Değer (bir şirket için makul bulunan fiyat)
+        - İndirgenmiş Nakit Akış Yöntemi
+                                            t    t+1    t+2    t+3
+                nakit akışı               100    100    100    100
+                iskonto oranı               1    1,1    1,21   1,33
+                indirgenmiş nakit akım    100    90,9   82,6   75,13
+                --------------------------> Net bugünkü değer = 348,7
+
+        - Çarpan analizi
+                100 lira kar eden bir işletme ben bu şirkete 1000 lira verebilirim. bnim için makul eder bu.
+
+    2. örneğin 100 lira içsel değer belirledik
+
+                güvenlik marjı = 1 - (piyasa değeri/içsel değer)            %30 = 1- (70/100)
+
+                şirket 70 liradan ucuz ise şirkete yatırım yapılır.    en az %30 güvenlik marjı gerek, yatırım için
+
+    3. şirket değeri 50 liraysa ama sen 100 lira değer biçmişsen zarar eden konuma düşersin.. burda atanan değer önemli.
+                hata yaptığını düşünürsek güvenlik marjı bir bir seviyede hatayı aza indirir.
+                güvenlik marjıyla elki alacağımız ve kar edeceğimiz hisseleri alamayıp kardan da olabiliriz.
+                sahip olduğumuz bilgi önemli. ne kadar bilgi o kadar kazanç/hata payı. sektöre hakim değilsen güvenlik marjına başvur.
+                anlaşılabilirlik: bazı şirketler basit değildir. bir çok faktör şirketin satışlarına, giderlerine herşeylerine etki edebilir.
+                                  anlasak bile bir çok farklı değişkeni bir araya getirip yorumlamak zor
+                                  bir iş ne kadar basitse, o kadar düşük bir güvenlik marjı kullanılmalı.
+                                                  karmaşıksa..     yüksek bir güvenlik marjı
+                belirsizlik: bazı şirketler satışlar ve karlar istikrarlı krizde bile.
+                             bazı şirketler ise hassastır: ekonomi küçülürken satışlar vs etkileyebilir.
+                             bir şirkette belirsizlik daha düşükse, daha düşük bir güvenlik marjı uygulanmalı.
+                             market işi ölmez çünkü ihtiyaç, ama ulaştırma öncelikli bir sektör değil. zaman gelir iş yapamaz..
+                kurumsallık: şirketin iş yapış şekli, işbirlikleri..
+                             kontrol nasıl yapılıyor bilmiyoruz. bu yüzden kurumsal bir yapıda olmalı
+                             kurumsallık etkisi güvenlik marjına yansıtılabilir. dolaylı etkisi vardır. bu yüzden satışa ya da kara pek bir etkisi yok gibi.
+                             %20 daha güvenlik marjı eklenebilir..
+                mevcut pozisyon seviyemiz: daha önceden pozisyonumuz yoksa ve portföye eklediğimizde olumlu bir katkısı oluyorsa güvenlik marjı düşük tutulur.
+                                           ama hali hazırda yüklü bir pozisyon varsa örn %5, sırf fiyatı çok cazip diye ilave yapmayı düşünüyorsan o zman çok yüksek bir güvenlik marjı kullanmak makul
+                                        çünkü bir şirkete ne kadar yüklenirsek riskimiz o kadar artar..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Hisse senedi portföyü yaratmak
         geleceğin belirsizliğini önler.
         iyi yatırım tezlerinin basit olması - bir şirkete neden yatıırım yaptığını basitçe açıklayabilmelisin. şirkete güvenmek
