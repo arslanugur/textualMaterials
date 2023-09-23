@@ -1,27 +1,60 @@
+# PARTS OF SPEECH								​ prepared by Uğur ARSLAN, @arslanuguur
+
+
+                                        turkish             function / job                              examples
+                    -------------------------------------------------------------------------------------------------------------------------------------------------
+                    noun                isim                person or thing called                      Jack, London, England, computer, cat
+                    pronoun             zamir               replaces a noun
+                           🔴 Subject Pronouns: I, You, He, She, It, We, You, They
+                           🔵 Object Pronouns:  me, you, him, her, it, us, you, them
+
+                    verb                fiil                action / state                              go, come, arrive, study, think, drink, fall, buy, sell
+                    adverb              zarf                describes a verb, adjective, adverb         silently, badly, really, quickly, well
+                    adjective           sıfat               describes a noun                            big, silent, bad, good
+                    preposition         edat                links a noun to another word                in, at, on
+                    conjunction         bağlaç              joins clauses or sentences                  but, because, and, while, when
+                    interjection        ünlem               short exclamation                           Oh!, Hi!, Ouch!, Wow!, OMG, OMGodness! , My Gosh!, Huh!, Ale!
+                    determiner          niteleyici          indicate reference
 
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+	🔻 Types of Determiners
+		Determiners are used "IN FRONT OF NOUNS" to indicate whether you are referring to something specific or something of a particular type
+	
+		determiners		turkish                   examples                                                noun: CAT
+		------------------------------------------------------------------------------------------------------------------------------------------
+		adjectives		sıfatlar                  smart, good, cool, bad, lucky, heavy                    lucky cat	
+		possessive adjectives	sahiplik sıfatları        my, your, his, her, its, our, your, their               my cat
+		articles		          belirteçler               a, an, the                                              a cat / the cat
+	A1	demonstrative pronouns	işaret zamirleri          this, that, these, those                                this cat / that cat
+		numerals		          sayılar                   one, two, three, four, five, six, seven, eight          one cat / two cats
+		ordinals		          sıra sayıları             first, last, next, second, third, fourth, fifth         first cat / last cat
+		quantifiers		niceleyiciler             some, any, no, many, much, several                      some cats / several cats
+		distributives		dağıtıcılar               each, every, either, neither                            each cat / every cat		
+		predeterminers		önbelirleyiciler          all, all of, both, what, such, rather, quite            all cats / all of the cats
 
 
-          🔶                                           🔶                                       🔶
-Active Voice (Etken Çatı)                 Passive Voice (Edilgen Çatı)              Causatives (Ettirgen Çatı)
-----------------------------              ----------------------------              ----------------------------
-eylemi yapan özne olur.                   eyleme maruz kalan özne olur.             eylem başkalarına yaptırılır.
 
-12 Tenses                                                                           have, make, get
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+                    🔶                                           🔶                                       🔶
+          Active Voice (Etken Çatı)                 Passive Voice (Edilgen Çatı)              Causatives (Ettirgen Çatı)
+          ----------------------------              ----------------------------              ----------------------------
+          eylemi yapan özne olur.                   eyleme maruz kalan özne olur.             eylem başkalarına yaptırılır.
+
+          12 Tenses                                                                           have, make, get
                                                                                     
-                   ________________________                                         
-                  |                        |                                        
-S <----- V        O                        S           V            p  O            S  V       O          V3
-I        opened   the door                 the door    is opened   (by me)          I  have    the door   opened
-You      painted  the house                the house   is painted  (by you)         I  have    the house  painted
-                                           It          is told     (by her)
-                                           It          is told         her
+                             ________________________                                         
+                            |                        |                                        
+          S <----- V        O                        S           V            p  O            S  V       O          V3
+          I        opened   the door                 the door    is opened   (by me)          I  have    the door   opened
+          You      painted  the house                the house   is painted  (by you)         I  have    the house  painted
+                                                     It          is told     (by her)
+                                                     It          is told         her
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 
