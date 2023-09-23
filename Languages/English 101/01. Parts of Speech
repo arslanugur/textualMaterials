@@ -1,5 +1,31 @@
 
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+          🔶                                           🔶                                       🔶
+Active Voice (Etken Çatı)                 Passive Voice (Edilgen Çatı)              Causatives (Ettirgen Çatı)
+----------------------------              ----------------------------              ----------------------------
+eylemi yapan özne olur.                   eyleme maruz kalan özne olur.             eylem başkalarına yaptırılır.
+
+12 Tenses                                                                           have, make, get
+                                                                                    
+                   ________________________                                         
+                  |                        |                                        
+S <----- V        O                        S           V            p  O            S  V       O          V3
+I        opened   the door                 the door    is opened   (by me)          I  have    the door   opened
+You      painted  the house                the house   is painted  (by you)         I  have    the house  painted
+                                           It          is told     (by her)
+                                           It          is told         her
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+
+
 Optimization -  Bir sistemi belirli kısıtlamalar çerçevesinde mümkün olduğunca en az maliyetle en verimli hale getirmek uygulanması gereken, işlem veya metotların tümüdür.
                 Kısaca, bir problemi en uygun şekilde çözmek veya bir sistemi mümkün olan en iyi duruma getirme işlemidir.
-
