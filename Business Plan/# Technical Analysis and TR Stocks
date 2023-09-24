@@ -265,6 +265,8 @@ UFUK     holding                                                    Ufuk Yatır�
     ULKER    gıda-içecek    yabancı alımlı                          Ülker Bisküvi Sanayi A.Ş.
     KERVT    gıda-içecek                                            Kerevitaş Gıda Sanayi ve Ticaret A.Ş.
     BIZIM    toptan ve perakende ticaret    Gıda Perakandeciliği    Bizim Toptan Satış Mağazaları A.Ş.
+
+        yıldız holding - ULKER
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ALARK *    enerji üretim ve dağıtım    holding    ihracatı güçlü      Alarko Holding A.Ş.
     ALCAR    dayanıklı tüketim ürünleri    imalat                   Alarko Carrier Sanayi ve Ticaret A.Ş.
@@ -634,7 +636,7 @@ SISE     kimya ve plastik                        Türkiye Şişe ve Cam Fabrikal
 KOPOL    kimya ve plastik                        Koza Polyester Sanayi ve Ticaret A.Ş.    polyester ve elyaf üretimi
 BRISA    kimya ve plastik    sabancı             Brisa Bridgestone Sabancı Lastik Sanayi ve Ticaret A.Ş.
 KORDS    kimya ve plastik    sabancı             Kordsa Teknik Tekstil A.Ş.
-SASA     kimya ve plastik    imalat    sanayi    tekstil    Sasa Polyester Sanayi A.Ş.
+SASA     kimya ve plastik    imalat    sanayi    tekstil    Sasa Polyester Sanayi A.Ş.        erdemoğlu holding
 TUPRS    kimya ve plastik                        TÜPRAŞ - Türkiye Petrol Rafinerileri A.Ş. 
 PETKM    kimya ve plastik                        Petkim Petrokimya Holding A.Ş.
 AKSA     kimya ve plastik    tekstil                        Aksa Akrilik Kimya Sanayii A.Ş.
@@ -679,7 +681,7 @@ Perakende sektörü üreticiyle tüketici arasındaki köprü görevini üstlene
 Market zincirleri, otomobil distribütörleri, teknoloji marketleri bu sektörün en bilinen oyuncularıdır.
 MGROS *  toptan ve perakende ticaret    gıda perakandeciliği    tbtf             Migros Ticaret A.Ş. 
 BIMAS *  toptan ve perakende ticaret    gıda perakandeciliği    tbtf             Bim Birleşik Mağazalar A.Ş.
-DOAS     toptan ve perakende ticaret    otomotiv                döviz fazlası    Doğuş Otomotiv Servis ve Ticaret A.Ş.
+DOAS     toptan ve perakende ticaret    otomotiv                döviz fazlası    Doğuş Otomotiv Servis ve Ticaret A.Ş. Doğuş Grubu
 TKNSA    toptan ve perakende ticaret    teknolojik ürün ticareti                 Teknosa İç ve Dış Ticaret A.Ş.
 SOKM     toptan ve perakende ticaret    gıda perakandeciliği                     Şok Marketler Ticaret A.Ş.
     PENTA    toptan ve perakende ticaret                                         Penta Teknoloji Ürünleri Dağıtım Ticaret A.Ş.
