@@ -1,0 +1,414 @@
+Devre Analizi-I : Giriş
+Devre Analizi-I : Akım Nedir, Yük Nedir?
+Devre Analizi-I : Örnek Yük Sorusu 1
+Devre Analizi-I : Örnek Yük Sorusu 2
+Devre Analizi-I : Gerilim (Voltaj) Nedir?
+Devre Analizi-I : Güç Nedir, Enerji Nedir, Pasif İşaret Düzeni Nedir?
+Devre Analizi-I : Vize ve Finalde Çıkabilecek Akım Soruları (4 Çözümlü Soru)
+Devre Analizi-I : Vize ve Finalde Çıkabilecek Yük Soruları (4 Çözümlü Soru)
+Devre Analizi-I : Vize ve Finalde Çıkabilecek Güç ve Enerji Soruları (8 Çözümlü Soru)
+Devre Analizi-I : Doğrusal Modeller (Lineer ve Nonlineer Yapılar)
+Devre Analizi-I : Aktif ve Pasif Devre Elemanları
+Devre Analizi-I : Bağımsız Kaynaklar
+Devre Analizi-I : Kısa Devre ve Açık Devre Elemanları
+Devre Analizi-I : Direnç Elemanı ve Ohm Kanunu
+Devre Analizi-I : Bağımlı Kaynaklar
+Devre Analizi-I : Anahtarlar
+Devre Analizi-I : Devre Elemanları Soru Çözümü (6 soru)
+Devre Analizi-I : Kirchhoff Kanunları
+Devre Analizi-I : Ohm, Kirchhoff Kanunları Birlikte Örnek Soru
+Devre Analizi-I : Seri Dirençler ve Gerilim Bölünmesi
+Devre Analizi-I : Paralel Dirençler ve Akım Bölünmesi
+Devre Analizi-I : Seri ve Paralel Bağlı Kaynaklar
+Devre Analizi-I : Öğrendiğimiz Teknikleri Uygulayabileceğimiz Güzel Bir Soru
+Devre Analizi-I : Öğrenilen Teknikleri Daha Karmaşık Devrelere Uygulama Sorusu 2
+Devre Analizi-I : Devre Analiz Yöntemleri #1
+Devre Analizi-I : Düğüm Gerilimleri Yöntemi (Nodal Analysis) Soru 1
+Devre Analizi-I : Düğüm Gerilimleri Yöntemi (Nodal Analysis) Soru 2
+Devre Analizi-I : Düğüm Gerilimleri Yöntemi (Nodal Analysis) Soru 3
+Devre Analizi-I : Düğüm Gerilimleri Yöntemi (Nodal Analysis) Soru 4 - Süperdüğüm
+Devre Analizi-I : Düğüm Gerilimleri Yöntemi (Nodal Analysis) Soru 5
+Devre Analizi-I : Düğüm Gerilimleri Yöntemi (Nodal Analysis) Soru 6
+Devre Analizi-I : Düğüm Gerilimleri Yöntemi (Nodal Analysis) Soru 7
+Devre Analizi-I : Düğüm Gerilimleri Yöntemi (Nodal Analysis) Soru 8 - Bağımlı Kaynak + Süperdüğüm
+Devre Analizi-I : Devre Analiz Yöntemleri #2
+Devre Analizi-I : Çevre Akımları Yöntemi (Mesh Analysis) Soru 1
+Devre Analizi-I : Çevre Akımları Yöntemi (Mesh Analysis) Soru 2
+Devre Analizi-I : Çevre Akımları Yöntemi (Mesh Analysis) Soru 3
+Devre Analizi-I : Çevre Akımları Yöntemi (Mesh Analysis) Soru 4 - Bağımlı Kaynak+Süperçevre
+Devre Analizi-I : Devre Teoremleri (Giriş)
+Devre Analizi-I : Kaynak Dönüşümü
+Devre Analizi-I : Süperpozisyon
+Devre Analizi-I : Thevenin Teoremi
+Devre Analizi-I : Norton Teoremi
+Devre Analizi-I : Maksimum Güç Aktarımı
+Devre Analizi-I : Devre Teoremleri Soru Çözümü 1 (Bağımlı Kaynaklı Devrede Kaynak Dönüşümü)
+Devre Analizi-I : Devre Teoremleri Soru Çözümü 2 (Bağımlı Kaynaklı Devrede Süperpozisyon)
+Devre Analizi-I : Devre Teoremleri Soru Çözümü 3 (Bağımlı Kaynaklı Devrede Thevenin Teoremi)
+Devre Analizi-I : Devre Teoremleri Soru Çözümü 4 (Bağımlı Kaynaklı Devrede Norton Teoremi) ve ÖDEV
+Devre Analizi-I : İşlemsel Yükselteç | OPAMP Giriş
+Devre Analizi-I : İşlemsel Yükselteç | OPAMP Elemanı
+Devre Analizi-I : OPAMP Eşdeğer Devresi
+Devre Analizi-I : uA741 OPAMP 'ın Gerçek Analizi ve Datasheet Okuması
+Devre Analizi-I : İdeal OPAMP
+Devre Analizi-I : Eviren Yükselteç (İnverting Amplifier) ve 2 Çözümlü Soru
+Devre Analizi-I : Evirmeyen Yükselteç (Noninverting Amplifier) ve 2 Çözümlü Soru
+Devre Analizi-I : Gerilim İzleyici (Voltage Follower) ve Çözümlü Soru
+Devre Analizi-I : Toplayıcı Yükselteç (Summing Amplifier) ve Çözümlü Soru
+Devre Analizi-I : Fark Alıcı, Çıkarıcı Yükselteç (Difference Amplifier) ve Çözümlü Soru
+A 'dan Z 'ye KONDANSATÖR (Kapasitörler)
+A 'dan Z 'ye BOBİN
+Anahtarlamalı Devrelerin Başlangıç Koşulları
+Devre Analizinde Kullanılan Diferansiyel Denklemler
+RC ve RL Devreleri | Birinci Mertebeden Devreler
+RC Devresinin Doğal Tepkisi (Kaynaksız RC Devresi)
+RL Devresinin Doğal Tepkisi (Kaynaksız RL Devresi)
+RC ve RL Devrelerinde Zaman Sabiti, Güç, Enerji Soruları
+RC Devresinin Basamak Tepkisi (DC Kaynaklı RC)
+RL Devresinin Basamak Tepkisi (DC Kaynaklı RL)
+RL Devresi (Birim Basamak u(t) Kaynaklı)
+RC Devresi (Birim Basamak u(t) Kaynaklı)
+RL Devresi (Rampa Fonksiyonu (2t) Kaynaklı)
+RC Devresi (Polinom (2t+1) Kaynaklı)
+RL Devresi (Üstel Fonksiyon Kaynaklı)
+RC Devresi (Üstel Fonksiyon Kaynaklı ve Özel Durumlu)
+RL Devresi (Sinüs Kaynaklı)
+RC Devresi (Kosinüs Kaynaklı)
+LC Devresi (DC Kaynaklı)
+Paralel RLC Devresi (Sinüs Kaynaklı)
+Seri RLC Devresi (Kosinüs Kaynaklı)
+Genel RLC Devresi (Logaritmik Üstel Kaynaklı ve Özel Durumlu)
+Genel RLC Devresi Soru Çözümü
+Genel RLC Devresi Soru Çözümü
+Genel RLC Devresi Soru Çözümü (Bağımlı Kaynak Dahil)
+
+
+
+
+
+
+
+
+
+DEVRE ANALİZİ DERS 1:DC Devre Analizine Giriş (Doğru Akım Devre Analizi)
+DEVRE ANALİZİ DERS 2:DC Devre Analizi Temel Kavramlar
+Elektrik Elektronik Mühendisliğine Giriş Ders 1: Elektrik Devresi ve Elemanları (Electric Circuit)
+Elektrik Elektronik Mühendisliğine Giriş Ders 2;Elektrik Devre Elemanları (circuit components)
+Elektrik Elektronik Mühendisliğine Giriş Ders 3: Açık Devre, Kapalı Devre, Kısa Devre
+Elektrik Elektronik Mühendisliğine Giriş Ders 4: Akım (Current)
+Elektrik Elektronik Mühendisliğine Giriş Ders 5: Gerilim (Voltage)
+Elektrik Elektronik Mühendisliğine Giriş Ders 6: Direnç (Rezistance)
+Elektrik Elektronik Mühendisliğine Giriş Ders 7: Güç ve Enerji (Power and Energy)
+DEVRE ANALİZİ DERS 3:OHM Kanunu (Akım, Gerilim, Direnç İlişkisi)
+Elektrik Elektronik Mühendisliğine Giriş Ders 8: OHM Kanunu (Ohm's Law)
+DEVRE ANALİZİ DERS 4:OHM Kanunu Seri Direnç Devreleri
+Elektrik Elektronik Mühendisliğine Giriş Ders 9:Seri Direnç Devrelerinde Akım Gerilim Direnç Hesabı
+DEVRE ANALİZİ DERS 5:OHM Kanunu Paralel Direnç Devreleri
+Elektrik Elektronik Mühendisliğine Giriş Ders 10:Paralel Direnç Devrelerinde Akım Gerilim Direnç Hsp
+DEVRE ANALİZİ DERS 6:OHM Kanunu Örnek Soru 1
+DEVRE ANALİZİ DERS 7:OHM Kanunu Örnek Soru 2
+DEVRE ANALİZİ DERS 8:OHM Kanunu Örnek Soru 3
+DEVRE ANALİZİ DERS 9:OHM Kanunu Örnek Soru 4
+DEVRE ANALİZİ DERS 10:OHM Kanunu Örnek Soru 5
+Elektrik Elektronik Mühendisliğine Giriş Ders 11: Seri Paralel Direnç Devresi Örnek Soru
+Elektrik Elektronik Mühendisliğine Giriş Ders 12: Seri Paralel Direnç Devresi Örnek Soru 2
+Elektrik Elektronik Mühendisliğine Giriş Ders 13: Seri Paralel Direnç Devresi Örnek Soru 3
+DEVRE ANALİZİ DERS 11:Devre Analizinde Düğüm, Dal ve Çevre Kavramları
+DEVRE ANALİZİ DERS 12:Kirchoff (Kirşof) Kanunlarına Giriş
+DEVRE ANALİZİ DERS 13:Kirchhoff (Kirşof) Akım Yasası
+Elektrik Elektronik Mühendisliğine Giriş Ders 15: Kirchoff (Kirşof) Akım Yasası (Kirchoff's Current)
+DEVRE ANALİZİ DERS 14 :Kirchhoff (Kirşof) Akım Yasası Örnek Soru
+DEVRE ANALİZİ DERS 15:Kirchhoff (Kirşof) Gerilim Yasası
+Elektrik Elektronik Mühendisliğine Giriş Ders 14:Kirchoff (Kirşof)Gerilim Yasası(Kirchoff's Voltage)
+DEVRE ANALİZİ DERS 16:Kirchhoff (Kirşof) Gerilim Yasası Örnek Soru
+DEVRE ANALİZİ DERS 17:Gerilim Bölücü Devreler
+Elektrik Elektronik Mühendisliğine Giriş Ders 16: Gerilim Bölme Prensibi (Voltage Divider Circuit)
+DEVRE ANALİZİ DERS 18:Akım Bölücü Devreler
+Elektrik Elektronik Mühendisliğine Giriş Ders 17: Akım Bölme Prensibi (Current Divider Circuit)
+DEVRE ANALİZİ DERS 19:Çevre Akımları Yöntemi (Mesh Akım Analizi)
+Elektrik Elektronik Mühendisliğine Giriş Ders 19:Çevre Akımları Yöntemi (Mesh Current Method)
+Elektrik Elektronik Mühendisliğine Giriş Ders 20:Çevre Akımları Yöntemi Örnek 1-Mesh Current Method
+Elektrik Elektronik Mühendisliğine Giriş Ders 21:Çevre Akımları Yöntemi Örnek Soru 2 (Mesh Current )
+Elektrik Elektronik Mühendisliğine Giriş Ders 22: Çevre Akımları Yöntemi Örnek 3 (Mesh Current )
+DEVRE ANALİZİ DERS 20:Bağımlı Kaynaklarla Çevre Akımları Yöntemi
+DEVRE ANALİZİ DERS 21:Çevre Akımları Yönteminde Süperçevre
+DEVRE ANALİZİ DERS 22:Çevre Akımları Yöntemi Örnek Soru-1
+DEVRE ANALİZİ DERS 23:Düğüm Gerilimleri Yöntemi (Nodal Analiz)
+DEVRE ANALİZİ DERS 24:Bağımlı Kaynaklarla Düğüm Gerilimleri Yöntemi
+Elektrik Elektronik Mühendisliğine Giriş Ders 23; Düğüm Gerilimleri Yöntemi Node Voltage Methode
+Elektrik Elektronik Mühendisliğine Giriş Ders 24:Düğüm Gerilimleri Yöntemi Örnek Soru 1
+Elektrik Elektronik Mühendisliğine Giriş Ders 25: Düğüm Gerilimleri Yöntemi Örnek Soru 2
+Elektrik Elektronik Mühendisliğine Giriş Ders 26:Düğüm Gerilimleri Yöntemi Örnek Soru 3-Node Voltage
+DEVRE ANALİZİ DERS 25: Düğüm Gerilimleri Yönteminde Süper Düğüm
+DEVRE ANALİZİ DERS 26:Düğüm Gerilimleri Yöntemi Örnek Soru-1
+DEVRE ANALİZİ DERS 27:Bağımlı ve Bağımsız Akım Kaynakları
+DEVRE ANALİZİ DERS 28:Bağımlı ve Bağımsız Gerilim Kaynakları
+Elektrik Elektronik Mühendisliğine Giriş Ders 18:Bağımlı Bağımsız Akım ve Gerilim Kaynakları(Source)
+Thevenin Teoremi ( Thevenin Theorem, Thevenin Teoremi Soru Çözümü )
+Elektrik Elektronik Mühendisliğine Giriş Ders 28: Bağımlı Kaynaklarla Thevenin Teoremi (Thevenin)
+Elektrik Elektronik Mühendisliğine Giriş Ders 29: Thevenin Teoremi Örnek 1 (Thevenin Example)
+Elektrik Elektronik Mühendisliğine Giriş Ders 30: Thevenin Teoremi Örnek 2(Thevenin Theorem Example)
+Elektrik Elektronik Mühendisliğine Giriş Ders 31:Thevenin Teoremi Örnek 3(Bağımlı Kaynaklı Thevenin)
+DEVRE ANALİZİ DERS 30:Thevenin Teoremi Örnek Soru-1
+DEVRE ANALİZİ DERS 32:Thevenin Teoremi Örnek Soru-3
+DEVRE ANALİZİ DERS 33:Norton Teoremi
+Elektrik Elektronik Mühendisliğine Giriş Ders 32: Norton Teoremi (Norton Theorem)
+Elektrik Elektronik Mühendisliğine Giriş Ders 33: Bağımlı Kaynaklı Norton Teoremi
+Elektrik Elektronik Mühendisliğine Giriş Ders 35: Norton Teoremi Örnek 2 (Norton Theorem Example)
+DEVRE ANALİZİ DERS 34:Norton Teoremi Örnek Soru-1
+DEVRE ANALİZİ DERS 35:Norton Teoremi Örnek Soru-2
+DEVRE ANALİZİ DERS 36:Norton Teoremi Örnek Soru-3
+DEVRE ANALİZİ DERS 37:Süperpozisyon Teoremi
+DEVRE ANALİZİ DERS 38:Süperpozisyon Teoremi Örnek Soru-1
+DEVRE ANALİZİ DERS 39:Süperpozisyon Teoremi Örnek Soru-2
+DEVRE ANALİZİ DERS 40:Süperpozisyon Teoremi Örnek Soru-3
+DEVRE ANALİZİ DERS 41: Maksimum Güç Transferi
+DEVRE ANALİZİ DERS 42: Yıldız-Üçgen Dönüşümleri
+DEVRE ANALİZİ DERS 43:Wheatstone (Veston) Köprüsü
+DEVRE ANALİZİ DERS 44:Gerilim Kaynağından Akım Kaynağına Dönüşüm
+DEVRE ANALİZİ DERS 45:Akım Kaynağından Gerilim Kaynağına Dönüşüm
+DEVRE ANALİZİ DERS 46:Opamplara Giriş (İşlemsel Yükselteçler)
+DEVRE ANALİZİ DERS 47:İdeal Opamplar
+DEVRE ANALİZİ DERS 48:Gerilim İzleyici Yükselteç Devresi
+DEVRE ANALİZİ DERS 49:Eviren Yükselteç Devresi (Inverting Amplifier)
+DEVRE ANALİZİ DERS 50:Evirmeyen Yükselteç Devresi(Non-Inverting Amplifier)
+DEVRE ANALİZİ DERS 51:Toplayıcı Yükselteç (Op amp) Devresi (Summing Amplifier)
+DEVRE ANALİZİ DERS 52:Fark Alıcı Yükselteç (Op amp) Devresi (Differential Amplifier)
+DEVRE ANALİZİ DERS 53:Karşılaştırıcı Yükselteç Devresi (Comparator Op amp)
+DEVRE ANALİZİ DERS 54:Türev Alıcı ve İntegral Alıcı Op amp Devreleri
+DEVRE ANALİZİ DERS 55:Opamp Örnekleri |PART-1|
+DERS 56:Opamp Örnekleri |PART-2|
+DEVRE ANALİZİ DERS 58:Opamp Örnekleri |PART-4|
+DEVRE ANALİZİ DERS 57:Opamp Örnekleri |PART-3|
+DEVRE ANALİZİ DERS 59:Opamp Örnekleri |PART-5|
+DEVRE ANALİZİ DERS 60:Kapasitör ve İndüktörlere Giriş
+DEVRE ANALİZİ DERS 61:İndüktörler (Bobinler)
+DEVRE ANALİZİ DERS 62:Faraday'ın İndüksiyon Kanunu
+DEVRE ANALİZİ DERS 63:Bobinlerde Akım-Gerilim İlişkisi
+DEVRE ANALİZİ DERS 64:Bobinlerde Anlık Güç ve Depolanan Enerji
+DEVRE ANALİZİ DERS 65: Bobinlerde Seri ve Paralel Bağlantı
+DEVRE ANALİZİ DERS 66: Kapasitörler (Kondansatörler)
+DEVRE ANALİZİ DERS 67: Kondansatör (Kapasitör) Sağlamlık Kontrolü
+DEVRE ANALİZİ DERS 68: Kondansatörlerde Kapasite (Sığa)
+DEVRE ANALİZİ DERS 69: Kapasitör (Kondansatör) Akım Gerilim İlişkisi
+DEVRE ANALİZİ DERS 70: Kapasitörlerde Güç ve Enerji
+DEVRE ANALİZİ DERS 71: Kapasitörlerde (Kondansatör) Seri Bağlantı
+DEVRE ANALİZİ DERS 72: Kapasitörlerde (Kondansatör) Paralel Bağlantı
+DEVRE ANALİZİ DERS 73: Rezistör, Kapasitör, İndüktör Formülleri
+DEVRE ANALİZİ DERS 74: Birinci Dereceden RL ve RC Devre Tepkilerine Giriş
+DEVRE ANALİZİ DERS 75: RL Devresinin Doğal Tepkisi
+DEVRE ANALİZİ DERS 76: RL Devresinin Doğal Tepkisi Örnek Soru 1
+DEVRE ANALİZİ DERS 78: RC Devresinin Doğal Tepkisi
+DEVRE ANALİZİ DERS 79: RC Doğal Tepki Örnek 1
+DEVRE ANALİZİ DERS 80: RC Doğal Tepki Örnek 2
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Vize Sorusu 1 (Circuit Analysis Midterm Exam()
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Vize Sorusu 2 (Circuit Analysis Midterm Exam()
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Vize Sorusu 3 (Circuit Analysis Midterm Exam()
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Vize Sorusu 4 (Circuit Analysis Midterm Exam()
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Vize Sorusu 5 (Circuit Analysis Midterm Exam()
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Vize Sorusu 6 Circuit Analysis Midterm Exam
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Vize Sorusu 7 Circuit Analysis Midterm Exam
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Vize Sorusu 8 Circuit Analysis Midterm Exam
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Vize Sorusu 9 Circuit Analysis Midterm Exam
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Vize Sorusu 10 Circuit Analysis Midterm Exam
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Vize Sorusu 11 Circuit Analysis Midterm Exam
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Final Sorusu 1 (Circuit Analysis Final Exam)
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Final Sorusu 2 (Circuit Analysis Final Exam)
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Final Sorusu 3 (Circuit Analysis Final Exam)
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Final Sorusu 4 (Circuit Analysis Final Exam)
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Final Sorusu 5 (Circuit Analysis Final Exam)
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Final Sorusu 6(Circuit Analysis Final Exam)
+DC Devre Analizi Dersleri: Devre Analizi 1 Çözümlü Final Sorusu 8 (Circuit Analysis Final Exam)
+DEVRE ANALİZİ DERS 77: RL Devresi Doğal Tepki Örnek 2
+Elektrik Devreleri: Elektrik Devresinde Akım ın Yönü ( Akım ın yönü nedir )
+Elektrik Elektronik Mühendisliğine Giriş Ders 36: Norton Teoremi Örnek 3 (Norton Theorem Example)
+Elektrik Elektronik Mühendisliğine Giriş Ders 37: Süperpozisyon Teoremi (Superposition Theorem)
+Elektrik Elektronik Mühendisliğine Giriş Ders 38: Bağımlı Kaynaklı Süperpozisyon Teoremi Örnek 1
+Elektrik Elektronik Mühendisliğine Giriş Ders 39:Süperpozisyon Teoremi Örnek 2,Superposition Theorem
+
+
+
+
+
+
+
+
+
+Elektrik Devreleri ve Sistemleri - Giriş - #0
+Elektrik Devreleri ve Sistemleri - Elektrik Nedir ? -#1
+Elektrik İletkenliği ve Direnç -#2
+Direç Hesaplama ve Elektrik Devrelerinde Direnç Kullanımı - #3
+Gerilim ve Akım Kaynakları - #4
+Enerji ve Güç part-1 - #5
+Enerji ve Güç part2 - #6
+Kirchhoff'un gerilim ve akım yasaları #7
+Devre Analizine giriş - #8
+Nodal (Düğüm) Analiz Yöntemi - #9
+Göz (Mesh) Akımı Analizi - #10
+Supernode ve Supermesh - #11
+Doğrusallık ve Süperpozisyon - #12
+Kaynak Dönüşümü, Thevenin ve Norton Devreleri, Max. Güç - part1 - #13
+Thevenin ve Norton Devreleri ve Maksimum Güç part2 - #14
+Lab#1 - Circuit Simulator
+(OPAMP) İşlemsel Yükselticiler part 1 - #15
+Opamp Uygulamaları (part 2) - #16
+İdeal Olmayan Opamp Modeli (Opamp part3) - #17
+Örnek Soru Çözümleri - part#1
+Örnek Soru Çözümleri - part#2
+Kapasitörler (part 1) - #18
+Lab#2 - Pspice
+Kapasitörlerde Enerji ve V-I ilişkisi (part 2) - #19
+İndüktörler - #20
+RC Devreler - #21
+RL Devreler - #22
+RC ve RL devreleri için Teklik Fonksiyonları #23
+RC Devrelerinin Basamak Tepkisi - #24
+RL Devrelerinin Basamak Tepkisi - #25
+1. Dereceden Opamp Devreleri - #26
+Lab#3 - Geçici Durum Tepkisi
+Örnek Soru Çözüm - #3
+(RC RL Devreler) Örnek Soru Çözüm -#4
+(1. derece Opamp devreleri) Örnek Soru Çözüm- #3
+(RC-RL Pratik Uygulamalar) Örnek Soru Çözüm -#6
+RLC Devreler part1 (başlangıç ve son değer bulma) - #27
+Seri RLC Devrenin Doğal Tepksi (part2) - #28
+Paralel RLC Devrenin Doğal Tepkisi (part3) - #29
+Seri RLC Devrelerin Basamak Tepkisi (part 4) - #30
+Paralel RLC Devrelerin Basamak Tepkisi (part5) - #31
+Genel 2. Derece Devreler (part 6) - #32
+2. Dereceden Opamp Devreleri (part 7) - #33
+Lab#4 - RLC Devre Simülasyonları
+Sinüzoidal Durgun Durum Analizi - #34
+Fazörler - #35
+Fazör Bölgesinde Pasif Devre Elemanları - #36
+Fazörlerle Devre Analizi (KGK-KAK) - #37
+AC Devrelerde Kaynak Dönüşümü, Thevenin ve Norton Devreleri - #38
+AC Devrelerde Düğüm Gerilim ve Göz Akım Yöntemi -#39
+AC Devrelerde Anlık ve Ortalama Güç - #40
+AC Devrelerde Max. Güç, Görünür Güç ve Güç Faktörü - #41
+Karmaşık Güç - #42
+Güç Faktörü İyileştirme (Kompanzasyon) - #43
+Üç Fazlı Devreler (part1) - #44
+Dengeli Yıldız ve Üçgen Bağlantılar (Y-Y ve Y-Delta) (part2) - #45
+Dengeli Üçgen-Üçgen ve Üçgen-Yıldız Bağlantılar - #46
+3 Fazlı Devrelerde Güç - #47
+Ortak İndüktanslı Devreler (1) - #48
+Ortak İndüktanslı Devrelerin Analizi - #49
+Ortak İndüktanslı Devrelerde Enerji (3) - #50
+Doğrusal Transformatörler - #51
+İdeal Transformatörler - #52
+İdeal Transformatörler (2) Soru Çözüm - #53
+Oto-Transformatörler - #54
+3 Fazlı İdeal Transformatörler - #55
+Transformatör Uygulamaları - #56
+Frekans Tepkisi (Cevabı) - #57
+Bode Diyagramları (1) - #58
+Bode Diagramı -2 (Örnekler) - #59
+Bode Diagramı - 3 (2.Örnek) - #60
+Bode Diagramları - 4 (Örnekler) - #61
+Laplace Dönüşümü - 1 (Tanım) - #62
+Laplace Dönüşümü-2 (Özellikler) #63
+Laplace Dönüşümü-3 (Ters Laplace) #64
+Konvolüsyon-1 #65
+Konvolüsyon-2 #66
+History of Gnu, Linux, Free and Open Source Software (Revolution OS)
+Konvolüsyon-3 #67
+Laplace ile devre analizi-1 #68
+Laplace ile devre analizi-2 #69
+
+
+
+# Khan Academy: https://www.youtube.com/watch?v=ZRLXDiiUv8Q&list=PLSQl0a2vh4HCLqA-rhMi_Z_WnBkD3wUka
+Current | Introduction to electrical engineering | Electrical engineering | Khan Academy
+Voltage | Introduction to electrical engineering | Electrical engineering | Khan Academy
+Current direction | Electrical engineering | Khan Academy
+Conventional current
+Ideal circuit elements | Circuit analysis | Electrical engineering | Khan Academy
+Ideal sources | Circuit analysis | Electrical engineering | Khan Academy
+Circuit terminology | Circuit analysis | Electrical engineering | Khan Academy
+Sign convention for passive components | Electrical engineering | Khan Academy
+Series resistors | Circuit analysis | Electrical engineering | Khan Academy
+Parallel resistors (part 1) | Circuit analysis | Electrical engineering | Khan Academy
+Parallel resistors (part 2) | Circuit analysis | Electrical engineering | Khan Academy
+Parallel resistors (part 3) | Circuit analysis | Electrical engineering | Khan Academy
+Simplifying resistor networks | Circuit analysis | Electrical engineering | Khan Academy
+Voltage divider | Circuit analysis | Electrical engineering | Khan Academy
+Analyzing a resistor circuit with two batteries | Electrical engineering | Khan Academy
+Kirchhoff's current law | Circuit analysis | Electrical engineering | Khan Academy
+Kirchhoff's voltage law | Circuit analysis | Electrical engineering | Khan Academy
+Application of the fundamental laws (setup) | Electrical engineering | Khan Academy
+Application of the fundamental laws (solve) | Electrical engineering | Khan Academy
+Node voltage method (steps 1 to 4) | Circuit analysis | Electrical engineering | Khan Academy
+Node voltage method (step 5) | Circuit analysis | Electrical engineering | Khan Academy
+Mesh current steps 1 to 3
+Mesh current method (step 4 solve)
+Capacitor i-v equations
+A capacitor integrates current
+RC natural response intuition (1 of 3)
+RC natural response derivation (2 of 3)
+RC natural response example (3 of 3)
+Sketching exponentials
+Sketching exponentials - examples
+RC step response - intuition
+RC step response 1 of 3 setup
+RC step response 2 of 3 solve
+RC step response 3 of 3 example
+Coulomb's Law | Electrostatics | Electrical engineering | Khan Academy
+Electric potential energy | Electrostatics | Electrical engineering | Khan Academy
+Proof: Field from infinite plate (part 1) | Electrostatics | Electrical engineering | Khan Academy
+Proof: Field from infinite plate (part 2) | Electrostatics | Electrical engineering | Khan Academy
+What is an operational amplifier?
+Non-inverting op-amp circuit
+Feedback
+Inverting op-amp circuit
+Virtual ground
+Inverting and unity-gain op-amp with virtual ground
+Summing op-amp circuit
+LC natural response intuition 1
+LC natural response intuition 2
+LC natural response derivation 1
+LC natural response derivation 2
+LC natural response derivation 3
+LC natural response derivation 4
+LC natural response example
+AC analysis intro 1
+AC analysis intro 2
+Trigonometry review
+Sine and Cosine come from circles
+Sine of time
+Sine and cosine from rotating vector
+Lead Lag
+Complex numbers
+Multiplying by j is rotation
+Eulers formula
+Eulers formula magnitude
+Complex exponentials spin
+Eulers sine wave
+Euler's cosine wave
+Negative frequency
+Impedance
+AC analysis superposition
+Complex rotation
+Impedance vs frequency
+Inductor equations
+Inductor kickback 1 of 2
+Inductor kickback 2 of 2
+Diode
+Diode graphical solution
+Fourier Series introduction
+Definite integrals of sin(mx) and cos(mx)
+Definite integral of sine and cosine product
+Definite integrals of product of sines
+Integral of product of cosines
+Formula for first term in Fourier Series
+Fourier series coefficients for cosine terms
+Fourier coefficients for sine terms
+Finding Fourier coefficients for square wave
+Visualizing Fourier expansion of square wave
+ELI the ICE man
+KVL in the frequency domain
+Impedance of simple networks
+
+
+
+
