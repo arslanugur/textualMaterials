@@ -107,7 +107,15 @@ Hisse senedi portföyü yaratmak
 
 her sektöre %20 yatırılır. tek seferde yüklü alınmaz..
 
+
+aracı kurumların raporlarını okumak
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Artışı beklenen üç sey:
+    özsermaye
+    kar
+    ciro
+    satışlar
+
 firma yükselen bir rota da mı anlamak için
     şirkette büyüme istikrarı var mı.
         satış rakamları artıyor mu her sene... satamayan şirketten uzak dur.    enflasyon %50-60 şirket satışını %10 arttırmış...
@@ -131,13 +139,60 @@ firma yükselen bir rota da mı anlamak için
     cirosu da artıyorsa daha iyi
     %30luk kar marjı da varsa long pozisyonda inanılmaz kar
 
-Artışı beklenen üç sey:
-    özsermaye
-    kar
-    ciro
-    satışlar
 
-aracı kurumların raporlarını okumak
+yüksek sipariş durumunda kontrol edilecekler..
+    sipariş değeri, geçen yılın cirosunu/satışlarını geçiyor mu bakılır. çünkü büyüme için şart. 
+    yıllık cironun %10u gibi bir sipariş alsa anlaşmaları olsa heyecan yaratabilir. ama diğer türlü geçen yılın satışları ile mevcut satışlar kıyaslanır.
+    geçen yılın cirosundan ne kadar yüksek diye bakılır... ama genelde yüksek zaten.. yukarı hareket de devam ediyor..
+
+    diyelim 2022den iyi bir ciro yaptın. fiyatlandırman da ona göre oldu ve 2023de de cironu büyüttün ama 2024de çita artıyor.
+    bunu başarmak çok zor pek çok şirket için...
+    yani %200lük filan artışlar %50lere düşerse mevcut f/k'lar da birden bire anormal olmaya başlayacak. o noktada da bu rally biter. Musical chairs oyunu gibi yerini alırsın.. vaktinde satışını yapamayanalar zarar edecekler.
+    giderek karın büyüme hızı düşmeye başladıkça.. yani 3 aylıkta %400 sonrası 6 aylıkta %200e düştü, belki 9 aylık da %100e düşecek...
+                                                .. peg ratiosundadaki oranlar 1in üzerine çıkmaya başlayacak, ucuz olmaktan çıkar, satışa çıkar..
+
+
+15 altındaki Fiyat/Kazanç iyidir.. F/K yüksek diye alınmaz diye de bir kaide yok, bu noktada büyüyen hisselerde de f/k ölçüümünü daha sağlıklı yapıyor.. 
+Peg rasyosu, F/K oranının büyüme potansiyeliyle dengelenmesini sağlar. 
+Eğer bir şirketin F/K oranı yüksekse, ancak büyüme potansiyeli de yüksekse, peg rasyosu düşük olabilir. 
+Bu durum, hisse senedinin adil değerlemeye sahip olduğunu gösterebilir ve yatırımcılar için cazip bir seçenek olabilir.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Net nakit pozisyonu yüksek olan şirketler: koç vs... sektöründe liderler ve sektörü domino edebiliyorlar. rekabet avantajları var 
+    rekabet avantajın olmadı işte, kar marjından feragat edersin ve işletme sermayesini bozarsın 
+    bozunca da borçlanma ihtiyacın artar.. ne için rekabet etmek için borç alırsın ... saçmalık... rekabet üstünlüğün olsaydı bütün bunlara gerek kalmazdı zaten... başlarken iyi oynamak lazım..
+
+
+    faiz artışına karşı güçlü durabilecek şirketler hangileri...
+    - borçsuz şirketler en az etkilenir... toplam borç / toplam varlık oranı = daha düşük olan şirketler... %50lerin altında olan şirketler iyi..
+    - özsermaye ağırlığı daha yüksek olanlar... burdan biraz daha karlı çıkar
+
+    net borç / favök ratio = 4'ün üstünde olanlar şirketlerde problem olabilir... yüksek gider yazabilir, yazmasa bile yeterli favök üretemedikleri için riskli olur.
+    cari oranı 1'in altında (bir yıl içindeki yükümlü varlıkları) --> işletme sermayesi açığı bu... 
+        bu açığı kapatmak için yeniden borçlanmak zorunda olurlar... kısa vadeli borçlanırlar. yani borç devir hızı sürekli yüksek olan şirketler faiz artışından en çok etkilenir
+
+    şirket zamanında %10 borç almıştır bu uzun vadeli borçlanmadır. faiz artışı onu etkilmez çünkü zamanında o oranla borçlanmıştır..
+
+    uzun vadeli borçları, kısa vedeli borçlarından daha yüksek olan şirketler iyidir..    bilanço okuyacaksın...
+    kısa vadeli borçları, uzun vedeli borçlarından daha yüksek olan şirketler ........
+
+    şirketin borcu olması önemli değil, borcu iyi yönetebilen şirket olmalı...
+    nakit akışlarında sürekli bir borçlanma durumu varsa o zman borç seni yönetiyordur..
+
+    işletme sermayesinin ciroya oranı sürekli sabit olan şirket olması ve  düşük olan şirket olması önemli
+
+    FROTO        toplam borç / toplam varlık oranı = %70 hatta %80e çıktı    borcu çok gibi, yani kaldracı çok fazla kullanan bir şirket...
+             ama net borç / favök oranı = 1'in altında        eğer %4 üzeri olsaydıı sıkıntı...
+                 borçları genelde uzzun vadeli...
+                 işletme sermayaenin toplama cirodaki oranı da çok çok ufak = %10 bile altında
+                 stokların toplam ciroda oranı = %7 filan 
+                 işletme sermayesini çok iyi yönettiği için yüksek borçlanmadan da çok etkilenmiyor..
+
+
+    
+
+
+
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Karlılık:
@@ -282,7 +337,7 @@ KCHOL *    holding    döviz fazlası    tbtf    yabancı alımlı    Koç Holdi
     OTKAR        otomotiv          dayanıklı tüketim malları    savunma   ihracatı güçlü               Otokar Otomotiv ve Savunma Sanayi A.Ş.
     TATGD        gıda-içecek                                                                           Tat Gıda Sanayi A.Ş.
     TOASO        otomotiv          dayanıklı tüketim malları    imalat    yabancı alımlı               Tofaş Türk Otomobil Fabrikası A.Ş.
-    TUPRS        kimya ve plastik  tbtf      endeksi sırtlayan                                         TÜPRAŞ - Türkiye Petrol Rafinerileri A.Ş. 
+    TUPRS        kimya ve plastik  tbtf      endeksi sırtlayan                                         TÜPRAŞ - Türkiye Petrol Rafinerileri A.Ş.          petrol fiyatları yükseldikçe kar eder
     YKBNK *      bankacılık        yabancı alımlı                                                      Yapı ve Kredi Bankası A.Ş.
 
 
@@ -487,8 +542,8 @@ Sektörün imal ettiği ürünler, elektrik üretimi yapmak üzere kurulmuş şi
 SMRTG *  enerji teknolojileri    yenilenebilir enerji    yüksek sipariş        Smart Güneş Enerjisi Teknolojileri Araştırma Geliştirme Üretim Sanayi ve Ticaret A.Ş.
 BRLSM *  enerji teknolojileri    inşaat          Birleşim Mühendislik Isıtma Soğutma Havalandırma Sanayi ve Ticaret A.Ş
 EUPWR *  enerji teknolojileri    yüksek sipariş  Europower Enerji ve Otomasyon Teknolojileri Sanayi Ticaret A.Ş.
-ALFAS    enerji teknolojileri                    Alfa Solar Enerji Sanayi ve Ticaret A.Ş.
-ASTOR    enerji teknolojileri                    Astor Enerji A.Ş.
+ALFAS    enerji teknolojileri    ---             Alfa Solar Enerji Sanayi ve Ticaret A.Ş.
+ASTOR    enerji teknolojileri    ---             Astor Enerji A.Ş.
 CWENE    enerji teknolojileri                    CW Enerji Mühendislik Ticaret ve Sanayi A.Ş.
 GESAN    enerji teknolojileri    yenilenebilir enerji                    Girişim Elektrik Sanayi Taahhüt ve Ticaret A.Ş.
 YEOTK    enerji teknolojileri    yenilenebilir enerji                    YEO Teknoloji Enerji ve Endüstri A.Ş.
@@ -619,6 +674,7 @@ OZRDN    ambalaj    Özerden Ambalaj Sanayi A.Ş.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Cam sanayi inşaat, otomobil, ambalaj gibi alanlara ürün veren temel sanayi sektörlerinden biridir. 
 Porselen, seramik, granit gibi ürünler de inşaat, dekorasyon, ambalaj gibi sektörlerde yaygın olarak kullanılır.
+doğal gaz maliyeti var.
 SISE *   cam, seramik, porselen    tbtf    döviz fazlası    Dayanıklı Tüketim Malları    kimya ve plastik    Türkiye Şişe ve Cam Fabrikaları A.Ş.
 BIENY    cam, seramik, porselen            Bien Yapı Ürünleri Sanayi Turizm ve Ticaret A.Ş.
 EGSER    cam, seramik, porselen            Ege Seramik Sanayi ve Ticaret A.Ş.
