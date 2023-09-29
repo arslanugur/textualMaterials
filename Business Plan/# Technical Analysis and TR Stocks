@@ -285,7 +285,7 @@ HEDEF    holding    Hedef Holding A.Ş.
     RNPOL    kimya ve plastik                           Rainbow Polikarbonat Sanayi Ticaret A.Ş.
     SEYKM    kimya ve plastik                           Seyitler Kimya Sanayi A.Ş.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-DOHOL    holding    Doğan Şirketler Grubu Holding A.Ş.
+DOHOL    holding    Doğan Şirketler Grubu Holding A.Ş.                                                        dolar pozitif bir şirket
     DOBUR    kağıt ve kağıt ürünleri                       Doğan Burda Dergi Yayıncılık ve Pazarlama A.Ş.
     MIPAZ    gayrimenkul                                   Milpa Ticari ve Sınai Ürünler Pazarlama Sanayi ve Ticaret A.Ş.
     DITAS    otomotiv yan sanayi                           Ditaş Doğan Yedek Parça İmalat ve Teknik A.Ş. 
@@ -313,13 +313,14 @@ KCHOL *    holding    döviz fazlası    tbtf    yabancı alımlı    Koç Holdi
     TTRAK *      otomotiv          döviz fazlası                tbtf                                   Türk Traktör ve Ziraat Makineleri A.Ş.
     AYGAZ *      kimya ve plastik  imalat                                                              Aygaz A.Ş.
     ARCLK *      imalat            dayanıklı tüketim malları              ihracatı güçlü    tbtf       Arçelik A.Ş.
-    FROTO        otomotiv          dayanıklı tüketim malları    imalat    ihracatı güçlü    tbtf       Ford Otomotiv Sanayi A.Ş.
+    FROTO        otomotiv          dayanıklı tüketim malları    imalat    ihracatı güçlü    tbtf       Ford Otomotiv Sanayi A.Ş.                        2020-10$ - 2023-30$ --> 2024'de gerisi gelir mi? belli değil belki de az.
     MAALT        turizm                                                                                Marmaris Altınyunus Turistik Tesisler A.Ş.
     OTKAR        otomotiv          dayanıklı tüketim malları    savunma   ihracatı güçlü               Otokar Otomotiv ve Savunma Sanayi A.Ş.
     TATGD        gıda-içecek                                                                           Tat Gıda Sanayi A.Ş.
     TOASO        otomotiv          dayanıklı tüketim malları    imalat    yabancı alımlı               Tofaş Türk Otomobil Fabrikası A.Ş.
-    TUPRS        kimya ve plastik  tbtf      endeksi sırtlayan                                         TÜPRAŞ - Türkiye Petrol Rafinerileri A.Ş.          petrol fiyatları yükseldikçe kar eder
+    TUPRS *      kimya ve plastik  endeksi sırtlayan                                        tbtf       TÜPRAŞ - Türkiye Petrol Rafinerileri A.Ş.        petrol fiyatları yükseldikçe kar eder
     YKBNK *      bankacılık        yabancı alımlı                                                      Yapı ve Kredi Bankası A.Ş.
+
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -333,7 +334,7 @@ SAHOL *    holding, döviz fazlası, tbtf                               Hacı Ö
     TKNSA    toptan ve perakende ticaret, teknolojik ürün ticareti      Teknosa İç ve Dış Ticaret A.Ş.
     CIMSA *  taş, toprak, çimento                                       Çimsa Çimento Sanayi ve Ticaret A.Ş.
     AFYON    taş, toprak, çimento                                       Afyon Çimento Sanayi T.A.Ş.
-    AKCNS    taş, toprak, çimento                                       Akçansa Çimento Sanayi ve Ticaret A.Ş.
+    AKCNS    taş, toprak, çimento                                       Akçansa Çimento Sanayi ve Ticaret A.Ş.                     
     AGESA    emeklilik                                                  Agesa Hayat ve Emeklilik A.Ş.
 
 
@@ -381,12 +382,12 @@ ULUFA    faktoring    Ulusal Faktoring A.Ş.
 Finansal kiralama bir yatırım malının sözleşme süresi boyunca kullanılmasını sağlayan orta ya da uzun vadeli bir finansman yöntemidir. 
 Leasing şirketleri bu yöntem ile diğer şirketlere ekipmanları satın almadan kiralayarak kullanma imkanı sunar.
 ISFIN *  finansal kiralama / leasing    İş Finansal Kiralama A.Ş.
+VAKFN *  finansal kiralama / leasing    Vakıf Finansal Kiralama A.Ş. 
 QNBFL    finansal kiralama / leasing    QNB Finans Finansal Kiralama A.Ş.
 SEKFK    finansal kiralama / leasing    Şeker Finansal Kiralama A.Ş.
-VAKFN *  finansal kiralama / leasing    Vakıf Finansal Kiralama A.Ş. 
 
 Varlık yönetim şirketleri öncelikli olarak bankalardan olmak üzere finansal kuruluşların sahip olduğu tahsili gecikmiş alacak portföylerini devralan ve bu alacakları tahsil etmeye çalışan finansal kuruluşlardır.
-GLCVY    varlık yönetimi    Gelecek Varlık Yönetimi A.Ş.
+GLCVY    varlık yönetimi    Gelecek Varlık Yönetimi A.Ş.    upside olabilir.
 BRKVY    varlık yönetimi    Birikim Varlık Yönetim A.Ş.
 
 Sigortacılık sektörü, İnsanların ya da kurumların sahip olduğu tüm varlık ve riskleri koruma altına alan ve oluşabilecek zararları karşılayan finansal araç sigortadır. 
@@ -394,7 +395,7 @@ Sigortacılık sektörü bu sözleşmelerin hazırlanması, satılması faaliyet
 Emeklilik sektörü, Bu şirketler emeklilik ürünleri sunan finansal kuruluşlardır. 
 Ana faaliyetleri bireysel emeklilik olsa da gerekli lisansları alarak hayat sigortası alanında da faaliyet gösterirler.
 ANHYT *  sigorta / emeklilik    Anadolu Hayat Emeklilik A.Ş.
-AGESA    emeklilik    Agesa Hayat ve Emeklilik A.Ş.
+AGESA    emeklilik      Agesa Hayat ve Emeklilik A.Ş.
 AKGRT    sigorta        Aksigorta A.Ş.
 ANSGR    sigorta        Anadolu Anonim Türk Sigorta Şirketi
 RAYSG    sigorta        Ray Sigorta A.Ş. 
@@ -463,7 +464,7 @@ LOGO     bilişim ve yazılım                                    Logo Yazılım
 SMART    bilişim ve yazılım                                    Smartiks Yazılım A.Ş. 
 KAREL    bilişim ve yazılım                                    Karel Elektronik Sanayi ve Ticaret A.Ş. 
 ATATP    bilişim ve yazılım                                    Atp Ticari Bilgisayar Ağı ve Elektrik Güç Kaynakları Üretim Pazarlama ve T.A.Ş.
-YEOTK    bilişim ve yazılım                                    YEO Teknoloji Enerji ve Endüstri A.Ş.
+YEOTK    bilişim ve yazılım                                    YEO Teknoloji Enerji ve Endüstri A.Ş.                                            çeşitlenmiş şirket, çok fazla yerden iş alabilir.
 KRONT    bilişim ve yazılım                                    Kron Telekomünikasyon Hizmetleri A.Ş.
 HTTBT    bilişim ve yazılım                                    Hitit Bilgisayar Hizmetleri A.Ş.
 LINK     bilişim ve yazılım                                    Link Bilgisayar Sistemleri Yazılımı ve Donanımı Sanayi ve Ticaret A.Ş. 
@@ -474,7 +475,7 @@ MIATK    bilişim ve yazılım                                    Mia Teknoloji 
 VBTYZ    bilişim ve yazılım                                    VBT Yazılım A.Ş.
 ARDYZ    bilişim ve yazılım                                    Ard Grup Bilişim Teknolojileri A.Ş
 IDEAS    bilişim ve yazılım                                    İdeal Finansal Teknolojiler ve Danışmanlık A.Ş.
-ESCOM    bilişim ve yazılım                                    Escort Teknoloji Yatırım A.Ş. 
+ESCOM    bilişim ve yazılım                                    Escort Teknoloji Yatırım A.Ş.                         yatırım fikrine, erkenden giriyor.. unicorn peşinde. trade edilecek değil alıp unutulacak şirket.
 FONET    bilişim ve yazılım                                    Fonet Bilgi Teknolojileri A.Ş.
 NETAS    bilişim ve yazılım                                    Netaş Telekomünikasyon A.Ş. 
 PCILT    bilişim ve yazılım                                    PC İletişim ve Medya Hizmetleri Sanayi Ticaret A.Ş. 
@@ -625,33 +626,35 @@ SNICA    metal eşya ve makine    Sanica Isı Sanayi A.Ş.
 Kağıt ve kağıt ürünleri sektörü gündelik hayatın her alanında ihtiyaç duyulan basım ve ambalaj ürünlerine ara mal üretimi yapmaktadır. 
 Eğitim, sağlık, sanayi, iletişim gibi sektörlerde yoğun olarak kağıt ve kağıt ürünleri kullanılmaktadır.
 
-ALKA     kağıt ve kağıt ürünleri               Alkim Kağıt Sanayi ve Ticaret A.Ş.
-DOBUR    kağıt ve kağıt ürünleri               Doğan Burda Dergi Yayıncılık ve Pazarlama A.Ş.
-DURDO    kağıt ve kağıt ürünleri               Duran Doğan Basım ve Ambalaj Sanayi A.Ş.
-HURGZ    kağıt ve kağıt ürünleri               Hürriyet Gazetecilik ve Matbaacılık A.Ş.
-IHGZT    kağıt ve kağıt ürünleri               İhlas Gazetecilik A.Ş. 
-KARTN    kağıt ve kağıt ürünleri               Kartonsan Karton Sanayi ve Ticaret A.Ş.
-KONKA    kağıt ve kağıt ürünleri               Konya Kağıt Sanayi ve Ticaret A.Ş.
-MNDTR    kağıt ve kağıt ürünleri    ambalaj    Mondi Turkey Oluklu Mukavva Kağıt ve Ambalaj Sanayi A.Ş.
-PRZMA    kağıt ve kağıt ürünleri               Prizma Pres Matbaacılık Yayıncılık Sanayi ve Ticaret A.Ş.
-SAMAT    kağıt ve kağıt ürünleri               Saray Matbaacılık Kağıtçılık Kırtasiyecilik Ticaret ve Sanayi A.Ş. 
-TEZOL    kağıt ve kağıt ürünleri               Europap Tezol Kağıt Sanayi ve Ticaret A.Ş. 
-VKING    kağıt ve kağıt ürünleri               Viking Kağıt ve Selülöz A.Ş. 
+ALKA     kağıt ve kağıt ürünleri                       Alkim Kağıt Sanayi ve Ticaret A.Ş.
+DOBUR    kağıt ve kağıt ürünleri                       Doğan Burda Dergi Yayıncılık ve Pazarlama A.Ş.
+DURDO    kağıt ve kağıt ürünleri                       Duran Doğan Basım ve Ambalaj Sanayi A.Ş.
+HURGZ    kağıt ve kağıt ürünleri                       Hürriyet Gazetecilik ve Matbaacılık A.Ş.
+IHGZT    kağıt ve kağıt ürünleri                       İhlas Gazetecilik A.Ş. 
+KARTN    kağıt ve kağıt ürünleri                       Kartonsan Karton Sanayi ve Ticaret A.Ş.
+KONKA    kağıt ve kağıt ürünleri                       Konya Kağıt Sanayi ve Ticaret A.Ş.
+MNDTR    kağıt ve kağıt ürünleri    ambalaj            Mondi Turkey Oluklu Mukavva Kağıt ve Ambalaj Sanayi A.Ş.
+PRZMA    kağıt ve kağıt ürünleri                       Prizma Pres Matbaacılık Yayıncılık Sanayi ve Ticaret A.Ş.
+SAMAT    kağıt ve kağıt ürünleri                       Saray Matbaacılık Kağıtçılık Kırtasiyecilik Ticaret ve Sanayi A.Ş. 
+TEZOL    kağıt ve kağıt ürünleri    ihracatı yüksek    Europap Tezol Kağıt Sanayi ve Ticaret A.Ş.                            %32 ihracat, tuvalet kağıdı
+VKING    kağıt ve kağıt ürünleri                       Viking Kağıt ve Selülöz A.Ş. 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Ambalaj sektörü sanayi ve perakendenin her dalına destek sağlayan sektörlerden biri. 
 Bu sektörde firmalar plastik, kağıt, karton, cam, metal ve ahşap gibi ürünleri kullanarak üretim yapmaktadırlar.
 
 Ambalaj şirketleri tüketime bakar. tüketim olmazsa yükselmez.
+GEDZA    ambalaj    Gediz Ambalaj Sanayi ve Ticaret A.Ş.
+OZRDN    ambalaj    Özerden Ambalaj Sanayi A.Ş.                 finansal durumu iyi, kağıt küçük.. small cap - fazla yatırma
 BAKAB    ambalaj    Bak Ambalaj Sanayi ve Ticaret A.Ş. 
 BARMA    ambalaj    Barem Ambalaj Sanayi ve Ticaret A.Ş. 
 BNTAS    ambalaj    Bantaş Bandırma Ambalaj Sanayi Ticaret A.Ş.
 DURDO    ambalaj    Duran Doğan Basım ve Ambalaj Sanayi A.Ş.
 EMNIS    ambalaj    Eminiş Ambalaj Sanayi ve Ticaret A.Ş.
-GEDZA    ambalaj    Gediz Ambalaj Sanayi ve Ticaret A.Ş.
 KAPLM    ambalaj    Kaplamin Ambalaj Sanayi ve Ticaret A.Ş.
 SEKUR    ambalaj    Sekuro Plastik Ambalaj Sanayi A.Ş.
 KRPLS    ambalaj    Koroplast Temizlik Ambalaj Ürünleri Sanayi ve Dış Ticaret A.Ş. 
-OZRDN    ambalaj    Özerden Ambalaj Sanayi A.Ş. 
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Cam sanayi inşaat, otomobil, ambalaj gibi alanlara ürün veren temel sanayi sektörlerinden biridir. 
 Porselen, seramik, granit gibi ürünler de inşaat, dekorasyon, ambalaj gibi sektörlerde yaygın olarak kullanılır.
@@ -720,7 +723,7 @@ MGROS *  toptan ve perakende ticaret    gıda perakandeciliği    tbtf          
 BIMAS *  toptan ve perakende ticaret    gıda perakandeciliği    tbtf             Bim Birleşik Mağazalar A.Ş.
 DOAS     toptan ve perakende ticaret    otomotiv                döviz fazlası    Doğuş Otomotiv Servis ve Ticaret A.Ş. Doğuş Grubu
 TKNSA    toptan ve perakende ticaret    teknolojik ürün ticareti                 Teknosa İç ve Dış Ticaret A.Ş.
-SOKM     toptan ve perakende ticaret    gıda perakandeciliği                     Şok Marketler Ticaret A.Ş.
+SOKM     toptan ve perakende ticaret    gıda perakandeciliği                     Şok Marketler Ticaret A.Ş.                            migrostan ucuz halihazırda
     PENTA    toptan ve perakende ticaret                                         Penta Teknoloji Ürünleri Dağıtım Ticaret A.Ş.
     MAKTK    metal eşya ve makine                                                Makina Takım Endüstrisi A.Ş.
 KIMMR    toptan ve perakende ticaret    gıda perakandeciliği                     Ersan Alışveriş Hizmetleri ve Gıda Sanayi Ticaret A.Ş. 
@@ -890,8 +893,10 @@ DGNMO    mobilya ve dekorasyon    Doğanlar Mobilya Grubu İmalat Sanayi ve Tica
 EUREN    mobilya ve dekorasyon    Europen Endüstri İnşaat Sanayi ve Ticaret A.Ş.
 KLSYN    mobilya ve dekorasyon    Koleksiyon Mobilya Sanayi A.Ş.
 ORMA     mobilya ve dekorasyon    Orma Orman Mahsulleri Entegre Sanayi ve Ticaret A.Ş.
-YATAS    mobilya ve dekorasyon    Yataş Yatak ve Yorgan Sanayi ve Ticaret A.Ş.
+YATAS    mobilya ve dekorasyon    Yataş Yatak ve Yorgan Sanayi ve Ticaret A.Ş.                        2024 tr içpazarı daralacak, bu şirkette yansır.
 YONGA    mobilya ve dekorasyon    Yonga Mobilya Sanayi ve Ticaret A.Ş.
+
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Tekstil sektörü elyaftan ipliğe ve kumaşa sonrasında da kumaştan hazır giyim ürünlerine uzanan üretim faaliyetlerini yürütür. 
@@ -914,7 +919,7 @@ ROYAL    tekstil, giyim, deri    Royal Halı İplik Tekstil Mobilya Sanayi ve Ti
 RUBNS    tekstil, giyim, deri    Rubenis Tekstil Sanayi Ticaret A.Ş.
 SNPAM    tekstil, giyim, deri    Sönmez Pamuklu Sanayii A.Ş.
 SKTAS    tekstil, giyim, deri    Söktaş Tekstil Sanayi ve Ticaret A.Ş.
-SUWEN    tekstil, giyim, deri    Suwen Tekstil Sanayi Pazarlama A.Ş.
+SUWEN    tekstil, giyim, deri    Suwen Tekstil Sanayi Pazarlama A.Ş.                havlu işinde, iç giyim, ev giyim sektöründe... iyi yönetiliyor. katalizör: yurtdışı projeleri var
 ARSAN    tekstil, giyim, deri    Arsan Tekstil Ticaret ve Sanayi A.Ş.
 ATEKS    tekstil, giyim, deri    Akın Tekstil A.Ş.
 DERIM    tekstil, giyim, deri    Derimod Konfeksiyon Ayakkabı Deri Sanayi ve T.A.Ş.
@@ -934,73 +939,76 @@ DIRIT    tekstil, giyim, deri    Diriteks Diriliş Tekstil Sanayi ve Ticaret A.�
 İlaç sektörü, tedavi etme, iyileştirme, aşılama, semptom azaltma ya da takviye sağlama amacıyla hastalara verilen ilaçları geliştiren, üreten ve pazarlayan sektördür. 
 Sağlık sektörü ise hastaneler, poliklinikler, tıp merkezleri, özel klinikler gibi hastalara hizmet sağlayan kurumlardan oluşur.
 İlaç sektöründe ar-ge gideri var. bu yüzden kolayca kar göstermez. fiyatı hemen yükselmez.
-DEVA *   ilaç ve sağlık    Deva Holding A.Ş.
-ECILC    ilaç ve sağlık    holding    Eis Eczacıbaşı İlaç, Sınai ve Finansal Yatırımlar Sanayi ve Ticaret A.Ş.
-GENIL    ilaç ve sağlık    Gen İlaç ve Sağlık Ürünleri Sanayi ve Ticaret A.Ş. 
-TRILC    ilaç ve sağlık    Türk İlaç ve Serum Sanayi A.Ş.
-LKMNH    ilaç ve sağlık    Lokman Hekim Engürüsağ Sağlık, Turizm, Eğitim Hizmetleri ve İnşaat Taahhüt A.Ş.
-MPARK    ilaç ve sağlık    Mlp Sağlık Hizmetleri A.Ş.
-RTALB    ilaç ve sağlık    RTA Laboratuvarları Biyolojik Ürünler İlaç ve Makina Sanayi Ticaret A.Ş.
-SELEC    ilaç ve sağlık    Selçuk Ecza Deposu Ticaret ve Sanayi A.Ş.
-SEYKM    ilaç ve sağlık    Seyitler Kimya Sanayi A.Ş.
-EGEPO    ilaç ve sağlık    Nasmed Özel Sağlık Hizmetleri Ticaret A.Ş.
-ANGEN    ilaç ve sağlık    ihracat yüksek        Anatolia Tanı ve Biyoteknoloji Ürünleri Araştırma Geliştirme Sanayi ve Ticaret A.Ş.
-MEDTR    ilaç ve sağlık    Meditera Tıbbi Malzeme Sanayi ve Ticaret A.Ş.
-ONCSM    ilaç ve sağlık    Oncosem Onkolojik Sistemler Sanayi ve Ticaret A.Ş. 
-TNZTP    ilaç ve sağlık    Tapdi Oksijen Özel Sağlık ve Eğitim Hizmetleri Sanayi Ticaret A.Ş. 
+DEVA *   ilaç ve sağlık                    Deva Holding A.Ş.
+ECILC    ilaç ve sağlık    holding         Eis Eczacıbaşı İlaç, Sınai ve Finansal Yatırımlar Sanayi ve Ticaret A.Ş.
+GENIL    ilaç ve sağlık                    Gen İlaç ve Sağlık Ürünleri Sanayi ve Ticaret A.Ş. 
+TRILC    ilaç ve sağlık                    Türk İlaç ve Serum Sanayi A.Ş.
+LKMNH    ilaç ve sağlık                    Lokman Hekim Engürüsağ Sağlık, Turizm, Eğitim Hizmetleri ve İnşaat Taahhüt A.Ş.
+MPARK    ilaç ve sağlık                    Mlp Sağlık Hizmetleri A.Ş.
+RTALB    ilaç ve sağlık                    RTA Laboratuvarları Biyolojik Ürünler İlaç ve Makina Sanayi Ticaret A.Ş.
+SELEC    ilaç ve sağlık                    Selçuk Ecza Deposu Ticaret ve Sanayi A.Ş.
+SEYKM    ilaç ve sağlık                    Seyitler Kimya Sanayi A.Ş.
+EGEPO    ilaç ve sağlık                    Nasmed Özel Sağlık Hizmetleri Ticaret A.Ş.
+ANGEN    ilaç ve sağlık    ihracat yüksek  Anatolia Tanı ve Biyoteknoloji Ürünleri Araştırma Geliştirme Sanayi ve Ticaret A.Ş.
+MEDTR    ilaç ve sağlık                    Meditera Tıbbi Malzeme Sanayi ve Ticaret A.Ş.
+ONCSM    ilaç ve sağlık                    Oncosem Onkolojik Sistemler Sanayi ve Ticaret A.Ş. 
+TNZTP    ilaç ve sağlık                    Tapdi Oksijen Özel Sağlık ve Eğitim Hizmetleri Sanayi Ticaret A.Ş. 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Gayrimenkul sektörü taşınmaz ve değerli olan arsa, konut, işyeri gibi varlıkları satın alan ya da üreten, 
         daha sonrasında bunları başka yatırımcılara satan ya da kiralayan şirketlerden oluşur.
 GYO'lar yüksek faiz dönemi devam ettiği sürece sıkıntı yaratabilir... F/K anlamında ucuz olan şirketler sonradan fiyatlanabilir. çoğu fiyatlanmıştır faiz döneminde.
+faiz dönemi olduğu için inşaat sektörü durma noktasında. müteahhit bu faizlerle ev yapmak istemiyor.
+pek çok müteahhit daha bina temeldeyken satışa başlıyordu. onu da iki katına satıyordu burdan faizini de ödeyip karını da cebe atıyordu...
+gyolar - ekin kasım aralık 4.çeyrekde hareketlenme olur...
+ALGYO *  gayrimenkul                         Alarko Gayrimenkul Yatırım Ortaklığı A.Ş.         oteli var, dükkan kiralıyorlar...
 ZRGYO    gayrimenkul    yatırım ortaklığı    Ziraat Gayrimenkul Yatırım Ortaklığı A.Ş.
 AVGYO    gayrimenkul                         Avrasya Gayrimenkul Yatırım Ortaklığı A.Ş.
-FZLGY    gayrimenkul    Fuzul Gayrimenkul Yatırım Ortaklığı A.Ş. 
-KZGYO    gayrimenkul    Kuzugrup Gayrimenkul Yatırım Ortaklığı A.Ş.
-KZBGY    gayrimenkul    Kızılbük Gayrimenkul Yatırım Ortaklığı A.Ş.
-TSGYO    gayrimenkul    TSKB Gayrimenkul Yatırım Ortaklığı A.Ş.
-ISGYO    gayrimenkul    İş Gayrimenkul Yatırım Ortaklığı A.Ş.
-MRGYO    gayrimenkul    Martı Gayrimenkul Yatırım Ortaklığı A.Ş.
-VKGYO    gayrimenkul    Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş. 
-AGYO     gayrimenkul    Atakule Gayrimenkul Yatırım Ortaklığı A.Ş.
-MIPAZ    gayrimenkul    Milpa Ticari ve Sınai Ürünler Pazarlama Sanayi ve Ticaret A.Ş.
-OZGYO    gayrimenkul    Özderici Gayrimenkul Yatırım Ortaklığı A.Ş.
-IDGYO    gayrimenkul    İdealist Gayrimenkul Yatırım Ortaklığı A.Ş.
-ZRGYO    gayrimenkul    yatırım ortaklığı    Ziraat Gayrimenkul Yatırım Ortaklığı A.Ş.
-KLGYO    gayrimenkul    Kiler Gayrimenkul Yatırım Ortaklığı A.Ş.
-MSGYO    gayrimenkul    Mistral Gayrimenkul Yatırım Ortaklığı A.Ş.
-TDGYO    gayrimenkul    Trend Gayrimenkul Yatırım Ortaklığı A.Ş.
-DGGYO    gayrimenkul    Doğuş Gayrimenkul Yatırım Ortaklığı A.Ş.
-KRGYO    gayrimenkul    Körfez Gayrimenkul Yatırım Ortaklığı A.Ş.
-BASGZ    gayrimenkul    Başkent Doğalgaz Dağıtım Gayrimenkul Yatırım Ortaklığı A.Ş.
-NUGYO    gayrimenkul    Nurol Gayrimenkul Yatırım Ortaklığı A.Ş.
-SRVGY    gayrimenkul    Servet Gayrimenkul Yatırım Ortaklığı A.Ş.
-TRGYO    gayrimenkul    Torunlar Gayrimenkul Yatırım Ortaklığı A.Ş.
-    YGGYO    gayrimenkul    Yeni Gimat Gayrimenkul Yatırım Ortaklığı A.Ş.
-    KTSKR    gıda-içecek    Kütahya Şeker Fabrikası A.Ş.
-AKSGY    gayrimenkul    Akiş Gayrimenkul Yatırım Ortaklığı A.Ş.
-YGYO     gayrimenkul    Yeşil Gayrimenkul Yatırım Ortaklığı A.Ş.
-OZKGY    gayrimenkul    Özak Gayrimenkul Yatırım Ortaklığı A.Ş.
-RYGYO    gayrimenkul    Reysaş Gayrimenkul Yatırım Ortaklığı A.Ş.
-ALGYO *  gayrimenkul    Alarko Gayrimenkul Yatırım Ortaklığı A.Ş.
-DAPGM    gayrimenkul    DAP Gayrimenkul Geliştirme A.Ş. 
-ASGYO    gayrimenkul    Asce Gayrimenkul Yatırım Ortaklığı A.Ş.
-HLGYO    gayrimenkul    Halk Gayrimenkul Yatırım Ortaklığı A.Ş.
-AKFGY    gayrimenkul    Akfen Gayrimenkul Yatırım Ortaklığı A.Ş.
-EKGYO    gayrimenkul    Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş.
-SEGYO    gayrimenkul    Şeker Gayrimenkul Yatırım Ortaklığı A.Ş.
-SNGYO    gayrimenkul    Sinpaş Gayrimenkul Yatırım Ortaklığı A.Ş.
-EYGYO    gayrimenkul    EYG Gayrimenkul Yatırım Ortaklığı A.Ş.
-PSGYO    gayrimenkul    Pasifik Gayrimenkul Yatırım Ortaklığı A.Ş.
-ADESE    gayrimenkul    Adese Gayrimenkul Yatırım A.Ş
-AKMGY    gayrimenkul    Akmerkez Gayrimenkul Yatırım Ortaklığı A.Ş. 
-DZGYO    gayrimenkul    Deniz Gayrimenkul Yatırım Ortaklığı A.Ş.
-KGYO     gayrimenkul    Koray Gayrimenkul Yatırım Ortaklığı A.Ş.
-KUYAS    gayrimenkul    Kuyumcukent Gayrimenkul Yatırımları A.Ş.
-PAGYO    gayrimenkul    Panora Gayrimenkul Yatırım Ortaklığı A.Ş.
-PEKGY *  gayrimenkul    Peker Gayrimenkul Yatırım Ortaklığı A.Ş.
-PEGYO    gayrimenkul    Pera Gayrimenkul Yatırım Ortaklığı A.Ş. 
-ATAGY    gayrimenkul    Ata Gayrimenkul Yatırım Ortaklığı A.Ş. 
+FZLGY    gayrimenkul                         Fuzul Gayrimenkul Yatırım Ortaklığı A.Ş. 
+KZGYO    gayrimenkul                         Kuzugrup Gayrimenkul Yatırım Ortaklığı A.Ş.
+KZBGY    gayrimenkul                         Kızılbük Gayrimenkul Yatırım Ortaklığı A.Ş.
+TSGYO    gayrimenkul                         TSKB Gayrimenkul Yatırım Ortaklığı A.Ş.
+ISGYO    gayrimenkul                         İş Gayrimenkul Yatırım Ortaklığı A.Ş.
+MRGYO    gayrimenkul                         Martı Gayrimenkul Yatırım Ortaklığı A.Ş.
+VKGYO    gayrimenkul                         Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş. 
+AGYO     gayrimenkul                         Atakule Gayrimenkul Yatırım Ortaklığı A.Ş.
+MIPAZ    gayrimenkul                         Milpa Ticari ve Sınai Ürünler Pazarlama Sanayi ve Ticaret A.Ş.
+OZGYO    gayrimenkul                         Özderici Gayrimenkul Yatırım Ortaklığı A.Ş.
+IDGYO    gayrimenkul                         İdealist Gayrimenkul Yatırım Ortaklığı A.Ş.
+ZRGYO    gayrimenkul                         yatırım ortaklığı    Ziraat Gayrimenkul Yatırım Ortaklığı A.Ş.
+KLGYO    gayrimenkul                         Kiler Gayrimenkul Yatırım Ortaklığı A.Ş.
+MSGYO    gayrimenkul                         Mistral Gayrimenkul Yatırım Ortaklığı A.Ş.
+TDGYO    gayrimenkul                         Trend Gayrimenkul Yatırım Ortaklığı A.Ş.
+DGGYO    gayrimenkul                         Doğuş Gayrimenkul Yatırım Ortaklığı A.Ş.
+KRGYO    gayrimenkul                         Körfez Gayrimenkul Yatırım Ortaklığı A.Ş.
+BASGZ    gayrimenkul                         Başkent Doğalgaz Dağıtım Gayrimenkul Yatırım Ortaklığı A.Ş.
+NUGYO    gayrimenkul                         Nurol Gayrimenkul Yatırım Ortaklığı A.Ş.
+SRVGY    gayrimenkul                         Servet Gayrimenkul Yatırım Ortaklığı A.Ş.
+TRGYO    gayrimenkul                         Torunlar Gayrimenkul Yatırım Ortaklığı A.Ş.
+    YGGYO    gayrimenkul                         Yeni Gimat Gayrimenkul Yatırım Ortaklığı A.Ş.
+    KTSKR    gıda-içecek                         Kütahya Şeker Fabrikası A.Ş.
+AKSGY    gayrimenkul                         Akiş Gayrimenkul Yatırım Ortaklığı A.Ş.
+YGYO     gayrimenkul                         Yeşil Gayrimenkul Yatırım Ortaklığı A.Ş.
+OZKGY    gayrimenkul                         Özak Gayrimenkul Yatırım Ortaklığı A.Ş.
+RYGYO    gayrimenkul                         Reysaş Gayrimenkul Yatırım Ortaklığı A.Ş.
+DAPGM    gayrimenkul                         DAP Gayrimenkul Geliştirme A.Ş. 
+ASGYO    gayrimenkul                         Asce Gayrimenkul Yatırım Ortaklığı A.Ş.
+HLGYO    gayrimenkul                         Halk Gayrimenkul Yatırım Ortaklığı A.Ş.
+AKFGY    gayrimenkul                         Akfen Gayrimenkul Yatırım Ortaklığı A.Ş.
+EKGYO    gayrimenkul                         Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş.
+SEGYO    gayrimenkul                         Şeker Gayrimenkul Yatırım Ortaklığı A.Ş.
+SNGYO    gayrimenkul                         Sinpaş Gayrimenkul Yatırım Ortaklığı A.Ş.
+EYGYO    gayrimenkul                         EYG Gayrimenkul Yatırım Ortaklığı A.Ş.
+PSGYO    gayrimenkul                         Pasifik Gayrimenkul Yatırım Ortaklığı A.Ş.
+ADESE    gayrimenkul                         Adese Gayrimenkul Yatırım A.Ş
+AKMGY    gayrimenkul                         Akmerkez Gayrimenkul Yatırım Ortaklığı A.Ş. 
+DZGYO    gayrimenkul                         Deniz Gayrimenkul Yatırım Ortaklığı A.Ş.
+KGYO     gayrimenkul                         Koray Gayrimenkul Yatırım Ortaklığı A.Ş.
+KUYAS    gayrimenkul                         Kuyumcukent Gayrimenkul Yatırımları A.Ş.
+PAGYO    gayrimenkul                         Panora Gayrimenkul Yatırım Ortaklığı A.Ş.
+PEKGY *  gayrimenkul                         Peker Gayrimenkul Yatırım Ortaklığı A.Ş.
+PEGYO    gayrimenkul                         Pera Gayrimenkul Yatırım Ortaklığı A.Ş. 
+ATAGY    gayrimenkul                         Ata Gayrimenkul Yatırım Ortaklığı A.Ş. 
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1026,6 +1034,9 @@ EGEEN    otomotiv yan sanayi    ihracat yüksek       Ege Endüstri ve Ticaret A
 GOODY    otomotiv yan sanayi                         Goodyear Lastikleri T.A.Ş.
 PARSN    otomotiv yan sanayi                         Parsan Makina Parçaları Sanayii A.Ş. 
 
+    çinliler otomotiv sektörünü domine etmek istiyor.. bu sektör kabuk değiştiriyor..
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Ulaştırma sektörü insanların ve üretilmiş malların bir yerden başka bir yere taşınmasını sağlar. 
 Ulaştırma faaliyetleri hava, deniz, kara ve demiryolları üzerinden yürütülür.
@@ -1036,7 +1047,7 @@ GSDDE    ulaştırma                                            Gsd Denizcilik G
 LIDER    ulaştırma    servis taşımacılığı ve araç kiralama    LDR Turizm A.Ş.
 PGSUS    ulaştırma    havacılık            Pegasus Hava Taşımacılığı A.Ş.
 RYSAS    ulaştırma    lojistik             Reysaş Taşımacılık ve Lojistik Ticaret A.Ş.
-TAVHL    ulaştırma    havacılık            Tav Havalimanları Holding A.Ş.
+TAVHL    ulaştırma    havacılık            Tav Havalimanları Holding A.Ş.                borçlu, ama üzmez. ekstra projesi var mı ona bak yoksa çok vermez.
 TLMAN    ulaştırma    ihracat yüksek       Trabzon Liman İşletmeciliği A.Ş.
 PLTUR    ulaştırma    servis taşımacılığı ve araç kiralama    Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hizmetleri Sanayi ve T.A.Ş.
 PASEU    ulaştırma                         Pasifik Eurasia Lojistik Dış Ticaret A.Ş.
