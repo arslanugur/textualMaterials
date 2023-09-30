@@ -390,15 +390,15 @@ SINGULAR   (+)  someone		biri			there is someone at the door					kapıda biri va
 							they will have their seats		definite
 							other - eachother - they will see with eachother
 
+			
+				🔴🔵		either		ikisinden birini seçiyorsun
+				🔴🔴🔴		each		iki ve fazla şeçiyorsun
+				🔴🔴		both		ikisini de seçiyorsun
+				🔵🔵		neither		ikisinden hiç birini seçmiyorum
 
-				🔴 🔵 	 	either		ikisinden birini seçiyorsun
-				🔴 🔴 🔴	each		iki ve fazla şeçiyorsun
-				🔴 🔴 	 	both		ikisini de seçiyorsun
-				🔵 🔵 	 	neither		ikisinden hiç birini seçmiyorum
 
-
-		either		ikisinden biri		either one will be fine 
-                                        		either one will be died soon 
+		either		ikisinden biri		either one will be died soon
+							either one will be fine  
                                         		n-either of us can go to the grocery
 							each of us can go to the grocery
 							both of us can go to the grocery
