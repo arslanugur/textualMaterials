@@ -1,3 +1,23 @@
+
+# Electricity Calculation
+
+I=√P/R                  |                V=√P*R
+I=P/V                   |                V=P/I
+I=V/R                   |                V=I*R
+                        |
+ I = Amps = Current     |     V = Volts = Voltage (E)
+-----------------------------------------------------
+ P = Power = Watts      |     R = Resist = Ohm (Ω)
+                        |
+ P=V*I                  |                R=V/I
+ P=I^2*R                |                R=V^2/P
+ P=V^2/R                |                R=P/I^2
+
+
+
+
+
+
 Devre Analizi-I : Giriş
 Devre Analizi-I : Akım Nedir, Yük Nedir?
 Devre Analizi-I : Örnek Yük Sorusu 1
