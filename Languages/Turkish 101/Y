@@ -121,5 +121,35 @@ to-struggle = mücadele et-mek
 
 
 
+# Küçük ünlü uyumu
+Dil
+          Kalın: a, ı, o, u
+          İnce:  e, i, ö, ü
+Çene
+          geniş: a, e, o, ö
+          dar:   ı, i, u, ü
+Dudak
+          düz:      a, e, ı, i
+          yuvarlak: o, ü, u, ü
+
+
+          geniş                         dar
+          kalın ince                    kalın ince
+düz          ae                         ıi
+yuvarlak     oö                         uü
+
+          düz                       yuvarlak
+          geniş dar                 geniş dar
+kalın    aı                         ou
+ince     ei                         öü
+
+
+
+Eğer bir kelimenin ilk hecesine yuvarlak ünlü (o, ö, u, ü) bulunuyorsa, 
+                   bir sonraki hece aynı şekilde yuvarlak (u, ü,) ya da düz-geniş (a, e) ile bitmek zorundadır
+
+yar-ış
+ko-va-la-mak
+yor-ul-mak
 
         
