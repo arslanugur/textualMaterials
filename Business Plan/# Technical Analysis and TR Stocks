@@ -1209,12 +1209,76 @@ richard koch -  financial times guide to selecting shares thet perform
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# pd/dd
+
+market sektörü örneği
+    peşin çalışmak/kredili mal almak
+    genişleme döneminde zarar etmek
+    en yüksek karlılığa ancak birkaç yıl sonra ulaşmak
+    marketlerde ölçek çok önemli ne kadar büyük bir zincir olursanız o kadar satıcılara karşı gücünüz fazla olur. mal alırken pazarlık
+    getir'in ilk açıldığında indirim müşteri çekmek. ayakları alışmak
+        ilk zarar eder o zarar da özkaynaklar düşer
+
+Fabrika örneği
+    eski, yeni -> duran varlıklarda amortisman denilen eskime nedeniyle belli bir payı her yıl değerden düşer.
+        fabrika 10milyona kuruldu. fabrikanın faydalı ömrü 10 yıl.. her yıl 1milyon eskime payı düşersin
+        bu yıl amortisman 10m ilse seneye 1 milyon
+        eski şirketlerin duran varlıkları neredeyse sıfıra yakındır nedeni ciddi anlamada amortisman düşmüştür.
+            bu noktada fabrikayı yenilemiş olabilir ya da hali hazırda kar da üretebilir..
+        bu şirketin piyasa değeri yüksek defter değeri düşüktür
+
+    kara katkı -> eski bir şirket yeni bir fabrika açarsa yatırım süreci devam ettiği için henüz kara yansımış birşey yok
+                    fakat ortada çok ciddi bir defter değeri var...
+                    piyasa değeri düşük, defter değeri yüksektir...
+        ama pd/dd daha yüksek olan şirket daha cazipte olabilir....
+
+    o yüzden herzaman bu şirket ne yapıyor hangi konumda bunu bilmek lazım
+
+şirketlerin PD/DD oranları arasındaki farkın nedenleri
+    karlılık
+            bazı şirketler daha az özkaynak ile daha çok kar üretebiliyor... patent, marka değeri varsa
+                    karı da dağıtıyor bu yüzden özkaynaklar büyümüyor ve sonucunda pd/dd yüksek oluyor ama şirket bunu hak ediyor nedeni özkaynağına kıyasla yüksek kar var ve kar devam edici
+            bazı şirketlerde de dönemsel olarak karı şişmiştir. kar/dd yüksek ama seneye düşecektir onu bilemeyiz. doğrudan yorumlamamak lazım
+
+    defter değerinin hatalı olması
+            bazı şirketler enf nedeni ile gerçeği yansıtmayabilir.. pd/dd hesabı da doğrudan dd'ye bağlı old için haliyle yanlış bi hesap gerçekleşir
+
+    beklentiler
+            yine bu şirketlerin pd/dd oranını yanıltan en önemli faktörlerden biri beklentiler
+            geleceğe yönelik hikayesi olabilir şirketin bu kadar büyüyecek denir... böyle olunca ne olur dd kıyasla çok pahalı işlem görür
+            beklentiler de gerçekleşmediği için, aslında bu faktörün anlamlı olmasına neden olan  
+                            düşük pd/dd oranına saip olan hiselerin daha çok getiri elde etmesine neden olan faktör bu
+    güvenilirlik
+            bazı şirketler prestijli - ne kadar kar elde edeceği daha belirgin, marka değeri yüksek        daha çok para verirsin o şirkete
+
+    manipülasyon
+            bir şirket anormal değerece şişiriliyorsa pd/dd haliyle yüksek olacak                buna daha az riskli diyemeyiz... riskli aslında
+            eğer risk fazlaysa şirketin pd/dd oranı daha düşük olur        risk = getiri            fama french modeli ama buna katılamıyoruz..
+
+            normal                                manipülasyonlu
+            pd/dd = yüksek ---> az riskli            bilinmez
+            pd/dd = düşük  ---> riskli               bilinmez
+            
+bu yüzden pd/ddye güvenemezsin hemen...
+
+https://corporatefinanceinstitute.com/resources/valuation/fama-french-three-factor-model/
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+FK oranı
+
+    fiyat/kar oranı = şirketin piyasa değeri / kar
+
+    ev değeri = 500.000
+    kiraya verdin = 20.000
+        500/20 = 25    fk oranı --> yani yıllık net kar ile 25 yılda yatırımızı amorti eder...
+
+    her şirketinde hisse fiyatına göre anlık değişen piyasa değeri vardır...
+        CCOLA = 7 milyar             dün
+        CCOLA = 6 milyar 900 milyon  bugün    yani düşüş olmuş...
 
 
-
-
-
-
+prof dr fko oranı videosu
 
 
 
