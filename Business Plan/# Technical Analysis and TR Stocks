@@ -326,38 +326,6 @@ UFUK     holding                                                    Ufuk Yatır�
 
         yıldız holding - ULKER
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-ALARK *    enerji üretim ve dağıtım    holding    ihracatı güçlü      Alarko Holding A.Ş.
-    ALCAR    dayanıklı tüketim ürünleri    imalat                   Alarko Carrier Sanayi ve Ticaret A.Ş.
-    ALGYO *  gayrimenkul                                            Alarko Gayrimenkul Yatırım Ortaklığı A.Ş.
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-KCHOL *    holding    döviz fazlası    tbtf    yabancı alımlı    Koç Holding A.Ş.
-    TTRAK *      otomotiv          döviz fazlası                tbtf                                   Türk Traktör ve Ziraat Makineleri A.Ş.
-    AYGAZ *      kimya ve plastik  imalat                                                              Aygaz A.Ş.
-    ARCLK *      imalat            dayanıklı tüketim malları              ihracatı güçlü    tbtf       Arçelik A.Ş.
-    FROTO        otomotiv          dayanıklı tüketim malları    imalat    ihracatı güçlü    tbtf       Ford Otomotiv Sanayi A.Ş.                        2020-10$ - 2023-30$ --> 2024'de gerisi gelir mi? belli değil belki de az.
-    MAALT        turizm                                                                                Marmaris Altınyunus Turistik Tesisler A.Ş.
-    OTKAR        otomotiv          dayanıklı tüketim malları    savunma   ihracatı güçlü               Otokar Otomotiv ve Savunma Sanayi A.Ş.
-    TATGD        gıda-içecek                                                                           Tat Gıda Sanayi A.Ş.
-    TOASO        otomotiv          dayanıklı tüketim malları    imalat    yabancı alımlı               Tofaş Türk Otomobil Fabrikası A.Ş.
-    TUPRS *      kimya ve plastik  endeksi sırtlayan                                        tbtf       TÜPRAŞ - Türkiye Petrol Rafinerileri A.Ş.        petrol fiyatları yükseldikçe kar eder
-    YKBNK *      bankacılık        yabancı alımlı                                                      Yapı ve Kredi Bankası A.Ş.
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-SAHOL *    holding, döviz fazlası, tbtf                               Hacı Ömer Sabancı Holding A.Ş.
-    AKBNK *  bankacılık                                                 Akbank T.A.Ş.
-    AKGRT    sigorta                                                    Aksigorta A.Ş.
-    ENJSA *  enerji üretim ve dağıtım    yabancı alımlı                    Enerjisa Enerji A.Ş.
-    CRFSA    toptan ve perakende ticaret, gıda Perakandeciliği          Carrefoursa Carrefour Sabancı Ticaret Merkezi A.Ş.            çeyreklerde zarar ediyor...
-    BRISA    kimya ve plastik, otomotiv                                 Brisa Bridgestone Sabancı Lastik Sanayi ve Ticaret A.Ş.
-    KORDS    kimya ve plastik, tekstil                                  Kordsa Teknik Tekstil A.Ş.
-    TKNSA    toptan ve perakende ticaret, teknolojik ürün ticareti      Teknosa İç ve Dış Ticaret A.Ş.
-    CIMSA *  taş, toprak, çimento                                       Çimsa Çimento Sanayi ve Ticaret A.Ş.
-    AFYON    taş, toprak, çimento                                       Afyon Çimento Sanayi T.A.Ş.
-    AKCNS    taş, toprak, çimento                                       Akçansa Çimento Sanayi ve Ticaret A.Ş.                     
-    AGESA    emeklilik                                                  Agesa Hayat ve Emeklilik A.Ş.
 
 
 Bankalar bireysel ve kurumsalların finansal ihtiyaçlarını karşılamak üzere mevduat toplayan, kredi veren, kambiyo işlemleri yapan ve her türlü yurtiçi ve uluslararası ödemelere aracılık eden kuruluşlardır. 
@@ -379,20 +347,7 @@ VAKBN    bankacılık    Türkiye Vakıflar Bankası T.A.O.
     VAKFN *  finansal kiralama / leasing        Vakıf Finansal Kiralama A.Ş. 
     VKGYO    gayrimenkul                        Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş.
     VKFYO    menkul kıymet yatırım ortaklığı    Vakıf Menkul Kıymet Yatırım Ortaklığı A.Ş.
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-ISCTR *  bankacılık    Türkiye İş Bankası A.Ş.
-    ISKUR    bankacılık                                     Türkiye İş Bankası A.Ş.
-    TSKB     bankacılık                                     Türkiye Sınai Kalkınma Bankası A.Ş.
-    ISMEN *  aracı kurum                                    İş Yatırım Menkul Değerler A.Ş.
-    ISFIN *  finansal kiralama / leasing                    İş Finansal Kiralama A.Ş.
-    ISYAT    menkul kıymet yatırım ortaklığı                İş Yatırım Ortaklığı A.Ş. 
-    ISGSY    girişim sermayesi yatırım ortaklığı            İş Girişim Sermayesi Yatırım Ortaklığı A.Ş.
-    ISGYO    gayrimenkul                                    İş Gayrimenkul Yatırım Ortaklığı A.Ş.
-    ANHYT *  sigorta / emeklilik                            Anadolu Hayat Emeklilik A.Ş.
-    SISE *   cam, seramik, porselen    kimya ve plastik     Türkiye Şişe ve Cam Fabrikaları A.Ş.                kimse satmak istemiyor bu yüzden ederin de ve düşmüyor. yükselmiyor da fazla..
-             tbtf
-             döviz fazlası
-             dayanıklı tüketim malları
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Faktoring kuruluşları şirketlerin sattıkları mal ya da hizmet karşılığında oluşan alacakları, üzerine alarak karşılığında nakit öder. Vadeli alacakları vadesi gelmeden likidite eden bir finansman yöntemi sunar.
 factoring - borçları tahsil eden şirketler. banka alacaklarını bankalardan satın alırlar.. 
@@ -467,11 +422,6 @@ ICUGS    girişim sermayesi yatırım ortaklığı    ICU Girişim Sermayesi Yat
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Bilişim ve yazılım sektörü bilgisayarlar, bilgisayar ağları, yazılım, donanım, web tasarımı, yarı iletken gibi ürün ve hizmetler üzerine çalışır. 
 Yazılım sektörü firmaları daha çok hizmet sağlayıcılığı yaparken bilişim sektöründe donanım ürünlerinin ticareti de yapılmaktadır.
-KONTR *  bilişim ve yazılım    enerji teknolojileri            Kontrolmatik Teknoloji Enerji ve Mühendislik A.Ş.
-                               yenilenebilir enerji
-                               enerji depolama - "pomega"
-                               yüksek sipariş
-                               yazılım şirketleri gibi 4.çeyreklerde kar verir. 2025'e kadar kar olmayacak fazla.
 ARENA    bilişim ve yazılım    teknolojik ürün ticareti        Arena Bilgisayar Sanayi ve Ticaret A.Ş.
 INDES    bilişim ve yazılım    teknolojik ürün ticareti        İndeks Bilgisayar Sistemleri Mühendislik Sanayi ve Ticaret A.Ş.
 DESPC    bilişim ve yazılım    teknolojik ürün ticareti        Despec Bilgisayar Pazarlama ve Ticaret A.Ş.
@@ -481,7 +431,6 @@ AZTEK    bilişim ve yazılım    teknolojik ürün ticareti        Aztek Teknol
 PENTA    bilişim ve yazılım    teknolojik ürün ticareti        Penta Teknoloji Ürünleri Dağıtım Ticaret A.Ş.
 DGATE    bilişim ve yazılım    teknolojik ürün ticareti        Datagate Bilgisayar Malzemeleri Ticaret A.Ş.
 OBASE    bilişim ve yazılım                                    Obase Bilgisayar ve Danışmanlık Hizmetleri Ticaret A.Ş.
-FORTE    bilişim ve yazılım                                    Forte Bilgi İletişim Teknolojileri ve Savunma Sanayi A.Ş.
 LOGO     bilişim ve yazılım                                    Logo Yazılım Sanayi ve Ticaret A.Ş.
 SMART    bilişim ve yazılım                                    Smartiks Yazılım A.Ş. 
 KAREL    bilişim ve yazılım                                    Karel Elektronik Sanayi ve Ticaret A.Ş. 
@@ -641,9 +590,6 @@ MAKTK    metal eşya ve makine                            Makina Takım Endüstr
 PRKAB    metal eşya ve makine                            Türk Prysmian Kablo ve Sistemleri A.Ş. 
 SAFKR    metal eşya ve makine                            Safkar Ege Soğutmacılık Klima Soğuk Hava Tesisleri İhracat İthalat Sanayi ve Ticaret A.Ş.
 ULUSE    metal eşya ve makine                            Ulusoy Elektrik İmalat Taahhüt ve Ticaret A.Ş.
-VESTL    metal eşya ve makine                            Vestel Elektronik Sanayi ve Ticaret A.Ş.
-    VESBE    metal eşya ve makine                      Vestel Beyaz Eşya Sanayi ve Ticaret A.Ş.
-    ZOREN    enerji üretim ve dağıtım                  Zorlu Enerji Elektrik Üretim A.Ş.
 SNICA    metal eşya ve makine                            Sanica Isı Sanayi A.Ş.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Kağıt ve kağıt ürünleri sektörü gündelik hayatın her alanında ihtiyaç duyulan basım ve ambalaj ürünlerine ara mal üretimi yapmaktadır. 
@@ -694,8 +640,6 @@ USAK     cam, seramik, porselen            Uşak Seramik Sanayi A.Ş.
 Kimya ve plastik sektörü pek çok sektöre ara mal ve hammadde tedariği yapmaktadır. 
 Tarım ilaçları, gübreler, sentetik malzemeler, temizlik ürünleri, kozmetik ürünler, boya, plastik hammaddeleri, petro-kimya ürünleri bu sektör tarafından üretilir.
 gübre, petrolden beslenir... petrol fiyatı yukarı gittiği zman gübre şirketleri yükselirdi eskiden. şimdi ise anomali olabilir..
-
-SISE     kimya ve plastik                        Türkiye Şişe ve Cam Fabrikaları A.Ş.
 KOPOL    kimya ve plastik                        Koza Polyester Sanayi ve Ticaret A.Ş.    polyester ve elyaf üretimi
 BRISA    kimya ve plastik    sabancı             Brisa Bridgestone Sabancı Lastik Sanayi ve Ticaret A.Ş.
 KORDS    kimya ve plastik    sabancı             Kordsa Teknik Tekstil A.Ş.
@@ -704,14 +648,9 @@ TUPRS    kimya ve plastik                        TÜPRAŞ - Türkiye Petrol Rafi
 PETKM    kimya ve plastik                        Petkim Petrokimya Holding A.Ş.
 AKSA     kimya ve plastik    tekstil                        Aksa Akrilik Kimya Sanayii A.Ş.
 ALKIM    kimya ve plastik                        Alkim Alkali Kimya A.Ş.
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-OYAYO    menkul kıymet yatırım ortaklığı    Oyak Yatırım Ortaklığı A.Ş. 
-    HEKTS    kimya ve plastik    imalat    tarım        Hektaş Ticaret T.A.Ş.
-    OYYAT    aracı kurum                                Oyak Yatırım Menkul Değerler A.Ş.
-    OYAKC    taş, toprak, çimento                       Oyak Çimento Fabrikaları A.Ş.
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 1. ve 4. çeyrekte gübre şirketlerin bilançoları iyi olur... al bi gübre şirketini 6 ay bekle...
-GUBRF    kimya ve plastik    tarım                       Gübre Fabrikaları T.A.Ş.
 RNPOL    kimya ve plastik                                Rainbow Polikarbonat Sanayi Ticaret A.Ş.
     SEYKM    kimya ve plastik                            Seyitler Kimya Sanayi A.Ş.
 POLHO    kimya ve plastik    holding                     Polisan Holding A.Ş.
