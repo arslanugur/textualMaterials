@@ -316,193 +316,60 @@ DOHOL    holding    Doğan Şirketler Grubu Holding A.Ş.                       
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 GLYHO *    holding    Global Yatırım Holding A.Ş.
     CONSE    enerji üretim ve dağıtım                      Consus Enerji İşletmeciliği ve Hizmetleri A.Ş.
-    NTGAZ    enerji üretim ve dağıtım                      Naturelgaz Sanayi ve Ticaret A.Ş.
+    NTGAZ *  enerji üretim ve dağıtım                      Naturelgaz Sanayi ve Ticaret A.Ş.
     PEGYO    gayrimenkul                                   Pera Gayrimenkul Yatırım Ortaklığı A.Ş. 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-UFUK     holding                                                    Ufuk Yatırım Yönetim ve Gayrimenkul A.Ş.
-    ULKER    gıda-içecek    yabancı alımlı                          Ülker Bisküvi Sanayi A.Ş.
-    KERVT    gıda-içecek                                            Kerevitaş Gıda Sanayi ve Ticaret A.Ş.
-    BIZIM    toptan ve perakende ticaret    Gıda Perakandeciliği    Bizim Toptan Satış Mağazaları A.Ş.
-
-        yıldız holding - ULKER
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 Bankalar bireysel ve kurumsalların finansal ihtiyaçlarını karşılamak üzere mevduat toplayan, kredi veren, kambiyo işlemleri yapan ve her türlü yurtiçi ve uluslararası ödemelere aracılık eden kuruluşlardır. 
 Bankacılık sektörü ekonomik yapının en önemli temel parçalarından biridir. Krizlerde dikkat edilmeli. Özellikle faiz arttırımı gibi..
-AKBNK *  bankacılık    Akbank T.A.Ş.
-YKBNK *  bankacılık    Yapı ve Kredi Bankası A.Ş.
-QNBFB    bankacılık    QNB Finansbank A.Ş.
-HALKB    bankacılık    Türkiye Halk Bankası A.Ş.
-SKBNK    bankacılık    Şekerbank T.A.Ş.
-KLNMA    bankacılık    Türkiye Kalkınma ve Yatırım Bankası A.Ş. 
-ICBCT    bankacılık    Icbc Turkey Bank A.Ş.
-ALBRK    bankacılık    Albaraka Türk Katılım Bankası A.Ş. 
-GARAN    bankacılık    Türkiye Garanti Bankası A.Ş.
-    GARFA *  faktoring                          Garanti Faktoring A.Ş.
-    GRNYO    menkul kıymet yatırım ortaklığı    Garanti Yatırım Ortaklığı A.Ş.
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-VAKBN    bankacılık    Türkiye Vakıflar Bankası T.A.O.
-    TSKB     bankacılık                         Türkiye Sınai Kalkınma Bankası A.Ş.
-    VAKFN *  finansal kiralama / leasing        Vakıf Finansal Kiralama A.Ş. 
-    VKGYO    gayrimenkul                        Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş.
-    VKFYO    menkul kıymet yatırım ortaklığı    Vakıf Menkul Kıymet Yatırım Ortaklığı A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Faktoring kuruluşları şirketlerin sattıkları mal ya da hizmet karşılığında oluşan alacakları, üzerine alarak karşılığında nakit öder. Vadeli alacakları vadesi gelmeden likidite eden bir finansman yöntemi sunar.
 factoring - borçları tahsil eden şirketler. banka alacaklarını bankalardan satın alırlar.. 
-GARFA *  faktoring    Garanti Faktoring A.Ş.
-CRDFA    faktoring    Creditwest Faktoring A.Ş. 
-LIDFA    faktoring    Lider Faktoring A.Ş.
-ULUFA    faktoring    Ulusal Faktoring A.Ş. 
+
 
 Finansal kiralama bir yatırım malının sözleşme süresi boyunca kullanılmasını sağlayan orta ya da uzun vadeli bir finansman yöntemidir. 
 Leasing şirketleri bu yöntem ile diğer şirketlere ekipmanları satın almadan kiralayarak kullanma imkanı sunar.
-ISFIN *  finansal kiralama / leasing    İş Finansal Kiralama A.Ş.
-VAKFN *  finansal kiralama / leasing    Vakıf Finansal Kiralama A.Ş. 
-QNBFL    finansal kiralama / leasing    QNB Finans Finansal Kiralama A.Ş.
-SEKFK    finansal kiralama / leasing    Şeker Finansal Kiralama A.Ş.
 
 Varlık yönetim şirketleri öncelikli olarak bankalardan olmak üzere finansal kuruluşların sahip olduğu tahsili gecikmiş alacak portföylerini devralan ve bu alacakları tahsil etmeye çalışan finansal kuruluşlardır.
-GLCVY    varlık yönetimi    Gelecek Varlık Yönetimi A.Ş.    upside olabilir.
-BRKVY    varlık yönetimi    Birikim Varlık Yönetim A.Ş.
 
 Sigortacılık sektörü, İnsanların ya da kurumların sahip olduğu tüm varlık ve riskleri koruma altına alan ve oluşabilecek zararları karşılayan finansal araç sigortadır. 
 Sigortacılık sektörü bu sözleşmelerin hazırlanması, satılması faaliyetlerini yürütmektedir.
 Emeklilik sektörü, Bu şirketler emeklilik ürünleri sunan finansal kuruluşlardır. 
 Ana faaliyetleri bireysel emeklilik olsa da gerekli lisansları alarak hayat sigortası alanında da faaliyet gösterirler.
-ANHYT *  sigorta / emeklilik    Anadolu Hayat Emeklilik A.Ş.
-AGESA    emeklilik      Agesa Hayat ve Emeklilik A.Ş.
-AKGRT    sigorta        Aksigorta A.Ş.
-ANSGR    sigorta        Anadolu Anonim Türk Sigorta Şirketi
-RAYSG    sigorta        Ray Sigorta A.Ş. 
-TURSG    sigorta        Türkiye Sigorta A.Ş. 
+
+
 
 Sermaye Piyasası Kurulu tarafından yetkilendirilmiş ve Borsa İstanbul ile diğer organize piyasalarda işlem yapma ve yaptırma yetkisi olan şirketlerden oluşur. 
 İşlem aracılığı, portföy yönetimi, yatırım danışmanlığı gibi sermaye piyasası faaliyetlerinin bir çoğunu gerçekleştirme yetkilerine sahiptirler.
-ISMEN *  aracı kurum    İş Yatırım Menkul Değerler A.Ş.
-OYYAT    aracı kurum    Oyak Yatırım Menkul Değerler A.Ş.
-GEDIK    aracı kurum    Gedik Yatırım Menkul Değerler A.Ş.
-GLBMD    aracı kurum    Global Menkul Değerler A.Ş.
-INFO     aracı kurum    İnfo Yatırım Menkul Değerler A.Ş.
-OSMEN    aracı kurum    Osmanlı Yatırım Menkul Değerler A.Ş.
-TERA     aracı kurum    Tera Yatırım Menkul Değerler A.Ş.
-A1CAP    aracı kurum    A1 Capital Yatırım Menkul Değerler A.Ş.
+
+
 
 Menkul Kıymet Yatırım Ortaklıkları hisse senedi, tahvil ve bonolar, varlığa dayalı menkul kıymetler gibi varlıklara yatırım yapan ve bu kıymetlerin alım-satımından gelir elde eden kurumlardır.
-ATLAS    menkul kıymet yatırım ortaklığı    Atlas Menkul Kıymetler Yatırım Ortaklığı A.Ş. 
-ETYAT    menkul kıymet yatırım ortaklığı    Euro Trend Yatırım Ortaklığı A.Ş. 
-EUKYO    menkul kıymet yatırım ortaklığı    Euro Kapital Yatırım Ortaklığı A.Ş.
-EUYO     menkul kıymet yatırım ortaklığı    Euro Menkul Kıymet Yatırım Ortaklığı A.Ş.
-GRNYO    menkul kıymet yatırım ortaklığı    Garanti Yatırım Ortaklığı A.Ş. 
-ISYAT    menkul kıymet yatırım ortaklığı    İş Yatırım Ortaklığı A.Ş. 
-MTRYO    menkul kıymet yatırım ortaklığı    Metro Yatırım Ortaklığı A.Ş. 
-OYAYO    menkul kıymet yatırım ortaklığı    Oyak Yatırım Ortaklığı A.Ş.
-VKFYO    menkul kıymet yatırım ortaklığı    Vakıf Menkul Kıymet Yatırım Ortaklığı A.Ş. 
+
 
 Etkinlik planlama, fuar organizasyonu, güvenlik, danışmanlık, filo kiralama gibi alanlarda hizmet sağlayan şirketlerin faaliyet gösterdiği sektördür.
-BEYAZ    destek ve hizmet    Beyaz Filo Oto Kiralama A.Ş.
-CEOEM    destek ve hizmet    Ceo Event Medya A.Ş.
-AKYHO    destek ve hizmet    Akdeniz Yatırım Holding A.Ş.
-FLAP     destek ve hizmet    Flap Kongre Toplantı Hizmetleri Otomotiv ve Turizm A.Ş.
-SNKRN    destek ve hizmet    Senkron Güvenlik ve İletişim Sistemleri A.Ş.
-MACKO    destek ve hizmet    Mackolik İnternet Hizmetleri Ticaret A.Ş.
 
 
 Girişim Sermayesi Yatırım Ortaklıkları, sahip oldukları sermayeyinin en az yarısını girişim sermayesi yatırımlarında kullanan sermaye piyasası kurumlarıdır. 
 Bu şirketler aynı zamanda kurumsal yatırımcıdır ve SPK tarafından lisanslanır.
-GOZDE    girişim sermayesi yatırım ortaklığı    Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş.
-HDFGS    girişim sermayesi yatırım ortaklığı    Hedef Girişim Sermayesi Yatırım Ortaklığı A.Ş.
-HUBVC    girişim sermayesi yatırım ortaklığı    Hub Girişim Sermayesi Yatırım Ortaklığı A.Ş.
-ISGSY    girişim sermayesi yatırım ortaklığı    İş Girişim Sermayesi Yatırım Ortaklığı A.Ş.
-VERTU    girişim sermayesi yatırım ortaklığı    holding    Verusatürk Girişim Sermayesi Yatırım Ortaklığı A.Ş.
-PRDGS    girişim sermayesi yatırım ortaklığı    Pardus Girişim Sermayesi Yatırım Ortaklığı A.Ş.
-ICUGS    girişim sermayesi yatırım ortaklığı    ICU Girişim Sermayesi Yatırım Ortaklığı A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Bilişim ve yazılım sektörü bilgisayarlar, bilgisayar ağları, yazılım, donanım, web tasarımı, yarı iletken gibi ürün ve hizmetler üzerine çalışır. 
 Yazılım sektörü firmaları daha çok hizmet sağlayıcılığı yaparken bilişim sektöründe donanım ürünlerinin ticareti de yapılmaktadır.
-ARENA    bilişim ve yazılım    teknolojik ürün ticareti        Arena Bilgisayar Sanayi ve Ticaret A.Ş.
-INDES    bilişim ve yazılım    teknolojik ürün ticareti        İndeks Bilgisayar Sistemleri Mühendislik Sanayi ve Ticaret A.Ş.
-DESPC    bilişim ve yazılım    teknolojik ürün ticareti        Despec Bilgisayar Pazarlama ve Ticaret A.Ş.
-MOBTL    bilişim ve yazılım    teknolojik ürün ticareti        Mobiltel İletişim Hizmetleri Sanayi ve Ticaret A.Ş.
-INGRM    bilişim ve yazılım    teknolojik ürün ticareti        Ingram Micro Bilişim Sistemleri A.Ş. 
-AZTEK    bilişim ve yazılım    teknolojik ürün ticareti        Aztek Teknoloji Ürünleri Ticaret A.Ş.
-PENTA    bilişim ve yazılım    teknolojik ürün ticareti        Penta Teknoloji Ürünleri Dağıtım Ticaret A.Ş.
-DGATE    bilişim ve yazılım    teknolojik ürün ticareti        Datagate Bilgisayar Malzemeleri Ticaret A.Ş.
-OBASE    bilişim ve yazılım                                    Obase Bilgisayar ve Danışmanlık Hizmetleri Ticaret A.Ş.
-LOGO     bilişim ve yazılım                                    Logo Yazılım Sanayi ve Ticaret A.Ş.
-SMART    bilişim ve yazılım                                    Smartiks Yazılım A.Ş. 
-KAREL    bilişim ve yazılım                                    Karel Elektronik Sanayi ve Ticaret A.Ş. 
-ATATP    bilişim ve yazılım                                    Atp Ticari Bilgisayar Ağı ve Elektrik Güç Kaynakları Üretim Pazarlama ve T.A.Ş.
-YEOTK    bilişim ve yazılım                                    YEO Teknoloji Enerji ve Endüstri A.Ş.                                            çeşitlenmiş şirket, çok fazla yerden iş alabilir.
-KRONT    bilişim ve yazılım                                    Kron Telekomünikasyon Hizmetleri A.Ş.
-HTTBT    bilişim ve yazılım                                    Hitit Bilgisayar Hizmetleri A.Ş.
-LINK     bilişim ve yazılım                                    Link Bilgisayar Sistemleri Yazılımı ve Donanımı Sanayi ve Ticaret A.Ş. 
-KFEIN    bilişim ve yazılım                                    Kafein Yazılım Hizmetleri Ticaret A.Ş.
-MTRKS    bilişim ve yazılım                                    Matriks Bilgi Dağıtım Hizmetleri A.Ş. 
-EDATA    bilişim ve yazılım                                    E-Data Teknoloji Pazarlama A.Ş.
-MIATK    bilişim ve yazılım                                    Mia Teknoloji A.Ş.
-VBTYZ    bilişim ve yazılım                                    VBT Yazılım A.Ş.
-ARDYZ    bilişim ve yazılım                                    Ard Grup Bilişim Teknolojileri A.Ş
-IDEAS    bilişim ve yazılım                                    İdeal Finansal Teknolojiler ve Danışmanlık A.Ş.
-ESCOM    bilişim ve yazılım                                    Escort Teknoloji Yatırım A.Ş.                         yatırım fikrine, erkenden giriyor.. unicorn peşinde. trade edilecek değil alıp unutulacak şirket.
-FONET    bilişim ve yazılım                                    Fonet Bilgi Teknolojileri A.Ş.
-NETAS    bilişim ve yazılım                                    Netaş Telekomünikasyon A.Ş. 
-PCILT    bilişim ve yazılım                                    PC İletişim ve Medya Hizmetleri Sanayi Ticaret A.Ş. 
-PAPIL    bilişim ve yazılım                                    Papilon Savunma-Güvenlik Sist. Bil. Müh. Hiz. İth.-İhr. Sanayi ve Ticaret A.Ş.
-PKART    bilişim ve yazılım                                    Plastikkart Akıllı Kart İletişim Sistemleri Sanayi ve Ticaret A.Ş.
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Enerji üretim sektörü çeşitli doğal ve fosil kaynakları kullanarak bunları elektrik enerjisine çeviren şirketlerden oluşur. 
 Enerji dağıtım sektörü ise doğal gaz ve elektriğin konut ve sanayiye ulaştırılmasından sorumludur.
 Yenilenebilir enerjide üçüncü çeyrek bilançoları güçlüdür bu noktada realizasyon yapılabilir.
 Enerji şirketleri genele olarak borçluluğu olan şirketlerdir. genel yapıları bu çünkü pahalı maliyetli işler yapıyorlar. Enerji depolama maliyeti var.
-ENJSA *  enerji üretim ve dağıtım    yenilenebilir enerji    sabancı       Enerjisa Enerji A.Ş.
-AKSEN *  enerji üretim ve dağıtım    yenilenebilir enerji                  Aksa Enerji Üretim A.Ş.
-ALARK    enerji üretim ve dağıtım    ihracatı güçlü                        Alarko Holding A.Ş.
-ODAS     enerji üretim ve dağıtım    elektrik                              Odaş Elektrik Üretim Sanayi Ticaret A.Ş.
-    CANTE    enerji üretim ve dağıtım                                      Çan2 Termik A.Ş.
-AKFYE    enerji üretim ve dağıtım                                          Akfen Yenilenebilir Enerji A.Ş.
-ARASE    enerji üretim ve dağıtım                                          Doğu Aras Enerji Yatırımları A.Ş.
-AYDEM    enerji üretim ve dağıtım                                          Aydem Yenilenebilir Enerji A.Ş.
-AKSUE    enerji üretim ve dağıtım                                          Aksu Enerji ve Ticaret A.Ş.
-AHGAZ    enerji üretim ve dağıtım                                          Ahlatcı Doğal Gaz Dağıtım Enerji ve Yatırım A.Ş.
-AKENR    enerji üretim ve dağıtım                                          Akenerji Elektrik Üretim A.Ş.
-AYEN     enerji üretim ve dağıtım                                          Ayen Enerji A.Ş.
-BIOEN    enerji üretim ve dağıtım                                          Biotrend Çevre ve Enerji Yatırımları A.Ş.
-BASGZ    enerji üretim ve dağıtım                                          Başkent Doğalgaz Dağıtım Gayrimenkul Yatırım Ortaklığı A.Ş.
-CONSE    enerji üretim ve dağıtım    glyho                                 Consus Enerji İşletmeciliği ve Hizmetleri A.Ş.
-NTGAZ    enerji üretim ve dağıtım    glyho                                 Naturelgaz Sanayi ve Ticaret A.Ş.
-ENERY    enerji üretim ve dağıtım                                          Enerya Enerji A.Ş.
-GWIND    enerji üretim ve dağıtım    yenilenebilir enerji                  Galata Wind Enerji A.Ş.                hem rüzgar hem de güneş    borçluluğu az (borç favök ratiosu düşük)
-HUNER    enerji üretim ve dağıtım    yenilenebilir enerji                  Hun Yenilenebilir Enerji Üretim A.Ş.
-IZENR    enerji üretim ve dağıtım                                          İzdemir Enerji Elektrik Üretim A.Ş.
-KARYE    enerji üretim ve dağıtım                                          Kartal Yenilenebilir Enerji Üretim A.Ş.
-MANAS    enerji üretim ve dağıtım                                          Manas Enerji Yönetimi Sanayi ve Ticaret A.Ş.
-NATEN    enerji üretim ve dağıtım                                          Naturel Yenilenebilir Enerji Ticaret A.Ş.
-    MAGEN    enerji üretim ve dağıtım    yenilenebilir enerji              Margün Enerji Üretim Sanayi ve Ticaret A.Ş.
-    ESEN     enerji üretim ve dağıtım                                      Esenboğa Elektrik Üretim A.Ş.
-PAMEL    enerji üretim ve dağıtım    inşaat                                Pamukova Yenilenebilir Elektrik Üretimi A.Ş. 
-PRKME    enerji üretim ve dağıtım                                          Park Elektrik Üretim Madencilik Sanayi ve Ticaret A.Ş.
-TATEN    enerji üretim ve dağıtım                                          Tatlıpınar Enerji Üretim A.Ş.
-YAYLA    enerji üretim ve dağıtım                                          Yayla Enerji Üretim Turizm ve İnşaat Ticaret A.Ş.
-ZOREN    enerji üretim ve dağıtım    yenilenebilir enerji                  Zorlu Enerji Elektrik Üretim A.Ş.
-ZEDUR    enerji üretim ve dağıtım                                          Zedur Enerji Elektrik Üretim A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Enerji teknolojileri sektörü; enerji üretimi, iletimi ve dağıtımı için gerekli olan ekipmanların imalatı ve kurulumuyla ilgilenen şirketlerden oluşur. 
 Sektörün imal ettiği ürünler, elektrik üretimi yapmak üzere kurulmuş şirketlerle kendi kullandığı elektriği üretmek isteyen sanayi şirketleri tarafından kullanılır.
 
-SMRTG *  enerji teknolojileri    yenilenebilir enerji    yüksek sipariş          Smart Güneş Enerjisi Teknolojileri Araştırma Geliştirme Üretim Sanayi ve Ticaret A.Ş.
-BRLSM *  enerji teknolojileri    inşaat                                          Birleşim Mühendislik Isıtma Soğutma Havalandırma Sanayi ve Ticaret A.Ş
-EUPWR *  enerji teknolojileri    yüksek sipariş                                  Europower Enerji ve Otomasyon Teknolojileri Sanayi Ticaret A.Ş.
-ALFAS    enerji teknolojileri    ---                                             Alfa Solar Enerji Sanayi ve Ticaret A.Ş.
-ASTOR    enerji teknolojileri    ---                                             Astor Enerji A.Ş.
-CWENE    enerji teknolojileri                                                    CW Enerji Mühendislik Ticaret ve Sanayi A.Ş.
-GESAN    enerji teknolojileri    yenilenebilir enerji                            Girişim Elektrik Sanayi Taahhüt ve Ticaret A.Ş.
-YEOTK    enerji teknolojileri    yenilenebilir enerji                            YEO Teknoloji Enerji ve Endüstri A.Ş.
-ORGE     enerji teknolojileri    inşaat                                          Orge Enerji Elektrik Taahhüt A.Ş.
-SAYAS    enerji teknolojileri                                                    Say Yenilenebilir Enerji Ekipmanları Sanayi ve Ticaret A.Ş.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
