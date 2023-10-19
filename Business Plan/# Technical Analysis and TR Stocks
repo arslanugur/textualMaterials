@@ -289,35 +289,6 @@ Holdingler başka ortaklıkların paylarının bir kısmını ya da tamamını e
 Holdingler çatıları altında çok farklı sektörlerde faaliyetler gösterebilirler.
 https://docs.google.com/spreadsheets/d/1bYjFDQWkggnOeQHgveyPM2oC8mCHBgp1cydGVdbpUtY/edit#gid=337564222
 
-IZINV    holding    İZ Yatırım Holding A.Ş.
-INVEO    holding    Inveo Yatırım Holding A.Ş. 
-GSDHO    holding    Gsd Holding A.Ş.
-AGHOL    holding    AG Anadolu Grubu Holding A.Ş.
-VERUS    holding    Verusa Holding A.Ş.
-    VERTU    girişim sermayesi yatırım ortaklığı    Verusatürk Girişim Sermayesi Yatırım Ortaklığı A.Ş.
-METRO    holding    Metro Ticari ve Mali Yatırımlar Holding A.Ş.
-    MTRYO    menkul kıymet yatırım ortaklığı    Metro Yatırım Ortaklığı A.Ş. 
-BERA     holding    Bera Holding A.Ş.
-    KONKA    kağıt ve kağıt ürünleri               Konya Kağıt Sanayi ve Ticaret A.Ş.
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-HEDEF    holding    Hedef Holding A.Ş.
-    HDFGS    girişim sermayesi yatırım ortaklığı        Hedef Girişim Sermayesi Yatırım Ortaklığı A.Ş.
-    INFO     aracı kurum                                İnfo Yatırım Menkul Değerler A.Ş.
-    IDEAS    bilişim ve yazılım                         İdeal Finansal Teknolojiler ve Danışmanlık A.Ş.
-    RNPOL    kimya ve plastik                           Rainbow Polikarbonat Sanayi Ticaret A.Ş.
-    SEYKM    kimya ve plastik                           Seyitler Kimya Sanayi A.Ş.
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-DOHOL    holding    Doğan Şirketler Grubu Holding A.Ş.                                                        dolar pozitif bir şirket
-    DOBUR    kağıt ve kağıt ürünleri                       Doğan Burda Dergi Yayıncılık ve Pazarlama A.Ş.
-    MIPAZ    gayrimenkul                                   Milpa Ticari ve Sınai Ürünler Pazarlama Sanayi ve Ticaret A.Ş.
-    DITAS    otomotiv yan sanayi                           Ditaş Doğan Yedek Parça İmalat ve Teknik A.Ş. 
-    CELHA    ana metal                                     Çelik Halat ve Tel Sanayii A.Ş.
-    GWIND    enerji üretim ve dağıtım                      Galata Wind Enerji A.Ş.
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-GLYHO *    holding    Global Yatırım Holding A.Ş.
-    CONSE    enerji üretim ve dağıtım                      Consus Enerji İşletmeciliği ve Hizmetleri A.Ş.
-    NTGAZ *  enerji üretim ve dağıtım                      Naturelgaz Sanayi ve Ticaret A.Ş.
-    PEGYO    gayrimenkul                                   Pera Gayrimenkul Yatırım Ortaklığı A.Ş. 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
@@ -376,33 +347,6 @@ Sektörün imal ettiği ürünler, elektrik üretimi yapmak üzere kurulmuş şi
 İnşaat, konut başta olmak üzere fabrika, okul, işyeri, depo, hastane gibi yapıları inşa eden, yol, baraj, köprü, tünel gibi altyapıların yapımını sağlayan sektördür.
 
 Taş, toprak ve çimento sektöründeki şirketler yeraltı ve yerüstü kaynaklardan elde edilen ürünlerin işlenmesi ve inşaat başta olmak üzere çeşitli sektörlere tedarik sağlanmasından sorumludur.
-TKFEN *  inşaat    holding                                     Tekfen Holding A.Ş.
-ENKAI *  inşaat    tbtf                                        Enka İnşaat ve Sanayi A.Ş.
-ANELE    inşaat                                                Anel Elektrik Proje Taahhüt ve Ticaret A.Ş.
-AFYON    taş, toprak, çimento                      sabancı     Afyon Çimento Sanayi T.A.Ş.
-AKCNS    taş, toprak, çimento                      sabancı     Akçansa Çimento Sanayi ve Ticaret A.Ş.
-CIMSA *  taş, toprak, çimento    ihracat yüksek    sabancı     Çimsa Çimento Sanayi ve Ticaret A.Ş.
-BOBET    taş, toprak, çimento                                  Boğaziçi Beton Sanayi ve Ticaret A.Ş.
-BASCM    taş, toprak, çimento                                  Baştaş Başkent Çimento Sanayi ve Ticaret A.Ş.
-BSOKE    taş, toprak, çimento                                  Batısöke Söke Çimento Sanayii T.A.Ş.
-BTCIM    taş, toprak, çimento                                  Batıçim Batı Anadolu Çimento Sanayii A.Ş.
-BRKSN    inşaat                                                Berkosan Yalıtım ve Tecrit Maddeleri Üretim ve Ticaret A.Ş.
-BUCIM    taş, toprak, çimento                                  Bursa Çimento Fabrikası A.Ş.
-CMENT    taş, toprak, çimento                                  Çimentaş İzmir Çimento Fabrikası T.A.Ş.
-CMBTN    inşaat    taş, toprak, çimento                        Çimbeton Hazırbeton ve Prefabrik Yapı Elemanları Sanayi ve Ticaret A.Ş.
-EDIP     inşaat                                                Edip Gayrimenkul Yatırım Sanayi ve Ticaret A.Ş.
-EUREN    inşaat                                                Europen Endüstri İnşaat Sanayi ve Ticaret A.Ş.
-GESAN    inşaat                                                Girişim Elektrik Sanayi Taahhüt ve Ticaret A.Ş.
-GOLTS    taş, toprak, çimento                                  Göltaş Göller Bölgesi Çimento Sanayi ve Ticaret A.Ş.
-KONYA    taş, toprak, çimento                                  Konya Çimento Sanayii A.Ş.
-NIBAS    taş, toprak, çimento                                  Niğbaş Niğde Beton Sanayi ve Ticaret A.Ş.
-NUHCM    taş, toprak, çimento                                  Nuh Çimento Sanayi A.Ş.
-OYAKC    taş, toprak, çimento                                  Oyak Çimento Fabrikaları A.Ş.
-PNLSN    inşaat    imalat                                      Panelsan Çatı Cephe Sistemleri Sanayi ve Ticaret A.Ş.
-SANEL    inşaat                                                San-El Mühendislik Elektrik Taahhüt Sanayi ve Ticaret A.Ş.
-TURGG    inşaat                                                Türker Proje Gayrimenkul ve Yatırım Geliştirme A.Ş.
-YYAPI    inşaat                                                Yeşil Yapı Endüstrisi A.Ş.
-YBTAS    inşaat                                                Yibitaş Yozgat İşçi Birliği İnşaat Malzemeleri Ticaret ve Sanayi A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Ana metal sektörü demir çelik ile bunun dışında kalan diğer alt sektörlerden oluşmaktadır. 
@@ -412,140 +356,33 @@ Sektörün ürünleri inşaat, otomotiv, enerji kimya sektörlerde kullanılmakt
 Madencilik ve taş ocakçılığı sektörü yeraltı kaynaklarının çıkarılması ve işlenmesi faaliyetini yürütmektedir. 
 Demir, bakır, alüminyum, lityum, kömür, altın, gümüş, nikel, grafit, kobalt gibi ürünleri çıkarır ve gerekli sektörlere hammadde tedariğini sağlar.
 
-ALMAD    madencilik ve taş ocakçılığı                 Altınyağ Madencilik ve Enerji Yatırımları Sanayi ve Ticaret A.Ş.
-BMSCH    ana metal                                    Bms Çelik Hasır Sanayi ve Ticaret A.Ş.
-BURVA    ana metal                                    Burçelik Vana Sanayi ve Ticaret A.Ş.
-BURCE    ana metal                                    Burçelik Bursa Çelik Döküm Sanayii A.Ş.
-BMSTL    ana metal                                    BMS Birleşik Metal Sanayi ve Ticaret A.Ş.
-CELHA    ana metal                                    Çelik Halat ve Tel Sanayii A.Ş.
-CEMAS    ana metal                                    Çemaş Döküm Sanayi A.Ş.
-CEMTS    ana metal                                    Çemtaş Çelik Makina Sanayi ve Ticaret A.Ş.
-CUSAN    ana metal                                    Çuhadaroğlu Metal Sanayi ve Pazarlama A.Ş.
-CVKMD    madencilik ve taş ocakçılığı                 CVK Maden İşletmeleri Sanayi ve Ticaret A.Ş.
-DMSAS    ana metal                                    Demisaş Döküm Emaye Mamülleri Sanayi A.Ş.
-DOKTA    ana metal                                    Döktaş Dökümcülük Ticaret ve Sanayi A.Ş.
-ERBOS    ana metal                                    Erbosan Erciyas Boru Sanayii ve Ticaret A.Ş.
-ERCB     ana metal                                    Erciyas Çelik Boru Sanayi A.Ş.
-EREGL    ana metal                                    Ereğli Demir ve Çelik Fabrikaları T.A.Ş. 
-ISDMR    ana metal                                    İskenderun Demir ve Çelik A.Ş.
-IZMDC    ana metal                                    İzmir Demir Çelik Sanayi A.Ş.
-KOZAA *  madencilik ve taş ocakçılığı                 Koza Anadolu Metal Madencilik İşletmeleri A.Ş.
-    KOZAL    madencilik ve taş ocakçılığı                 Koza Altın İşletmeleri A.Ş.
-    IPEKE    madencilik ve taş ocakçılığı                 İpek Doğal Enerji Kaynakları Araştırma ve Üretim A.Ş.
-KRDMA    ana metal                                    Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.
-KRDMB    ana metal                                    Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.
-KRDMD    ana metal                                    Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.
-KCAER *  ana metal                                    Kocaer Çelik Sanayi ve Ticaret A.Ş.                    
-POLTK    ana metal                                    Politeknik Metal Sanayi ve Ticaret A.Ş.
-SARKY    ana metal    madencilik ve taş ocakçılığı    Sarkuysan Elektrolit Bakır Sanayi ve Ticaret A.Ş.
-SAYAS    ana metal                                    Say Yenilenebilir Enerji Ekipmanları Sanayi ve Ticaret A.Ş
-TUCLK    ana metal                                    Tuğçelik Alüminyum ve Metal Mamülleri Sanayi ve Ticaret A.Ş.
-YKSLN    ana metal                                    Yükselen Çelik A.Ş. 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Metal eşya ve makine sektörü, sanayi içinde yatırım mallarını üreten sektördür. 
 Diğer sektörlerde kullanılan makinelerin, bu makinelere ilişkin ekipman ve yedek parçaların üretiminden sorumludur.
-BMSCH    metal eşya ve makine                            Bms Çelik Hasır Sanayi ve Ticaret A.Ş. 
-ERCB     metal eşya ve makine                            Erciyas Çelik Boru Sanayi A.Ş.
-FORMT    metal eşya ve makine                            Formet Çelik Kapı Sanayi ve Ticaret A.Ş.
-GEREL    metal eşya ve makine                            Gersan Elektrik Ticaret ve Sanayi A.Ş.
-HKTM     metal eşya ve makine                            Hidropar Hareket Kontrol Teknolojileri Merkezi Sanayi ve Ticaret A.Ş.
-IMASM    metal eşya ve makine                            İmaş Makina Sanayi A.Ş. 
-KATMR    metal eşya ve makine                            Katmerciler Araç Üstü Ekipman Sanayi ve Ticaret A.Ş.
-KLMSN    metal eşya ve makine                            Klimasan Klima Sanayi ve Ticaret A.Ş.
-MAKIM    metal eşya ve makine                            Makim Makina Teknolojileri San. Tic. A.Ş.
-MAKTK    metal eşya ve makine                            Makina Takım Endüstrisi A.Ş.
-PRKAB    metal eşya ve makine                            Türk Prysmian Kablo ve Sistemleri A.Ş. 
-SAFKR    metal eşya ve makine                            Safkar Ege Soğutmacılık Klima Soğuk Hava Tesisleri İhracat İthalat Sanayi ve Ticaret A.Ş.
-ULUSE    metal eşya ve makine                            Ulusoy Elektrik İmalat Taahhüt ve Ticaret A.Ş.
-SNICA    metal eşya ve makine                            Sanica Isı Sanayi A.Ş.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Kağıt ve kağıt ürünleri sektörü gündelik hayatın her alanında ihtiyaç duyulan basım ve ambalaj ürünlerine ara mal üretimi yapmaktadır. 
 Eğitim, sağlık, sanayi, iletişim gibi sektörlerde yoğun olarak kağıt ve kağıt ürünleri kullanılmaktadır.
 
-ALKA     kağıt ve kağıt ürünleri                       Alkim Kağıt Sanayi ve Ticaret A.Ş.
-DOBUR    kağıt ve kağıt ürünleri                       Doğan Burda Dergi Yayıncılık ve Pazarlama A.Ş.
-DURDO    kağıt ve kağıt ürünleri                       Duran Doğan Basım ve Ambalaj Sanayi A.Ş.
-HURGZ    kağıt ve kağıt ürünleri                       Hürriyet Gazetecilik ve Matbaacılık A.Ş.
-IHGZT    kağıt ve kağıt ürünleri                       İhlas Gazetecilik A.Ş. 
-KARTN    kağıt ve kağıt ürünleri                       Kartonsan Karton Sanayi ve Ticaret A.Ş.
-KONKA    kağıt ve kağıt ürünleri                       Konya Kağıt Sanayi ve Ticaret A.Ş.
-MNDTR    kağıt ve kağıt ürünleri    ambalaj            Mondi Turkey Oluklu Mukavva Kağıt ve Ambalaj Sanayi A.Ş.
-PRZMA    kağıt ve kağıt ürünleri                       Prizma Pres Matbaacılık Yayıncılık Sanayi ve Ticaret A.Ş.
-SAMAT    kağıt ve kağıt ürünleri                       Saray Matbaacılık Kağıtçılık Kırtasiyecilik Ticaret ve Sanayi A.Ş. 
-TEZOL    kağıt ve kağıt ürünleri    ihracatı yüksek    Europap Tezol Kağıt Sanayi ve Ticaret A.Ş.                            %32 ihracat, tuvalet kağıdı
-VKING    kağıt ve kağıt ürünleri                       Viking Kağıt ve Selülöz A.Ş. 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Ambalaj sektörü sanayi ve perakendenin her dalına destek sağlayan sektörlerden biri. 
 Bu sektörde firmalar plastik, kağıt, karton, cam, metal ve ahşap gibi ürünleri kullanarak üretim yapmaktadırlar.
 
 Ambalaj şirketleri tüketime bakar. tüketim olmazsa yükselmez.
-GEDZA    ambalaj    Gediz Ambalaj Sanayi ve Ticaret A.Ş.
-OZRDN    ambalaj    Özerden Ambalaj Sanayi A.Ş.                 finansal durumu iyi, kağıt küçük.. small cap - fazla yatırma
-BAKAB    ambalaj    Bak Ambalaj Sanayi ve Ticaret A.Ş. 
-BARMA    ambalaj    Barem Ambalaj Sanayi ve Ticaret A.Ş. 
-BNTAS    ambalaj    Bantaş Bandırma Ambalaj Sanayi Ticaret A.Ş.
-DURDO    ambalaj    Duran Doğan Basım ve Ambalaj Sanayi A.Ş.
-EMNIS    ambalaj    Eminiş Ambalaj Sanayi ve Ticaret A.Ş.
-KAPLM    ambalaj    Kaplamin Ambalaj Sanayi ve Ticaret A.Ş.
-SEKUR    ambalaj    Sekuro Plastik Ambalaj Sanayi A.Ş.
-KRPLS    ambalaj    Koroplast Temizlik Ambalaj Ürünleri Sanayi ve Dış Ticaret A.Ş. 
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Cam sanayi inşaat, otomobil, ambalaj gibi alanlara ürün veren temel sanayi sektörlerinden biridir. 
 Porselen, seramik, granit gibi ürünler de inşaat, dekorasyon, ambalaj gibi sektörlerde yaygın olarak kullanılır.
 doğal gaz maliyeti var.
-SISE *   cam, seramik, porselen    tbtf    döviz fazlası    Dayanıklı Tüketim Malları    kimya ve plastik    Türkiye Şişe ve Cam Fabrikaları A.Ş.
-BIENY    cam, seramik, porselen            Bien Yapı Ürünleri Sanayi Turizm ve Ticaret A.Ş.
-EGSER    cam, seramik, porselen            Ege Seramik Sanayi ve Ticaret A.Ş.
-KLSER    cam, seramik, porselen            Kaleseramik, Çanakkale Kalebodur Seramik Sanayi A.Ş.
-KUTPO    cam, seramik, porselen            Kütahya Porselen Sanayi A.Ş.
-QUAGR    cam, seramik, porselen            QUA Granite Hayal Yapı ve Ürünleri Sanayi Ticaret A.Ş.
-USAK     cam, seramik, porselen            Uşak Seramik Sanayi A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Kimya ve plastik sektörü pek çok sektöre ara mal ve hammadde tedariği yapmaktadır. 
 Tarım ilaçları, gübreler, sentetik malzemeler, temizlik ürünleri, kozmetik ürünler, boya, plastik hammaddeleri, petro-kimya ürünleri bu sektör tarafından üretilir.
 gübre, petrolden beslenir... petrol fiyatı yukarı gittiği zman gübre şirketleri yükselirdi eskiden. şimdi ise anomali olabilir..
-KOPOL    kimya ve plastik                        Koza Polyester Sanayi ve Ticaret A.Ş.    polyester ve elyaf üretimi
-BRISA    kimya ve plastik    sabancı             Brisa Bridgestone Sabancı Lastik Sanayi ve Ticaret A.Ş.
-KORDS    kimya ve plastik    sabancı             Kordsa Teknik Tekstil A.Ş.
-SASA     kimya ve plastik    imalat    sanayi    tekstil    Sasa Polyester Sanayi A.Ş.        erdemoğlu holding
-TUPRS    kimya ve plastik                        TÜPRAŞ - Türkiye Petrol Rafinerileri A.Ş. 
-PETKM    kimya ve plastik                        Petkim Petrokimya Holding A.Ş.
-AKSA     kimya ve plastik    tekstil                        Aksa Akrilik Kimya Sanayii A.Ş.
-ALKIM    kimya ve plastik                        Alkim Alkali Kimya A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 1. ve 4. çeyrekte gübre şirketlerin bilançoları iyi olur... al bi gübre şirketini 6 ay bekle...
-RNPOL    kimya ve plastik                                Rainbow Polikarbonat Sanayi Ticaret A.Ş.
-    SEYKM    kimya ve plastik                            Seyitler Kimya Sanayi A.Ş.
-POLHO    kimya ve plastik    holding                     Polisan Holding A.Ş.
-TARKM    kimya ve plastik                                Tarkim Bitki Koruma Sanayi ve Ticaret A.Ş. 
-ACSEL    kimya ve plastik                                Acıselsan Acıpayam Selüloz Sanayi ve Ticaret A.Ş.
-BAGFS    kimya ve plastik                                Bagfaş Bandırma Gübre Fabrikaları A.Ş.
-CASA     kimya ve plastik                                Casa Emtia Petrol Kimyevi ve Türevleri Sanayi Ticaret A.Ş.
-DNISI    kimya ve plastik                                Dinamik Isı Makina Yalıtım Malzemeleri Sanayi ve Ticaret A.Ş.
-DYOBY    kimya ve plastik                                Dyo Boya Fabrikaları Sanayi ve Ticaret A.Ş.
-EGGUB    kimya ve plastik                                Ege Gübre Sanayii A.Ş.
-EKIZ     kimya ve plastik                                Ekiz Kimya Sanayi ve Ticaret A.Ş.
-EPLAS    kimya ve plastik                                Egeplast Ege Plastik Ticaret ve Sanayi A.Ş.
-EGPRO    kimya ve plastik                                Ege Profil Ticaret ve Sanayi A.Ş.
-GOODY    kimya ve plastik                                Goodyear Lastikleri T.A.Ş.
-ISSEN    kimya ve plastik                                İşbir Sentetik Dokuma Sanayi A.Ş.
-ISKPL    kimya ve plastik                                Işık Plastik Sanayi ve Dış Ticaret Pazarlama A.Ş.
-IZFAS    kimya ve plastik                                İzmir Fırça Sanayi ve Ticaret A.Ş.
-KLKIM    kimya ve plastik                                Kalekim Kimyevi Maddeler Sanayi ve Ticaret A.Ş.
-KMPUR    kimya ve plastik                                Kimteks Poliüretan Sanayi ve Ticaret A.Ş.
-MERCN    kimya ve plastik                                Mercan Kimya Sanayi ve Ticaret A.Ş.
-MEGAP    kimya ve plastik                                Mega Polietilen Köpük Sanayi A.Ş.
-MRSHL    kimya ve plastik                                Marshall Boya ve Vernik Sanayii A.Ş.
-SANFM    kimya ve plastik                                Sanifoam Sünger Sanayi ve Ticaret A.Ş.
-SEKUR    kimya ve plastik                                Sekuro Plastik Ambalaj Sanayi A.Ş.
-SODSN    kimya ve plastik                                Sodaş Sodyum Sanayii A.Ş.
-TRCAS    kimya ve plastik                                Turcas Petrol A.Ş.
-TMPOL    kimya ve plastik                                Temapol Polimer Plastik ve İnşaat Sanayi Ticaret A.Ş.
-UZERB    kimya ve plastik                                Uzertaş Boya Sanayi Ticaret ve Yatırım A.Ş.
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Perakende sektörü üreticiyle tüketici arasındaki köprü görevini üstlenen ve malların nihai tüketiciye ulaşmasını sağlayan sektördür. 
 Market zincirleri, otomobil distribütörleri, teknoloji marketleri bu sektörün en bilinen oyuncularıdır.
@@ -578,144 +415,21 @@ ETILR    toptan ve perakende ticaret                                            
 PSDTC    toptan ve perakende ticaret                                                Pergamon Status Dış Ticaret A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-PNSUT    gıda-içecek                        Pınar Süt Mamülleri Sanayi A.Ş.                yaşar holding
-    PETUN    gıda-içecek                       Pınar Entegre Et ve Un Sanayii A.Ş.
-    PINSU    gıda-içecek                       Pınar Su Sanayi ve Ticaret A.Ş.
-    DYOBY    kimya ve plastik                  Dyo Boya Fabrikaları Sanayi ve Ticaret A.Ş.
-    VKING    kağıt ve kağıt ürünleri           Viking Kağıt ve Selülöz A.Ş. 
-    AYCES    turizm                            Altın Yunus Çeşme Turistik Tesisler A.Ş.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Gıda ve içecek sektörü, her türlü sebze, meyve üretimi ve işlenmesi, et ürünlerinin imalatı ve işlenmesi, süt ürünlerinin imalatı ve işlenmesi, alkollü ve alkolsüz içeceklerin imalatı, şişelenmesi ve dağıtımı faaliyetlerini yürütmektedir.
-AEFES    gıda-içecek    yabancı alımlı                             Anadolu Efes Biracılık ve Malt Sanayii A.Ş.
-CCOLA    gıda-içecek    yabancı alımlı                             Coca-Cola İçecek A.Ş.
-ULKER    gıda-içecek    yabancı alımlı                             Ülker Bisküvi Sanayi A.Ş.
-BIGCH    gıda-içecek    yabancı alımlı                             Büyük Şefler Gıda Turizm Tekstil Danışmanlık Organizasyon Eğitim Sanayi ve Ticaret A.Ş. 
-OYLUM    gıda-içecek    holding                                     Oylum Sınai Yatırımlar A.Ş.
-ULUUN    gıda-içecek    ihracatı yüksek                             Ulusoy Un Sanayi ve Ticaret A.Ş.
-YYLGD    gıda-içecek    ihracatı yüksek                             Yayla Agro Gıda Sanayi ve Ticaret A.Ş. 
-AVOD     gıda-içecek                                                A.V.O.D. Kurutulmuş Gıda ve Tarım Ürünleri A.Ş.
-ATAKP    gıda-içecek                                                Atakey Patates Gıda Sanayi ve Ticaret A.Ş.
-BYDNR    gıda-içecek                                                Baydöner Restoranları A.Ş.
-BANVT    gıda-içecek                                                Banvit Bandırma Vitaminli Yem Sanayii A.Ş.
-DARDL    gıda-içecek                                                Dardanel Önentaş Gıda Sanayi A.Ş.
-EKSUN    gıda-içecek                                                Eksun Gıda Tarım Sanayi ve Ticaret A.Ş.
-ELITE    gıda-içecek                                                Elite Naturel Organik Gıda Sanayi ve Ticaret A.Ş. 
-ERSU     gıda-içecek                                                Ersu Meyve ve Gıda Sanayi A.Ş.
-FADE     gıda-içecek                                                Fade Gıda Yatırım Sanayi Ticaret A.Ş.
-FRIGO    gıda-içecek                                                Frigo-Pak Gıda Maddeleri Sanayi ve Ticaret A.Ş.
-GRTRK    gıda-içecek                                                Graınturk Tarım A.Ş. 
-GOKNR    gıda-içecek                                                Göknur Gıda Maddeleri Enerji İmalat İthalat İhracat Ticaret ve Sanayi A.Ş.
-KENT     gıda-içecek                                                Kent Gıda Maddeleri Sanayii ve T.A.Ş.
-KAYSE    gıda-içecek                                                Kayseri Şeker Fabrikası A.Ş.
-KUVVA    gıda-içecek                                                Kuvva Gıda Ticaret ve Sanayi Yatırımları A.Ş.
-KRSTL    gıda-içecek                                                Kristal Kola ve Meşrubat Sanayi T.A.Ş.
-KRVGD    gıda-içecek                                                Kervan Gıda Sanayi ve Ticaret A.Ş.
-KNFRT    gıda-içecek                                                Konfrut Gıda Sanayi ve Ticaret A.Ş.
-KTSKR    gıda-içecek                                                Kütahya Şeker Fabrikası A.Ş.
-MERKO    gıda-içecek                                                Merko Gıda Sanayi ve Ticaret A.Ş.
-OFSYM    gıda-içecek                                                Ofis Yem Gıda Sanayi ve Ticaret A.Ş.
-ORCAY    gıda-içecek                                                Orçay Ortaköy Çay Sanayi ve Ticaret A.Ş.
-PENGD    gıda-içecek                                                Penguen Gıda Sanayi A.Ş.
-SOKE     gıda-içecek                                                Söke Değirmencilik Sanayi ve Ticaret A.Ş.
-SELVA    gıda-içecek                                                Selva Gıda Sanayi A.Ş.
-SELGD    gıda-içecek                                                Selçuk Gıda Endüstri İhracat İthalat A.Ş.
-TBORG    gıda-içecek                                                Türk Tuborg Bira ve Malt Sanayii A.Ş.
-TUKAS    gıda-içecek                                                Tukaş Gıda Sanayi ve Ticaret A.Ş.
-TATGD    gıda-içecek                                                Tat Gıda Sanayi A.Ş.
-TETMT    gıda-içecek                                                Tetamat Gıda Yatırımları A.Ş.
-VANGD    gıda-içecek                                                Vanet Gıda Sanayi İç ve Dış Ticaret A.Ş.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Savunma sanayi sektörü askeri teknolojinin üretimini ve satışını gerçekleştirmektedir. 
 Silahlı ürünlerin, askeri haberleşme sistemlerinin, askeri teçhizatların araştırma ve geliştirme faaliyetlerini yürütmektedir.
-PAPIL    savunma              Papilon Savunma-Güvenlik Sistemleri Bilişim Mühendislik Hizmetleri İthalat İhracat Sanayi ve Ticaret A.Ş.
-SDTTR    savunma              SDT Uzay ve Savunma Teknolojileri A.Ş. 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Haberleşme sektörü her türlü ulusal ve uluslararası iletişim altyapısından sorumludur. 
 Kablosuz operatör, internet servis sağlayıcılığı, uydu hizmetleri gibi temel iletişim faaliyetlerini yürütmektedir.
-TCELL *  haberleşme            Turkcell İletişim Hizmetleri A.Ş. 
-TTKOM *  haberleşme            Türk Telekomünikasyon A.Ş.
-ALCTL    haberleşme            Alcatel Lucent Teletaş Telekomünikasyon A.Ş. 
-KRONT    haberleşme            Kron Telekomünikasyon Hizmetleri A.Ş.
-NETAS    haberleşme            Netaş Telekomünikasyon A.Ş. 
-IHAAS    haberleşme            İhlas Haber Ajansı A.Ş.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 İmalat bir yarı mamulün ya da bir hammaddenin işlenerek bir sanayi ürününe ya da ara mala dönüştürülmesi faaliyetidir. 
 Bu süreçte makineler ve insan gücü ayrı ayrı ya da birlikte kullanılabilir. İmalat sektörü ağır ve hafif sanayi olarak ikiye ayrılır.
-ASELS *  savunma   imalat         yüksek sipariş         Aselsan Elektronik Sanayi ve Ticaret A.Ş.
-ARCLK *  imalat    dayanıklı tüketim ürünleri    tbtf    Arçelik A.Ş.
-ALCAR    imalat    dayanıklı tüketim ürünleri            Alarko Carrier Sanayi ve Ticaret A.Ş.
-ARZUM    imalat    dayanıklı tüketim ürünleri            Arzum Elektrikli Ev Aletleri Sanayi ve Ticaret A.Ş.
-IHEVA    imalat    dayanıklı tüketim ürünleri            İhlas Ev Aletleri İmalat Sanayi ve Ticaret A.Ş.
-SILVR    imalat    dayanıklı tüketim ürünleri            Silverline Endüstri ve Ticaret A.Ş.
-KLMSN    imalat    dayanıklı tüketim ürünleri            Klimasan Klima Sanayi ve Ticaret A.Ş.
-VESBE              dayanıklı tüketim ürünleri    elektronik        ihracatı güçlü    Vestel Beyaz Eşya Sanayi ve Ticaret A.Ş.
-VESTL              dayanıklı tüketim ürünleri    sanayi                              Vestel Elektronik Sanayi ve Ticaret A.Ş.
-EREGL *  imalat    demir-çelik    tbtf                   Ereğli Demir ve Çelik Fabrikaları T.A.Ş.
-   ISDMR imalat    demir-çelik                               İskenderun Demir ve Çelik A.Ş.
-KRDMA *  imalat    demir-çelik    bilançosu iyi gibi               Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.
-KRDMB    imalat                                                    Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.
-KRDMD    imalat                                                    Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.
-AYES     imalat                                                Ayes Çelik Hasır ve Çit Sanayi A.Ş.
-ALKIM    imalat                                                Alkim Alkali Kimya A.Ş.
-ADEL     imalat    Dayanıklı Tüketim Malları                  Adel Kalemcilik Ticaret ve Sanayi A.Ş.
-CEMTS    imalat    bilançosu iyi                              Çemtaş Çelik Makina Sanayi ve Ticaret A.Ş.
-DOKTA    imalat    otomotiv yan sanayi                        Döktaş Dökümcülük Ticaret ve Sanayi A.Ş. 
-FMIZP    imalat    otomotiv yan sanayi                        Federal-Mogul İzmit Piston ve Pim Üretim Tesisleri A.Ş.
-BRISA    imalat    otomotiv yan sanayi                                  Brisa Bridgestone Sabancı Lastik Sanayi ve Ticaret A.Ş.
-JANTS    imalat    otomotiv yan sanayi            ihracat yüksek        Jantsa Jant Sanayi ve Ticaret A.Ş.
-KORDS    imalat                                                Kordsa Teknik Tekstil A.Ş.
-KATMR    imalat    otomotiv yan sanayi                         Katmerciler Araç Üstü Ekipman Sanayi ve Ticaret A.Ş.
-SUMAS    imalat    mobilya ve dekorasyon                       Sumaş Suni Tahta ve Mobilya Sanayi A.Ş.
-GENTS    imalat    mobilya ve dekorasyon                       Gentaş Dekoratif Yüzeyler Sanayi ve Ticaret A.Ş.
-AKSA     imalat                                                Aksa Akrilik Kimya Sanayii A.Ş.
-BAYRK    imalat                                                Bayrak Ebt Taban Sanayi ve Ticaret A.Ş.
-BFREN    imalat    otomotiv yan sanayi    yatırım ortaklığı    Bosch Fren Sistemleri Sanayi ve Ticaret A.Ş.
-BNTAS    imalat                                                Bantaş Bandırma Ambalaj Sanayi Ticaret A.Ş.
-BURVA    imalat                                                Burçelik Vana Sanayi ve Ticaret A.Ş.
-BOSSA    imalat                                                Bossa Ticaret ve Sanayi İşletmeleri T.A.Ş.
-BRSAN *  imalat    ana metal    yabancı alımlı                 Borusan Mannesmann Boru Sanayi ve Ticaret A.Ş.
-BVSAN    imalat                                                Bülbüloğlu Vinç Sanayi ve Ticaret A.Ş.
-BURCE    imalat                                                Burçelik Bursa Çelik Döküm Sanayii A.Ş.
-BALAT    imalat                                                Balatacılar Balatacılık Sanayi ve Ticaret A.Ş.
-BRKO     imalat                                                Birko Birleşik Koyunlulular Mensucat Ticaret ve Sanayi A.Ş.
-BRMEN    imalat                                                Birlik Mensucat Ticaret ve Sanayi İşletmesi A.Ş.
-CELHA    imalat                                                Çelik Halat ve Tel Sanayii A.Ş. 
-CEMAS    imalat                                                Çemaş Döküm Sanayi A.Ş.
-CUSAN    imalat                                                Çuhadaroğlu Metal Sanayi ve Pazarlama A.Ş.x
-DMSAS    imalat                                                Demisaş Döküm Emaye Mamülleri Sanayi A.Ş.
-DERHL    imalat                                                Derlüks Yatırım Holding A.Ş.
-DOGUB    imalat                                                Doğusan Boru Sanayii ve Ticaret A.Ş.
-ERBOS    imalat                                                Erbosan Erciyas Boru Sanayii ve Ticaret A.Ş.
-EPLAS    imalat                                                Egeplast Ege Plastik Ticaret ve Sanayi A.Ş.
-EMKEL    imalat                                                Emek Elektrik Endüstrisi A.Ş.
-FORMT    imalat                                                Formet Çelik Kapı Sanayi ve Ticaret A.Ş.
-GUBRF    imalat                                                Gübre Fabrikaları T.A.Ş.
-GIPTA    imalat                                                Gıpta Ofis Kırtasiye ve Promosyon Ürünleri İmalat Sanayi A.Ş.
-GEDZA    imalat                                                Gediz Ambalaj Sanayi ve Ticaret A.Ş.
-GEREL    imalat                                                Gersan Elektrik Ticaret ve Sanayi A.Ş.
-HKTM     imalat                                                Hidropar Hareket Kontrol Teknolojileri Merkezi Sanayi ve Ticaret A.Ş.
-IZMDC    imalat                                                İzmir Demir Çelik Sanayi A.Ş.
-IZFAS    imalat                                                İzmir Fırça Sanayi ve Ticaret A.Ş.
-KCAER    imalat                                                Kocaer Çelik Sanayi ve Ticaret A.Ş.
-KLKIM    imalat                                                Kalekim Kimyevi Maddeler Sanayi ve Ticaret A.Ş.
-KARTN    imalat                                                Kartonsan Karton Sanayi ve Ticaret A.Ş.
-KAPLM    imalat                                                Kaplamin Ambalaj Sanayi ve Ticaret A.Ş.
-MAKIM    imalat                                                Makim Makina Teknolojileri San. Tic. A.Ş.
-MRSHL    imalat                                                Marshall Boya ve Vernik Sanayii A.Ş.
-ORMA     imalat                                                Orma Orman Mahsulleri Entegre Sanayi ve Ticaret A.Ş.
-POLTK    imalat                                                Politeknik Metal Sanayi ve Ticaret A.Ş.
-PNLSN    imalat                                                Panelsan Çatı Cephe Sistemleri Sanayi ve Ticaret A.Ş.
-PRKAB    imalat                                                Türk Prysmian Kablo ve Sistemleri A.Ş.
-RNPOL    imalat                                                Rainbow Polikarbonat Sanayi Ticaret A.Ş.
-SNICA    imalat                                                Sanica Isı Sanayi A.Ş.
-SAYAS    imalat                                                Say Yenilenebilir Enerji Ekipmanları Sanayi ve Ticaret A.Ş.
-SAFKR    imalat                                                Safkar Ege Soğutmacılık Klima Soğuk Hava Tesisleri İhracat İthalat Sanayi ve Ticaret A.Ş.
-TUCLK    imalat                                                Tuğçelik Alüminyum ve Metal Mamülleri Sanayi ve Ticaret A.Ş.
-ULUSE    imalat                                                Ulusoy Elektrik İmalat Taahhüt ve Ticaret A.Ş.
-YKSLN    imalat                                                Yükselen Çelik A.Ş.
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Mobilya ve Dekorasyon sektörü, dekoratif ürünler ve masa, sehpa, sandalye, koltuk, dolap, karyola gibi mobilyaların tasarımı, planlaması ve üretimi faaliyetlerini yürütmektedir.
