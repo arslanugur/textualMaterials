@@ -1,0 +1,73 @@
+# Finite mathematics
+Annuity
+  Eşit zaman aralıklarıyla tekrarlanan genellikle eşit miktarlı ödemeler serisidir.							
+
+
+Ordinary Annuity
+  Ödemeler her periodun sonunda olacak denilerek sisteme dahil olunur							
+	      Emeklilik ve sigorta prim ödemeleri gibi						
+							
+Gelecek Değer (Future Value)
+  Bir sistemde tüm yapılan eşit ödemeler ile elde edilen faiz gelirinin toplamıdır.							
+	  Mesela 10 yıl para biriktirmek istiyoruz... 10 yıl sonra bir para birikmesi olacak...						
+	  İlerde birikmesini istediğimiz para hedefi belliyse ödemelerin ne kadar yapılması gerektiğinin hesaplanması gerçekleştirilecek						
+	  Biz ödedikçe ödediğimiz paranın üzerine bileşik faizler, bir de ordan faiz gelirimiz olacak
+
+
+# Annuity'lerde Gelecek Değer Hesaplama...
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Formula:	FV = PMT * (1+i)^n -1 /i 					
+		  FV   Future value				
+		  PMT  Eşit miktarda yaptığımız periodik ödemeler				
+		  i    Period için faiz oranı				r/m=i		r=yıllık faiz oranı, m=1 yıldaki period sayısı		
+		  n    Toplam period sayısı (ödeme sayısı)	number of payment/period
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  Soru: Bir çalışan her 2 ayda bir aldığı 1.500 tl tutarındaki ikramilerini tassaruf amacıyla bir bankaya yatırmaktadır						
+        Banka yıllık %6 faiz uyguladığına göre 7.yıl sonunda ne kadar para biriktirmiş olur?
+        Future Value aranır..
+        her 2 ayda bir para yatırıyor...
+            m = 1 yıl için 6 period olacak 
+            r = 0.06
+            r/m=i    = 
+            n = 7 yıl ödeme yapacak, yılda 6 adet period var  ---> 7.6 = 42 = n
+
+        FV = 1,500 * (1+1.01)^42 -1 /1.01 
+        FV = 77,181.48 (hem ödemelerden hem de faizden parası var.)
+
+  Ek Soru: Ne kadar faiz kazancı?
+        77,181.48 - 42 * 1500 = 14,818.48  faizden para kazanmış
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  Soru: What is the value of an annuity at the end of 20 years if $2000 is deposited each year into an account earning %8.5 compounded annually?
+        How much of this value is interest?
+
+        FV = 2000
+         m = 1           (yılda bir kez yatırıyor)
+         n = m*20 = 20   (toplam period sayısı)
+         r = 0.085
+
+        FV = 2000 * (1+ 0.085/1)^20 -1 /0.085/1
+        FV = 96,754.03
+
+        Ne kadarı faiz...
+        2000$ * 20 yıl ödedi = 40,000 ana para
+                                            96,754.03 - 40,000 = 56,754.03 faiz geliri...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+https://www.youtube.com/watch?v=TLHtFYz2Snc&list=PLcNWqzWzYG2sHIneJFRvfHCtFifbtQU3A&index=20
+
+
+# Annuity'lerde Bugünkü Değer Hesaplama...
+
+
+
+
+
+
+
+
+
+
+
+
