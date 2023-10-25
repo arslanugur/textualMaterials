@@ -12,7 +12,7 @@
                                     |
         I = Amps = Current          |  V = Volts = Voltage (E)
         -----------------------------------------------------
-        P = Power = Watts           |  R = Resist = Ohm (Ω)
+        P = Power = Watts           |  R = Resist = Ohms (Ω)
                                     |
         P = V * I                   |             R = V / I
         P = I^2 * R                 |             R = V^2 / P
