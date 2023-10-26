@@ -1,0 +1,193 @@
+# Binary System:
+    Computer: 1 and 0
+
+Elektronik cihazlar nasıl çalışır
+
+Elektromanyetik dalgalar...
+    üzerinde bilgi taşıyan bu dalgalara "sinyal" denir.
+    ---> varying voltage signal...
+
+
+Sinyaller arası iletişim iki şekilde oluyor
+    Analog - zaman içinde durmaksızın değişen sinyal.                            analog saatin sürekli dönmesi...
+    Dijital - süreğen bir sinyal olan zaman ksintili aralıklara bölünür..        telefondaki saatin birden takibindeki dakikaya geçmesi 
+
+    Olgu: Zaman
+    Analog sinyal: sürekli şekilde bilgiye dönüşme            bir yerden bi yere gönderilen sinyalin her parçası veri/bilgi dolu... kesilmemeli, sapmamalı. saparsa değişir.
+    Dijital sinyal: kesintili aralıklarla bilgiye dönüşme      aynı elektronik dalgayı farklı şekilde yorumlayarak işi çözer.
+                                                                      sinyalin volt cinsinden büyüklüğü belli bir aralığa denk gelirse o sinyali dikkate alıyoruz. yoksa görmezden geliriz.
+                                                                on/off - analogtaki belirsizliği ortadan kaldırıyor.
+
+Modern elektronik devrelerde bu quantizasyon 5 volt ve 0 volt olarak yapılır.
+  binary system, aslında bu volt değerlerinden geliyor.
+
+
+
+Binary bir sayma sistemidir aslında, tıpkı "çetele tutma sistemi" gibi - çentik atmak ama aşırı verimsiz...
+      "Çetele - Sıklık" belirten bir ölçüm sistemi - Örn: Çetele-Sıklık Tablosu ve 5lik bir öbek oluşturmak
+      tek tek günleri saymak yerine, 5'li öbekler halinde daha hızlı saymak mümkün oluyor. 
+
+      bizim kullandığımız 10lu sayı sistemi daha verimli ve 10 tane parmağımız var.. babil sayma sistemi ise 12li parmak boğumları kullanılır ve dakika ve saatlerdeki 60 sayısıda ordan geliyor...
+      çentik yerine rakam denilen sembol kullanmak. ---> 0123456789
+      bir şey kendini 7 kez tekrar ediyorsa onu 7 sayısıyla ifade etmek, yedi çentik yerine.. roma rakamları bu çentik sistemi için benzer bir örnek olabilir.
+
+      ama bu sistemin asıl verimliliği basamaklardan yararlanması...
+      aslında 5 = 5.00 = 5.00000000000000+ 
+              her sayının sonunda sonsuza kadar giden bir sıfır var ama görmezden gelinir...
+      aslında 5 = 05 = 0005 bizim için aynı...
+
+      basamaklarda ise hayali sıfırı 1 arttırıyoruz.
+      birinci hane 9a her ulaştığında ikinci hane 1 arttırılır...
+      99 ulaşıldığında hayali sıfır tekrar 1 olur yüzler basamağına geçiyor...
+
+
+      her basamak gizliden gizliye bir çarpım işlemi saklar..
+
+                    6.bas  5.bas  4.bas  3.bas  2.bas  1.bas
+
+örnek sayı:                 8      5      3      6       9
+
+                    10^5    10^4   10^3   10^2   10^1    10^0   ile çarp   (10 sayısı kullandığımız 10luk sayı sistemindeki tabana karşılık gelir.)
+                                                         (sağdan sola doğru kaçıncı hanede olduğumuzu gösterir.)
+                                                                         (eğer ikili sistemde saysaydık her basamağı 2 üzeri(2^n) bir sayıyla çarpıyor olurduk...)
+                    100000  10000  1000   100    10      1      --> basamaklar
+                            80000  5000   300    60      9      yapar
+
+      bu sayı sistemi büyük sayıları ifad etme konusunda müthiş bir verimlilik sağlıyor.
+
+İkili Sistem:
+  Nesnelerin sayısı belirtmek için 10 yerine 2 sembol kullanıyoruz... 0 ve 1
+      0 ve 1 birer sembol
+      1 = 01 = 001 = 00001 = 000001       bunların hepsi aynı... ve sonsuz tane sıfır var.
+
+      00, 01, 10, 11, 100, 101, 110, 111, 1000, 1001, 1010, 1011, 1100, 1101, 1110, 1111, 10000, 10001 diye gidiyor...
+       0,  1,  2,  3,   4,   5,   6,   7,    8,    9    10,   11,   12,   13,   14,   15,    16,    17 bu daha bizim sistemde nasıl gidiyora örnek... yani 10 ikili sistemde ama bizim sistemde 2 oluyor..
+
+# Bilgisayarın evrimi, mekanik ve fiziksel yapısıyla uyumlu olması için binary system kullanılıyor... Electronics
+    Elektronik cihazların en temel özelliği: on/off
+
+    on  = 1          devredeki akan elektrik akımının voltajı, 5 volta her ulaştığında ... 1 olarak sayılır...
+    off = 0          devredeki akan elektrik akımının voltajı, 0 volta her düştüğünde  ... 0 olarak ifade ediyoruz... 
+
+    bu şeklide bütün devre elemanları sayı sayabiliyor ve işlem yapabiliyor...
+
+
+# Bilgisayar sadece elektrik devresinden ibaret, 1i kavrayamaz.
+  ona bişeyler yaptıracaksan elektriği kullanmak zorundasın.
+
+    on  = 1          devredeki akan elektrik akımının voltajı, 5 volta her ulaştığında ... 1 olarak sayılır...
+    off = 0          devredeki akan elektrik akımının voltajı, 0 volta her düştüğünde  ... 0 olarak ifade ediyoruz... 
+
+    bilgisayara işlem yaptırabiliyoruz... gödel...
+
+# transistör: bir devre elemanı
+    0lar ve 1lerin elektrik sinyalleriyl keşiştiği şey..
+    üzerine bir akım düşer ve bu elemanın davranışı değişir...
+
+    transistörün yaptığı iş:
+        üzerine belli bir akım gelirse, kapanarak akımın geçmesine izin vermek (5 volt sinyali iletir = 1), veya tam tersini yapmak (iletmezse 0 volt sinyali = 0)
+
+        diyelim ki elinde 5 transistör var...  
+
+        T1     T2    T3    T4    T5 
+        ------------------------------    çentik yöntemiyle sayı saydırırsak sadece 5ya kadar saydırabilirdik, 6 hayır... verimsiz...
+        off    off   off   off   off      =  0
+        off    off   off   off   on       =  1
+        off    off   on    on    on       =  3
+
+# ama ikili sistemde, transistörlerin kapalı olduğu durumu da sayı sayma sisteminin bir parçası olma durumuna getirebiliriz...
+        aynı 5 transistörle çok daha fazla saydırabiliriz...
+
+        T1      T2    T3    T4    T5 
+        ------------------------------    ikili sistemle sayı saydırırsak....
+        off    off   off   off   off      =  0 = 00000
+        off    off   off   off   on       =  1 = 00001
+        off    off   off   on    off      =  2 = 00010
+        off    off   off   on    on       =  3 = 00011
+        off    off   on    on    off      =  6 = 00110
+
+# ikili sistemdeki bir sayıyı 10luk sistemde okumak  için ikinin kuvvetleri ile basamaklar çarpılmalı
+
+        T1      T2     T3      T4       T5                   Maths rule: 2^0 = 0
+        -----------------------------------
+        0       0      1       1        0      = 00110
+        2^4     2^3    2^2     2^1      2^0    = basamak hesabı
+        0*16=0  0*8=0  1*4=4   1*2=2    1*0=0  = 0+0+4+2+0 = 6        ikili sistemedeki her sayı bu şekilde 10luk sisteme çevrilebilir..
+
+
+        on      on     on      on      on     = 11111
+        2^4     2^3    2^2     2^1     2^0    = basamak hesabı
+        1*16=16 1*8=8  1*4=4   1*2=2   1*1=0  = 16+8+4+2+1 = 31      yani sadece 5 transistörle 31e kadar sayabiliyoruz... 
+
+        ve günümüz dünyasında bilgisayarın işlemcisinde yüz milyarlarca transistör var (Apple M1 Ultra)... ve daha da artıyor üstelik transistörler küçülüyor..
+        ve süper bilgisayarlarda trilyonlarcası var...
+        bunların nano saniyeler içinde on/off olmasıyla her bir saniyede kat trilyonlarca işlem yapılabiliyor..
+
+# ve herşey ikinin katlarıyla çalışır...
+        Bit = BInary digiT        her bir bit bir transistöre karşılık gelir...
+        1 Bit = bir transistörün açık mı yoksa kapalı mı bilgisine verdiğiiz isim...      Quantum bilgisayarlarda ise buna Qbit diyoruz..
+        8 bit = 1 byte    = 2^3 = 8 = 1000 (on off off off off)        öbekleme yöntemi
+
+# Protokoller ve Sürücü yazılımlar
+  Uluslararası Standart Koyanlar: IEEE, IEC, UETF, ISO
+        Bunlar, üretilecek devre elemanlarının ve bu elemanlar arası iletişim yöntemlerinin protokollerini yani kurallarını belirliyorlar.
+        Endüstri standartları... yazılım ve donanımlar bu standartlara göre oluşturuluyor.
+
+  https://www.ieee.org/
+  https://www.iec.ch/homepage
+
+        bilgisayara A harfini yazdığında ekrana A gelmesini sağlamak
+          karakter kodlama protokolü: ASCII protokolü 
+        ASCII'de tüm alfabe ve dahası ikili sistemde kodlanmış halde var....
+
+    # Conversion Chart
+
+      Decimal    Binary     Octal      Hex        ASCII
+      -------    -------    -------    -------    -------
+      65         01000001   100        40         A             bu 8bite yani 1 bit'a karşılık gelir yani 8 tane transistöre....
+                                                                
+      klavye içindeki devreler A harfine bastığında bu devreleri 0 volt ve 5 volt olarak okumaya başlar...
+      0v5v0v0v0v0v0v5v olarak okur...
+
+      Volt
+      | 1           1
+   5v | *           *
+      | *           *
+      | *           *
+      | *           *
+      | * 0 0 0 0 0 * 0       
+    0v -----------------> Zaman        
+
+      İşlemcide voltaj farklılıklarını nerdeyse anlık olarak okuyup işleyip ekranda A harfinin çıkmasını sağlayan komutları, 1'ler ve 0'lar olarak ekrandaki pixelleri oluşturan led ısıklara gönderiyor...
+      Elektronik bir devreden söz ediyorsak iletişimi sağlayan şey bu volt artması ve azalması
+
+      Peki bilgisayar uzunca süren 00000 komutunu nasıl algılıyor.. bu da zaman aralıklarına bölünmesiyle oluşuyor.
+      birbirine USB protokülü ile bağlanan iki parça gönderilen bilgiyi 83 nanosecond zaman dilimlerine bölerek okumak konusunda protokolde anlaşmış halde.
+      yani böylece sinyal 249nanosecond boyunca 0 değerini verirse onun tek bir bit değil de 3 ayrı bit olduğunu anlıyoruz...
+
+Diğer bir protokol ise 0 ile 5 voltun ne kadarlık bir aralık kapladığı....
+      USB protokülünde, 1(on) sinyali 5V değil, 3 volta karşılık gelebilir. hatta 1(on) sinyali 0.5v bile karşılık gelebilir. illa 5volt olması şart değil.
+         benzer olarak, 0(off) sinyali de 0v olmak zorunda değil, 3volt da 0 olarak kabul edilebilir...
+         bunlar tamamen sana ve neyi nasıl yapman gerektiğine kalmış bir durum...
+         neyi nasıl seçersen seç sonuçta bu volt değerleri belli bir aralığa sahip olmalı
+         1(on) sinyali tam 5volt olacak dersen analog sinyale benzeyen birşey olur.... 
+              senin gönderdiğin sinyal 5.01 de, 5.03 de olabilir bu kadar dalgalanma olabilir. hiçbirşey kusursuz değil....
+              bu dalgalanmaları da 1(on) olarak okuyaiblmek gerekli
+
+              protokole göre 3.5 volt ile 5.00 arasındaki tüm sinyalleri 1(on) olarak değerlendirip okuyor...
+
+              high voltage = 3.5 - 5.0 range
+                bu arada kalan ise görmezden gelinir ya da rasgele şekilde 0 ya da 1 olarak atanır.....
+              low voltage  = 0.0 - 0.5 range
+
+              dalgalı bir sinyal, oldukça kesintili bir şekilde voltaj aralıklarıyla 1 ve 0 olarak değerlendirilip okunabilir, buna da DİJİTAL adını veriyoruz...
+
+En nihayetinde, 
+  analog ya da dijital - Elimizde tek bir elektro manyetik dalga var, biz bu sinyali nasıl yorumladığımız değiştiriyoruz..
+
+https://youtu.be/-lnwnFrysCo?si=dEDtcESzOs-wIo6C  electronics
+https://youtu.be/QAgwPpT81sg?si=S1OH2-fP97rfbK0W  electric
+https://youtu.be/1ZIFuIw9FqI?si=vzxyRG1tWYs1Dqvm  maths
+
+
+Note: Computer > Laptop > Tablet > Phone  > raspberry pi - entegre devreler - bir bilgisayar olabilir...
