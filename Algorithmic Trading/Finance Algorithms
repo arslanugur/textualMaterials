@@ -1,0 +1,183 @@
+https://www.youtube.com/watch?v=RwC2IBUKJ9g&list=PLutBBWh7xwXMLLNvt6wrOBKBJeCzDAGtR&index=2
+
+# 01. Algoritmalara Giriş
+      Belli bir sorunun çözümü için belirlenmiş adımlar.
+      
+      Eylem Planı - Strateji, Disiplin
+      Psikolojiden Bağımsız olmak
+      Risk yönetimi (Kar Realizasyonu / Stop Loss)
+      Eğitim (Temel-Teknik Analiz Bilgisi)
+
+      Algoritma Kullanma Biçimleri/Yöntemleri:
+      Sınıf 1 (HFT)              - HFT: High Frequency Trading (Hızlı Robotlar), Kullanan az ama piyasada hacmi çok..
+      Sınıf 2 (Oto İşlem)        - Otomatik Al/Sat Platformları, Mekanik veya Kural Bazlı Sistemler (Robotlar, Botlar)
+      Sınıf 3 (Hibrit Sistemler) - Manuel olarak Al/Sat sinyallerini gördükten sonra veya Otomatik tarama sonuçlarına göre karar vermek 
+
+      Fiyata göre Algoritma kurgusu
+      - x fiyatın altına düşerse sat
+      - x fiyatın %3 üstüne çıkarsa al
+      - Kademelerdeki LOT dağılımına göre alış ve satış lotları kademelere yayılabilir (VWAP)
+
+      Habere Göre Algoritma Kurgusu
+      - Haber okuyan Algoritmalar
+      - Haberdeki dataya göre anında işleme karar verirler
+
+      İndikatörlere / Formasyonlara göre Algoritma Kurgusu
+      - Bireysel Kullanım
+
+      Algo Dezavantajları
+        İşlem Sayısı artacağından extra bir kurtaj/komisyon maliyeti getirir
+        Kötü kurgulanırsa zarar ettirir.
+        Herkesin bildiği strateji düzgün çalışmayabilir veya Zamanla karlılığı düşebilir.
+        Sığ yatırım araçlarında (hacmi düşük enstrümanlarda) iyi performans göstermezler.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# 02. Backtest
+      Geriye dönük test
+      Veri Analizi, Geçmişte bu çalışmış mı?
+      Tarihsel verilerle geçmişe yönelik analizler yaparak bi stratejinin uygunabilirliğini değerlendirmek.
+      Geçmiş verileri kullanarak geleceğe yönelik tahminler
+      Backtest: Bir yatırımcının, herhangi bir gerçek sermayeyi riske etmeden önce potansiyel risk ve karlılığı analiz etmek için tarihsel verilerin kullanılması.
+
+      Hafta İndikatörü:
+        SMA - Simple Moving Average - Basit Hareketli Ortalama
+        10 barlık alıyorsak son 10 barın kapanışlarını toplarız o şekilde 10 bölünür.  Aritmetik Ortalama
+        Aritmetik Ortalama = Veriler Toplamı / Veri sayısı
+        SMA = Fiyatlar Toplamı / Toplanan veri sayısı
+
+        SMA Özellikleri:
+          hareketli ortalamalar - Trend İndikatörleridir, trendin yönünü saptamakta kullanılır.
+          Lagging - Artçı indikatörlerden biri. Tahmin anlamı taşımaz, Onay anlamı taşır. Teyit eder, fiyatı geriden takip eder. geciken indikatörlerdir.
+          Fiyat hareketlerini yumuşatır.
+          Uzunluğu büyüdükçe daha geç tepki verir, fakat destek/direnç görevi görmeye başlar.
+          50 günlük SMA - buna bir örnek olabilir, çok da kullanılır... destek ve direnç belirleme ve kırılımlarda trend belirleme... al satı bu şekilde yapmak..
+
+        SMA Stratejisi:
+          fiyat, 50 SMA üzerinde çıkınca keşisince malı al, %5 izsüren stopla takip et (yükselen fiyatı %5 geriden takip ediyor.düşmeye başlayınca sat emri). sadece al/sat işlemi yap
+
+        SMA Stratejisinin backtest sonuçları:
+            BIST100'de stratejinin getirisi: %41
+            BIST100'de performansı: %26
+            7 işlem: 5 karlı sonuç
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# 03. Optimizasyon
+        en iyiyi en uygunu bulmak. stratejiyi daha güçlü ve tutarlı hale getirmek...
+        geçmiş verileri kullanır, stratejiyi test eder, farklı parametrileri dener, yüksek getiri sağlayan ayarları buldurur.
+        gelecekte bir kesinlik yok yani
+
+        örnek olarak, piyasa yataysa, grafikte iki kanal (bir koridor) oluşturursun. yatada olduğu için mümkün olduğunca az işlem yaparsın.
+            çünkü yatay seviyede işlemler terse düşebilir. zararla sonuçlanabilir.
+            yatay piyasada olabildiğince az işlem, ve trende olabildiğince erken girmek sağlanmalı.
+            koridor olabildiğince geniş tutulur ki bu koridorda algo iş yapmasın emri veriririz. ama koridorun dışına çıktığında da işlem yapmaya başlasın...
+            ama koridor çok genişletilirse de trende geç girersin çok da daraltırsan yatayda işlem yapar kaybedersin... bu yüzden ayarında tutmak gerekli
+
+        Optimizasyon biraz makyajlama olarak görülebilir. çirkini güzelleştirir.
+            ideal ayarları bulmayı sağlar. parametresi 5 değil 10 olursa daha iyi çalışır sonuçta.
+
+        bu ideal ayarların içerdiği şeyler:
+
+        mesela RSI 14 barlık bir hesap yapar. buna göre programlanmış ama başka şekilde de optime edilmiş....
+        yani optimizasyonda belli al sat koşullarını parametreleri değiştirerek değiştirebiliryorsun. al sat noktaların bile değişebilir..
+
+        doğru ve anlamlı yapılan optimizasyonlar:
+          kar maximizasyonu sağlar.
+          stratejinizin çalışan ideal ayarlarını bulmanızı sağlar.
+          bir stratejinini farklı karaktere sahip enstrümanlarda da kullanılılabilmesini sağlar uyumlaştırmak.. stratejiyi daha esnek hale getirir.
+          sistemin gerçek işlemlerde kullanıp kullanılmayacağı kararı öncesi fikir verir.
+
+        iyileştirilen parametre sayısı arttıkça:
+          stratejilerin getirileri artar
+              ama bu bir tuzaktır...seçilen sistemin gerçekleşebilirliği/kullanılabilirliği azalır.
+          sisteminiz "overfitted" - aşırı iyileştirilmiş olur. ayarlarla fazla oynamamak gerek. bunun sonucu tehlikeli olabilir. çünkü aynı piyango biletini tekrar tekrar oynama gibi gelir bir süre sonra... bu da başarı şansını azaltır.
+          yani "yüksek getiri tuzağı"na düşeersin
+          yatırımcılar genellikle en yüksek getiriyi sağlayan ayarları kullanma eğilimdedir.
+
+                Overfitting - Aşırı uyma
+                    istatistikte, üretilen bir analizin belirli bir veri kümesine:
+                            aşırı oranda uyum göstermesi,
+                            bu veri kümesinde yer almayan yeni verilere uyum sağlayamaması problemidir.
+                    sistem geçmişte harika çalışmış görünür, fakat gerçek piyasada sonuç kötü olur
+                    sistem her noktada para kazanır gibi gözükebilir backtest için.
+                            sonuçta sen geriye doğru test yapıyorsun ama geçmişteki dataya ileriye doğru işlem açıyorsun
+
+
+            optimizasyon el ile yapılmaz...
+                  bilgisayar yardımıyla
+                      veri terminalleri
+                      online siteler/platformlar üzerinden yapılabilir.
+                      otomatik
+                      manuel (parametreleri tek tek elle değiştirerek)
+                    kodlama gerektirebilir.
+
+            trading'de 5 dakikalıkları ayda bir gözden geçirilir... memnunsan devam ettirisin.
+                        saatlikse 6 ayda bir kontrol etsen olabilir...
+                        standart sapmalar olabilir. yanlış üst üste işlemler yapılabilir...
+
+          Haftanın indikatörü: 
+                hareketli ortalama: tilson t3 (tma) indikatörü
+                    trendin yönünü bulmakta kullanabiliriz. diğer hareketli ortamalar gibi..
+                    tma stratejisiyle hareketli ortalamalardaki gecikmeleri azaltılıyor..
+                    fiyat hareketlerini yumuşatıyor.
+                    uzunluğu büyüdükçe daha geç tepki verir; fakat destek-direnç görevi görmeye başlar.
+        
+13:00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# 04. Momentum
+# 05. Yapay Zeka
+# 06. Volatilite
+# 07. Teknik Analiz İndikatörleri
+# 08. Doğru İndikatör Kombinasyonları
+# 09. Trend ve Kırılımlar
+# 10. Ortalamaya Dönüş (Mean Reversion)
+# 11. QnA
+# 12. Uyumsuzluklar
+# 13. Trend Takibi
+# 14. Price Action
+# 15. Multiple Time Frame Analizi
+# 16. Pairs Trading - İkili İşlem
+# 17. Turtle Trading
+# 18. Strateji geliştirme
+# 19. Darvas Box Tekniği
+# 20. HFT YÜksek Frekanslı İşlemler
+# 21. Temel Analiz Algoritmaları
+# 22. Scalping
+# 23. Swing Trading
+# 24. Fibonacci Trading
+# 25. Stop Loss
+# 26. Risk Ödül Oranı ve Risk Yönetimi
+# 27. Day Trading
+# 28. Gap Trading
+# 29. Heikin Ashi
+# 30. Renko
+# 31. Algoritmik İşlemlerde İpuçları
+# 32. Tepeden Dönüşleri Yakalamak
+# 33. Dipten Dönüşler
+# 34. Wyckoff Metodu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# 35. Gann Yöntemi
+    Gann, 60 ve 90 yıllık döngülere önem verir. Piyasanın bir döngüsü vardır. Döngüsellik var. ve tekrar tekrar başa dönecek...
+
+    Gann Kuramı: Fiyat, Zaman, Range
+        Piyasa Zaman Faktörü
+    Gann Stratejileri: Üç genel tahmin alanı etrafında döner.
+        Fiyat: Bu çalışma, destek-direnç çizgilerini, pivot noktalarını ve açıları kullanır. (Gann Açıları ve düzeltme yüzdeleri)
+        Zaman: Bu etüt, doğal ve sosyal yollarla elde edilen, tarihsel olarak tekrar eden döngüleri/olayları ele alır. Biraz astrolojik gibi. (Gann Kareleri)
+        Formasyon: Bu çalışma, trend çizgileri ve dönüş formasyonlarını kullanarak piyasa salınımlarını inceler.
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ALGORİTMA DÜNYASI 36 DEVAM FORMASYONLARI
+ALGORİTMA DÜNYASI 37 - 38 - 39 VADELİ İŞLEMLER - VİOP - VİOP ALGORİTMALARI
+ALGORİTMA DÜNYASI 40 REPAINT
+ALGORİTMA DÜNYASI 41 HARMONİK FORMASYONLAR
+ALGORİTMA DÜNYASI 42 ALPHATREND İNDİKATÖRÜ
+ALGORİTMA DÜNYASI 43 GERİ DÖNÜŞ FORMASYONLARI
+ALGORİTMA DÜNYASI 44 İŞLEMLERDE HACİM ANALİZİ
+ALGORİTMA DÜNYASI 45 MUM FORMASYONLARI - BOĞA
+ALGORİTMA DÜNYASI 46 MUM FORMASYONLARI - AYI
+
