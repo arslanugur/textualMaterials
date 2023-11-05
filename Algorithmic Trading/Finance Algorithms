@@ -116,14 +116,58 @@ https://www.youtube.com/watch?v=RwC2IBUKJ9g&list=PLutBBWh7xwXMLLNvt6wrOBKBJeCzDA
                         standart sapmalar olabilir. yanlış üst üste işlemler yapılabilir...
 
           Haftanın indikatörü: 
-                hareketli ortalama: tilson t3 (tma) indikatörü
+                hareketli ortalama: tillson t3 (tma) indikatörü
                     trendin yönünü bulmakta kullanabiliriz. diğer hareketli ortamalar gibi..
                     tma stratejisiyle hareketli ortalamalardaki gecikmeleri azaltılıyor..
                     fiyat hareketlerini yumuşatıyor.
                     uzunluğu büyüdükçe daha geç tepki verir; fakat destek-direnç görevi görmeye başlar.
         
-13:00
+            tim tillson - stocks & commodities magazine - 1998 
+                  Smoothing Techniques for More Accurate Signals
 
+                  yatay piyaslarda etkili değil
+                  TMA veya t3 olarak da bilinir.
+                  tek çizgiden oluşan bir hareketli ortalama
+                  formülasyonda EMA ve DEMA'lar kullanıldı.
+                        Bunların 3.derece fonksiyonlarının binom açılımlarıyla hesapladı.
+                        Tillson, indikatörde hareketli ortalamaların 2 temel sorununu gidermeye çalışır:
+                              1 - sürekli zig zaglar çizmesini önleyerek hatalı sinyallerin yani pürüzlerin önüne geçmek
+                              2 - hareketli ortalamanın geçikmesini azaltmak
+                        bu amaçla üssel hareketli ortalamaların iç içe birbirine giydirmesi tekniğinden yararlanmıştır.
+
+            indikatörün parametreleri:
+                  parametre, ayarlama yaparken senin değiştirebiliyor olacağın rakamlar vs aslında
+
+                  tillson; yüksek, düşük ve kapanışın ortalamalarını kullandığı bi sistem geliştirmiş
+                  Değişkenler:
+                        1- Periyot (Length): geçmişe doğru baktığı bar sayısı
+                                                renk değişimleri ile al satlarda hızlı tepki istiyorsan kısa vadede küçük değerler seçilmeli. (periyot biraz küçülmeli)
+                                                Fiyat etkileşimleri ile yapılan al satlarda nispeten daha yüksek değer seçilebilir (periyot biraz daha arttırılmalı)
+                        2- Volume Factor: hacim hesaplamada ayar yapmak için kullanılır..
+                                                üssel ve çift üssel hareketli ortalama arasındaki ayar tuşu gibi düşün
+                                                0 yapınca üsselin 3.dereceden halini alır.            0 değeri T3 eğrisinin Triple EMA gibi davranmasını,
+                                                1 yapınca çift üsselin 3.dereceden halini alır.       1 değeri T3 eğrisinin Triple DEMA gibi davanmasını sağlar...
+                                                bunun standart hali 0.7 olarak kabul edilir... çift üssele biraz daha yakın..
+
+            İndikatörün işlem yöntemleri:
+
+                  Yöntemler            strateji                                           sinyal
+                  ---------            ---------                                          ------
+                  1.yöntem              fiyatın T3 ile kesişimi                           AL: fiyat t3ü yukarı keserse                                                            Tillson, bir hareketli ort old. için, burda tillsonun değerini eğer biraz büyük alırsak, uzunluğunu yani fiyatın tillson ile kesişimini yaparız.
+                                                                                          SAT: fiyat t3ü aşağıya keserse
+                  2.yöntem              t3 renk değişimi                                  AL: t3 kırmızıdan yeşile dönerse
+                                                                                          SAT: t3 yeşilden kırmızıya dönerse
+                  3.yöntem              birden fazla farklı parametreli t3 kesişimi                   AL: kısa periodlu t3, uzun periyotlu olanı yukarı kestiğinde                  kısa peridlu ortalama, uzun periyodu keserse al      
+                                        (birden fazla har. ort. birbirinden kestirerek sinyal al)     SAT: kısa periyotlu t3, uzun periyodlu olanı aşağı kestiğinde                  uzun periyotlu ort., kısayı keserse sat sinyali olarak değerlendirilir.
+                  4.yöntem              fiyat ve t3 temasları/kesişimi (bounce)           AL: t3 yukarı trenddeyken fiyat t3'e temas ederse yükseliş beklenir.                        period uzun tutulduğunda bir destek direnç görevi görebiliyor
+                                                                                          SAT: t3 aşağı eğimliyken fiyat t3'e temas ederse düşüş beklenir...
+                  periodlarda optimizasyyon yapılarak bulunur...
+                        geliştiricisi, 5 barlık ortalamanın daha iyi çalıştığını gözlemlemiş...
+
+
+16:00
+
+                  hareketli ortalamalar her yerde kullanılabilir, borsa forex vesaire... 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 04. Momentum
 # 05. Yapay Zeka
