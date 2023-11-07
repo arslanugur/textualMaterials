@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=RwC2IBUKJ9g&list=PLutBBWh7xwXMLLNvt6wrOBKBJeCzDAGtR&index=2
 
+
+
 # 01. Algoritmalara Giriş
       Belli bir sorunun çözümü için belirlenmiş adımlar.
       
@@ -39,6 +41,9 @@ https://www.youtube.com/watch?v=RwC2IBUKJ9g&list=PLutBBWh7xwXMLLNvt6wrOBKBJeCzDA
       Tarihsel verilerle geçmişe yönelik analizler yaparak bi stratejinin uygunabilirliğini değerlendirmek.
       Geçmiş verileri kullanarak geleceğe yönelik tahminler
       Backtest: Bir yatırımcının, herhangi bir gerçek sermayeyi riske etmeden önce potansiyel risk ve karlılığı analiz etmek için tarihsel verilerin kullanılması.
+
+      Gerçek getiri genelde backtestin getirinden düşük olur. bu yüzden sağlam bir indikatör seçilmeli.
+
 
       Hafta İndikatörü:
         SMA - Simple Moving Average - Basit Hareketli Ortalama
@@ -165,11 +170,117 @@ https://www.youtube.com/watch?v=RwC2IBUKJ9g&list=PLutBBWh7xwXMLLNvt6wrOBKBJeCzDA
                         geliştiricisi, 5 barlık ortalamanın daha iyi çalıştığını gözlemlemiş...
 
 
-16:00
+            t3 - aslında 3 barlık ama 5 barda bu iyi çalışıyor... varsayılan değerleri 8 bar olarak da yapılabilir.
+
+            Tillson Stratejileri
+                  Tillson T3 indikatörü renk değiştirmesi (tek çizginin fiyat hareketlerine göre renk değiştirmesi)
+                        Koşullar:      T3 yeşil olduğunda AL, T3 kırmızı olduğunda SAT
+
+                  T3 Standart Ayarlar (backtest süreci)
+                        Periyot: 8
+                        Factor: 0.7
+                              Son 2 yıl veri üzerinden test
+                              günlük periyot
+                              test edilen enstrüman: BIST100 endeksi
+                  T3 Standart Ayarlarıyla backtest süreci sonuçları
+                        BIST100
+                              strateji getirisi: %36
+                              BIST100 performansı: %20
+                              32 işlemden, 15 karlı (hem long hem de short pozisyondaymış)
+
+                  parametreleri optimizasyon yaparsak: bilgisayara deneme yanılmayla bulmasını istersin. standart değerler değiştirilir...
+                              stratejinin ortalama getirisi: %74
+                              en iyi getiri: %123
+                              BIST100 performansı: %20
+                              en iyi getiriye ait T3 parametreleri:
+                                    periyot: 13
+                                    factor: 1                                    yani periyot ve factor verileri bu şekilde alsaydın Tillson daha iyi çalışacak..
+                                    17 işlemden, 11 karlı
+
+
+                  sabit değerlerle yapılan getiri ile, optimizasyon sonucu gelen getiri arasında iyi fark var...
+                  yani bu optimizasyon, normal enstrümanın performansını yenmiş...
+
+                        BIST100 performansı: %20
+                        T3 Standart ayar performansı: %36
+                        T3 Optimizasyonlu ayar performansı: %74
+
+
+
+                  Notlar:
+                  Unutma, İndikatörler geriden gelir... ve duyguları yoktur.. her zaman kar-zarar ettirir diye bişey yok.
+                  whole moving average indikatörü, tillson gibi renk değiştirme indikatörü
 
                   hareketli ortalamalar her yerde kullanılabilir, borsa forex vesaire... 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 04. Momentum
+            Algoritmada Momentum'un önemi
+            Momentum: fizikte, kütle * hız... (itmeden oluşan hız değişimi)
+
+            Bir araba 50 ile duvara çarpması ile 150 ile duvara çarpması aynı değildir... parçalama etkisi, momentumun fazlalığına göre değişir..
+
+            Momentum: Teknik Analizde, 
+                              Fiyatlardaki değişim hızı
+                              Fiyat değişiminin gücü
+                              Güçlünün tarafında olmak (fiyat nereye gidiyorsa orda ol)
+                              Trendlerin başlangıcını ve devamını sağlar
+
+            Momentum, ne kadar hızlı ise o kadar güçlü demek -- ama bir o kadar da momentumun fazla...
+            İkinci durum ise kütle, yani teknik analizde buna "Hacim" deriz...
+                  Bir araba 50 ile duvara çarpması ile bir uçağın 50 ile duvara çarpması aynı değildir... kütle etkisi, momentumun fazlalığına göre değişir..
+
+            DEĞİŞİM --> Momentum, güç ölçümünü değişimden alır. değişim belirleyicidir. momentum değişimi yakalamaya çalışır.. fiyat değişimi, hacim değişimi
+            FARK    --> Değişim hesaplanırken, "FARK" dikkate alınır. Mantığında iki durum/nokta/fiyat arasındaki FARK yatar...
+
+            Momentum aslında Fark'a bakar, bugünkü ya da son andaki ile daha önceki bir zaman arasındaki farktan yola çıkılarak ordaki gücü / değişimi hesaplar.. 
+
+            Yükselirken de düşerkende momentuma bakılır...
+
+
+            Momentum yatırımcılarının özellikleri:
+                  güçlü olanın tarafındadır. kalabalığın biriktiği yerde...
+                  hedefleri hareketi en dipten yakalamak değildir. en dipten alıp beklemez... volatilitenin fazla olduğu zmanalarda oyuna girilir.
+                  hareketin içinde olmak isterler.
+                  hedef, güçlü fiyat hareketi sonlanmadan önce işlemi kapatmaktır
+                  zamanlama hayati önem taşır, ani gelişmelere karşı sürekli tetikte olmaları gerekir.
+
+                  yani tren dururken değil de, tren yavaşlarken o arada binip, tren hızlı bir şekilde giderken inmeye çalışırlar..
+                  o aradaki güçten hareketten yararlanmak... momentum traderlarının yaptığı şey...
+                  David Ricardo: momentum trader
+                        "Cut short your losses; let your profits run on" - zarardaysan bunu kısa kesin, kardaysanız bunu devam ettirin...
+                                    yani düşüyorsa burdan döner diye beklememek gerek, zarar ettiğini kabul edeceksin.. kardaysan da hemen kurtulmaya çalışmamak gerek... karda oturamıyorlar..
+                        güçlü performans eğilimleri olan hisse senetleri satın aldı ve ardından fiyatları düşük performans gösteren hisse senetlerini sattı.
+                  Momentum, Gartley ve Wykcoff gibi tanınmış yatırımcılar ve analistler tarafından kullanıldı.
+
+            Kategorilerine göre indikatörler:
+                  Momentum:                         Momentum, Trend Score, MACD, TD Sequential
+                  Momentum (Aşırı Alım/Satım):      RSI, Stochastic, CCI, SMI
+                  Hacim:                            OBV (iki nokta arasındaki hacim farkı), VWMACD, Intraday Intensity, MFI, VROC, A/D, Chaikin Oscillator
+                  Trend:                            PSAR, Linear Regression, Hareketli Ortalamalar, Tillson T3
+                  Trend Takip:                      Ichimoku, Vortex, Aroon, ADX, DI, Supertrend, MOST
+                  Volatilite:                       Bollinger Bands, ATR, Keltner Channels, Donchian Channels, Standart Deviation
+                  Stop Loss Indikatörleri:
+
+
+                  Momentum aslında birçok indikatörün yapısında var. yani fark alır...
+
+            Momentum öçen indikatörler:
+                  genel özellikleri:
+                        genellikle Öncü (Leading) indikatörlerdir.
+                        fiyat hareketlerine duyarlıdırlar.
+                        Öncü göstergeler oldukkları için fiyat hareketleri ile "uyumsuzlar" önem kazanır.
+                        momentum ruhuna sadık kalacak biçimde formüllerinde belirli bir fark hesaplarlar.
+
+
+
+
+10:00
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 # 05. Yapay Zeka
 # 06. Volatilite
 # 07. Teknik Analiz İndikatörleri
