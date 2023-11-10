@@ -265,17 +265,107 @@ https://www.youtube.com/watch?v=RwC2IBUKJ9g&list=PLutBBWh7xwXMLLNvt6wrOBKBJeCzDA
                   Momentum aslında birçok indikatörün yapısında var. yani fark alır...
 
             Momentum öçen indikatörler:
+                  RSI, MACD, CCI indikatörleri genellikle öncüdür... ve genel özellikleri
                   genel özellikleri:
-                        genellikle Öncü (Leading) indikatörlerdir.
+                        genellikle Öncü (Leading) indikatörlerdir. fiyatın önünde gitmeye çalışır. Leading indicatörleri... öncü oldukları için uyumsuzluklar olabilir. çünkü fiyat yükselme yaparken o daha düşükler yapıyorsa uyumsuzdur.. burda yükselişin sona geleceği anlaşılabilir..başka bir konu..
                         fiyat hareketlerine duyarlıdırlar.
-                        Öncü göstergeler oldukkları için fiyat hareketleri ile "uyumsuzlar" önem kazanır.
+                        Öncü göstergeler oldukları için fiyat hareketleri ile "uyumsuzlar" önem kazanır. uyumsuzlar tehlikelidir...
                         momentum ruhuna sadık kalacak biçimde formüllerinde belirli bir fark hesaplarlar.
 
 
 
+          Haftanın indikatörü: 
+            MACD: Moving Average Convergence Divergence (Hareketli ortalamanın Yakınsaması/Iraksaması)
+                  İki hareketli ortalamanın birbirine yaklaşmasından ve uzaklaşmasından meydana gelen bir indikatör..
+            MACD, trend takip eden bir momentum indikatörüdür.
+                  hareketli ortalamaların farkı alınarak elde edilen bir osilatör *** (iki hareketli ortalama birbirinden çıkarılır..)
+                  geliştiricisi Gerald Appel tarafından 1970'lerde oluşturuldu.
 
-10:00
+            Önemli bir teknik, tüm hareketli ortalamalarda hatta kesişim yapan göstergelere uyarlanabilir..
 
+            Hesaplama Mantığı:
+                  MACD = (26 barlık üssel hareketli ortalama) - (12 barlık üssel hareketli ortalama)                          Bu şekilde birinci çizgi mavi elde edilir..
+                  MACD Triggger (Sinyal Çizgisi, tetikleyici çizgi) = MACD değerinini 9 barlık üssel hareketli ortalaması...  Bu şekilde ikinci çizgi kırmızı elde edilir.
+                  MACD Histogram = (MACD) - (MACD Trigger)                                                                    Arasındaki fark ama çok kullanılmaz..
+
+                  Bu rakamlar genelde değişmez. MACD Kullanıcıları 26-12-9 yapar parametreleri
+
+            AL-SAT Sinyalleri:
+                  1. Sinyal
+                  En çok kullanılan klasik hali, MACD ve Trigger Kesişimidir. Bu şekilde MACD'den Al-Sat sinyalleri elde edilir...
+                        MACD çizgisi, Trigger sinyal çizgisini aşağı kestiğinde SAT
+                        MACD çizgisi, Trigger sinyal çizgisini yukarı kestiğinde AL
+                        
+                  2. Sinyal
+                  MACD, tek çizgi halinde, yani hareketli ortalamayı üzerine atmıyoruz..
+                        0'ı yukarı kestiğinde AL, aşağı kestiğinde SAT şeklinde yorumluyoruz.
+                        MACD çizgisinin 0 değeri ile kesişimleri de sinyal oluşturur!!
+                              MACD çizgisi 0 seviyesini yukarı kestiğinde AL                        yani 12 barlık EMA, 26 barlık EMA'yı yukarı kestiğinde AL demektir.
+                              MACD çizgisi 0 seviyesini aşağı kestiğinde SAT                        yani 12 barlık EMA, 26 barlık EMA'yı aşağı kestiğinde SAT demektir.
+                                                                                                bir indikatörün, ne anlama geldiğini, neyi hesapladığını mutlaka öğrenmeye çalış...
+           İndikatör Parametrelerinin ayarlanması:
+                  MACD (26,12,9) varsayılan parametreleri genellikle değiştirmeden kullanılır.      ama hatalar verebilir...
+                  Yatay piyasada ve ZigZag fiyat hareketlerindeki hattalı sinyalleri gidermek için
+                        1. Sinyal çizgisinin 9 değeri değiştirilebilir.
+                        2. MACD 12 ve 26 değerleri katlarına uygun şekilde değiştirilebilir.      mesela 24, 52 gibi bu şekilde sinyal kalitesi artabilir..
+
+                        İndikatörlerde periyot küçülürse daha sık sinyaller, daha erken sinyaller verebilir... ama sinyal kalitesi düşer, hata miktarı artar..      9 barlıkta öyle oluyor..
+                                               büyütürsen herşey daha gecikir ama hatalı sinyal azalır ama işleme geç girilir...
+
+            Haftanın Stratejisi:
+                  MACD ortalamalarını üssel yerine Tillson T3 yaparak hesaplamak:                  MACD hatalarının önüne geçme stratejisi... tillson biraz daha yumuşak hareketleri olan indikatör yine de kıvrak
+                        yani 12 barlık tillsondan, 26 barlık tillson'ı çıkarmak... 9 barlık üssel hareketli ortalamasını almak...
+                  Koşullar:
+                        MACD çizgisi, trigger sinyal çizgisini yukarı kestiğinde AL
+                        MACD çizgisi, trigger sinyal çizgisini aşağı kestiğinde SAT
+
+                  Strateji Backtesti:
+                        MACD STANDART AYARLAR
+                              Uzun Periyot: 26
+                              Kısa Periyot: 12
+                              Trigger Periyot: 9                  buna dokunulmadı...
+                              Tillson T3 Factor: 0.7              volume factor parametresine de dokunulmuyor: 0.7
+
+                              Son 2 yıl baz alınmış
+                              BIST100 endeksi - test edilen enstrüman
+
+                        Sonuçlar: 2 senede
+                              BIST100
+                              Stratejinin getirisi: %23
+                              BIST100 Performansı: %23
+                              15 işlem, 7 karlı
+                        yani endeks ile kapışamamış... anlamlı bir strateji değil, 
+                              tillson harekt kabiliyeti nedeniyle 12, 26 çok anlamlı değerler değil... 
+                              ya birbirlerinin arası açılmalı ya da küçültülmeli..
+                        sonuçta, optimizasyon etmemiz gerekiyor...
+                        
+                        OPTİMİZASYON 1: 1,5 senede
+                              BIST100
+                              12 ve 26 olmak üzere 2 parametre optimize edildi.
+                              en iyi getiri: %111
+                              bist100 performansı: %23
+                              En iyi getiriye ait parametreler: değerler böyle alınırsa getiri yüksek olacak... tillson kesişimlerinden macd elde ederek ...
+                                    kısa periyot: 14
+                                    uzun periyot: 41
+                                    factor: 0.7
+                                    trigger periyotu: 9
+                              6 adet işlem, 5 tanesi karlı...
+
+                        
+                        OPTİMİZASYON 2: bu da var ama çok riske atmaya gerek yok 1,5 senede
+                              BIST100
+                              12, 26 ve 0.7 olmak üzere 3 parametre optimize edildi.
+                              en iyi getiri: %131
+                              bist100 performansı: %23
+                              en iyi getiriye ait parametreler...
+                                    kısa periyot: 6
+                                    uzun periyot: 24
+                                    factor: 0.3                        hassiyet de değiştirilmiş
+                                    trigger periyotu: 9
+                              16 adet işlem, 9 tanesi karlı...
+
+                  https://youtu.be/5GLUZgc5Wkk?si=qfwGDBmCYo9dbvNs
+                  http://teknikanalizsanati.com/indicatorbuilder.aspx
 
 
 
