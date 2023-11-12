@@ -1,5 +1,9 @@
 https://www.youtube.com/watch?v=RwC2IBUKJ9g&list=PLutBBWh7xwXMLLNvt6wrOBKBJeCzDAGtR&index=2
 
+https://borfin.com/tr/courses/2368/algoritmik-trade
+https://borfin.com/tr/courses/2394/hareketli-ortalamalarla-algo-trade
+
+
 
 
 # 01. Algoritmalara Giriş
@@ -370,9 +374,120 @@ https://www.youtube.com/watch?v=RwC2IBUKJ9g&list=PLutBBWh7xwXMLLNvt6wrOBKBJeCzDA
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 # 05. Yapay Zeka
+      Data üretimi ve data kontrolü ve verilerin yorumlanması AI'ya düşüyor.
+
+      Scouting - Öncü İz süren Birlik...
+      Big Data
+      kişiye özel ürün servisleri
+      duygu modelleme ve haber analiz araçları
+      teknik analiz ve trading araçları
+      veri toplama ve yorumlama
+      veri madenciliği
+      makine öğrenmesi
+      kişisel danışmanlık (sigorta, yatırım..)
+
+      geçmiş veriler ile yapay zeka eğitilebilir
+      farklı yapay zeka teknikleri ile yeni stratejiler geliştirilebilir.
+      mevcut stratejiler yapay zeka ile desteklenebilir
+      fiyat hareketlerinin yönü daha tutarlı bir şekilde tahmin edilebiliyor..
+
+      AI Trading:
+            https://store.matriksdata.com/Product/Default.aspx?do=ProductDetails&ProductId=23
+
+      Haftanın Stratejisi:
+            7 farklı apay zeka modeli var. bu modellerde verileri eğitim yorumlatabiliyorsun.
+            Kullanıcılar kendi stratejilerini yapay zeka ile birleştirerek yapay zekanın yön tahmin  etmesini sağlayabiliyor.
+            1 dakikalık veriler en tutarsız en çok hataya sebep olan veriler
+            daha büyük zaman aralıklarında daha anlamlı sonuçlar elde etmek mümkün
+
+            İçindeki strateji:
+            Yapay zeka destekli "RSI" ve "SMI" Momentum indikatörleri yardımıyla yön tahmini
+                                          (Stochastic Momentum Index)
+                              momentum indikatörler, fiyatın önünden gider.. fiyat tahmini...
+            1 dakikalık barlar: fiyatı bulmuyor sadece yönü buluyor...
+            Logistik Regression modeli: olasılık hesabıyla en iyi yeri belirler.. tahmin durumu.. bir de linear regression var o da en iyi çizgiyi belirler...
+            test edilen canlı veri: BIST100 endeksi geçmiş veriler...
+
+            ama backtestin olmadan çıkma yola..
+
+            tahtadan yazılan emirlerden şu an HFTye gelindi.. farkı yaratan şimdilik algoritmalar. 
+            teknoloji ilerledikçe strateji geliştir... senin stratejini birileri biliyorsa farklılaşma olmaz...
+            herkes aynı stratejiyi yaparsa da para kazanılmaz.. bu yüzden farklılaşmalı...
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 06. Volatilite
+      Oynaklık
+      Fiyatlardaki değişim aralığını ölçer
+      finansal varlığın fiyat hareketleri arasındaki farkın büyüklüğünü ölçer.
+      yükselirken de düşerken de barlar arası fark..
+
+      Volatilite nasıl yorumlanır?
+            Volatilite aslında yüksek risk demek
+
+            yüksek volatilite = yüksek risk
+                  risk unsuru arttıkça kazanç ve kayıp miktarları da artacaktır.
+                  volatilitesi yüksek varlıklar genellikle daha sık yön değiştirir.
+
+            düşük volatilite = düşük risk
+                  düşük riskli ürünlerin getirisi de daha sınırlı seviyelerde kalacaktır
+                  volatilitesi düşük varlıklar genellikle daha seyrek yön değiştirir.
+
+
+      Volatilite ile ilgi İndikatörler (Göstergeler):
+            Alt İndikatörler: 
+                  Standart Sapma
+                  ATR (Average True Range)
+
+            Fiyat serisi üzerine indikatörler:
+                  Bollinger Bantları: aslında Standart Sapma'nın kanal haline getirilip fiyatın üzerine atılmış halidir... o kanal içinde hareket edileceği düşünülür.
+                  Keltner Kanalları: aslında ATR'nin kanal haline getirilip fiyatın üzerine atılması....
+
+                  fiyat üzerindeki volatilite düşük mü yüksek mi bu şekilde anlıyoruz...
+
+
+      VIX Korku Endeksi
+            Piyasaların  oynaklığını ölçmeye yarayan bir endekstir.
+            İlk olarak 1993 yılında hesaplanmaya başlamıştır.
+            s&p500 endeks opsiyonlarının fiyat girdilerinden türetilen, piyasa riskinin ve yatırımcıların duygularının bir ölçüsünü ifade eder.
+            piyasaların volatil (oynak) olduğu, diğer bir deyişle oynaklığın yüksek olduğu durumlarda volatilite endeksi değeri artar.
+
+            belirsizliğin yüksek olduğu, örneğin savaş, hükümet krizi, mali kriz vb gibi durumlarda piyasalar oynak olacak demek.
+
+            VIX yükseldiği anda uluslararası borsalar düşer... riskli varlıklarda çık ya da fiyat düşüşüyle satın al...
+
+            aslında bu VIX de bir gösteerge üzerinde işlem yapılabilir...
+
+      Haftanın Göstergesi
+            ATR (Average True Range - Ortalama gerçek aralık)
+                  en güvenilir volatilite göstergelerindendir.
+                  Welles Wilder arafından geliştirilmiştir. RSI gibi çoğu indikatörleri geliştirmiş...
+                  yön göstermez, tek başına direkt AL-SAT sinyali üretmez....  sadece oynaklık yükseldi risk arttı der....
+                  "True Range" olarak ifade edilen "Gerçek Aralık" değerinin ortalamasıdır.
+                  Varsayılan olarak "14 periodluk" bir ortalama kullanılır.
+
+                  fiyat hareketlerinde büyük dalgalanmalar, uzun barlar, boşluklar ve gapler oluşuyorsa o zman ATR değeri yüksek olur....
+                                          yatay ve belli bir standartta ilerliyorsa ATR küçüktür....
+                  yukarı yada aşağı farketmez, yön göstermiyor...
+                  yükseliş riskli, sadece öyle düşün...
+                  direk üzerinden al-sat yapılamaz... yapılması için belli bir stratejin olmalı....
+
+
+                  TRUE RANGE - 3 farklı uzaklığı hesaplar
+10:36
+
+
+             
+
+
+
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 07. Teknik Analiz İndikatörleri
 # 08. Doğru İndikatör Kombinasyonları
 # 09. Trend ve Kırılımlar
