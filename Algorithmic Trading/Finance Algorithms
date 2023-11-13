@@ -567,13 +567,203 @@ https://borfin.com/tr/courses/2394/hareketli-ortalamalarla-algo-trade
             İndikatör = Gösterge
 
 
+
+
+
+
 # 08. Doğru İndikatör Kombinasyonları
 # 09. Trend ve Kırılımlar
 # 10. Ortalamaya Dönüş (Mean Reversion)
 # 11. QnA
 # 12. Uyumsuzluklar
 # 13. Trend Takibi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 14. Price Action
+      Fiyat hareketi
+      Fiyat hareketine göre pozisyon almak
+
+      - Fiyatların "zaman" ekseninde ilerlemesi olarak tanımlanabilir.
+      - Teknik analizin temelini oluşturur.
+      - Piyasada fiyatlar 3 yöne hareket eder.
+            Yukarı
+            Aşağı
+            Yatay
+
+      Burda tekrar eden kalıpları arıyor yatırımcılar.. Fractals... genelede yakın geçmişteki fiyat hareketlerine anlamlar yüklerler tekerrür edileceği düşünülür.
+      Fiyatın kendisi işlem sebebidir...
+
+      Price Action Özellikleri:
+            - Göstergelerin kullanımını gerektirmeyen veya minimize eden bir işlem yöntemidir.
+            - Temel analiz bileşenleri göz ardı edilir.
+            - Fiyatın kendisi işlem sebebidir.
+            - Genellikle yakın geçmişteki fiyat hareketlerine anlamlar yükleyerek pozisyon açılır.
+            - Likiditesi ve hacmi yüksek varlıklarda tercih edilen bir yöntemdir. Sığ yatırım araçlarında anlamlı çıkarımlar yapmak zordur.
+
+
+      Fiyat hareketleri bize ne anlatıyor?
+            Yatırımcılar; trendleri, kırılımları ve geri dönüşleri tespit etme ve yorumlama becerilerini geliştirmek için grafikleri kullanır.
+            Roller-Coaster
+
+            Fiyat hareketleriyle işlem yapan yatırımcılar:
+                  OHLC değerlerindeki veya mum grafiğindeki çubukların göreceli boyutunu, şeklini, konumunu, büyümesini (gerçek zamanlı fiyatı izlerken) ve hacmini (isteğe bağla olarak) gözlemler.
+                  Finansal spekülasyon için fiyat hareketi analizinin kullanılması, diğer analiz tekniklerinin eş zamanlı kullanımını dışlamazlar ama sadece fiyata bakarak dahi işlem yapabilirler.
+                  Tek bir bar dahi işlem kararı vermelerinde yeterli olabilir.
+                        Open - High - Low - Close and maybe Volume...
+
+      Fiyat hareketleri nelerdir?
+            Formasyonlar ve kırılımları:
+                  OBO, TOBO, İkili Dip, İkili Tepe, Takoz, Flama, Bayrak, Üçlü Tepe...
+
+            Trend Kırılımları
+            Mum Formasyonları
+            Seviye Kırılımları: HHV, LLV
+            Inside Bar - Outside Bar
+            Gap: Fiyat boşlukları (kapanma olasığına karşı)
+
+            Price Action yatırımcıları tarafından sıklıkla takip edilen fiyat hareketlerdir.
+
+            MUM FORMASYONLARI
+                  Birçok yatırımcı; açılış, yüksek, düşük ve kapanış değerlerini görüntüleyerek fiyat hareketlerini daha iyi görselleştirmeye yardımcı oldukları için mum grafiklerini kullanır.
+                  bu durumun doğal sonucu olarak da daha önceki fiyat hareketlerinden yola çıkarak mumların oluşturduğu belirli kalıplara ve dizilimlere önem verilmiştir.
+                  Çoğu formasyonun işlem açma ve stop loss seviyeleri önceden belirlenmiştir.
+
+                  Mum barlar: açılış, yüksek, düşük ve kapanış
+
+                  AMAÇ
+                  Mevcut bardan sonra ne olacağına dair bir yorumlama yapmak
+                  İleriye dönük tahmin ve beklenti anlamı taşıyan ve fiyaat hareketinden üretilen birçok mum formasyonu var.
+                  Mum formasyonlarının büyük bir çoğunluğunun çıkış noktası: Japonya
+
+                  Candlestick Cheat Sheet
+                        Bullish Candlestick Patterns - bu formasyonlar sonrası yükseliş başlar
+                        Neutral-Basic Patterns
+                        Bearish Candlestick Patterns - bu formasyonlar sonrası düşüş başlar
+
+                  İki ana grupta toplanırlar:
+                        Boğa Mum formasyonları
+                        Ayı Mum formasyonları
+
+                  Boğa Mum Formasyonları
+                        yükseliş habercisi olarak düşünülen mum dizilişlerdir.
+                        bir düşüş trendi sonunu işaret edebileceği gibi, yükseliş trendinin devamı olarak da algılanan türleri vardır.
+                        tek bir mumdan oluşan türlerinin yanı sıra birden fazla mumun uygun koşullarda dizilişinden oluşan çeşitleri de vardır.
+                        genellikle oluşumdaki mum sayısı artarsa buna bağlı olarak koşul sayısı da artar ve formasyonun rastlanabilirliği azalır, seyrekleşir. fakat başarı oranı artar. 
+
+                        Önemli boğa mum formasyonu örnekleri:
+                              çekiç boğa, ters çekiç boğa, yutan boğa, hamile boğa, sabah yıldızı (yükseliş), üç beyaz asker
+                                                                                    çok seyrek rastlanır ama başarı şansı diğerlerine göre yüksektir...
+
+                  Ayı Mum Formasyonları
+                        düşüş habercisi olarak düşünülen mum dizilişlerdir.
+                        bir yükseliş trendi sonunu işaret edebileceği gibi, düşüş trendinin devamı olarak da algılanan türleri vardır.
+                        tek bir mumdan oluşan türlerinin yanı sıra birden fazla mumun uygun koşullarda dizilişinden oluşan çeşitleri de vardır.
+                        genellikle oluşumdaki mum sayısı artarsa buna bağlı olarak koşul sayısı da artar ve formasyonun rastlanabilirliği azalır, seyrekleşir. fakat başarı oranı artar. 
+
+                        Önemli boğa mum formasyonu örnekleri:
+                              çekiç ayı (tek mumlu), mezar taşı doji (fiyatın başladığı yere geri dönmesi), yutan ayı (iki mumla hesaplanır), hamile ayı, akşam yıldızı (düşüş, üç mumlu), terkedilmiş bebek, üç siyah karga
+                                    mum sayısı arttıkça rastlanma ihtimali azalır ama gerçekleşme ihtimalı artar...
+
+                  Stop Loss Stratejisi
+                        - Çoğu "Price action" stratejisi işlem açamaya yönelik bir kurgudur. İşlemin kapanışı 2.plandadır.
+                        - bazı kurgu ve formasyonlarda hedef fiyat en baştan vardır.
+                        - mum formasyonlarında ise genelde hedef fiyat gözetilmezken, büyük çoğunluğunda stop seviyesi önceden belirlenmiştir.
+                        - İzsüren stop neredeyse tüm stratejilere uyumlu şekilde kullanılabilir
+                        - eğer mevcut işleme girme planında stop yoksa, ayrıca ek olarak izsüren stoptan daha küçük bir yüzde veya oranda stratejiyle eklenmelidir.
+
+                        Note: Trendlerde pek izsüren stop kullanılmamalı
+
+                  Haftanın Stratejileri #1
+                        HHV - LLV Kırılımlarında işlem aç, açılışlarda stop kullan
+
+                        Koşullar:
+                              Fiyat, önceki 10 barın en yüksek seviyesini yukarı kırarsa AL
+                              Fiyat, önceki 10 barın en düşük seviyesini aşağı kırarsa SAT 
+
+                        Stratejinin Backtest Koşulları:
+                              HHV ve LLV: Önceki 10 bar
+                              Stop Seviyesi: %3
+                              BIST100 son 2 yıl verileri
+                              Günlük periyot
+
+                        Stratejinin Backtest Sonuçları:
+                              Strateji Getirisi: %150     
+                              BIST100 performansı %53
+                              18 işlem 11 karlı                                    bu önemli..... kodlara 14den ulaş. tek satırlık bi kod zaten
+
+                  Haftanın Stratejileri #2
+                        İzole Dip ve İzole Tepe Yöntemi
+
+                        İzole Dip Tekniği
+                              Tuncer Şengöz tarafından geliştirilmiştir.
+                              Olası trend dönüşlerinin tespitinde kullanılır.
+
+                              aşağı doğru bir düşüş trendi var, ve dönüşünü yakalama amaçlı bir teknik
+
+                              Açıklama:
+                              - Trendin o bara kadar gördüğü en düşük seviyeye "İzole Dip" denir .....
+                              - Bir bar öncesinin en yükseği de sinyal seviyesi olarak kabul edilir.....
+                              - Takip eden 2 bar içerisinde bu seviye yukarı yönde geçilirse izole dip teyit edilmiş olur ve sinyal tetiklenir.
+                              - Eğer sinyal seviyesi geçilemezse düşen trendin devam ettiği düşünülür.
+
+                              yeni dipler, trend devam ediyor... İzole dip oluştu ve ilerledikçe yeni dip yapamıyor.. diğer taraftan sinyal seviyesi geçilmedi, dolayısıyla trend bitmedi.
+                              izole dibin oluştuğu günün bir öncesindeki çubuğun en yükseği sinyal seviyesidir.
+                              sinyal seviyesi geçildi, dolayısıyla trend sona erdi...
+
+                        İzole Tepe Tekniği
+                              Burda da yükseliş trendinin sonunu anlamaya çalışırsın...
+
+                              Açıklama:
+                              - İzole Dip tekniğinin tersi şekilde yükselen trendin dönüş noktalarını yakalamaya çalışır.
+                              - Trendin o bara kadar gördüğü en yüksek seviyeye "İzole Tepe" denir.
+                              - Bir bar öncesinin en düşüğü de sinyal seviyesi olarak kabul edilir.
+                              - Takip eden 2 bar içerisinde bu seviye aşağı yönde geçilirse izole tepe teyit edilmiş olur ve sinyal tetiklenir..
+                              - Eğer sinyal seviyesi geçilmezse tükselen trendin devam ettiği düşünülür.
+
+                              yeni tepeler, trend devam ediyor... İzole tepe oluştu ve ilerledikçe yeni tepe yapamıyor..
+                              bir önceki barın dip seviyesini aşağı kırarsak o bizim için izole tepenin olup olmadığını çözüyor..
+                              kırmazsa trend daha bitmedi yükselecek... kırarsa trend bitti yükseliş geçti .kırdığı an sata geç
+
+                              sinyal seviyesi izole tepeden önceki barın en düşüğü 
+                              sinyal seviyesi geçildi, dolayısıyla trend sona erdi
+
+                        Koşullar:
+                              izole dip koşulları oluşursa AL
+                              izole tepe koşulları oluşursa SAT
+                        Strateji Backtest Koşulları:                        Strateji Backtest Sonuçları:
+                              İzole dip ve Tepe tekniği                        stratejinin getirisi: %140
+                              Başlangıçta %3 stop koy                             bist100 performansı: %53
+                              %5 iz süren stopla işlem takibi                        64 işlem 32 karlı
+                              bist100 iki yıllık geçmiş veri
+                              günlük periyot
+
+                  Haftanın Stratejileri #3
+                              mum formasyonlarından biri.
+                              ne kadar çok mumdan oluşursa o kadar seyrekleşir, o yüzden aynı anda birden fazla mum formasyonunda strateji kullanılabilir.
+
+                              Yutan mum formasyonu: iki barlık bir formasyon
+                              Bearish Engulfing - Yutan Ayı Mum Formasyonu                              
+                              Bullish Engulfing - Yutan Boğa Mum Formasyonu
+
+                              Koşullar:
+                              Yutan boğa formasyonu oluştuğunda AL
+                              Yutan ayı formasyonu oluştuğunda SAT
+
+                              Stratejinin backtest koşulları:
+                                    bu stratejide bar sınırı koyulabilir.. 40 bar 8 hafta, 2 ay  yani işlemi açtıktan 40 bar sonra ne olursa olsun işlemi durduruyor demek
+                                    bar sınırı: 40 bar
+                                    stop seviyesi: %4
+                                    bist100 iki yıllık geçmiş veri
+                                    günlük periyot
+
+                              Strateji backtest sonuçları:
+                                    getirisi: %38
+                                    bist100 performansı: %53
+                                    18 işlem 8 karlı
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 15. Multiple Time Frame Analizi
 # 16. Pairs Trading - İkili İşlem
 # 17. Turtle Trading
