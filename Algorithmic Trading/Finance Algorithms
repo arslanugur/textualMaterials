@@ -474,14 +474,89 @@ https://borfin.com/tr/courses/2394/hareketli-ortalamalarla-algo-trade
                   direk üzerinden al-sat yapılamaz... yapılması için belli bir stratejin olmalı....
 
 
-                  TRUE RANGE - 3 farklı uzaklığı hesaplar
-10:36
+                  TRUE RANGE - 3 farklı uzaklığı hesaplar:
+                        1- Son barın en yükseği - Son barın en düşüğü                  son barın yükseği ile düşüğü arasındaki fiyat farkı
+                              High-Low
+                        2- Son barın en yükseği - önceki barın kapanış değeri            son barın yükseği ile bir öncekinin kapanışı arasındaki fark (gapli bi açılış varsa onu hesaplamak için kullanılır.)
+                              Abs(High-CLOSE[1])
+                        3- Son barın en düşüğü - Önceki barın kapanış değeri            son barın en düşüğü ile bir öncekinin kapanışı arasındaki fark (bazen aşağı doğru da gap oluşabilir...)
+                              Abs(Low-CLOSE[1])
+
+                              TR (TRUE RANGE) bu 3 değerin en büyüğüdür.
+                              ATR ise TR'nin ortalamasıdır.
+
+                  ATR ne gösterir?
+                        ATR fiyat ortalama olarak her bar, bu değer kadar oynuyor-hareket ediyor anlamına gelir..
+                        Fiyat hareketleri yataylaştıkça ATR değeri küçülür,
+                        Volatilite artarken is ATR değeri büyür.
+
+                        Bakılan grafik zaman aralığı küçüldükçe ATR değeri de küçülecektir. Önemli Not
+
+                        Örneğin, 60 dklık grafikte THYAO grafiğinde ATR değeri yaklaşık 11 kuruşu göstermekte iken;
+                                    yani her bar yaklaşık 10 kuruşluk bir hareket bekliyor.. son 14 periyota göre hesap ypaıldığında...       
+                                    günlük barlar dikkate alındığında ATR'nin 24 kuruş olduğu gözlemlenebilir.
+                                    60 dklık ile günlük ATR değerleri farklıdır... küçüldükçe atr değeri küçülecektir...
+      
+                  ATR göstergesi AL-SAT kararlarında tek başına kullanılmamalıdır.
+                  ATR daha çok filtreleme veya onay mekanizması olarak tercih edilebilir.
+
+                  İpucu: 
+                        İşleminizdeki hedef fiyatı belirleyip ATR değerine böldüğünüzde
+                              tahmini olarak hedefe ulaşmasına kaç bar kaldığını hesaplayabilirsiniz.
+
+                              diyelim ki ATR değeri 2 kuruş.. ve o günkü hedef 20 kuruş...
+                              grafikte 60 dakikalık barlara bakıyorum diyelim. yani her saat 2 kuruşluk bir ATR farkı var...
+                              eğer ki senin umduğun gibi düşer ya da yükselirse ne yönde işlem yaptığına bağlı olarak
+                              yukarı da 20 kuruş hedefin varsa ortalama 20/2 =10 barlık yolu kalıyor...
+                              10 bar ne olur peki eğer ki 60 dakikalık barlara bakarsan 10 saatlik bir süreç oluyor...
+
+                        diyelim ki atr değeri işlem yaptığın barlarda 10 kuruş olsun
+                        ama o sırada sizin almayı düşündüğün varlıkta 15 kuruşluk fark var...
+                        yani 10kuruşluk bi ATR varken 15 kuruş yukardaysa bi soru işareti olmalı kafanda.. alıp almamakla ilgili...
 
 
-             
+                  Bar içerisindeki fiyat farkı, ATR değerini aşıyorsa Alım ve Satım kararlarında yatırımcıların daha temkinli olması gerekecektir.
+                  ATR indikatörünün yaygın ve etkili kullanım alanlarından bir tanesi de STOP lOSS belirlemektir.
 
+                        ATR göstergesi özellikle "Trailing Stop" yani İz Süren Stop belirlemekte çok etkilidir.. HAREKETLİ STOP LOSS olarak kullanılır..
+                        Gün içi işlem yapan birçok trader stop değeri belirlerken genellikle işleme iriş fiyatına ATR değerinin 2 katını ekleyerek ve çıkararak işlemi kapatacağı noktayı önceden planlar.
+                        böylece muhtemel zararşar kısa kesilirken, olası doğru yönlü işlemlerde kar maksimizasyonu sağlanır..
 
+                        "Klasik Stop"       ile       "İzsüren Stop" farklı kavramlar...
+                        Realization: 15               Realization: -
+                        Max Price: 14                 Max Price: 14
+                        Buy Level: 10                 Pivot Stop: 12 * 
+                        Stop Level: 8                 Buy Level: 10
 
+                                                      İzsüren Stop ile Kar Realizasyonu/Hedef Fiyat arasında karın ilerler..
+                                                      yani fiyat 13 olduğunda stopu 11'e çeker. kar yedirmez... fiyat geri döndüğünde yakalar...
+      Haftanın Stratejisi
+            ATR Trailing Stop - ATR İz Süren Stop
+
+            AL-SAT Koşulları:
+                        Fiyat, ATR (Klasik 14 barlık) değerinin 2 katından fazla yükselirse AL
+                        Fiyat, ATR (Klasik 14 barlık) değerinin 2 katından fazla düşerse SAT
+
+            Stratejinin BackTest Koşulları:
+                  ATR Trailing Stop Standart Ayarlar
+                        ATR Periyodu: 14
+                        ATR Çarpanı: 2 ile çarp.                  sonuç, üstüne çıkarsa al, süşerse sat dedik...
+                  Son iki yıllık veriler test edildi
+                  Günlük periyot
+                  Test edilen enstrüman: BIST100
+
+                  Stratejinin getirisi: %85            normal bist100 performansını yenmiş... tabi son iki yıllık veriye göre yapılmışş... tekrar denenmesi gerek
+                  BIST 100 Performansı: %15
+                  25 işlem 15 karlı... (çift yönlü işlem yapılmış)
+
+            Strateji Optimize edilirse...
+                  ATR Trailing Stop Optimized Ayarlar
+                        en iyi ATR Periyodu: 4
+                        en iyi ATR Çarpanı: 2.5               çarpanı değiştirmek çok fark eder...
+
+                  Stratejinin getirisi: %97
+                  BIST 100 Performansı: %15
+                  18 işlem, 11 karlı
 
 
 
@@ -489,6 +564,9 @@ https://borfin.com/tr/courses/2394/hareketli-ortalamalarla-algo-trade
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 07. Teknik Analiz İndikatörleri
+            İndikatör = Gösterge
+
+
 # 08. Doğru İndikatör Kombinasyonları
 # 09. Trend ve Kırılımlar
 # 10. Ortalamaya Dönüş (Mean Reversion)
