@@ -564,19 +564,222 @@ https://borfin.com/tr/courses/2394/hareketli-ortalamalarla-algo-trade
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 07. Teknik Analiz İndikatörleri
-            İndikatör = Gösterge
+            İndikatör = Gösterge                  Arabalardaki göstergeler, telefondaki batarya, pH kağıdı (Asit, Baz), termometre (sıcaklık değeri) bile birer indikatördür..
+
+      Neden kullanılır?
+            Ölçüm yapmaya yararlar
+            Sayaç olarak kullanılabilir
+            Genellikle verileri, sayısal hale getirmeye yararlar.
+
+      Kullanım Amacı:
+            Teknik göstergeler, yatırımcılar tarafından finansal araçların arz ve talebi ile piyasa psikoloji hakkında fikir edinmek için kullanılır.
+            Fiyat hareketinin devam edip etmeyeceğine dair ipuçları sağlar. kesinlik yok.. İpuçları..
+            AL/SAT sinyalleri olşturmak için kullanılır.
+            Grafikleri bizlere özetler.
+            Teknik analizin önemli bir parçasıdır.
+
+      Kavram kargaşasını önlemek için ingilizcesini de, türkçesini de öğren
+            Trailing Stop - İzsüren stop
+            RSI - Göreceli güç endeksi
+
+      Teknik Analiz İndikatörleri Genel Özellikler:
+            Fiyat, hacim, bilanço verileri gibi matematiksel hesaba konu edilebilecek Geçmiş veya Anlık Veriler ile oluşturulur.
+            Teknik analistler veya grafik takip eden yatırımcılar, alım satımların giriş ve çıkış noktalarını değerlendirmek için geçmiş varlık fiyat verilerinde teknik göstergelerden yararlanırlar.
+
+      Grafiksel olarak göstergeler genellikle iki kategoride konumlandırılır..
+            Data Serisi üzerine: Fibonacci, Bollinger, PSAR, Hareketli Ortalamalar...      (fiyatın üzerine atılarak)
+            Data serisi altına: Osilatörler..                                              (fiyat altına atılarak, tam ölçeklendirmek için)
+
+      İndikatör - Kesinlik bildirmez... AL dedi diye Alınmaz..
+            Geçmişe dair verileri yorumlar.. tahminler.. kesinlik değil..
+            Fiyatı geriden takip eder.. Olmuş veriyi gösterir.
+            İndikatör, far gibidir... Görmek için.. Önümüzü aydınlatıyor ama kaza yapmayacağın anlamına gelmez..
+            İndikatör, %50 olan ihtimalini yükseltir..
+            Bu tip göstergeler herşey değil ama çok şeydir..
+            Neyi neye hesapladığını bilmelisin..
+
+      İndikatör gruplandırılması
+            Bir çok kategori ve anlam var..
+
+            Anlamlarına göre:
+                  Öncü indikatörler (Leading)
+                        - Tahmin / Beklenti anlamı taşırlar
+                        - Hesaplanırken genelde "yakın zamanlı veriler" dikkate alınır. bu tarz indikatörler bu yüzden öncü..
+                                    Ne kadar geriye gidersen ne kadar uzun bir hatayla hesap yaparsan o zaman biraz daha gecikirsin...
+                        - Genel olarak daha keskin ve daha erken sinyal üretirler, yanılma payları dikkate alınmalıdır.
+                                    Uyarı: birşey ne kadar erken üretildiyse, yanlış olma olasılığı da o derecede yüksek olur..
+
+                        Örnekler:
+                              Momentum indikatörleri.. fiyatın önünde gider..
+                              RSI, PSAR, OBV, CCI, Stochastic, Ichimoku (geleceğe dair beklentiler taşır..)
+                              Mum Formasyonları (beklenti durumları var)
+                              Uyumsuzluklar
+                              Fibonacci Seviyeleri
+
+                  Artçı (Geriden Gelen, Geciken) indikatörler (Lagging)
+                        - Geçmiş datayı gösterirler. İleriye dönük sana birşey söylemez ama sen yorumlarsın
+                        - Daha uzun vadeli veriyi kullanırlar. Trend belirlemekte etkilidirler.
+                        - Geciken sinyaller elde edilse de, yatırımcılar daha güvende hisseder.
+                              Mesela 50 barlık hareketli ortalamanın üzerindeyse fiyat, o zman güvende hissediyorsun... trend yukarı devam ediyor diye düşünürsün... ya da tam tersi short pozisyondaysan...
+
+                        Örnekler:
+                              Hareketli Ortalamalar
+                              Bollinger Bantları
+                              ATR
+                              Standart Sapma..
+
+            Kategorilerine göre:
+                  Momentum:                         Momentum, Trend Score, TD Sequential, MACD, CMO, Inverse Fisher Transform İndikatörleri
+                  Momentum (Aşırı Alım/Satım):      RSI, Stochastic, CCI, SMI
+                  Hacim: (Alınan/satılan LOT işlem) OBV, VWMACD, Intraday Intensity, MFI, VROC, A/D, Chaikin Oscillator
+                  Trend:                            PSAR, Linear Regression, Hareketli Ortalamalar, Tillson T3 
+                  Trend Takip:                      Ichimoku, Vortex, Aroon, ADX, DI
+                  Volatilite:                       Bollinger Bands, ATR, Keltner Channels, Donchian Channels, Standart Sapma
+                  Hareketli Stop Loss:              MOST, Supertrend, ATR Trailing Stop, PMax
+
+                  * Supertrend: tek bir çizgidir.. fiyatın altına inerse AL, üstüne çıkarsa SAT
+                              içinde ATR ve Hareketli ortalama var... trend için başarılı ama yatay piyasada optimize edilmeli
+                              varsayılan ayarları 10a, 3 ..
+                  * Tillson T3: tek bir çizgidir.. bir sürü al sat yöntemi var..
+                              trend için başarılı ama yatay piyasada optimize edilmeli
+
+                              Hull Moving Average (HMA) - renk değiştirmeye göre al sat veren indikatör
+
+                  * Hareketli Ortalamalar:      
+                        Kısa hareketli ortalama, uzun olanı yukarı kestiğinde AL      (kısa fiyat, uzun fiyatın altındaysa al)
+                        Kısa hareketli ortalama, uzun olanı aşağı kestiğinde SAT      (kısa fiyat, uzun fiyatın üzerindeyse sat)
 
 
+                  * MACD
+                        Al-Sat Sinyalleri:
+                              En çok kullanılan klasik hali, yani MACD ve TRIGGER kesişimidir.
+                              MACD çizgisi TRIGGER sinyal çizgisini aşağı kestiğinde SAT
+                              MACD çizgisi TRIGGER sinyal çizgisini yukarı kestiğinde AL
+
+                  * ATR - Average True Range
+                        Özellikler
+                              - En güvenilir volatilite göstergelerindendir.
+                              - Welles Wilder tarafından üretilmiştir.
+                              - Yön göstermez, tek başına direk AL/SAT sinyali üretmez
+                              - "True Range" olarak ifade edilen "Gerçek Aralık" değerinin ortalamasıdır.
+                              - Varsayılan olarak 14 periyodluk bir ortalama kullanılır
+                              - bunu kullanma sebebi: belli bir volatilite altında/üstünde işlem yapma denilebilir onun dışında pek bir durumu yok gibi...
+
+                  3 Soru ve 3 Sorun: Gösterge kullanımı ile ilgili yatırımcıların kafasındaki sorular...
+                        1. Hangi zaman aralığında kullanılmalı? / Grafik periyodu ne olmalı?      vade seçimi
+                        2. Hangi uzunlukta kullanılmalı? / En iyi çalışan ayarlar?                 uzunluk seçimi
+                        3. Hangi indikatör kombinasyonları anlamlı olur?                            gösterge seçimi
+
+                        1. Göstergelerde Grafik Periyodu
+                              Vade ile doğru orantılıdır. * * *       
+                                    Benim göstergeye baktığım vade, işlem yaptığım vade olmalı..
+
+                              Periyot: grafikte baktığımız zaman aralığı..
+
+                              Genel olarak:
+                                    Kısa vadeli işlemler: 60 dklıktan kısa zaman aralıkları                               * Yani gün içi trade, haftalık grafiklere bakılarak yapılmaz...
+                                    Orta vadeli işlemler: 60 dklıktan uzun zaman aralıkları                               
+                                    Uzun vadeli işlemler: Günlük ve üzeri zaman aralıklarındaki grafikler kullanılır.     * aylık grafiğe bakılıp günlük işlem yapılmaz.... senin vaden aylıksa aylığa bakarsın..
+
+                                    haftalık gelen sinyaller saatliklere göre daha anlamlı olur
+
+                        2. Göstergelerde Periyot / Uzunluk Seçimi
+                              birçok yatırımcı göstergeleri varsayılan ayarları ile kullanır.
+
+                              Varsayılan ayarlar genel olarak:
+                                    - günlük barlardaki işlemlere göre tasarlanmıştır..
+                                    - geliştiricilerin tecrübelerine göre yaptıkları optimizasyonlarla bulunur.
+
+                              Genellikle:
+                                    - uzunluklar arttıkça sinyallerin sayısı azalır kalitesi artar. ama işleme geç girer.
+                                    - tersine kısaldıkça da işlem sayısı artar ve sinyal kalitesi düşer. ama işleme erken girer. hata yapmaya müsaittir ama daha dipten alırlar daha tepeden satarlar....
+
+                                    mesela RSI 14 mü 20 mi? neden 14 old bilen de yok.. öyle seçilmiş
+                                                tillson 5 bar demiş nedeni sorgulama..
+                                    ama kurcalar ve üzerinde oynarsan güzel sonuçlarda çıkabilir...
 
 
+                              İndikatörler her grafikte ve her zaman aralığında aynı performansı göstermezler.
+                                    Uzunluk seçimi kriterleri:
+                                    - yatırım yapılan grafiğin karakterine: (grafik karakteri: yatay seyirdeyse ya da konsolidasyondaysa ya da çok zigzag çiziyorsa..) yani bu karakterlere aynı göstergeyle bakılmaz... başarısız olursun.. ayrı olarak, trend göstergesi kullanacaksan daha önceden büyük trend yapmış varlıklarda kullanmak daha iyi...
+                                    - grafik zaman aralığına
+                                    - kullanılan indikatörün hesaplama mantığına ve kategorisine göre değişiklik gösterir.
 
+                                    Optimizasyon - En uygun parametreler:
+                                    - öncelikle ilgili grafikte, istenilen zaman aralığında göz yordamıyla alım satım noktaları tespit edilip yatırımcının onay vermesi önemlidir.
+                                    - Sonrasında doğru ayarlar için; bilgisayar programları yardımıyla ince ayar yapılmalıdır.
+
+                                    periyot seçiminde zorlanılan durum hareket aralığı...
+
+                                    Göstergeler genel olarak yatay piyasalarda kötü performans gösterirler.
+                                    Yatay piyasada ipuçları:
+                                          Volatilite ölçen indikatörlerin belirli değerleri altında işlem yapmamak - FİLTRELEME      ATR ile oynanabilir..
+                                          Göstergenin uzunluğunu artırarak daha az işlem açmasını sağlamak
+                                          Göstergenin uzunluğunu azaltarak daha küçük salınımları yakalamaya çalışmak. piyasanın yatayda olduğunu düşünüyorsan
+                                          Grafik periyodunu artırarak yatay bar sayısını azaltmak - vadeyi uzatmak ve daha büyük salınımları beklemek
+                                          Grafik periyodunu azaltarak yatay bar sayısını azaltmak - vadeyi kısaltmak ve daha küçük salınımlarda işlem açmak
+                                          Piyasanın yataydan çıktığına emin olana kadar işlem açmamak
 
 # 08. Doğru İndikatör Kombinasyonları
+
+                        3. Gösterge Kombinasyonları
+                                    Grafiği göstergelerle doldurmak doğru bir yaklaşım değildir..
+                                    Farklı sinyaller kafa karışıklığı yaratır.
+                                    max 3-4 tane ya da farklı durumlarda farklı göstergeler kullanabilirsin...
+
+                                    Birden fazla gösterge kullanılmak isteniyorsa...
+                                    Doğru olan yaklaşım:
+                                          farklı anlamlara gelen
+                                          birbirini tamamlayan
+                                          farklı kategorilerdeki indikatörleri kombine etmektir.
+
+                                    Kategorilerine göre İndikatörler:                                                                                                                       Strateji / Kurgulanan Senaryo:
+                                          Momentum:                        Momentum, Trend Score, TD Sequential, MACD, CMO, "Inverse Fisher Transform İndikatörleri"                        Momentum göstergeleri genelde çok zigzaglar çizer..
+                                          Momentum (Aşırı Alım/Satım):     RSI, Stochastic, CCI, SMI
+                                          Hacim:                           OBV, VWMACD, Intraday Intensity, MFI, VROC, A/D, Chaikin Oscillator
+                                          Trend:                           PSAR, Linear Regression, Hareketli Ortalamalar, "Tillson T3"                                                     Trend göstergeleri yatay trendde hatalı sinyaller verir. bunun önüne geçmek için Volatilite göstergesi ATR kullanacağız.
+                                          Trend Takip:                     Ichimoku, Vortex, Aroon, ADX, DI
+                                          Volatilite:                      Bollinger Bands, "ATR", Keltner Channels, Donchian Channels, Standart Sapma                                      ATR bize volatilite ölçecek... volatilite, yataya sarmışsa yani atr değeri düşükse işlem yapmayacak.
+                                          Hareketli Stop Loss:             MOST, Supertrend, ATR Trailing Stop, PMax
+
+
+                                    Belli kategorilerden seçim yaparak algo oluşturmak daha anlamı...
+
+                                    Örnek Strateji Göstergeleri:
+                                          - Inverse Fisher Transform İndikatörleri        öne doğru tahmin - momentum göstergesi .. Filtre olan bu gösterge. normal CCI çok fazla zigzag olabilir.. hata yaptırır.. ama bu filtre daha az işlem yaptırır..
+                                          - Tillson T3                                    fiyat üzerindeki hareketli ortalama. hareketi ortalama gecikir. fiyatın arkasından gelir sonradan hesaplanır...
+                                                                                          tillson yanıldığında Inverse devreye girer..
+                                          - ATR                                           yataya piyasadaki fake hareketleri ya da hatalı sinyalleri göz ardı etmek istiyoruz. bunun için filtre kullanabiliriz....
+
+                                    Haftanın Stratejisi # 1:
+                                          Tillson T3 + ATR + Inverse Fisher Transform CCI Kombinasyonu
+
+                                          Koşullar:
+                                          IFT - "AL" iken, ATR > 13 değerinden büyükse, T3 yeşil olduğunda      -----> AL
+                                          IFT - "SAT" iken, ATR > 13 değerinden büyükse, T3 kırmızı olduğunda   -----> SAT
+                                    
+
+
+
+https://www.youtube.com/watch?v=tIh2wQrhrU0&list=PLutBBWh7xwXMLLNvt6wrOBKBJeCzDAGtR&index=8
+6:50
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 09. Trend ve Kırılımlar
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 10. Ortalamaya Dönüş (Mean Reversion)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 11. QnA
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 12. Uyumsuzluklar
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 13. Trend Takibi
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 14. Price Action
       Fiyat hareketi
@@ -688,7 +891,7 @@ https://borfin.com/tr/courses/2394/hareketli-ortalamalarla-algo-trade
                         Stratejinin Backtest Sonuçları:
                               Strateji Getirisi: %150     
                               BIST100 performansı %53
-                              18 işlem 11 karlı                                    bu önemli..... kodlara 14den ulaş. tek satırlık bi kod zaten
+                              18 işlem 11 karlı                                    bu önemli... kodlara 14den ulaş. tek satırlık bi kod zaten
 
                   Haftanın Stratejileri #2
                         İzole Dip ve İzole Tepe Yöntemi
@@ -844,11 +1047,65 @@ ALGORİTMA DÜNYASI 46 MUM FORMASYONLARI - AYI
       2. Uyanık       bekletip dipten aldı ya da kriz olacağını biliyor, ve kriz olduğunda en dipten alıyor.. O girdikten sonra piyasa yükseliyor..  100 ve 200 günlük ortalamaya gelsin öyle alırım diyor. ikinci kazanan
       3. Umarsız      her ay alım yapıyor...                              en iyi kazanan
 
-      Remember time in the market beats timing the market. Invest early and often.. Jeremy Schneider - Personal Finance Club
+      "Remember time in the market beats timing the market. Invest early and often.." Jeremy Schneider - Personal Finance Club
+
+
+      Robert Shiller: piyasa pahalı mı ucuz mu... cape ratio
+            Cape oranı: piyasa değeri / son 10 yıllık karların enflasyon ile düzeltimiş ortalaması...
+            ratio yüksekse piyasa durağan..
+            ratio düşükse piyasa artacak..
+            https://youtu.be/jA7InuEM7Ug?si=_m9N1zOokFsyisIm
 
 
 
-exponential growth...
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Types of Growth
+      Curves..
+      Büyüme Türleri (Fonksiyonları)
+      https://jamesclear.com/growth-curves
+
+# Exponential Growth: Improvements come slowly in the beginning (lag phase), but your gains increase rapidly over time. (exponential phase),  and then (stationary phase)... and death...
+                        Requires patience to get past the early period and see results.
+      (unrestricted)
+
+      Formula: f(x)=2^x
+
+            y
+            |
+            |
+            |
+Population  |
+  Results   |
+   Size     |
+            |
+            |
+            |________________________________ x
+                         Time / Effort
+
+            Example: Bacterial Growth Curve..
+
+# Logarithmic Growth: Improvements come quickly in the beginning, but your gains decrease overtime.
+                        Requires consistency even when you see a slowdown in wins.
+
+
+# Logistic Growth: Carrying capacity (K) of environment
+            (restricted)
+            
+
+# Linear Growth:
+
+
+f(x)=50x
+f(x)=x^3
+f(x)=x^2
+
+
+
+
+
 
 
 
