@@ -1,0 +1,107 @@
+Willian Gann - Klasik Analiz
+Dow Jones - Modern Analiz
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Time/Periyot: %100
+  piyasa %15 yukarı trend hareket eder.
+  piyasa %70 yatay trend hareket eder.
+  piyasa %15 aşağı trend hareket eder.
+
+Eğer kurguladığın sistemde, sadece fiyatların yukarı gidişinden kar yapıyorsa... zamanın sadece %15ini kullanan bir sistem kullanırsın
+Kurulacak sistem, üç trend içinde çalışacak bir yapıda olmalı..
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Çok az işlem görmüş bir seviyeye stop koymak... destek direnç aslında
+     sizi yatay piyasa defalarca al-sat yapmakatan koruyabilir..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Quantative Trading - Trader
+
+Teknikçiler, biraz Quantitive trader gibilerler...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Munehisa Homma ve Pirinç Piyasası
+    Yılın hangi günlerinde açılış-kapanış
+                           en yüksek-en düşük seviye...
+    yani bu şekilde pirinç fiyatlarını tahmin etmek için tasarlandı..
+    Özetle Mum grafikleri...
+    https://halkyatirim.medium.com/mum-grafiklerin-do%C4%9Fu%C5%9Fu-c9c1e63a50c5
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Jim Simmons Methods:
+
+Fractals: dip ve tepe formasyonları
+          Birbirini takip eden formasyonlar/kalıplar
+          yani trend dönüşümleri formasyonları
+
+
+Kelebek Etkisini bulmaya çalışıyor ama...
+Fiyatların rasgele olduğunu anladı belli bir rastlantı yoktur...
+Finansal piyasalar - Kaotik bir sistemlerdir.
+Şuan bile bi Al-Sat sistemi kursan, gerçek hayatta ,backtestteki gibi işe yaramaz...
+
+Geçmiş veriler...
+Dip ve Tepe formasyonlarını saptayan ve hesaplayan bir algoritma
+Aynı zamanda fiyat hareketlerindeki boşlukları fark eden analiz eden bir algoritma......
+
+Tez #1:
+  Borsa salonlarında döviz alıp satan yatırımcılar, hafta sonu riski almamak için her cuma vadeli piyasada satış yapması...
+  Çünkü haftasonu bi haber çıkabilir. borsa taban olabilir...
+  yani cuma kapanışında nakde dönen traderler...
+  ya da borsacılar önemli ekonomik verilerin açıklanmadan önce nakte döner...
+  herhangi bir sürprize karşı portföy kapanır...
+  yeni haftaya başlarken tekrar pozisyonlanırlar.
+  bunu bilip bu riski alarak işlem yapmaya devam edenlerse iyi para kazanabilir...
+
+
+
+Arka arka gerçekleşen iki para atışı arasında hiç bir bağ/correlation yoktur...
+Simmons, para birimini karşılaştırdığında döviz cinsleri arasında iki para birimi arasında %10luk bir korelasyon oldunu fark etti.
+        altında %7
+        emtialarda %4lük ir korelasyon fark etti
+
+      yani alacağın ürünün fiyat geçmişine bakmaktansa diğer ürünlerin geçmişlerine bakılıyor...
+        regulasyon ve korelasyon istatisk yöntemleri...
+
+        yani colayı, pepsi hissesinin fiyatı düşüyor diye satıyor..
+        birbirine benzer hisselere ve finansal ürünlere arasında bi makas aralığı belirleyip 
+            o makas aralığı arasında fark açıldığında tekrar eski seviyelere dönmeleri üzerine alış ve satış işlemleri yapmak
+
+        Bunun adı: Pair Trade
+              Pair Trade (ikili işlemler), 
+                  korelasyonu yüksek iki finansal ürün arasında ortaya çıkan dalgalanmalardan yararlanmak amacıyla, 
+                  eş zamanlı şekilde göreceli olarak düşük performans göstermesi beklenen enstrümanın satılması 
+                  ve daha iyi performans göstermesi beklenen enstrümanın alınması ile uygulanan bir alım/satım stratejisidir. 
+              Bir başka ifade ile Pair Trade işlemleri piyasanın yönünden bağımsız olarak alternatif bir getiri imkânı sağlamaktadır.
+
+
+
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+Korelasyon, iki A ve B değişkeni arasındaki doğrusal ilişkinin yönünü ve gücünü belirtir. Genel kullanımda korelasyon, bağımsızlık durumundan ne kadar uzaklaşıldığını gösterir.
+Korelasyon–1 ile +1 arasında değişir.
+Korelasyon pozitif bir değer taşıyorsa A ve B arasında aynı yönde; negatif bir değer taşıyorsa ters yönde bir ilişki vardır.
+Korelasyon sıfır değerini taşıyorsa değişkenler arasında ilişki yoktur.
+Korelasyon –1 ve +1’e yaklaştıkça ilişkinin gücü artar.
+
+
+Beta katsayısı bir hissenin dahil olduğu endeksle korelasyonunu gösterir. Pozitif değerler endeksle aynı yönde hareketi gösterirken, negatif değerler ise hissenin endekse ters yönde hareket ettiğini gösterir. 1’in üstünde değerler hissedeki fiyat hareketliliğinin endeksin genelinin ortalamasından daha yüksek olduğunu gösterir. Bu değer hissenin tarihsel performansı baz alınarak hesaplanır. Gelecekteki performans geçmiş performanstan farklılık gösterebilir.
+Beta Katsayısı (β);
+β= 1 ise hissenin hareketinin endeksle aynı yönde olduğunu ve ortalama risk taşıdığını ifade eder.
+β> 1 ise hissenin hareketinin endeksten daha hızlı olduğunu ve daha riskli, yüksek volatilite olduğunu ifade eder.
+Β <1 ise hissenin hareketinin endeksten daha yavaş olduğunu ve az riskli, düşük volatilite olduğunu ifade eder.
+
+
+
+
+https://www.osmanlimenkul.com.tr/hisse-ve-viop/platformlarimiz/arastirma-platformlari/hisse-vadeli-arastirma-platformlari/pair-trade
+
+
+
+
