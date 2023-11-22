@@ -1,0 +1,87 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# 00. Borsa'da Zamanlama
+      Kısa      Orta      Uzun..      
+
+      Kaos Teorisi
+      Kaldıraç
+
+      Yarın ne olacak kimse bilmiyor... ülke/dünya konjektürü vs..
+      1 hafta sonra ne olacağını kimse bilmiyor..
+
+      yatırdıkları toplam para değişmiyor... Hepsi aynı parayı ortaya koyuyor...
+      A kişisi, yılın en dibinden alıyor.                                            Şanslı            1
+      B kişisi, yılın ilk işlem gününde alıyor. Ayın 1'i                             Disiplinli        2
+      C kişisi, her ayın 15'inde alıyor.                                             Aylıkçı           3
+      D kişisi, Olabilecek en kötü yerden / piyasa en yüksekteyken alıyor.           Bedevi            4
+      E kişisi,                                                                      Faizci            5                  
+
+      https://www.schwab.com/learn/story/does-market-timing-work
+
+      bir tren düşün, çok şanssız da olsan, bilgisiz de olsan, geri de ileri de gitsen, tren seni eninde sonunda oraya götürecek.
+
+      Three Girls...
+      1. Şanssız      bekletip zirveden aldı ya da kriz olmadan önce parasını koymuş..      üçüncü kazanan
+      2. Uyanık       bekletip dipten aldı ya da kriz olacağını biliyor, ve kriz olduğunda en dipten alıyor.. O girdikten sonra piyasa yükseliyor..  100 ve 200 günlük ortalamaya gelsin öyle alırım diyor. ikinci kazanan
+      3. Umarsız      her ay alım yapıyor...                              en iyi kazanan
+
+      "Remember time in the market beats timing the market. Invest early and often.." Jeremy Schneider - Personal Finance Club
+
+
+      Robert Shiller: piyasa pahalı mı ucuz mu... cape ratio
+            Cape oranı: piyasa değeri / son 10 yıllık karların enflasyon ile düzeltimiş ortalaması...
+            ratio yüksekse piyasa durağan..
+            ratio düşükse piyasa artacak..
+            https://youtu.be/jA7InuEM7Ug?si=_m9N1zOokFsyisIm
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Portföy çeşitlendirmesi seni ülke konjektüründen korumaz
+      çünkü hisselerinin, olabilecek olumsuz konjektür dahilinde correlation var...
+      sadece temettü kazanacaksın diye tüm paranı yatıramazsın. belli bir likiditen olmalı... 
+      peter lynch 
+
+Bu nokta yapılacak; kaynak çeşitliliği
+      yani sadece hisse değil
+      metal ya da eurobond vs...
+      ya da gayrimenkul
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Types of Growth
+      Curves..
+      Büyüme Türleri (Fonksiyonları)
+      https://jamesclear.com/growth-curves
+
+# Exponential Growth: Improvements come slowly in the beginning (lag phase), but your gains increase rapidly over time. (exponential phase),  and then (stationary phase)... and death...
+                        Requires patience to get past the early period and see results.
+      (unrestricted)
+
+      Formula: f(x)=2^x
+
+            y
+            |
+            |
+            |
+Population  |
+  Results   |
+   Size     |
+            |
+            |
+            |________________________________ x
+                         Time / Effort
+
+            Example: Bacterial Growth Curve..
+
+# Logarithmic Growth: Improvements come quickly in the beginning, but your gains decrease overtime.
+                        Requires consistency even when you see a slowdown in wins.
+
+
+# Logistic Growth: Carrying capacity (K) of environment
+            (restricted)
+            
+
+# Linear Growth:
+
+
+f(x)=50x
+f(x)=x^3
+f(x)=x^2
+
