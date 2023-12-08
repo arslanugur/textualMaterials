@@ -291,6 +291,9 @@ Metot nedir?
 
 🔻  RİSK DEĞERLENDİRME TABLOSU
 
+
+
+
 	                                 RİSK DÜZEYİ
 	            -----------------------------------------------------------
 	                                    ŞİDDET
@@ -325,6 +328,22 @@ Metot nedir?
 		    |   	|
 		    |   	|
 		     ^^^^^^^^^^^
+
+
+
+🔻 Risk vs Reward
+
+							WIN RATE %
+			--------------------------------------------------------------------------
+			20%		30%		40%		50%		60%
+		1:1	Not Profitable	Not Profitable	Not Profitable	Break Even	Profitable
+Risk		1:2	Not Profitable	Not Profitable	Profitable	Profitable	Profitable
+to Reward	1:3	Not Profitable	Profitable	Profitable	Profitable	Profitable
+Ratio		1:4	Break Even	Profitable	Profitable	Profitable	Profitable
+		1:5	Profitable	Profitable	Profitable	Profitable	Profitable
+
+
+
 
 
 🔻 Bu bir Soygun!
