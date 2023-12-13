@@ -3,6 +3,10 @@ https://www.youtube.com/watch?v=RwC2IBUKJ9g&list=PLutBBWh7xwXMLLNvt6wrOBKBJeCzDA
 https://borfin.com/tr/courses/2368/algoritmik-trade
 https://borfin.com/tr/courses/2394/hareketli-ortalamalarla-algo-trade
 
+Instrument:
+      VIOPda işlem yap üzerine de faizini al.....
+      Gecelik faiz alabilirsin
+      Aracı kurumda azami para tutma 700bin yani batsa bile paranı alırsın...
 
 
 
@@ -1003,7 +1007,62 @@ https://www.youtube.com/watch?v=tIh2wQrhrU0&list=PLutBBWh7xwXMLLNvt6wrOBKBJeCzDA
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ALGORİTMA DÜNYASI 36 DEVAM FORMASYONLARI
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ALGORİTMA DÜNYASI 37 - 38 - 39 VADELİ İŞLEMLER - VİOP - VİOP ALGORİTMALARI
+      VIOP, bir türev üründür...
+      Türev ürün: bir dayanak varlıktan türetilmiş güç alan ve fiyatı dayanak varlığın fiyatındaki değişimlere göre değişen üründür..
+      iki taraf arasında, el değiştirecek varlık için fiyat, miktar, zamanlama, kalite gibi ödeme/teslimat şartlarını belirleyen sözleşmelerdir.
+
+      - forward sözleşmeler
+      - swaplar
+      - vadeli işlem sözleşmeleri (futures)
+      - opsiyon sözleşmeleri
+
+      viop mevzusu - geleceği dair haber vermesi -- fiyat analizi
+      VIOP, risk yönetimi için kullanılabilir...
+
+      Spottaki gelişmeler vadeliyi etkiler.. Vadelideki fiyat spotu etkileyemez gibi yani olur ama kolay kolay etkilemez.
+      Spot, asıl olan şeydir..
+
+      DAYANAK VARLIKLAR / UNDERLYING ASSET:
+            Derivatives
+            Türev araçların tümü bir dayanak varlıık üzerine düzenlenir.
+            Türev araçlar, dayanakların fiyatlarındaki değişimlere göre fiyatlandırılır.
+
+                  Pay:                50 adet likit pay üzerine vadeli işlem sözleşmeleri ve 21 adet likit pay üzerine opsiyonlar
+                  Endeks:             BIST30, BIST likit Banka, BIST Banka Dışı Likit 10 vadeli işlem sözleşmeleri ve BIST 30 Opsiyonlar
+                  Döviz:              Dolar-Lira, Euro-Lira, EUR/USD, CNH/TRY, RUB/TRY, GBP/USD vadeli işlem sözleşmeleri, USD/TRY opsiyonlar, Fiziki USD/TRY vadeli işlem ve opsiyon sözleşmeleri
+                  Kıymetli Madenler:  TRY/Gram ve USD/ONS altın vadeli işlem sözleşmeleri, USD/ONS Gümüş, USD/ONS Paladyum ve USD/ONS Platin vadeli işlem sözleşmeleri
+                  Enerji:             Elektrik (Aylık, Çeyreklik, Yıllık) vadeli işlem sözleşmeleri
+                  Yabancı Endeks      SASX10 Endeksi vadeli işlem sözleşmeleri
+                  Faiz:               Aylık TRY/REF vadeli işlem sözleşmeleri
+
+
+      Vadeli İşlemler ile Opsiyonlar farklı türev çeşitidir...
+
+      01. VADELİ İŞLEMLER (FUTURES)
+            Vadeli İşlem Sözleşmesi, belirli bir vadede, önceden belirlenen fiyat, miktar ve nitelikte dayanak varlığı alma veya satma yükümlülüğü veren standart sözleşmelerdir.
+            İşlem fiyatı dışında, sözleşmelerin tüm unsurları BIST tarafından belirlenir.
+            Sözleşmelerin alım-satım işlemleri VIOP'ta gerçekleşir.
+            VIOP'ta işlemler, şeffaf bir piyasa ortamında oluşan fiyatlardan gerçekleşir.
+            Alıcı ve Satıcı elektronik olarak sisteme emirlerini girer.
+            Verilen emirler fiyat ve zaman önceliğine göre işlem görür, dizilir..
+
+            Fiziki olarak birşey satın alınmıyor, Ortada sadece sözleşme var. Bunun anlamı ben şu tarihte şu fiyattan bunu almaya/satmaya razıyım demek.
+
+            Spot ve Vadeli İşlemler arasındaki fark:
+                  Spot (Nakit) İşlem:
+                        Ödeme ve teslimatın işlem yapılan günde veya çok kısa süre içerisinde yapıldığı işlemlere spot veya nakit işlem denir.
+                  Vadeli İşlem:
+                        Anlaşmanın bugün yapılması,     
+
+
+
+
+
+
+
 ALGORİTMA DÜNYASI 40 REPAINT
 ALGORİTMA DÜNYASI 41 HARMONİK FORMASYONLAR
 ALGORİTMA DÜNYASI 42 ALPHATREND İNDİKATÖRÜ
@@ -1012,13 +1071,25 @@ ALGORİTMA DÜNYASI 44 İŞLEMLERDE HACİM ANALİZİ
 ALGORİTMA DÜNYASI 45 MUM FORMASYONLARI - BOĞA
 ALGORİTMA DÜNYASI 46 MUM FORMASYONLARI - AYI
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 
 
+ALARK
+şirket aşırı fiyatlandığında sahibi bile satar...
+      aşırı faiz, borçlanma maliyetli olur sahibi yine hisse satar...
+      yüksek faiz, şirketler bedelli sermaye artışna gidebilir...
 
 
+roic - yatırılan sermayenin getirisi
 
+stockeys.com
+
+
+sanayi şirketlerinde %20 brüt kar marjı varsa atla...
+
+mavi - hendeği olan bi şirket
 
 
 
