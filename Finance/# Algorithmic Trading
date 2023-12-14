@@ -1054,8 +1054,67 @@ ALGORİTMA DÜNYASI 37 - 38 - 39 VADELİ İŞLEMLER - VİOP - VİOP ALGORİTMALA
             Spot ve Vadeli İşlemler arasındaki fark:
                   Spot (Nakit) İşlem:
                         Ödeme ve teslimatın işlem yapılan günde veya çok kısa süre içerisinde yapıldığı işlemlere spot veya nakit işlem denir.
+                        BIST'te takas kuralı T+2'dir. Yani iki gün sonra senin bunun karşılığını ödemen gerekir.
+
                   Vadeli İşlem:
-                        Anlaşmanın bugün yapılması,     
+                        Anlaşmanın bugün yapılması, anlaşma yükümlülüklerinin ise gelecekte yerine getirilmesi yönünde yapılan işlemlere genel olarak vadeli işlem denilmektedir.
+                              Belirli bi vade sonunda alabilirim, Alım-Satım'a girebilirim diye emir verebilirsin..
+                              Gelecekteki bir fiyatı alıyor ve satıyoruz...
+
+                  Spot (Nakit) Fiyat:
+                        Bir malın spot alım/satımını yaparken malın birim fiyatı için bugün veya çok kısa süre içerisinde ödeyeceğiniz/alacağınız meblağdır.
+                  Vadeli Fiyat:
+                        Br malın vadeli alım/satımını yaparken malın birim fiyatı için gelecekte ödeyeceğiniz/alacağınız meblağdır.
+
+            Vadeli sözleşmelerdeki fiyat farkları
+                  Vadeli fiyatı etkileyen faktörler
+                  - Dayanak varlık spot fiyatı
+                  - Faiz oranları
+                  - Temettü Getirisi (Pay ve Pay Endeksi Sözleşmeleri için)
+                  - Vadeye kalan süre 
+                  - Depolama, Sigorta, Teslimat masrafları (Fiziki Teslimli Emtia Sözleşmeleri)
+
+                  Spot:      AKBNK                           Spot Fiyatı: 7.78
+                  Vadeli:    FAKBNK      Dayanak: AKBNK      Vadeli Fiyatı: 7.84 
+
+                  Vadeli Teorik Fiyat = Spot Fiyat + Taşıma Maliyetleri (Faiz) +/- Risk Algısı
+                                                      Temettü getirisi bu maliyetten düşer.
+                                                      Vadeye ne kadar uzun süre varsa, faizde o kadar yüksek olur. Aradaki fiyat farkı da buna göre değişir, fazla olur.
+
+                  Aralarında her zaman belli bir oran var: yüksek ya da alçak şekilde
+                        Vadeli bazen spot fiyatın üstüne çıkabilir. 
+                                    Genelde hep böyledir. Nedeni dayanak varlık üzerine taşıma maliyeti eklenir...
+                                    Mesela Ocak sonunda alacağını söylersin...
+
+                        Vadeli bazen spot fiyatın altına inebilir.
+                                    Arbitraj fırsatı doğar. Temettü ya da başka bir risk algısı durumu yoksa..
+
+                  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+                  Diyelim ki Mart Ayında
+                        Ben Ocak sonunda AKBNK hisselerini almaya hazırım/razıyım diyorsun      Vadeli Fiyatı: 7.84
+                        Eğer Ocak ayında 7.84den kapatırsa AKBANK spot fiyatı isteğime kavuşurum.
+                                                 daha da yukarı giderse kar etmiş olacağım
+                                                 daha düşük kapatırsa zarar etmiş olacağım
+                                                 yani gelecekteki bir fiyata söz veriyoruz...
+                        VIOPta temettü diye birşey olmaz: Kabaca risksiz faiz eklenip, temettü çıkartılır.
+                              Strateji: Temettü vermeyen hisselerde VIOP yapılabilir...
+                                        Temettü veren hisselerde de long pozisyon açarsın zaten...
+                  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+                  Hesaplamalarda şaşma olursa 
+                        normalde spot fiyat 7.78 ama bi anda teorik fiyat 8.00 lira olduğunu görenler                                    vadeli fiyat yükselmişse spot fiyat düşeceğinin habercisi
+                                                            biraz yukarı çıktı, 7.78 olması gerekiyor deyip shortlayabilirler.
+
+                        tam tersi
+                              spot fiyatla vadeli fiyat birbirine çok yakındır
+                                    spot daha altındadır.. bu durumdada long taraf düşünülür..
+
+
+                              
+                  arbitraj yöntemi...
+                  https://www.youtube.com/watch?v=hPPKV4GEc0o
+
+
+
 
 
 
@@ -1095,6 +1154,28 @@ mavi - hendeği olan bi şirket
 
 
 
+
+
+
+# Investment Apps in the UK
+      Stocks: 
+            Güvenlik: (FSCS, FCA)      85k pounda kadar garanti
+            Komisyon/Oranlar:
+            ETFs (Exchange-traded Fund)
+            ISA Desteği - Gelir vergisi yıllık 20bin pounda kadar ödenmiyor
+
+      Apps:
+            Hargreaves Landsdown                  --> Much Fee
+            AJ Bell                               --> Much Fee
+            Freetrade                             --> 0.45%      ISA Payment - 5£
+            Stake                                 No commission, but %0.5 to Withdraw/Invest      No ISA Account
+            Etoro                                 Portfolio Choices *       No ISA Account
+            Vanguard                              Only Vanguard ETFs
+            Invest Engine                         Only ETFs
+            Trading 212                           Popular, Low Commission.
+            Banks                                 High Commission
+
+      
 
 
 
