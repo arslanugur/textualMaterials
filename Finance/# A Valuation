@@ -31,19 +31,53 @@ PDDD - özvarlıklar 3.8 katından işlem görmesi..
             - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
             Neye bakılır:
-                  Şirket Sermayesi:         1.000.000.000
-                  şirket değeri (pd):       40.000.000.000      yani sermayesinin 40 katından işlem görüyor....
-                  şirket özsermayesi:       4.442.683.000      herşeyi satınca kalan para...
-                  defter değeri:            4.44                  değeri bu
-                  şirket fiyatı:            40.12                 ama ödediğin bu... 9 katı
-
+                  Şirket Sermayesi:           1.000.000.000
+                  şirket değeri (pd):         40.000.000.000      yani sermayesinin 40 katından işlem görüyor....
+                  şirket özsermayesi/varlık:  4.442.683.000       herşeyi satınca kalan para özvarlık...
+                  defter değeri:              4.44                değeri bu
+                  şirket fiyatı:              40.12               ama ödediğin bu... 9 katı  
+                  pddd:                       9.03                öz varlığının 9 katı işlem görüyor..
 
                   Özsermaye ---> bu şirketin bütün varlığını herşeyini satsan; bilançoa yazılı değerlerden paraya çevirsen ve arkasından da tüm borçlarını ödersen kalacak para
 
                   peki kaç para ödüyorsun buna şu an... 40.000.000.000 (pd)
                   yani 9 katı ----> bunun diğer formülü: pd/dd: 9.03
 
-                  pd / özsermaye = pd/dd = 9.03
+                  pd / özsermaye = pddd = 9.03
+
+
+                                Bilanço
+                  -------------------------------------
+                  tüm varlıklar   |  borçlar (kısa+uzun)
+                  alacaklar       |  
+                  makineler       |
+                  fabrika/arsa    |
+                  vs.                                           özvarlık
+                  500.000.000     -  300.000.000              = 200.000.000
+
+                  hisse fiyatı * sermaye = piyasa değeri     -> 200m'dan fazlaysa bak, neden?
+                                           400.000.000        pddd = piyasa değeri / özvarlıklar
+                                                              2.0 = 4M / 2M
+                                                              yani piyasa bu şirkete 2 katını ödüyor...
+                  pddd neden artar?
+                  1. hisse fiyatı artıyorsa/azalıyorsa pddd artar/azalır... piyasa pahalı bulursa talebi çeker hisse fiyatı düşer ve pddd düşer...
+                  2. ama hisse fiyatı değişmezken karları artıyorsa öz varlığı da artıyordur.. pddd aşağı doğru gider...
+
+                  bir şirketin pddd, normalde özvarlık karlılığının 10 katı olması lazım
+                                      Dupont Analizi:
+                                        Özvarlık karlılığı: 16,18 --> bunun 10 katı 1.60 yapar... (%0.16 * 1.6 = 1.60 yapar.)
+                                        pddd=1.80 demek ki özvarlık karlılığına göre yüksek gözüküyor..
+                                        tabi elimizdeki veriler hep böyle devam ederse pahalı ama şirket büyüyecek...
+
+                                        yine de şirket olması gereken fiyatta...
+                                        piyasa, şu anki pddd bakar ama değerlemeyi yaparken şirketin geleceğini satın alır...
+                                            şirketin gelecek yıl ne kadar kar edeceğini bilmen lazım
+                                            bu karın kaç katı oluru tahmin etmemiz lazım...
+                                            yani bir nevi pddd tahmini
+                                            ve bu karı şuanki özvarlığa eklersek yeni özvarlık rakamı kaç oluyor...
+                                            özvarlık çok artar, fiyatta bu noktada kalırsa pddd düşebilir...
+                  https://www.youtube.com/watch?v=d9lJ2thfevM
+            
 
             Yani eğer 10 katını ödüyorsan burda pddd= 9.03
             ya da karın 32.51 katını ödüyorsan  fk=32.41
@@ -52,6 +86,13 @@ PDDD - özvarlıklar 3.8 katından işlem görmesi..
             her yıl şirketin karı %32 büyürse bu fiyat normal bir fiyat.... fk bunu gösterir..
 
             peki bu şirketin karı her yıl %32 büyüyebilir mi
+
+
+Şirketlerin "Esas Faaliyet Karlarında büyüme" var mı dönemlere göre analiz et...
+
+https://www.bilgeyatirimci.com/i/borsada-bir-sirketin-analizi-ve-cikarilacak-dersler/
+
+
 
 
 
@@ -70,13 +111,13 @@ Tüyo: Ortalama Fksının altına düştü diye bir şirket alınmaz...
     telefondaki de 6 ay beklemeniz lazım sıra veremeyiz siparişlerimiz çok der. 
     bunu duyan adam parayı kütahya porselene basar. 9 ayda 6x kazanır...
 
-
 # Kızılderili, Odun - Meteroloji Tahmini...
-
-# South Sea Bubble ve Newton
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - <
 
+# Hisse Analizi
+Balık Tutmak Nasıl olur?
+
+https://borfin.com/tr/courses/2299/hisse-secimi-analiz
 
 
 
