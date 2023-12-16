@@ -37,8 +37,14 @@ PDDD - özvarlıklar 3.8 katından işlem görmesi..
                   defter değeri:              4.44                değeri bu
                   şirket fiyatı:              40.12               ama ödediğin bu... 9 katı  
                   pddd:                       9.03                öz varlığının 9 katı işlem görüyor..
+                  
+                  PDDD - x kadar önden fiyatlamış (ederinden fazla) demektir..
+                  pddd = Yani Özsermeyesi'nin X katına piyasa da satılıyor.
+
+
 
                   Özsermaye ---> bu şirketin bütün varlığını herşeyini satsan; bilançoa yazılı değerlerden paraya çevirsen ve arkasından da tüm borçlarını ödersen kalacak para
+                      Özkaynak Karlılığı (%) - Şirketin ürettiği karlılık. Sektörü içinde kıyaslanabilir
 
                   peki kaç para ödüyorsun buna şu an... 40.000.000.000 (pd)
                   yani 9 katı ----> bunun diğer formülü: pd/dd: 9.03
@@ -94,10 +100,6 @@ https://www.bilgeyatirimci.com/i/borsada-bir-sirketin-analizi-ve-cikarilacak-der
 
 
 
-
-
-
-
 # https://www.youtube.com/watch?v=4DOby5w9jgs&t=1332
 Tüyo: Son 2-3 aydır "pddd oranı" daha önceki zirvelerin üzerine çıkmış şirketlere bak. Onun faaliye raporunu oku... bir hikaye var...
       ama pdd teknolojik şirketlerde uymuyor. çünkü varlıklrını belirleyemiyorsun sadece kod işi sonuçta...  intangible assets...
@@ -118,6 +120,30 @@ Tüyo: Ortalama Fksının altına düştü diye bir şirket alınmaz...
 Balık Tutmak Nasıl olur?
 
 https://borfin.com/tr/courses/2299/hisse-secimi-analiz
+
+
+NOTES:
+Fiili Dolaşım Oranı (Halka Açıklık) - Yüksekse, Patron yetkiyi kendisine, sorumluluğu yatırımcılara kitlemesine yarar. Düşükse, Kolay Manipüle edilir (QNB gibi)
+F/K - Rakip analizine göre düşün - Ağırlıklı ortalamalara bakılır. Aritmetik değil.. Sektörüne göre şirketlere F/K kıyaslaması yapılır.
+Beta: endeks yukarı/aşağı gittiğine etkilenme oranı
+
+
+# https://www.youtube.com/watch?v=uhSgtzrkruM
+Kriz ortamında 
+          elinde bol nakti olan şirketler sağ çıkar... çünkü daralma gelir... hızlı toparlayıp çıkıyorlar.
+                  likitide oranı: yüksek olan şirketler...
+                  cari oranı: yüksek olan şirketler: daha çok elinde nakit/nakte dönüştürebilcek varlık bulunduran şirketler
+                  nakit oranı:
+            elinde döviz varlığı yüksek şirketler getirisi iyi.  
+                  ihracatı güçlü firmalar ve ithalat girdisi de düşük olmalı - yerel malı hizmeti ihraç etmek...
+            perakende şirketleri: bimas
+
+yıllık getiri ortalaması= ?
+standart sapma = stdsapma.p(f2:j2)        spec/manip olanlarda yüksek çıkar
+sharp = getiri ortalaması / standard sapma
+
+
+
 
 
 
