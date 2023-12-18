@@ -1109,13 +1109,233 @@ ALGORİTMA DÜNYASI 37 - 38 - 39 VADELİ İŞLEMLER - VİOP - VİOP ALGORİTMALA
                                     spot daha altındadır.. bu durumdada long taraf düşünülür..
 
 
+      Vadeli İşlemler - Futures
+            Çift yönlü pozisyon açılabilen işlemler
+            # Açığa satış (Yön Tahmini)
+            Long Pozisyon: İşlem yapılan yönde yükseliş beklentisi ile açılır.
+                              Fiyatın pozisyon açılışına nispetle yükselmesi kar, düşmesi zarar ile sonuçlanır.
+            Short Pozisyon: İşlem yapılan yönde düşüş beklentisi ile açılır.
+                              Fiyatın pozisyon açılışına nispetle düşmesi kar, yükselmesi zarar ile sonuçlanır.            teorik fiyat, spot fiyatın altına inebildiği durumlar...
+                              Kaldıraçlı işlemlerdir.
+                              Açığa short satış kaldıraçlı da olabilir.. Düşüşlerde de para kazanmak
+
+                        Açığa Satış (Short) İşlem yapılabilir.
+                        Düşüşlerde de para kazanmayı mümkün kılar.
+                        spot işlemlerdeki gibiödünç alma, kiralama maliyeti yok.
+                        kredili işleme gerek kalmıyor.                              çünkü kaldıraç var...
+                        günlük nema, gecelik faiz alıyor.
+                        döviz ve değerli made kontratlarında %10 stopaj var (bireysel)
+
+
+            Kaldıraçlı Alım-Satım İşlemleri
+                  VIOPta yapılan işlemlerde kaldıraç etkisi vardır.
+                  ama bu, forex ve kripto piyasalardaki kaldıraçlı işlemlerden biraz farklıdır.
+                  kaldıraç oranları, BIST tarafından dolaylı olarak belirlenir.                        BIST'in açıkladığı başlangıç teminatları.. 
+                  Bu oranda yatırımcılar için belirleyici unsur, başlangıç teminatıdır.
+                  Kaldıraçlı işlemlerde düşük bir teminat ile büyük ölçekte pozisyon açma imkanı vardır.
+                  Ama bu, kaldıraçla birlikte riskin de aynı ölçekle büyüdüğü anlamına gelir.
+
+                  Formula:
+                        Kaldıraç Oranı = Pozisyon Büyüklüğü / Başlangıç Teminatı
+
+                  Elinde 100 lira var.. 10 lriasını kaldıraçlı 100 lira gibi çalıştırabilirsin..
+                        100 lirayı 1000 lira gibi çalıştırma hırsına girmemek iyi.. riskte aynı ölçüde artıyor..
+
+            Teminat
+                  VIOP hesapları ayrı bir hesaptır. İşlem yapabilmek için hesapta teminat bulundurulması zorunludur.
+                  Sözleşmeler vade sonuna kadar piyasada sürekli el değiştirebilir.
+                  Oluşna pozisyonların kar ve zarar günlük olarak hesaplanır ve ilgili hesaplara yansıtılır.
+
+                  Başlangıç Teminatı (Margin):
+                        Bir vadeli işlem sözleşmesi almak veya satmak için Takas Merkezine yatırılması zorunlu olan asgari tutardır.
+
+                  Bu hesaba 1000 lira teminat koydun. 50 lira kar ettiğinde hesaba toplamı yansır.. 1050 lira olarak 
+                                                tersi 50 lira zarar ettiğinde olur. bu durumda 950 lira hesapta kalır
+                                                bu durumda teminat tamamlama yapılması gerekir...
+                                                yani 'Margin Call'a düşersin..
+
+                  Kaldıraç Oranları
+                              Formula:
+                              Kaldıraç Oranı = Pozisyon Büyüklüğü / Başlangıç Teminatı
+
+                        Dayanak Varlık      Dayanak Varlık Fiyatı      Pozisyon Büyüklüğü      Başlangıç Teminatı      Kaldıraç Oranı
+                        --------------      ---------------------      ------------------      ------------------      --------------
+                        BIST 30 Endeksi      2250 puan = 1 Kont         2250*10=22500lira      2050 lira               10.98                  endekste çarpan 10
+                        THYAO                26.70 lira                 26.70*100=2670lira     330 lira                8.09                   hisse senedinde çarpan 100      hesapla 80 kat işlem yapılabilir...
+                        USDTRY               13.60 lira                 13.6*1000=13600lira    1380lira                9.86                  
+                                                                        kaldıraç oranı         1 Kon için 
+                                                                        (10,100,1000)          hesapta olması 
+                                                                                               gereken teminat
+                        Bu işlemler alış yönlü de satış yönlü de olabilir...
+                        Bu oranlar fiyatla birlikte her gün değişen oranlardır. Sabit bir durum söz konusu değil..
+                        Özetle, küçük bir meblağ/teminatla daha büyük sözlerin altına girebiliyorsun
+
+
+                  Margin Call
+                        Türkçe karşılığı:
+                        Teminat tamamlama çağrısı
+                              Borsalarda vadeli işlem sözleşmeleri ile işlem yapabilmek için belirlenen başlangıç teminatı Takas Kurumu'na yatırılmalıdır. 
+                              Oluşan zarar ya da nakit dışı teminatların değerlerinin düşmesi sonucunda 
+                                    teminat seviyesinin bulunması gereken teminat seviyesinin altına düşmesi durumunda ilgili yatırımcılara teminat tamamlama çağarısı yapılır.
+
+                        Gün Sonu ve Vade Sonu uzlaşma Fiyatları:
+                              Uzlaşma fiyatı, hesapların güncellenmesinde ve nakdi veya fiziki uzlaşmada kullanılmak üzere belirlenen fiyattır.
+                              Her işlem günü sonunda günlük uzlaşma fiyatları, vade sonlarında ise vade sonu uzlaşma fiyatları sözleşme unsurlarında belirtilen yöntemlere uygun olarak Borsa tarafından belirlenir ve ilan edilir.
+                              Margin Call sonrasında T+1 günü saat 15:00'a kadar teminatını tamamlaması veya pozisyonunu kalan teminata göre ayarlaması gerekir. çıkan zararın kapatılması gerekiyor..
+
+                              Kalan teminatın 950 ise bu 950lirayı daha küçük bir vadeli işlem sözleşmeyle de devam ettirebiliriz..
+                                                      diğer durum ise, 10 değil de 8 kontrata girebilirsin o parayla yeteceği kadar devam edebilirsin.
+                              Yani ettiğin kara/zarara göre hesaptaki teminatların büyür ya da küçülür..
+
+                  VIOP işlemlerin amacı:
+                  Geleceğe yönelik fiyatların keşfi gibi diyebiliriz...
+
+                        Yatırım (Kar amaçlı spekülasyon)
+                              - Para Kazanmak (İlla ki vade sonunu beklemeye gerek yok, Arada da alıp satabiliriz)
+                              - Düşük kapitalle kaldıraçlı işlem
+                        Hedge (Riskten korunmak)
+                              - Büyük montanlı pozisyonar için yaygın kullanım. (Zarardan kurtulmak için)
+                                    Elinde yüklü miktarda hisse senetleri var. 
+                                          Piyasa düşüş trendinde, hisseleri satmakta istemiyorsun. belli de riskleri var. belki de yatay hareket devam edecek..
+                                          Elindeli miktarın 1/10u kadar VIOPa giriyorsun kaldıraçlı şekilde endeksi shortlarsan.
+                                          Piyasa düşerken endeks düşerken de sen para kazanacağın için ki teminat her gün artacak bu şekilde mevcut zarardan kurtulursun...
+                                          Bunu yapmanın sebebi biz satmak istemiyoruz. Çıkacağına inanıyoruz.. Ama belli risklerden de korunmak istiyoruz.
+
+                                          Örneğin 1000$ borcunuz var, bu ay sonuna
+                                          Doların artma ihtimali old düşünüyorsunuz. piyasaya güvenmiyorsunuz.
+                                          Doların şuanki vadeli fiyatından dolar almaya razıysan 
+                                                nisan sonunda mesela - iki ayda bir olur dolar kontratları 
+                                          eğer ki nisan sonuna kadar 15 liraya razıysam
+                                          şimdiden onun sözünü 1/10 teminat yatırarak veririrm
+                                          yani 1000 dolar yerine 1000küsür liralık para yatırıp sözleşmeyi alabiliyorum
+                                          noluyor. Nisan sonunda borcumu ödeyeceğim
+                                                      fiyat yükselir çıkar iner. artık bunla ilgilenmezsin..
+
+                              - Uzun vadeli pozisyonu nötrlemek
+                                          temettü de bu işe yarıyor...
+                        Arbitraj Farkından faydalanmak
+                              - İkili İşlem (Pairs Trading)
+                              - Hız ve Matematik gerekli (HFT önemli - robotlar)
+
+
+                  VIOP İşlemlerin Amacı:
+                        Yatırım (Kar amaçlı Spekülasyon)
+                              Yatırımcının amacı para kazanmaktır..
+                              Vadeli işlemler yatırımları çeşitlendirdiği gibi, aynı zmanda koşulları esnektir.
+                              - Kaldıraç etkisi bunun önemli bir örneği.
+                              - Düşük bir ana para ile daha büyük yatırımlar yapabilmeyi sağlar. Ancak bu önemli bir risk barındırır.
+                              - Ayrıca özellikle rally koşullarında yatırımcıların fırsatları kaçırmamasını sağlar.
+                              - Hisse senedi yatırımlarına kıyasla çok kolay short- açığa satış işlemi yapılabilir.
+
+                        Hedge (Riskten Korunma)
+                              Çit, Engel, Önlemi Tedbir, Engelleme
+                              Piyasalarda, olası risklere karşı portföyü korumak anlamında kullanılır
+                              Kullanım Amaçları:
+                              - Düşüşlere karşı portföyü korumak
+                              - Dolara karşı portföyü korumak
+                              - Dolar bazlı ilerki tarihli bir ödemeyi/borcu sabitlemek
+
+
+
+40:51
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
                               
-                  arbitraj yöntemi...
-                  https://www.youtube.com/watch?v=hPPKV4GEc0o
+                  # Arbitraj yöntemi...            ?v=hPPKV4GEc0o
+                        Örnek 1: Fiyatın yükseldiği senaryo
+                        GARAN           FGARAN
+                        8.16            8.36
+
+                        Mayıs ortasında fiyatlar paralel olur.
+                        
+                        her ay sonunda vadeli işlemlerde fiyat belirlenir.
+
+                        Anapara: 10.000
+                        26 nisan
+                        SPOT: 8.16      LONG - AL Pozisyonu aç
+                        VIOP: 8.36      SHORT - SAT Pozisyonu aç
+                        FARK: 2.45%       Formula: ((VIOP/SPOT)-1)*100
+
+                        Spot'ta al:      Lot = 10000 / 8.16 = 1200 lot sayısı
+                        Viop'da sat:     Lot = Kontrakt in VIOP 
+                                          Kon = 10000 / 8.36 = 1996, yani 12 Contract diyelim      yani 1200 / 100..
+                                          12 Kon shortluyoruz.
+
+                                          VIOP'ta 1 KON = 100 LOT
+                                          Alım: 1200 Lot
+                                          Satım: 12 Kon
+
+                                          Maliyet = 1200 * 8.16 = 9792 lira
+
+                                          Bir Kon işlem yapmak için 135liraya ihtiyaç var
+                                          135lira=1kontratın değeri
+                                          Maliyet 12*135 = 1620 lira
 
 
+                        Mayıs sonu spot fiyat 9.20 oldu dersek, VIOP da aynı olacak.
+                              SPOT: 9.20 - 8.16 = +1.04 * 1200 = 1248lira kar
+                              VIOP: 9.20 - 8.36 = -0.84 * 12 * 100 = -1008 lira zarar
+                              FARK: 1248-1008= 240 kazanç                  bu pozisyonlar kapatıldığı zaman
 
 
+                        Örnek 1: Fiyatın düştüğü senaryo
+                        Anapara: 10.000                26 nisan
+                        SPOT: 8.16      LONG - AL Pozisyonu aç
+                        VIOP: 8.36      SHORT - SAT Pozisyonu aç
+                        FARK: 2.45%       Formula: ((VIOP/SPOT)-1)*100
+
+                        Spot'ta al:      Lot = 10000 / 8.16 = 1200 lot sayısı
+                        Viop'da sat:     Lot = Kontrakt in VIOP 
+                                          Kon = 10000 / 8.36 = 1996, yani 12 Contract diyelim      yani 1200 / 100..
+                                          12 Kon shortluyoruz.
+
+                                          VIOP'ta 1 KON = 100 LOT
+                                          Alım: 1200 Lot
+                                          Satım: 12 Kon
+
+                                          Maliyet = 1200 * 8.16 = 9792 lira
+
+                                          Bir Kon işlem yapmak için 135liraya ihtiyaç var
+                                          135lira=1kontratın değeri
+                                          Maliyet 12*135 = 1620 lira teminat ile
+
+
+                        Mayıs sonu spot fiyat 7.28 oldu dersek, VIOP da aynı olacak.
+                              SPOT: 7.28 - 8.16 = -0.88 * 1200 = -1056lira zarar
+                              VIOP: 8.36 - 7.28 = +1.08 * 12 * 100 = +1296 lira kar
+                              FARK: 1296-1056= 240 kazanç                  bu pozisyonlar aynı anda kapatıldığı zaman
+
+                        Ana paranla iş yap.. krediyle değil yoksa faiz ödersin..
+                        Grafik, saatlik olsun SPOT ve VIOP kıyaslama kontrol et. Arbitrajı iyi verene git.
+                        SPOT ile VIOP arasında marj ne kadar büyük olursa kazanç o kadar arttar.
+                        Arbitraj hesabı yap..
+
+
+      
+
+                  
 
 
 
@@ -1130,7 +1350,29 @@ ALGORİTMA DÜNYASI 44 İŞLEMLERDE HACİM ANALİZİ
 ALGORİTMA DÜNYASI 45 MUM FORMASYONLARI - BOĞA
 ALGORİTMA DÜNYASI 46 MUM FORMASYONLARI - AYI
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
