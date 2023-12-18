@@ -1354,8 +1354,22 @@ ALGORİTMA DÜNYASI 46 MUM FORMASYONLARI - AYI
 
 
 
+EXTRA INDICATORS:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+CCI (Commodity Channel Index) = (orta fiyat- orta fiyatın hareketli ortalaması)`/`(sapma ortalaması x 0.015)
 
+  # Strateji: https://eksisozluk1999.com/entry/15892052
+      -100, -99, -98 ...  yukarı gidiş    buy - almaya başla     RSI ne diye bakma           RSI    70 olduğunda  ---> take profit
+      100, 99, 98 ...     aşağı gidiş     sell - satmaya başla   RSI ne diye bakma           RSI    30 olduğunda  ---> take profit                    CCI, +100'den büyükse alım yapılmamalı
 
+      yatay gelişen trendlere çok daha iyi uyum sağlar.
+      kısa vadedeki trend değişikliklerini izler.hatta çok hareketli olduğu için küçük fiyat değişikliklerini bile -100 ve +100 sınırının dışına çıkarır.
+      cci'ın yorumlanmasında 2 metod vardır :
+      -uyumsuzluklar                             = en çok kullanılan metoddur.fiyatlarla göstergenin uyumsuzluğunu izlemektir kısaca. fiyatlar yeni bir zirve yaparken, cci bir önceki tepe noktasını geçemiyor ve yeni bir zirve yapamıyorsa bu hisse senedi fiyatlarında bir düzeltme olacağına işarettir.
+      -aşırı alım/aşırı satım göstergesi olarak  = cci genellikle +100 ve -100 değerleri arasında salınır. bu aralığın dışına taştığı zaman aşırı alım/aşırı satım var demektir.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Kaufman (KAMA)
 
 
 
