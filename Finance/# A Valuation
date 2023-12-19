@@ -1,5 +1,11 @@
 # Ev seçer gibi 1-2 ay doğru hisseyi ara...
 
+Akla kazınacak iki şey...
+- içsel değer
+- hisse fiyatı grafiği
+
+Düzeltilmiş hisse fiyatı - bedelsizler, temettüler düştüğünde..
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # VALUATION
 # Aswath Damodaran - Dark Side of Valuation
@@ -173,6 +179,33 @@ sığ tahta = small cap plansız alınmaz risk yönetimi. yoksa elde patlar. ön
 Endeksin geldiği yer ile hisselrin geldiği yerde fark olabilir.
   Endeks 5000 iken alark ne kadardı şimdi Endeks 8000 iken alark ne kadar?
                    alarko 8000 endekste 5000 endeks fiyatı varsa ucuz olabilir.
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Hacim-fiyat ilişkisi
+    3 parametreyi kontrol et...
+    - Fiyat grafiği (Düşüyor/Yükseliyor)
+    - Hacim (Düşüyor(Daralıyor)/Yükseliyor(Açılıyor))
+    - RSI (Düşüyor/Yükseliyor)
+
+    Hacim fiyattan önce gelir! (Düşük Spread)
+    RSI düşüşü...  Alıcıların isteksiz olduğu bölge... Satıcılar da satmıyor..
+    Hisse dipte, RSI dipte.. hisse satışı azalmış olduğunu gösterir... fiyat, burdan çıkar diye düşünme RSI değerini kontrol et...
+    Spekülatif hisse nasıl ayırt edilir...
+        Fiyat yükselmeye devam eder ama hacim düşmeye doğru gider... bu noktada karını al çık....
+    RSI değeri <30 -> düşüş    = aşırı satım (oversold) bölgesi
+               >70 -> yükseliş = aşırı alım (overbought) bölgesi
+
+    Fiyat yükselişi ne kadar uzun olursa, düşüşü/düzeltmesi o kadar uzun olur.. yatay ya da düşey ilerler..
+
+
+Sektördeki hisseleri incele...
+  Hepsi benzer grafiği yapmış mı yani para girişi/çıkışı.. grafikler birbirine benzeyebilir...
+  RSI ve hacimler dip yani yüksek olabilir... sektörel olarak hisselerde benzer durumlar olabilir...
+
 
 
 
