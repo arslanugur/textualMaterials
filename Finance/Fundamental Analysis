@@ -170,7 +170,7 @@ Halka Açıklık Oranı
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Piyasa Çarpanları (Oranlar Analizi)
       F/K (FKO)      Fiyat/Kazanç Oranı                      Price to Earnings             Fiyatın, Son bir yıllık kazanca (Kara) bölünmesi
-      PD/DD          Piyasa Değeri/Defter Değeri             Market Value /                Piyasa değeri, Özsermayeye bölünmesi
+      PD/DD          Piyasa Değeri/Defter Değeri             Market Value / Book Value     Piyasa değeri, Özsermayeye bölünmesi
       FD/FAVÖK       Firma Değeri/FAVÖK                      / FAVÖK = EBITDA              Firma değeri = Net Borçları + Piyasa Değeri
       FD/S           Firma Değeri/Satış                      / Sales                       Firma değeri, son bir yıllık hasılata bölünmesi
       F/NA           Fiyat/Nakit Akış                        Price to Cash Flow
@@ -185,6 +185,29 @@ Halka Açıklık Oranı
       PEG            Price to Growth	        Good PEG = <1	            P/E / Earnings Growth		                  tells you how much you are paying for each dollar of earnings, while also factoring in earnings growth					
       D/E            Debt to Equity	          Good D/E = <1	            Total Liabilities / Shareholder Equity		tells you how well a company is leverage its debt to generate profit for its shareholders
 			
+
+	EV/EBITDA						Enterprise Value/EBITDA -> Şirket değeri faiz, vergi, amortisman öncesi kâra bölünerek çarpan hesaplanır.
+	P/BV - Price to Book Value
+	P/S - Price to Sales
+	EV/S
+	P/AFFO
+	P/CFPS
+
+			  şirket değeri
+	işletme değeri  = özsermaye değeri - toplam borç + nakit
+	Equity value = Enterprise Value - total debt + cash
+
+	Özkaynak, bir şirketin sahiplerine ait olan ve şirketin varlıklarının değerini temsil eden kaynaklardır. 
+		Özkaynaklar, şirketin hisse senetleri, sermaye yedekleri, kar yedekleri, geçmiş yılların karları ve zararları gibi unsurları içerir. 
+		Özkaynaklar, şirketin borçlarını karşılamak için kullanılabilecek bir kaynak olarak hizmet eder.
+	Özsermaye ise, bir şirketin sahiplerinin şirkete yaptığı sermaye yatırımlarını ifade eder. 
+		Özsermaye, şirketin sahiplerinin şirkete koyduğu varlıkların toplamını temsil eder. 
+		Şirketin borçları ve diğer yükümlülükleri düşüldüğünde, geriye kalan miktar özsermayeyi oluşturur.
+	Özkaynak ile özsermaye arasındaki fark, özkaynağın şirketin sahiplerine ait olan tüm kaynakları ifade etmesine karşın, özsermayenin sadece sahiplerin şirkete yaptığı sermaye yatırımlarını temsil etmesidir. 
+		Özkaynak, şirketin finansal durumunu ve değerini gösterirken, özsermaye sadece sahiplerin şirkete yaptığı yatırımları ifade eder.
+
+
+Book value is calculated by subtracting a company's total liabilities from its total assets. Enterprise value, on the other hand, is calculated by adding a company's market capitalization to its debt and subtracting its cash and cash equivalents.
 
 
 F/K:  şirketin kendini amorti etme süresi, hesaplanışı; şirketin güncel piyasa değerini, şirketin yıllık karına bölünersek çıkan sonuç fko
@@ -691,6 +714,23 @@ ancak borsayı düzenli bir birikim aracı olarak görüp, sağlıklı gördüğ
 	https://yatirimkurusu.com/yatirim/takas-analizi-nasil-yapilir/
 
 
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Sektörde trendler nereye gidiyor
+Rekabet analizi
+Rekabet avantajı
+Müşteri sayıları
+İşlem hacimleri
+Ürün Satışları
+Bilinirlik ve Güvenilirlik
+Personel Performansı
+Teknolojik ve Trend Riskleri
+have an edge - bi avantajın olsun. bildiğine git
+Gelir Modeli
+
+şirketin değeri ne?
 
 
 
