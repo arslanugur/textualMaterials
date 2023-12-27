@@ -1335,7 +1335,15 @@ ALGORİTMA DÜNYASI 37 - 38 - 39 VADELİ İŞLEMLER - VİOP - VİOP ALGORİTMALA
 
       
 
-                  
+        # Strateji...
+            arbitraj fonları:
+                    spot      futures
+                      KCHOL      FKCHOL
+            
+            spot ile kontrat arasında anlamlı bir fark oluştuğunda; arbitraj fonları, birini verip öbürünü alıyor ve para kazanıyor..
+            spot aldığı hisse senedi, futures içinde verdiğinde vade sonu geldiğinde karşılığında hisseyi teslim edebiliyor.
+            bu yüzden, spottaki gördüğün alış gerçek alış gibi gözükmeyebiliyor.
+            
 
 
 
