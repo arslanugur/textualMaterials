@@ -207,6 +207,285 @@ Sektördeki hisseleri incele...
   RSI ve hacimler dip yani yüksek olabilir... sektörel olarak hisselerde benzer durumlar olabilir...
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Özsermaye
+özsermaye = tüm varlıklar - tüm yükümlülükler
+
+
+Örn: SISE
+      Özsermaye: 93.967.108.000          özsermaye = Özkaynaklar
+          şirketin tüm varlıkların tüm borçları çıkarıldığı zaman kalan özkaynak..
+
+      Sermaye: 3.063.214.056      sermaye = lot sayısı = shares
+
+      özsermaye / sermaye = defter değeri
+      93.967.108.000 / 3.063.214.056 = 30.68
+      SISE güncel hisse fiyatı ise şu an 46.38
+      piyasa değeri = şirketin bir hissesinin fiyatı
+      46.38 / 30.68 = PDDD = 1.51        şirket defter değerinin 1.51 katına satılıyor...
+      piyasa değeri bazen altta bazen üstte.. beklenti ise --> defter değerinin büyüme beklentisi
+      özsermayesini arttıracak bir şirket piyasada o kadar talep görür. pahalıya satılır
+
+
+# Defter değeri
+defter değeri = 1 adet hissenin özsermayesi
+    defter değer bilinmesi için ödenmiş sermaye bilinmeli
+
+
+# Bilanço eşitliği
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+                         |  kısa vade yükümlülükler (borçlar)
+duran varlıklar          |  ÖZSERMAYE
+                         |    ödenmiş sermaye
+                         |    geçmiş dönem karları
+                         |    yeniden değerlendirme karları
+
+toplam her zaman eşit olmalı...
+borç aldın mesela aktif dönene nakit girer
+nakiti aldın makine satın aldın duran varlıklar
+gittin borcu ödedin, borç azalır, nakit de azalır...
+Özsermaye, bilançoda kolay kolay değişmez... bu yüzden önemli... fk yanıltabilir, favök yanıltabilir, pd favök yanıltabilir.. şirket zarardadır fk eksiye düşer...
+ÖZSERMAYEyi değiştirmek için 
+        ya ödenmiş sermaye değişecek
+        ya geçmiş dönem karları
+        ya yeniden değerlendirme karları yazacaksın
+Şirket kar etmediği sürece, öz sermayesi değişmez...
+Şirket zarar ettiğindeyse, özsermaye negatif değişir, erir.
+
+
+Örnek:
+    8000 kendi paran
+    2000 ortak parası  (1/5 ortağı)
+    toplam sermaye: 10000
+    ödenmiş sermaye: 10000 lira (10000 lot). lot başı 1 lira
+    12000 para lazım şirketi kurmak için..
+    2000 borç alındı...
+
+# bilançosu ise:
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+12000 nakti harcadık     |  kısa vade yükümlülükler (borçlar)
+                         |  (2000)
+stoklar                  |
+malzeme (5000)           |
+duran varlıklar          |  ÖZSERMAYE (10000) = (DD: 1)              defter değeri değiştikçe senin payında değerlenir...
+mallar alınır            |    ödenmiş sermaye = (10000)              alınan borç özsermayeye etki etmez, çünkü o parayı biz kendimiz koyduk...
+(7000)                   |    geçmiş dönem karları
+                         |    yeniden değerlendirme karları
+
+total: 12000                total: 12000
+yapılan aksiyonlar, şirketin değerlenmesini sağlar...
+
+
+1 yıl sonra
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+5000 nakit konuldu       |  kısa vade yükümlülükler (borçlar)
+                         |  (2000)
+stoklar                  |
+malzeme (5000)           |
+duran varlıklar          |  ÖZSERMAYE (15000) = (DD: 1,5)              defter değeri değişti, senin payında değerlenir...
+mallar alınır            |    ödenmiş sermaye = (10000)
+(7000)                   |    geçmiş dönem karları
+                         |    yeniden değerlendirme karları
+
+total: 17000                total: 17000
+
+borcu ödemek için nakit 5000-2000 = 3000            borcu dolar olarak aldıysan sıkıntı, dolar kuru zıplayabilir, üstüne bi de faiz gelebilir.... 
+bunu da hesaplarsak        5000-3300 = 1700               2000 sana 3000 bile olabilir...
+total: 17000                total: 17000
+şirket borç alınarak özsermaye değişmez ama borç bekledikçe faiz veya döviz sıkıntısına düşer bu da özsermayeyi etkiler...
+aktif aynı kalır ama özsermyeden yükümlülüklere çalışırız....
+                            3300 - yükümlülük olur
+                            özsermaye: 13700e düşer... dd:1.37
+total: 17000                total: 17000
+nakitle borç ödersek, özsermaye değişmez....
+total:15000                 total: 15000
+
+2.şube için 12000lira daha lazım....
+    ama bizdeki nakit 3000 şuan
+    9000 daha bulmamız gerek. borç aldık...
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+3000 nakit 12000e çıkar  |  kısa vade yükümlülükler (borçlar)
+borç eklendi             |  (9000)
+stoklar                  |
+malzeme (5000)           |                                             borç aldık yine ama
+duran varlıklar          |  ÖZSERMAYE (15000) = (DD: 1.5)              defter değeri değişmedi...
+mallar alınır            |    ödenmiş sermaye = (10000)
+(7000)                   |    geçmiş dönem karları
+                         |    yeniden değerlendirme karları
+
+total: 24000                total: 24000
+
+bu aşama sonrası....
+ikinci şube
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+nakit:0                  |  kısa vade yükümlülükler (borçlar)
+                         |  (9000)
+stoklar                  |
+malzeme (5000+5000)      |                                             ikinci şube kara geçti
+duran varlıklar          |  ÖZSERMAYE (15000) = (DD: 1.5)              defter değeri değişti...
+mallar alınır            |    ödenmiş sermaye = (10000)
+(7000)                   |    geçmiş dönem karları                     şirket özsermaye karlılığını arttırdı...
+(7000)                   |    yeniden değerlendirme karları
+
+total: 24000                total: 24000
+
+
+bir yıl sonra
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+nakit:10000              |  kısa vade yükümlülükler (borçlar)
+                         |  (9000)
+stoklar                  |
+malzeme (5000+5000)      |                                             borç aldık ve ikinci şubeye harcadık ama
+duran varlıklar          |  ÖZSERMAYE (25000) = (DD: 2.5)              defter değeri değişmedi... yani 1 lira yatırılan işten, 2.5 lira kara geçildi...
+mallar alınır            |    ödenmiş sermaye = (10000)                nakit-- özsermayeye de gösterildi...
+(7000)                   |    geçmiş dönem karları
+(7000)                   |    yeniden değerlendirme karları
+
+total: 34000                total: 34000
+
+borcu ödersek peki
+nakit:1000                  yükümlülük:0
+total:25000                 total:25000
+
+bu noktada borcun faizi ve şirkete ne kadar etkili olduğu önemli. ek olrak şirketin büyüme perspektifi...
+gelecek aksiyon 3.şubeyi açmak....
+ama kendi büyüse bile karı büyümeyecekse şirket burda parayı başka şekilde değerlendirebilir...
+bir şirket yatırım yapmadığı sürece küçülür... yani özsermayeden yer...
+ilk etapta büyümesinin sebebi içeri iyi para koymasıyla...
+içeri gelen parayı değerlendiremezsen. şirket küçülür.. ya da old yerde kalır...
+bebek şirketler bu yüzden önemli: büyüme oranı büyük olabilir..
+bu yüzden özsermaye büyüme pattern takip edilmeli.. ÖZSERMAYE KARLILIĞI ARTIYOR MU?
+
+Yüksek özsermaye karlığı olan şirket örnekleri:
+  ttrak
+      özsermaye: 7.757.455.846
+      net karı: 6.295.874.992
+        nerdeyse %100 kar yazmış.... 3 çeyrek içinde....
+
+net dönem karı ve özkaynaklar - bu ikisinden özsermaye karlılığını da bulabiliriz..
+  ttrak
+      özsermaye: 7.757.455.846
+      net karı: 6.295.874.992
+        nerdeyse %100 kar yazmış.... 3 çeyrek içinde....
+yani isterse bir ttrak daha kurabilir...
+ama trrak parayı ortaklara dağıtıyor.. özsermaye büyümüyor hemen...
+kasaya koysa nakitte dursa özsermaye iki katı olurdu ama şirket tekrardan para kazandığı için %50 özsermaye karlılığına düşmüş olacaktı..
+bu durum, şirketin satıldığı fiyatı değiştirir....
+    ttrak defter değeri: 77.52
+    trrak pddd: 8.72                    defter değerinin neredeyse 9 katına satılıyor...
+    ttrak güncel hisse fiyatı: 676.00....
+ama ttrak temettü vermese nakitte tutsa, özsermayesi büyütse ama karını arttıramasaydı..
+    şirket defter değeri 150.00 olurdu... pddd: 5.00 defter değerinin de 5 katına satılırdı.. 676.00
+    ama fiyatta bu kadar hızlı artmazdı
+
+ama sise'ye bakarsak
+    özsermaye:93.967.108.000      özsermaye devasa büyümüş...
+    ner kar: 13.359.946.000
+    burda %15-20 gibi bir özsermaye karlılığı var... ttrak aksine...
+    13/93=0.13= %13 özsermaye karlılığı var      = 1.3
+    bir şirketin özsermaye karlılığının 1/10 kadar pddd olur
+    sise pddd: 1.5 
+    sise defter değeri: 30.68
+    sise piyasa fiyatı: 46.38
+    defter değerine göre ucuz konumlanıyor ttrak kıyasla sebebi
+        dd, hızlı büyütemeyecek hale gelmesi
+    ama ttrak özsermaye karlılığı yüksek oldu için kendini büyütebiliyor..
+
+ÖZSERMAYE KARLILIĞI YÜKSEK OLAN ŞİRKETLERİ BULUNMALI.... ve daha ne kadar büyüyebilir diye düşünülmeli
+    ve şirketi de alırken pahalı almayacaksın... pddd bakınca çok pahalı olmamalı
+    özsermaye karlılığı %50 olan şirket 1 iken 1.5 olur 4 çeyrekte... 1 yıl sonra yani
+    ama baktın şirket zaten 1.3 katından satılıyor... aşırı ucuzdur.. alınır
+    ama ttrak gibi şirketler zaten 50 katına satılıyor... ödediğini alman yılları bulur....
+    ttrak %100 bile büyüse o 50 katı ödediğin paraya gelmesi yılları bulur.. ve bu mantıklı iş değil...
+
+şirket özsermaye karlılığı yüksek ama hali hazırda çoktan pahalı fiyatlanmış ise... girilmez artık...
+    pddd değeri yüksekse girme, ama büyümesi iyi umurum da olmaz demen gerek.. fiyat şişirilmiş...
+    ancak black swan'da girilir..
+
+hangi yıl ne kadar özsermaye karlılığı vardı bak..
+ya da 
+şuan özsermaye karlılığı yüksek olanları bul...
+    geçmiş yıllardaki fiyat artışı, defter değeri artışına bir bak
+ya d aözsermaye karlılığı düşük olan şirketler bunları yazıp bulmak
+hangi şirket fazla fiyatlanmış bir gör... ya da hangisi daha çok kar ettirmiş bir gör
+nerden alsam ya da satsam kar ederdim diye analiz etmelisin.
+
+özsermaye karlılığı yüksek ama kaç katından satılıyor.... teraziye koy...
+    özsermaye karlılığı fiyatına göre ağır basıyorsa... o şirket alınır...
+    tersi sat kurtul... güzel bir fiyatlama varsa
+https://youtu.be/FwFWEdzeEIs?si=jtZ5shTQy9klr_5a
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 
