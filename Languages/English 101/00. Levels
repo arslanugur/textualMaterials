@@ -920,7 +920,7 @@ Uygun olan ders saatleri
 Age    Class *                           W1 W3 W5              W2 W4 W6
                                          T1 T3 T5              T2 T4 T6
 --------------------------------------------------------------------------------
-			low	average		top
+		Class	low	average		top
 Primary      	-------------------------------------
 6-7     	1.          	W1      	W2            1.sınıf sts yapılmadan ---> W1 
 8-9     	2.          	W2      	W3            Anaokul geçmişi varsa  ---> W2'den başlar
