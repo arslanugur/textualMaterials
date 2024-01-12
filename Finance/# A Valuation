@@ -154,35 +154,19 @@ https://www.youtube.com/watch?v=d0EBO-vs0GM
 
 halka arzda, fiyat tespit raporunda yazılanlarla açıladıkları paralel olan şirketler. yoksa fiyatı yüksek göstermek için rapor şişirilir..
 
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Bedelsiz Sermaye Artırımı
-# Bedelli Sermaye Artırımı
-# Temettü
-
-https://www.youtube.com/watch?v=PMg85gMTKEk
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
         2 years ago      now
 ISYAT  4*10.000 40.000   260.000
-
-
-
 
 bir ortalama ne kadar aşınırsa o kadar çalışmaz halde gelir.. Düşer.. Kırması lazım bir yerde alım gerek
 mal toplamak investment isteniyorsa endeks düzeltilmez ezilir kağıdı basarak toplanır.. yükseltilmez, iyice düşürülür am trade al-sat için gelen hedge fonlar umursamaz dalar.. 50den alır 51,25 olur okutur kaçar.
 bist 30 - defansif büyük hisseler yabancı ilk böyle başlar
 sığ tahta = small cap plansız alınmaz risk yönetimi. yoksa elde patlar. önce ana akım hisseler gider, sonra yeni yatırımcılarla small cap de yükselmeye başlar ama zaman alır
 
-
 Endeksin geldiği yer ile hisselrin geldiği yerde fark olabilir.
   Endeks 5000 iken alark ne kadardı şimdi Endeks 8000 iken alark ne kadar?
                    alarko 8000 endekste 5000 endeks fiyatı varsa ucuz olabilir.
-
-
-
-
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Hacim-fiyat ilişkisi
@@ -452,17 +436,12 @@ Likitide Oranları
 - Finansal Borç Oranı = toplam finansal borçlar / toplam varlıklar
        şirketler, faiz artışı nedeniyle finansal borçluklarını ellerinden geldiğince düşürüyor... düşürülmesi ideal.
 
-
-
-
 # Pahalılık Oranları
             ŞİRKET    SEKTÖR    ORAN 
 F/K          7.43      10.69      30%             sektöründe %30 ucuz
 FD/FAVÖK     16.38     13.89      -17%            sektöründen %17 daha pahalı
 PD/DD        0.89      1.74       51%             sektöründen %51 dah ucuz
                                                   Ortalamada %30 ucuz diye sallayalım
-
-
 
 ASTOR - önceden fiyatlanmış, ama oranları sektörüyle kıyalandığında iyi bir şirket. 
         yine de uzun vadeliysen riske girilir.
@@ -491,6 +470,7 @@ kasaya koysa nakitte dursa özsermaye iki katı olurdu ama şirket tekrardan par
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# ucuz şirket için birinci yöntem: PD
                         sermaye
 Özkaynaklar (Bin TRY) / Shares (Ödenmiş Sermaye) = Defter Değeri      Piyasa değeri
  214.138.000.000        2.535.898.050              84 lira            140 lira              KCHOL
@@ -499,54 +479,53 @@ kasaya koysa nakitte dursa özsermaye iki katı olurdu ama şirket tekrardan par
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# ucuz hisse için ikinci yöntem: F/K
+  aynı sektörde hangi hisse daha iyi araştırması
+  bir şirketten bir lira kazanmak için kaç paramı şirkete vermeliyim...
+
+  Hisse piyasa fiyatı / hisse başına kar = ödenmesi gereken fiyat (F/K)
+
+  ARCLK  127.90 / 7.59 = 16.85                           aslında bulduğumuz şey FK
+  Arclkten 1 lira kazanmak için 16.75 riske atılıyor.
+
+  hisse başına kar - geçmiş 4 çeyrekten elde edilir. yani gelecekle ilgili değil...
+  yani fk denilen şey 1 lira kar etmek için ne kadar yatırmamız gerektiğidir.
+  diğer anlamı ise yıl hesabı kaç yılda amorti eder.
+
+  şirket piyasa değeri artıyor ama hisse başına kar artmıyorsa fk yükselir... 
+
+  tahvil faizleri ve eurobond ile ters orantı. faiz risksiz getiridir. kesin getiridir. o zman neden borsaya gideyim
+    faizler düşükse fkler yüksektir
+    faizler yüksekse fklar düşüktür
+
+  ileriye dönük beklenti yüksekse yüksek fk ile ödeme yaparlar
+  sağlıklı olan şirketin fksı düşükse alınır...
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-
-
-
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Bedelsiz Sermaye Artışı      --> bedelsiz lot vermek
 Bolca lot alınır ve bir süre elinde tutulur, aynı fiyata tekrar geldiğinde de satılır ve sıfır maliyete düşer...
 SPK onayından sonra bir tarih verilir bu bir fırsat olur.
-  KONTR
-  ZEDUR
-  VBTYZ
-  MPARK
-  TUCLK
-  KNFRT
-  HKTM
-  ASUZU
-  BFREN
-  MRGYO
-  CASA
-  LINK
-  SNPAM
-  SEKFK
-  PCILT
-  BAKAB
-  MTRKS
-  TERA
+  KONTR   ZEDUR   VBTYZ   MPARK   TUCLK   KNFRT   HKTM   ASUZU   BFREN   MRGYO   CASA   LINK   SNPAM   SEKFK   PCILT   BAKAB   MTRKS   TERA
 
   hemen buna kanıp yatırım yapma!
-  özsermaye karlılığı ne?
-  karlılık durumu ne?
-  güncel fiyatı ne?
-  vizyon, piyasadaki algısı
-  temel ratio
-  döviz girdisi
-
-
-
-
-
-
-
-
-
+    özsermaye karlılığı ne?
+    karlılık durumu ne?
+    güncel fiyatı ne?
+    vizyon, piyasadaki algısı
+    temel ratio
+    döviz girdisi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Bedelli Sermaye Artırımı
+# Temettü
+
+https://www.youtube.com/watch?v=PMg85gMTKEk
+
+
 
 
 
