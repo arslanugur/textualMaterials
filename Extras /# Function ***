@@ -72,11 +72,13 @@ Bir hisse senedini ele alalım
           bunu hisseye uygularsak soyut versiyonunda yola çıkarak delta değerini tahmin edebiliriz.
           çünkü doğa soyutlamayı takip eder..
 
+	you can do many things like calls, messages, playing games on your phone
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # INHERITANCE
           Kalıtım
+		same color, same name, same size but they arent same, just similar
 
           Types of Inheritance
           - Single Inheritance
@@ -131,6 +133,9 @@ Bir hisse senedini ele alalım
           Voice:   loud.speak(), normal.speak(), low.speak()
 
 
+	A man can have many roles like actor, doctor, astronaut and so on. same person can have different roles.
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # ENCAPSULATION
    Data Hiding
@@ -144,7 +149,7 @@ Bir hisse senedini ele alalım
                     |____
           
 
-
+	a college can have many department like cs, accounts and so on. all these departments together make a college
 
 
 
