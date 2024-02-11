@@ -503,6 +503,66 @@ kasaya koysa nakitte dursa özsermaye iki katı olurdu ama şirket tekrardan par
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# FK Analizi 
+fk başlangıç noktasıdır... ne herşey ne de hiçbirşey
+  net kar marjı, net akışları faaliyetleri... bunlar fk ile başlar...
+
+f/k - piyasa değeri/son dört çeyrek net karı 12 aylık net kar biilgisi
+doğru formül: piyasa değeri = net kar x F/K
+fk - piyasada fiyatlanan birşey aslında
+piyasa şirketi ne kadardan fiyatlıyor. piyasanı arz ve talep dengesini ifade ediyor..
+şirketin karı büyüdükçe fk küçülüyor. çünkü borsa geleceği fiyatlayan yerdir..
+gelecekte kar büyümesi olacak mı tahmin etmen lazım
+60m = 2m x 30
+66m = 3m x 22
+60m = 4m x 15  fk normalleşiyor.. ama karda artıyor yine de sana faydası yok.
+40m = 4m x 10  şirket artık revaçta değil. hisse elinde patladı..
+talep bozulmazsa şirket alınır...
+PEG ratiosu ama enflasyon ortamında pek çalışmaz
+talep bozuldu ama şirkette iyi yıllık kar getirirse yine sağlam kazanırsın..
+200m = 20m x 10
+
+
+https://youtu.be/1G4e77xQB60?si=GxowOQ5Yf6tkgDGd
+
+
+Şirketin geleceğini bilmelisin yoksa FK işe yaramaz... 
+5 yıllık karı hesaplaman gerek...
+
+A şirketi                        B Şirketi
+F/K = 10                         F/K = 8
+Net Kar Büyüme Oranı = %50       Net Kar Büyüme Oranı = %20  
+İlk Yıl Kar = 100                İlk Yıl Kar = 100
+PEG = 10/50 = 0.2                PEG = 8/20 = 0.4
+100
+5 yıl içinde her yıl %50 kar yapacağını hesaplarsan... yani karı büyütme oranı %50        %20 karı büyütme oranı olan şirket
+100 * 1.5 = 150                                                                          100 * 1.2 ^ 5 = 248
+150 * 1.5 =                                                                                          5 yıl içerisind ekar bu rakama ulaştı. şikete 800 lira verdin ama kar hiç büyümemiş...
+225 * 1.5 =                                                                               100 * 8 = 800 ---> 248 * 8 (fk aynı kalsa...) = 2000
+337 * 1.5 =                                                                                    5 yıl içinde işler kötü gider insanlar buna 4 fk verirse ---> 248 * 4 = 992 ... para kazanamazsın kr büyüse bile...
+506 * 1.5 = 759 5 yılda karlılık bu rakama çıktı
+
+PD = 10 * 759
+bu şirketi 7500liraya satabilirsin...
+ilk yıl kaça aldık... 1000 liraya aldık
+1000 = 100 (ilk yıl kar) * 10 (FK)
+diyelim ki fk 5e düştü. yine kar ama 3500 lira oluyor bu kez..
+
+karını ciddi büyütecek şirketi ucuz bir fiyattan alırsan... ve peg rasyosu küçük olan değerden alırsan kar edersin
+fk yüksekse kaçınacaksın. coşkulu dönemmmm
+froto: ne zman 8 fkdan alırsan kar. ne zaman 120 fkdan alırsan zarar.... grafiği incelemek gerek.....
+coşkunun olmadığı insanların unuttuğu. fknın düştüğü ve şirketin iyiye gideceğini düşünüyorsan yatırım vs... alırsın hisseyi
+
+bu nasıl bilinir? gelecek net kar....
+-kap haberleri...
+-fintables: çeyreklik net kar son 4 çeyrek....
+  satışlar hasılat yükseliyorsa FAVÖK yükseliyorsa... iyi alınır...
+işler kötüye gittiğinde güvenlik marjı bırakacaksın riskli ülkedesin patronun lafına bile inaanma yüksek fkye girme... 
+max 10 fk trde ama yüksekse iyi bir şirketse ttrak gibi bunu da kaçırırsın
+fk bu noktada hiç bir şey... astor bile kaçabilir...
+
+
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
