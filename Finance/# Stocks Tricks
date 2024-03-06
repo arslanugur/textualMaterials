@@ -1,3 +1,10 @@
+shrinkflation
+skimpflation
+
+tasarrufu fiyata bağlamak: para mevduatta kalmasın. parayı bağla. eve krediye bağla. parayı fiyata bağla...
+
+
+
 First Quarter     Second Quarter      Third Quarter     Fourth Quarter
 -------------     --------------      -------------     -------------
 January           April               July              October
@@ -93,7 +100,6 @@ Tatiller
 
 
 
-
 2. mümkünse farklı sektörlerden en az 4-5 hisse senedini içeren bir portföy yapın ki birisi kaybettirirse diğerinden telafi etme şansınız olsun.
 5. kısmi hareket etmeyi alırken de satarken de parça parça hedef rakamlarla işlem yapın.
 6. borsa faizin düşük ülke büyümesinin yüksek olduğu durumlarda değerlenir tersi durumlarda ise dolar bazında ciddi değer kaybeder.
@@ -109,9 +115,118 @@ Tatiller
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+borsa düşüş, yatay, yükseliş
+pozisyon zamanlaması
+margin of safety
+
+düşen pozisyona paçal yapılmaz, stop loss yapılır... 
+düşüyor diye almaktansa yatay seyre girdiğinde dal...
+haftalık grafik önemli
+düşüşte dönüşü kovala
+
+logaritmik - uzun vade de 
+lineer - kısa vadeli grafik okumak için yararlı
+
+likitide olursa yabancı gelir...
+
+dolarla iş yapan şirketlere yatırım yapılmalı...
+dolara yatırım yapılmaz... amerikalı gelip sorsa bu duruma güler. çünkü doların da alım gücü düşüyor... böyle bir yatırım yok.
+
+karı artmıyorsa o şirket sıkıntı
+
+haftalık kapanış bi önceki haftadan yüksekse trend oluşmaya başlamıştır...
 
 
-  
+takas değişimi
+- sattıkça onlar alıyor
+- acelesi yok
+- pozisyonu alıp trend başlatacaklar
+- sen hangi ara buraya geldi dersin
+- alırsın ve eline veririler bombayı
+
+
+# Variable Change
+sermayenizin %50'sini kaybederseniz, eski hâline getirmek için %100 kazanmanız gerekir. 
+  yani mesela 10 bin lira sermayenin 5000'e düşmesi %50 kayıptır, ama o 5 bini 10 bin yapmak %100 kazançtır. 
+  yani kayıplar, kazançlardan orantı olarak daha güçlüdür.
+
+- acemiler piyasayı açar, ustalar kapatır.
+rsi ile sektör seçimi
+roe - özkaynak karlılığı
+ROI Marketing
+
+
+faiz artmayacak ortama giriliyor. borsa yükselir
+ecb, fed
+yazın inşaat artar
+faiz düştüğü an konut fiyatları da artar adam senin gibi arayan çok satmıyorum der... bu yüzden yükseleceği an alıma başlanır..
+
+piyasada anlık düşünülmemeli, herkes geleceğe göre hareket ediyor. bunu yapamıyorsan fona gir..
+
+japonya eksi faiz - çünkü para basılmıyor...
+
+
+
+BIST100 F/k
+fk Median yani ortalaması: 7.5
+şuanki fk: 5.93                 
+dolar bazlı da bakıldığında bu oran daha gerçekçi
+
+bir ülkede CDS risk fazlaysa, o ülkede endeks düşük fk ile fiyatlanır...
+CDS risk azsa, endeks daha yüksek fk ile fiyatlanır...
+fk:12 olduğunda endeks ikiye katlanacak... böylelikle riskte azalacak
+
+cds yükseldikçe - kredi alman da zorlaşır. ülkene vermiyorlar, ülken sana ne diye versin
+
+ebitda marjı hesaplama
+
+Düşmeye başladığında al ki aşağıya doğru ortalama yap....
+birden de hepsini basma..... kademe kademe aşağıya doğru gidebilir... sen rahat ol... alımları böl, paçal yapmaya devam et iyi nokta diye tüm parayı yapıştırmamak lazım... yükseldiğinde de ya realize et kar çünkü bir noktada şişecek patlamaya kalma... ya da kalsın bi süre
+ama ppfonları da yılda %30 kazandırıyor.
+endekste yılda %30 
+burda önemli olan uzun vadeli biriktirmeyi düşünmüyorsan 
+yükselince karı realize et, önemli olan T zamanını yakalamak....
+
+dibi bekleme, çünkü dibi bulamazsın...
+
+# Trend Takibi
+yatayda gideni takip et.. balina takliti yap. satacağın noktayı belirlemen gerek. balonu gördün mü sat
+
+# Kaufman
+Trendi belirler, eğer üzerine çıkarsa trend yükselecek...
+Aşağıdaysa uzun vadeci olmadığın sürece almamak lazım...
+
+Kırmızı sev ama yeşile gidecekse sev...
+
+Volatilite'ye dikkat et asıl olay bu öyle ki eğer bir hisse bir yılda iki tane %10 yapsa faizi bile geçer... 
+    sene başından bakmayacaksın olaya, anlık olarak bakacaksın.... 
+    dipten alıp yukarda %10 yaptığıyla realize et... 
+    diğer türlü temettü vemiyorsa uzuna girmeye gerek yok. Trend takipçisi ol ve onu bekle...
+
+fiyat hareketlerini piyasada ön göremezsin ama değerini öngörebilirsin...
+Dolar bazında ve 10 çeyrekte incele - fintables
+
+Çarpan Analizinde çarpanlar ne neye göre düşer yükselir....
+
+f/k yükselmesi için; 
+              ya kazanç kısmı düşecek, gelecekte daha düşük kar açıklayacak
+              ya da hisse fiyatı yükselecek
+fiyat: 739.00
+kazanç: hisse başı karı (bir hisse için karı) = net kar / sermaye
+f/k: 7.65
+son 3 yıl ortalama fk: 10.71
+son 3 yıl ortalama pddd: 9.24 --> şu an pddd:6.31
+son 3 yıl ortalama fd/favök: 10.28 -->8.43
+şirket şuan son 3yılın en düşük çarpanlarına sahip
+şirket karı iyi gelecekse bilançoda %10 artırırsın
+
+https://youtu.be/fQa_HYGZhPU?si=2YmeZy_8CmlbuUhc
+kendini çoktan fiyatlamış şirketlerden uzak dur.... yoksa 3-4 yıl da şuanki fiyatına gelir...
+
+
+Konsolide olmus ne demek?
+Bir şeyleri bir araya getirmek  (şirket bilançosu ve tahminler.. ya da hedef ler)
 
 
 
