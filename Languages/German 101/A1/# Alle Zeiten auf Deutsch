@@ -498,8 +498,6 @@ A1
         Ich werde wohl/wahrscheinlich Andreas besuchen
 
         
-
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Futur II
 B1
@@ -532,17 +530,6 @@ B1
 
           Was hat Anne gestern gemacht?      sie wird wohl zu Hause gewesen sein
                                              sie wird wahrscheinlich in der Uni gelernt haben
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -690,70 +677,77 @@ B1
                   plusquamperfekt                präteritum                     präsens
                   modal                          modal                          modal
                   -------------------------------------------------------------------------------------
-                  wären                          waren                          sein      be
-    ich               wäre - ben olsam              war                         bin 
-    du                wärst - sen olsan             warst                       bist        
-    er/sie/es         wäre - o olsa                 war                         ist
-    wir               wären                         waren                       sind
-    ihr               wärt                          wart                        seid
-    sie/Sie           wären                         waren                       sind
+                  wären + V3                     waren (be - was/were)          sein (be - am/is/are)
+    ich               wäre    ben olsam              war                            bin 
+    du                wärst   sen olsan              warst                          bist        
+    er/sie/es         wäre    o olsa                 war                            ist + V3 + worden (Passiv Perfekt)
+    wir               wären   biz olsak              waren                          sind
+    ihr               wärt    siz olsanız            wart                           seid
+    sie/Sie           wären   onlar olsalar          waren                          sind
 
-                  hätten                         hatten                         haben     have
-    ich               hätte - ben sahip olsam      hatte                        habe
-    du                hättest - sen sahip olsan    hattest                      hast
-    er/sie/es         hätte                        hatte                        hat                
-    wir               hätten                       hatten                       haben
-    ihr               hättet                       hattet                       habt
-    sie/Sie           hätten                       hatten                       haben
-                  würden (gern)                  wurden - would                 werden    become / will (futur I)
-    ich               würde - istesem              wurde                        werde
-    du                würdest - istesen            wurdest                      wirst
-    er/sie/es         würde - istese               wurde                        wird
-    wir               würden - istesek             wurden                       werden
-    ihr               würdet - isteseler           wurdet                       werdet
-    sie/Sie           würden - isteseniz           wurden                       werden
-                  möchten                        mochten                        mögen     would like
-    ich	              möchte                      mochte                        mag
-    du	              möchtest                    mochtest                      magst
-    er	              möchte                      mochte                        mag
-    wir	              möchten                     mochte                        mögen
-    ihr	              möchtet                     mochte                        mögt
-    sie	              möchten                     mochte                        mögen
-                  könnten                        konnten                        können    can
-    ich               könnte                          konnte                        kann
-    du                könntest                        konntest                      kannst
-    er/sie/es         könnte                          konnte                        kannt
-    wir               könnten                         konnten                       können
-    ihr               könntet                         konntet                       könnt
-    sie               könnten                         konnten                       können
-                  wöllten                        wollten                        wollen    want
-    ich               wöllte                          wollte                        will
-    du                wölltest                        wolltest                      willst
-    er/sie/es         wöllte                          wollte                        will
-                      wöllten                         wollten                       wollen
-                      wölltet                         wolltet                       wollt
-                      wöllten                         wollten                       wollen
-                  müssten                        mussten                        müssen    must
-    ich               müsste                          musste                        muss
-    du                müsstest                        musstest                      musst
-    er/sie/es         müsste                          musste                        muss
-    wir               müssten                         mussten                       müssen
-                müsstet                         musstet                       müsst
-                müssten                         mussten                       müssen
-              söllten                        sollten                        sollen    shall
-                söllte                          sollte                         soll
-                sölltest                        solltest                       sollst
-    er/sie/es         söllte                          sollte                         soll
-                söllten                         sollten                        sollen
-                sölltet                         solltet                        sollt
-                söllten                         sollten                        sollen
-              dürften                        durften                        dürfen    be allowed to
-                dürfte                          durfte                        darf
-                dürftest                        durftest                      darfst
-    er/sie/es         dürfte                          durfte                        darf
-                dürften                         durften                       dürfen
-                dürftet                         durftet                       dürft
-                dürften                         durften                       dürfen
+                  hätten + V3                    hatten (had)                   haben (have)
+    ich               hätte    sahip olsam           hatte                          habe
+    du                hättest  sahip olsan           hattest                        hast
+    er/sie/es         hätte    sahip olsa            hatte                          hat                
+    wir               hätten   sahip olsak           hatten                         haben
+    ihr               hättet   sahip olsanız         hattet                         habt
+    sie/Sie           hätten   sahip olsalar         hatten                         haben
+
+                  würden (gern) + V1             wurden (would)                 werden (become/will (futur I))
+    ich               würde    istesem               wurde                          werde
+    du                würdest  istesen               wurdest                        wirst
+    er/sie/es         würde    istese                wurde + V3 (Passiv Präteritum) wird + V3 (Passiv Präsens)
+    wir               würden   istesek               wurden                         werden
+    ihr               würdet   isteseler             wurdet                         werdet
+    sie/Sie           würden   isteseniz             wurden                         werden
+
+                  möchten (would like)           mochten                        mögen (like)
+    ich	              möchte                         mochte                         mag
+    du	              möchtest                       mochtest                       magst
+    er	              möchte                         mochte                         mag
+    wir	              möchten                        mochte                         mögen
+    ihr	              möchtet                        mochte                         mögt
+    sie	              möchten                        mochte                         mögen
+
+                  könnten                        konnten (could)                können (can)
+    ich               könnte                         konnte                         kann
+    du                könntest                       konntest                       kannst
+    er/sie/es         könnte                         konnte                         kannt
+    wir               könnten                        konnten                        können
+    ihr               könntet                        konntet                        könnt
+    sie               könnten                        konnten                        können
+
+                  wöllten                        wollten (wanted)               wollen (want)
+    ich               wöllte                         wollte                         will
+    du                wölltest                       wolltest                       willst
+    er/sie/es         wöllte                         wollte                         will
+    wir               wöllten                        wollten                        wollen
+    ihr               wölltet                        wolltet                        wollt
+    sie               wöllten                        wollten                        wollen
+
+                  müssten                        mussten (had to)               müssen (must)
+    ich               müsste                         musste                         muss
+    du                müsstest                       musstest                       musst
+    er/sie/es         müsste                         musste                         muss
+    wir               müssten                        mussten                        müssen
+    ihr               müsstet                        musstet                        müsst
+    sie               müssten                        mussten                        müssen
+
+                  söllten                        sollten (should)               sollen (shall)
+    ich              söllte                          sollte                         soll
+    du               sölltest                        solltest                       sollst
+    er/sie/es        söllte                          sollte                         soll
+    wir              söllten                         sollten                        sollen
+    ihr              sölltet                         solltet                        sollt
+    sie              söllten                         sollten                        sollen
+
+                  dürften                        durften                        dürfen (be allowed to)
+    ich              dürfte                          durfte                        darf
+    du               dürftest                        durftest                      darfst
+    er/sie/es        dürfte                          durfte                        darf
+    wir              dürften                         durften                       dürfen
+    ihr              dürftet                         durftet                       dürft
+    sie              dürften                         durften                       dürfen
 
               type 3                         type 2                         type 1                  type 0
               ---------------------------------------------------------------------------------------------
@@ -762,9 +756,39 @@ wenn          plusquamperfekt,               präteritum,                    pr�
                              haben V3
 
 
+      type 0    ich muss zuerst meine Gedanken sammeln                    I have to collect my thoughts first
+      type 1    
+      type 2    wenn du etwas spater kommen würdest, könnte er sterben    If you came a little later, he could die
+                wenn ich mehr zeit hatte, könnte ich dich anrufen         If I had more time, I could call you
+      type 3    
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+      über - over             rüber - over to
+      hinter - behind 
+      an - next
+      in - in
+      auf - on                rauf - on to
+      neben - near
+      unter - under           runter - under to
+      vor - before
+      zwischen - between
+      aus - out of            raus - out to
+      zu - into               rein - into
+      um/herum - around                                        herumtreiben - hang around
+      durch - through
+      von - from
+      nach - to
+      gegen - against
+      gegenüber - opposite, across
+
+
+weil - çünkü    while - iken, sa da
+mag = gern
+beitreten - join
+entfernen - remove
 
 
 .
