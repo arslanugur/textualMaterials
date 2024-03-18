@@ -2,6 +2,7 @@
 
 Input/Output Relationship                           Basitce girdileri ve çıktıları olan makine gibidir. Fonksiyon, Girdi ile Çıktı arasındaki ilişkiyi gösterir.
 
+
 - Constants
 - Variables/Attributes                              Değişken'e çeşitli değerler verilerek işlemin sonucu elde edilir... Değişken 3 boyutlu olarak düşünülür.
           1. Name
