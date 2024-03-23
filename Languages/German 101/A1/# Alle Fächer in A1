@@ -460,34 +460,6 @@ A1
                 Um vierzehn Uhr haben wir eine wichtige Besprechung.                  (We have an important meeting at fourteen o'clock, which is 2:00 PM.)
                 Der Bus fährt um sechzehn Uhr fünfzig ab.                             (The bus departs at sixteen fifty, which is 4:50 PM.)
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-🔴 Die Personalpronomen (Nominativ)
-A1
-        SINGULAR	        PLURAL
-        --------                ------
-        ich lern-e	        wir (wia) lern-en
-        du lern-st	        ihr (ia) lern-t
-        er (ea), sie, es lern-t	sie, Sie lern-en
-
-        der (dea), die, das           die                Artikel
-
-
-
-        Beispiele:
-                Ich gehe heute ins Kino.                                        (I am going to the cinema today.)
-                Du bist mein bester Freund.                                     (You are my best friend.)
-                Er liest ein Buch.                                              (He is reading a book.)
-                Sie arbeitet in einer Bank.                                     (She works at a bank.)
-                Es regnet draußen.                                              (It is raining outside.)
-                Wir machen eine Reise nächste Woche.                            (We are going on a trip next week.)
-                Ihr seid herzlich eingeladen zur Party.                         (You all are warmly invited to the party.)
-                Sie sprechen Deutsch und Englisch.                              (They speak German and English.)
-                Mir geht es gut, danke.                                         (I'm doing well, thank you.)
-                Mit ihm habe ich eine interessante Unterhaltung geführt.        (I had an interesting conversation with him.)
-
-
-        Extras:
-                HochDeutsch # PlattDeutsch
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔴 Die Familie
@@ -548,6 +520,36 @@ A1
                 Wir haben ein Auto.                (We have a car.)
                 Ihr habt Zeit.                     (You have time.)
                 Sie haben ein großes Haus.         (They have a big house.)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+🔴 Die Personalpronomen (Nominativ)
+A1
+        SINGULAR	        PLURAL
+        --------                ------
+        ich lern-e	        wir (wia) lern-en
+        du lern-st	        ihr (ia) lern-t
+        er (ea), sie, es lern-t	sie, Sie lern-en
+
+        der (dea), die, das           die                Artikel
+
+
+
+        Beispiele:
+                Ich gehe heute ins Kino.                                        (I am going to the cinema today.)
+                Du bist mein bester Freund.                                     (You are my best friend.)
+                Er liest ein Buch.                                              (He is reading a book.)
+                Sie arbeitet in einer Bank.                                     (She works at a bank.)
+                Es regnet draußen.                                              (It is raining outside.)
+                Wir machen eine Reise nächste Woche.                            (We are going on a trip next week.)
+                Ihr seid herzlich eingeladen zur Party.                         (You all are warmly invited to the party.)
+                Sie sprechen Deutsch und Englisch.                              (They speak German and English.)
+                Mir geht es gut, danke.                                         (I'm doing well, thank you.)
+                Mit ihm habe ich eine interessante Unterhaltung geführt.        (I had an interesting conversation with him.)
+
+
+        Extras:
+                HochDeutsch # PlattDeutsch
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -1613,5 +1615,26 @@ woher kommen sie/Sie                            das     dem
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 EXTRAS:
 einkaufsliste
+
+
+
+
+
+
+
+nom		akk		dat
+		-i hali		-e hali
+		kimi, neyi	kime, neye, nereye
+
+der		den *		dem
+die		die		der
+das		das		dem
+				ich gehe zum Zoo (der Zoo)
+				ich gehe zur Bibliothek (die Bibliotek)
+
+
+
+
+
 
 
