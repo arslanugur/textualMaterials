@@ -817,28 +817,17 @@ A1
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔴 Nomen und Artikel (İsim ve Tanımlılık)
 
-🔴 Kelimeyi çoğul Yapmak
-        - -e
-                der/das Keks        die Kekse
-                das Brot            die Brote
-        - -(e)n
-                die Zweibel         die Zwiebeln
-                die Kartoffel       die Kartoffeln
-                die Packung         die Packungen
-        - -er (+umlaut: ä, ü, ö)
-                das Ei        die Eier        
-                das Glas      die Gläser
-        - Umlaut --> "
-                der Apfel        die Äpfel
-                der Vater        die Väter
-                die Mutter       die Mütter
-        - -s
-                die Kiwi            die Kiwis
-                der/die Paprika     die Paprikas
-        - hiç bir ek almazlar, ama artikel değişir.
-                das Brötchen        die Brötchen
-                der Lehrer          die Lehrer
-                der Schüler         die Schüler
+
+	nom		akk				dat
+	--------------------------------------------------------------------------------------
+			-i hali				-e hali
+			kimi, neyi			kime, neye, nereye
+	
+	der		den *				dem
+	die		die				der
+	das		das				dem
+			ich füttere die Katze		ich gehe zum Zoo (der Zoo)
+							ich gehe zur Bibliothek (die Bibliotek)
 
 
 🔴 Artikel
@@ -982,6 +971,32 @@ A1
         - -nis
                 das Ergebnis, das Zeugnis
 
+
+🔴 Kelimeyi çoğul Yapmak
+        - -e
+                der/das Keks        die Kekse
+                das Brot            die Brote
+        - -(e)n
+                die Zweibel         die Zwiebeln
+                die Kartoffel       die Kartoffeln
+                die Packung         die Packungen
+        - -er (+umlaut: ä, ü, ö)
+                das Ei        die Eier        
+                das Glas      die Gläser
+        - Umlaut --> "
+                der Apfel        die Äpfel
+                der Vater        die Väter
+                die Mutter       die Mütter
+        - -s
+                die Kiwi            die Kiwis
+                der/die Paprika     die Paprikas
+        - hiç bir ek almazlar, ama artikel değişir.
+                das Brötchen        die Brötchen
+                der Lehrer          die Lehrer
+                der Schüler         die Schüler
+
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔴 un-Bestimmte Artikel (Belirli Artikeller, Belirsiz Artikeller)
 A1
@@ -1030,7 +1045,6 @@ A1
 
         Beispiele:
 	...
-
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -1408,8 +1422,6 @@ A1
                                 A compound tense used to express ongoing actions that started in the past and are still continuing in the present.
                                         "Ich bin seit einer Stunde am Tennis spielen." (I have been playing tennis for an hour.)
 
-
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔴 Konjunktiv (subjunctive mood)
         to express uncertainty, wishes, possibilities, politeness, or hypothetical situations. There are two main forms of the Konjunktiv: Konjunktiv I and Konjunktiv II.
@@ -1513,10 +1525,6 @@ A1
 
         Beispiel: Er isst sowohl Gemüse als auch Fleisch.
 
-
-
-
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Sprechen
         ich        spreche
@@ -1543,11 +1551,6 @@ A1
         Beispiele:
         	Ich spreche Türkisch, Aserbeidschanisch, Arabisch
         	Nein, Du sprichst kein Deutsch 
-        
-
-
-
-
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -1576,8 +1579,6 @@ Um das Haus sicher zu halten, verriegelt er immer alle Türen.        (To keep t
 Der Koch deckt den Topf zu und lässt das Essen köcheln.              (The chef covers the pot and lets the food simmer.)
 Mit dem Ende der Veranstaltung schließt sich auch dieses Kapitel.    (With the end of the event, this chapter also comes to a close.)
 
-
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 woher komme ich                         Artikeli olmayan ülkeler: Deutschland, Griechenland, Frankreich, Österreich, Polen, Afghanistan, Syrien
@@ -1590,13 +1591,10 @@ woher kommen sie/Sie                            das     dem
                                                                 aus Deutschland                                                                
                                                                 
 
-        
---> Lander und Nationalitaten
+        --> Lander und Nationalitaten
       Einwohner - Citizen
       List....
       
-
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Die Körperteile
   https://www.nthuleen.com/teach/vocab/koerperantw.html
@@ -1611,30 +1609,8 @@ woher kommen sie/Sie                            das     dem
   Mir tun die Augen weh
       Du sollst Tropfen nehmen
 
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 EXTRAS:
 einkaufsliste
-
-
-
-
-
-
-
-nom		akk		dat
-		-i hali		-e hali
-		kimi, neyi	kime, neye, nereye
-
-der		den *		dem
-die		die		der
-das		das		dem
-				ich gehe zum Zoo (der Zoo)
-				ich gehe zur Bibliothek (die Bibliotek)
-
-
-
-
-
 
 
