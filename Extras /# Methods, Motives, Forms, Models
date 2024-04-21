@@ -200,6 +200,38 @@ Metot nedir?
 	inference rules - çıkarım kuralları
 
 
+
+🔻 Dimensions
+	9 spatial dimensions
+		3 dimensions
+			length	width	depth
+	1 temporal dimension
+		tek yönde hissedilen bir boyut
+		geri dönemeyiz
+		bu yüzden seçim yapmak zor
+		seçim yoksa herşey ihtimal dahilinde.
+
+	The superstring theory predicts that there are nine dimensions of space. 
+	Of these, three are our three-dimensional space, 
+		expressed as length, width, and height. 
+	The remaining six dimensions are folded and compactified very tightl, and we cannot perceive them directly.
+	https://www.questseans.com/space-cadet/2018/7/10/10-dimensions-of-reality
+
+🔻 What are the nine dimensions?
+	Many of us think of wellness in terms of physical and mental health. 
+	At Rollins, holistic wellness has nine interconnected dimensions: 
+		physical, 
+		emotional, 
+		creative, 
+		environmental, 
+		financial, 
+		occupational, 
+		intellectual, 
+		social,
+		spiritual.
+
+
+
 🔻 Aristoteles'in dört Neden Öğretisi
 	Herhangi bir şeyin ve bir bütün olarak evrende ortaya çıkmasını, varlık kazanmasını sağlayan dört neden vardır. 
 	Maddi neden (causa materialis)	- Ağaç (Kaynak)		Yatırımı nereye yapacağız?
@@ -368,7 +400,7 @@ https://www.matematiksel.org/ustel-buyume-logaritmik-buyume-sizin-buyumeniz-hang
 y = growth, effort, population, amount
 x = time
 
-# Geometric Growth
+# Geometric Growth	kendini çarparak ilerliyor
 	Seqıences:	1, 2, 4, 8, 16
 	Sequences:	1, 3, 9, 27, 81, 243
 	Series:		1 + 3 + 9 + 27 + 81 + 243
@@ -382,7 +414,7 @@ x = time
 
 	8, 24, 72, 216		(a, a*r, a*r^2, a*r^3)
 
-# Arithmetic Growth
+# Arithmetic Growth	aradaki fark ile ilerliyor
 	1 hour		2 cells added
 	3 hours		2*3 = 6 cells
 	Total cells	2+2*3 = 8
@@ -404,17 +436,15 @@ x = time
 	
 # Exponential Growth
 	Zamanından önce pes edilmemeli..
-
+	Kendini toparladıktan sonra büyüme sonsuz devam eder.
 # Linear Growth
+	Çizgisel Büyüme..
 # Logistic growth
+	Büyüme sonrası stabil ve standart hale geliyor
 # Combinatorial Growth
-
-
+	Combinatorial Explosion
 
 Parkinson's law - Effort vs Time
-
-
-
 
 🔻 S.T.A.R. Technique
 	Mevcut olan ya da ihtiyaç olarak kendi uydurduğun problemi, analiz edip kendine göre oyunu/sahneyi kurmak ve problemi çözmek
