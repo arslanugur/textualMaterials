@@ -3,7 +3,7 @@ faiz iner ama krediye erişim halen zorsa işe yaramaz
 kredili pozisyonlar patladı
 
 
-en dipte yakalamak için elinde tutup aşağıya ortala yapmayı göze almak lazım....
+en dipte yakalamak için elinde tutup aşağıya ortalama yapmayı göze almak lazım....
 
 
 Sources:
@@ -12,30 +12,43 @@ https://www.bloomberght.com/
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Fiat Para (kağıt para)
 
+		saving, no investing										investment
+		fiat money (kağıt parada kalmak) - compound yatırım bulunmalı					debt / borç - yeni yatırım için kredi bulunmalı
+		enflasyona karşı yenik (cost of time)								enflasyona karşı galip (cost of time)
+		aktif kazanç (satış yapacaksın) 								pasif kazanç (düşükken alış yapacaksın)				kazanma yöntemleri
+		satış - arz edeceksin										alış - talep edeceksin
+		|---------------------------------------------------------------|-------------------------------|-------------------------------|------------------------------->
+		1								0				-1				-2
+		cash								gold				credit				risky
+		cost of time (inflation melts money)								inflation melts debt		bankalardan limit artışı sağlanmalı
+		no tax evasion											tax evasion			borçlanarak büyüme formülü
 
-	investment							saving, no investment
-	debt / borç							fiat money (kağıt parada kalmak)
-	enflasyona karşı galip						enflasyona karşı yenik
-	credit				gold				cash
-	|-------------------------------|-------------------------------|
-	-1				0				1
-	cost of time							cost of time
-									tax
+		faiz - paranın getirisi / gelir payı (+), paranın bedeli (-)
 
-	faiz yüksek olan instrüman (para, ev) satın almak için enflasyonu olan bir ülkeye ve zamana güvenirsin
-	aylık faiz yüksek trde, yıllıkta enflasyon ---> paranın değeri düşecek.. aldığın malın fiyatı alacak...
+		faiz yüksek olan instrüman (para, ev) satın almak için enflasyonu olan bir ülkeye ve zamana güvenirsin
+		aylık faiz yüksek trde, yıllıkta enflasyon ---> paranın değeri düşecek.. aldığın malın fiyatı alacak...
 
-	Examples: 7/24 marketi yatırım olarak borçla satın almak..	Rant var ama...
-			geri ödemeyi senetle de yaparsın...
+		enflasyon düşürülse bile 5-6 sene sonra yine %60 %70 enflasyon gelecek
+			çünkü devletlerin içerdeki iç borçlanmadan kurtulmak için yurdum insanın paralarını hüpletmesinin yolu bu
+			çok borçsuz kamu sürünen insan..
+			enflasyonu para basarak kendileri yaratıyorlar, yerel para cinsinden paran eriyince borcunda erir.
+			kredili alınan ev alındığındaki durum
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-	kazanma yöntemleri....
-	- - - - - - - - - - - - - - - - - - -
-	aktif				pasif
-	satış yapacaksın		alış yapacaksın
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-	satış				alış
-	arz				talep
+		Money = Debt		Money = Neutral
+
+		Enflasyona yatırım yapmak
+		Mal/hizmeti fiyatını satın almak
+
+		önümüzdeki 2 yıl enflasyonn
+
+		Enflasyonla zengin olmak..
+		kredi faiz oranları inanılmaz düşük
+		çekebildiğin kadar kredi çek
+
+		Case Study: 7/24 marketi yatırım olarak borçla satın almak..	Rant var ama...
+				geri ödemeyi senetle de yaparsın...
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 	rant yok dönemi			rant var dönemi
 	iş yeri açmak lazım		iş yeri açmamak lazım
@@ -45,7 +58,7 @@ https://www.bloomberght.com/
 	getiri faiz yıllık 1-2%		getiri faiz yıllık %20-30
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Commodity: Gold
+# Gold as Commodity
 	XAU/USD - Gold Spot / ONS Altın - US Dollar
 	XAU/TRY - Gold Spot / ONS Altın - TR Lira
 
@@ -97,55 +110,6 @@ büyüme yavaşlaması, faizlerin yüksekliği, bilançolar kötü, enflasyon et
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-stoicism
-ruthlessness
-exploration
-
-phony blocking tactic - engelleme taktiği
-I think we are more likely to discover unicorns dancing in the flame duct
-the rarest of beasts - en nadir canavar
-
-
-The Sunk Cost Fallacy		Decision Making		batık maliyet yanılgısı
-Survivorship Bias		Critical Thinking	hayatta kalma sapması/ön yargısı
-The Infinity Hotel Paradox	Abstraction
-The Monty Hall Paradox		Probability
-
-Ars Longa, Vita Brevis - skillfulness takes time and life is short
-
-
-0.25 * 4 = 1
-0.25 * 16 = 4
-0.25 * 20 = 5
-0.25 * 24 = 6
-0.25 = 1/4
-0.2 = 1/5
-0.4 = 2/5 
-0.5 = 50 = 2/4 = 3/10+20/100
-0.6 = 60 = 3/5
-0.75 = 75 = 3/4
-0.8 = 4/5
-0.9 = 50/100 + 4/10
-1.0 = 100 = 1/2 + 1/2 = 1/2 + 2/4 = 4/5 + 1/5
-1.2 = 120 = 4/5 + 2/5
-1.25 = 125 = 2/4 + 3/4
-1.34 = 84/100+5/10
-1.4 = 4/5 + 3/5
-1.5 = 150 = 2/4 + 5/5
-1.6 = 160 = 3/5 + 4/4 = 4/5 + 4/5
-1.7 = 0.7 + 37/100 = 0.2 + 87/100 = 0.9 + 17/100
-1.76 = 56/100 + 12/10
-2.1 = 210
-6/6 = 1/2+2/4
-155/100 - 10/10 = 0.55
-190/100 - 10/10 = 0.9
-3/10 + 130/100 = 1.6
-44/100 + 2/10 = 0.64 = 64
-4/10 + 50/100 = 0.9 = 90
-3*1/6=4/8
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # How to Invest First $5.000 as a beginner
 Visionary	AMZN	SE	SOFI	long term growth
 Boring Stocks	COST	MO	MCO	downside protection
@@ -156,8 +120,6 @@ Global Indices	VT	URTH	SPGM	stable and reliable
 # How to Buy a House
 Minimum Wage		Price		Advance Payment		Interest	Amortization
 
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Arz v Talep
@@ -242,16 +204,7 @@ Borsada
 laf satacak iş bul...
 cost of business
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-faiz - paranın getirisi / gelir payı (+), paranın bedeli (-)
 
-enflasyon düşürülse bile 5-6 sene sonra yine %60 %70 enflasyon gelecek
-	çünkü devletlerin içerdeki iç borçlanmadan kurtulmak için yurdum insanın paralarını hüpletmesinin yolu bu
-	çok borçsuz kamu sürünen insan..
-	enflasyonu para basarak kendileri yaratıyorlar, yerel para cinsinden paran eriyince borcunda erir.
-	kredili alınan ev alındığındaki durum
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 güçlü lira trye sermaye akışını azaltıyor...
 	yatırım için kimse gelmiyor
 	sadece carry trade için geliyorlar - tefeci faizi için
@@ -328,10 +281,6 @@ inflation      wage      spends
 # Links:
 https://www.lattedenborsaya.com/
 
-
-egonu beslemen için öğretmen gerek, ama bu da gelişimini durdurur. gelişimini kesme...
-
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 çarşamba satış günü
 tüpras ve brent petrol ilişkisi... düşerse düşer
@@ -369,23 +318,7 @@ gelişmekte olan ğlkeler: tr gibi fırsat vardır... maaşlıysan zor ama
 https://youtu.be/dwhak83ONR0?si=vGUFFAoQBPcZNets
 https://youtu.be/0BZz9SFTdvo?si=hCPJlSHOJ5cfgVmp
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-https://www.currentmarketvaluation.com/models/buffett-indicator.php
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Funds
-Fiziki altın bulunduran fonlar
-%40 üstü fiziki altın tutanlar:	AFO, ICA, TAL
-%50 üstü fiziki altın tutanlar:	GTA
-%60 üstü fiziki altın tutanlar: TCA, HBF, OGD, KUT
-%70 üstü fiziki altın tutanlar: RJG
-%80 üstü fiziki altın tutanlar: NAU, PKF, FIB, RBA
-%90 üstü fiziki altın tutanlar: NJF, GOL
-%100 fiziki altın tutanlar: KZL, KZU
-
-fonlar katılıma uygun oldukta içindeki fizikiler artıyor.
-altın fonları, altını geçmesi önemli..
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -425,8 +358,6 @@ eregl
 ICICI
 Reliance
 Infosys
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 ışık ökte
