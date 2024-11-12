@@ -58,8 +58,7 @@ https://www.bloomberght.com/
 			o andaki 1 ons altın fiyatının değeri 31,10'a bölünür 
 			ve devamında Dolar/TL (USD/TRY) kuru ile çarpılarak TL bazında değeri bulunur.
 
-	# 24K (24 Ayar) ?= 995.0/100
-0 purity
+	# 24K (24 Ayar) ?= 995.0/1000 purity
 		0,05gr		0,10gr
 		1gr = (1000gr)	2,5gr	5gr
 		10gr		20gr	50gr
