@@ -1,0 +1,37 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+🔻 Median, Mode, Mean, Range
+    Median (Middle)       Middle of Series
+    Mode (Most)           Most Used Number in Series
+    Mean (Average)        Series Sum / Number = Mean
+    Range (Difference)    Large Number - Small Number = Range
+
+    M    Median  (Middle)          11 7 11 18 9 7 6 23 7 6 7 7 7"9"11 11 18 23   Median: 9
+    Mo   Mode    (Most)            11 7 11 18 9 7 6 23 7 6"7 7 7"9 11 11 18 23   Mode: 7
+    x̅    Mean    (Average)         11 + 7 + 11 + 18 + 9 + 7 + 6 + 23             Mean: 99/9 = 11
+    R    Range   (Difference)      11 7 11 18 9 7 6 23 7 6 7 7 7 9 11 11 18 23   Range: 23-6 = 17    (Large:23, Small: 6)
+         Outlier (Out There)       1  1 3  11 3 1                                Outlier: 11         Far from other values
+
+    σ    Standard Deviation
+    σ²   Variance
+         Coefficient of linear correlation
+
+
+
+
+    https://byjus.com/maths/probability-and-statistics-symbols/
+
+    değerlerin ortalamadan farkları bulunup bunların kareleri alınır ve toplanır, daha sonra kaç değer varsa buna bölünür çıkan değer varyanstır, bunun kareköküne ise standart sapma denir, bu değerin büyük olması dağılımdaki değerlerin ortalamadan uzak olduklarını yani çan eğrisi şeklinde düşünürsek basık bi çan eğrisi olduğunu gösterir
+
+    To find the standard deviation of the numbers: 1, 2, 3, 6 
+    1. verilerin aritmetik ortalamasi bulunur.                (1+2+3+6)/4=3
+    2. verilerin aritmetik ortalamadan farklari bulunur.      (1-3)^2 + (2-3)^2 + (3-3)^2 + (6-3)^2 = 4+1+9 = 14
+    3. bulunan farklarin kareleri alinir ve toplanir.
+    4. kareler toplami veri sayisinin bir eksigine bolunur.   14/(4-1) = 14/3
+    5. son bulunan sayinin karekoku alinir.                   karekok(14/3) ya da (14/3)^1/2
+    
+    Standart sapmasi kucuk oldugu icin riski daha azdir.
+    bir testte standart sapma eğer yüksekse o sınavın zor olduğu anlaşılır. eğitim bilimleri açısından da güvenirliği yüksek olur.
+    standart sapması yüksek bir teste iyi ve kötü yapanlar ortalamadan çok uzakta yer alır.
+    beklenen değer ile gerçekleşen değer arasındaki farkın beklenen değeri.
+
+    varyansın kareköküdür. varyans; her bir olası sonucun, tüm sonuçların aritmetik ortalamasına uzaklığının karesi ve sözkonusu sonucun oluşma ihtimaliyle çarpımının, toplamıdır. örneğin olaylar kümesinde 3 ihtimal var diyelim. 1. olayın sonucu 4 olsun, 2. olayın sonucu 1 olsun, 3. olayın sonucu da 7 olsun. bunların sıra ile gerçekleşme olasılıkları da 0.2, 0.3, 0.5 olsun. şimdi tüm sonuçların aritmetik ortalaması ((4+1+7)/3) den 4 olur. şimdi olası sonuçların bu aritmetik ortalamaya uzaklıklarının karesini alıp oluşma ihtimalleriyle çarpacağız: ((4-4)^2)*0.2+((1-4)^2)*0.3+((7-4)^2)*0.5=7.2 bu sunuç varyansa eşittir. standart sapma = (7.2)^(0.5) =2.683.
