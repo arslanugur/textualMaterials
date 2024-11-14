@@ -65,18 +65,6 @@ https://www.cuemath.com/numbers/pemdas/
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-🔻 Median, Mode, Mean, Range
-    Median (Middle)       Middle of Series
-    Mode (Most)           Most Used Number in Series
-    Mean (Average)        Series Sum / Number = Mean
-    Range (Difference)    Large Number - Small Number = Range
-
-    Median  (Middle)          11 7 11 18 9 7 6 23 7 6 7 7 7"9"11 11 18 23   Median: 9
-    Mode    (Most)            11 7 11 18 9 7 6 23 7 6"7 7 7"9 11 11 18 23   Mode: 7
-    Mean    (Average)         11 + 7 + 11 + 18 + 9 + 7 + 6 + 23             Mean: 99/9 = 11
-    Range   (Difference)      11 7 11 18 9 7 6 23 7 6 7 7 7 9 11 11 18 23   Range: 23-6 = 17    (Large:23, Small: 6)
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔻 Priority Order
 3 + 2 * 4          4 / 2 - 2        6 + 6 / 6
     -----          -----                -----
