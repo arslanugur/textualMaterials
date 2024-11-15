@@ -1,0 +1,179 @@
+15/100 = 0.15
+85/100 = 0.85
+64/8	48/6	32/4
+
+mide kanseri nedenleri
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Ardışık Sayılar
+- Ardışık dört tam sayı:		n, n+1, n+2, n+3
+- Ardışık dört çift sayı:		2n, 2n+2, 2n+4, 2n+6
+- Ardışık dört tek sayı:		2n+1, 2n+3, 2n+5, 2n+7
+- Üçün katı olan ardışık dört tam sayı:	3n, 3n+3, 3n+6, 3n+9
+
+Ardışık sayma sayılarının toplamı:		1+2+3+ ... + n = n(n+1)/2
+Ardışık pozitif çift doğal sayıların toplamı:	2+4+6+ ... + (2n) = n(n+1)
+Ardışık tek doğal sayıların toplamı:		1+3+5+ ... + (2n-1) = n^2
+
+Artış miktarı eşit olan ardışık tam sayıların toplamı:
+	r: ilk terim
+	n: son terim
+	x: artış miktarı
+
+	r+(r+x)+(r+2x)+ ... + n 
+	= (n-r+x/x)	*	(n+r/2)
+	   terim sayısı		ortanca terim
+
+Artış miktarı eşit olan ardışık syıların toplamı, sayı adedine bölünürse ortanca terim bulunur.
+Eğer sayı adedi çift ise, ortanca terim sayı dizisine ait değildir.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Sayı Sistemleri: Sayı Basamağı Çözümleme
+a -> 10^2lar yüzler basamağı
+b -> 10^1lar onlar basamağı
+c -> 10^0lar birler basamağı
+
+abc = 10^2*a + 10*b + c
+
+ab = 10*a + b
+aaa = 111*a
+ab+ba = 11*(a+b)
+ab-ba = 9*(a-b)
+abcd = abc0+d = 10*abc+d
+abcd = ab00+cd = 100*ab+cd
+abcd = a000+bcd = 1000*a + bcd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Taban
+Bir sayı sisteminde sayının basamak değerlerini göstermek için kullanılan düzene taban denir.
+T taban olmak üzere, (abcd)_T sayısında;
+	T, 1den büyük doğal sayıdır.
+	a,b,c,d rakamları Tden küçüktür
+	Taban belirtmeden kullandığımız sayılar 10luk tabana göredir.
+
+T taban olmak üzere:	(abcd)_T = a*T^3 + b*T^2 + c*T + d
+T taban olmak üzere:	(abc,de)_T = a*T^2 + b*T + c*T + d*T^-1 + e*T^-2
+
+Onluk tabanda verilen sayının herhangi bir tabana çevrilmesi
+Herhangi bir tabanda verilen sayının 10luk tabana çevrilmesi
+Herhangi bir tabanda verilen sayının başka bir tabanda yazılması
+Taban aritmetiğinde toplama, çıkarma, çarpma işlemleri
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Bölme ve Bölünebilme Kuralları
+
+	 A | B		A: Bölünen
+	   |____	B: Bölen	B =! 0
+	___| C		C: Bölüm	K < C ise B ile C yeri değiştirilebilir.. A ve K değişmez.
+	 K		K: Kalan	K < B
+
+	Rules:
+	A = B * C + K
+
+- 2 ile bölünebilme
+- 3 ile bölünebilme
+- 4 ile bölünebilme
+- 5 ile bölünebilme
+* 2 ve 3 ile tam bölünen sayılar 2*3=6 ile de tam bölünür
+* 3 ve 4 ile tam bölünen sayılar 3*4=12 ile de tam bölünür
+* 4 ve 6 ile tam bölünen sayılar 4*6=24 ile de tam bölünmez. çünkü 4 ve 6 aralarında asal değil
+- 8 ile bölünebilme
+- 9 ile bölünebilme
+- 10 ile bölünebilme
+- 11 ile bölünebilme
+
+- Bölen Kalan İlişkisi
+A,B,C,D,E,K_1,K_2 birer doğal sayı olmak üzere;
+A'nın C ile bölümünden kalan K_1
+B'nın C ile bölümünden kalan K_2 olsun
+Buna göre;
+A*B'nin C ile bölümünden kalan K_1*K_2
+A+B'nin C ile bölümünden kalan K_1+K_2
+A-B'nin C ile bölümünden kalan K_1-K_2
+D*A'nin C ile bölümünden kalan D*K_1
+A^E'nin C ile bölümünden kalan K_1^E
+Bu işlemlerde kalan değerler bölenden (C) büyük ise, tekrar C ile bölünerek kalan bulunur.
+
+- Çarpanlar ile Bölüm
+144 sayısı 2*6=12 ile tam bölünür ve 144 sayısı 2 ve 6 ile de tam bölünür.
+6 sayısı 2 ve 6 ile tam bölünür. Fakat 6 sayısı 2*6=12 ile tam bölünmez
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Faktöriyel, EBOB ve EKOK
+1'den n'ye kadar olan sayma sayılarının çarpımına n faktöriyel denir ve n! şeklinde gösterilir.
+
+n pozitif tam sayı olmak üzere,
+  n! = n*(n-1)*(n-2)*...*3*2*1
+  n1 = n*(n-1)!
+
+x,m,n pozitif tam sayı ve y asal sayı olmak üzere,
+  x! = m*y^n eşitliğini sağlayan en büyük n sayısını bulmak için aşağıdaki işlemler yapılır.
+  1.İşlem: Doğal sayılar kümesinde x sayısı y ile bölünür. Elde edilen bölüm tekrar y ile bölünür. Bu işleme bölüm y'den küçük olana kadar devam edilir.
+  2.İşlem: Elde edilen bölümlerin toplamı, verilen eşitliği sağlayan n sayısının en büyük değeridir.
+
+# Aralarında Asal Sayılar
+  1'den başka pozitif ortak böleni olmayan tam sayılara, aralarında asal sayılar denir.
+  Bu sayıların aralarında asal olmaları için kendilerinin asal olma zorunluluğu yoktur.
+  Uyarı: Ardışık pozitif tam sayılar aralarında asaldır.
+  Uyarı: Ardışık tek sayılar aralarında asaldır.
+  Uyarı: İki farklı asal sayı aralarında asaldır.
+  Uyarı: Her pozitif tam sayı 1 ile aralarında asaldır.
+  Uyarı: x ile y aralarında asal ise, x/y kesri en sade biçimdedir.
+
+Asal Çarpanlara Ayırma
+1. Bir doğal sayının asal bölenleri
+Tanım: bir doğal sayıyı tam olarak bölen asal sayılara, o sayının asal bölenleri denir.
+2. Bir sayının asal çarpanlarına ayrılması
+Tanım: a,b,c birbirinden farklı asal sayılar; d,e,f pozitif tam sayılar olmak üzere,
+  A = a^d * b^e * c^f olsun.
+bu durumda a^d * b^e * c^f ifadesine, "A pozitif tam sayısının asal çarpanlarının kevvetleri biçiminde yazılışı" denir.
+a,b,c sayılarına A pozitif tam sayısının asal çarpanları(bölenleri) denir.
+  480000 = 48*10^4 biçiminde yazmak, asal çarpanlarına ayırmak değil, çünkü 48 ve 10 asal sayı değildir.
+  Sayının asal çarpanlarına ayrılmış olması için, üslü çarpanların tabanının asal sayı olması gerekir.
+  480000 = 3*2^8*5^4
+           2,3,5 sayılarının asaldır...
+
+
+Bir tam sayının tam bölenleri
+  A = a^d * b^e * c^f
+kural: A sayısının pozitif tam sayı bölenlerinin sayısı: d+1 * e+1 * f+1
+       A sayısının asal bölenleri: a,b,c 
+
+uyarı: A sayısının asal olmayan tam sayı bölenlerinin sayısı, A'nın tam sayı bölenlerinin sayısından A'nın asal bölenlerinin sayısı çıkarılarak bulunur.
+kural: A sayısının pozitif tam bölenlerinin ters işaretleri de negatif tam bölenidir.
+  A sayısının tam sayı bölenleri sayısı,
+    2*(d+1)*(e+1)*(f+1)
+
+kural: A sayısının tam sayı bölenleri toplamı sıfır
+        A sayısının pozitif tam bölenlerinin toplamı,
+          (a^d+1 - 1 / a-1) * (b^e+1 - 1 / b-1) * (c^f+1 - 1 / c-1)
+        A sayısının asal olmayan tam sayı bölenleri toplamı: -(a+b+c)
+
+kural: A sayısından küçük A ile aralarında asal olan doğal sayıların sayısı:
+        A * (a-1/a) * (b-1/b) * (c-1/c)
+
+       A sayısının pozitif tam sayı bölenlerinin çarpımı:
+        √A^(d+1)*(e+1)*(f+1)
+
+
+# En büyük ortak bölen (ebob)
+  en az biri sıfırdan farklı iki ya da daha fazla tam sayının ortak bölenlerinin en büyüğüne bu sayıların en büyük ortak böleni denir ve ebob biçiminde gösterilir.
+# En küçük ortak kat (ekok)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Rasyonel Sayılarda İşlemler
+  - kesrin Genişletilmesi     *k
+  - kesrin Sadeleştirilmesi   /k
+  - payda eşitlemek
+  - çarpma: pay paya, payda paydaya çarpılır
+  - bölme: ikinci kesrin paydası paya gelir
+  - a/b/c = a*c/b
+  - a/b/c = a/b*c
+
+
+
+51
+
+
+
+
+
