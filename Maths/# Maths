@@ -64,11 +64,23 @@ https://www.cuemath.com/numbers/pemdas/
 = 22                                    : 26 - 4       6. Subtraction
 
 
+parantezler ve kesir çizgisi işleme yön verir
+üslü işlemler varsa sonuçlandırılır
+çarpma-bölme yapılır
+toplama-çıkarma yapılır
+
+a*(b/c) = (a*b)/c = a*b/c
+a/(b*c) =! (a/b)*c
+a/(b*c) =! a/b*c
+(a/b)*c =! a/b*c
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔻 Priority Order
 3 + 2 * 4          4 / 2 - 2        6 + 6 / 6
     -----          -----                -----
 3 + 8 = 11             2 - 2 = 0    6 + 1 = 7
+
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔻 Multiplication Table
