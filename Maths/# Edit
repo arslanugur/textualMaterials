@@ -166,12 +166,29 @@ kural: A sayısından küçük A ile aralarında asal olan doğal sayıların sa
   - payda eşitlemek
   - çarpma: pay paya, payda paydaya çarpılır
   - bölme: ikinci kesrin paydası paya gelir
-  - a/b/c = a*c/b
-  - a/b/c = a/b*c
+	a/b/c = a*c/b
+	a/b/c = a/b*c
+	a*b/c = a*c+b / c
+	a*b/c = a*b / c
 
 
 
-51
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Ondalık Kesir
+abcd/1000 = a,bcd = a+b/10+c/100+d/1000
+a = tam kısım
+bcd = ondalıklı kısım
+Devirli ondalık kesirlerin rasyonel sayıya dönüştürülmesi
+	a,bcd'ef'= abcdef-abcd/'99'000
+
+ab,c'de' = ab+0,c'de' = ab(cde-c/990)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Mutlak Değer
+
+
+
+
 
 
 
