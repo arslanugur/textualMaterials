@@ -5,21 +5,98 @@ kredili pozisyonlar patladı
 aşağıya doğru maliyet yapmak
 en dipte yakalamak için elinde tutup aşağıya ortalama yapmayı göze almak lazım....
 
-öyle şeyleri yanyana getir ki orijinal biri ol
-
 paranın zaman değeri
 dollar cost average 
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Japonya
+ministry of economy, trade and industry
+ekonomi yönlendirme:
+	teşvikler nereye verilecek
+	krediler nereye akacak
+bank of japan
+development bank of japan
+yatırım artsın diye piyasaya sermaye pompalıyorlar
+özel sektörde: keiretsu sistemi (çapraz hissedarlık yöntemi)
+Market Access
+
+Overloaning - banakalar kredi basıyor, şirketler yatırıma gidiyor
+	şirketler aşırı borçlanıyor ve aşırı büyüyor.
+	paralar yatırama gittiği için enflasyon olmuyor.. real ekonomiye doğrudan katkısı yok
+	yatırımla birlikte ekonomi büyüyor, ekonomi büyüdükçe insanların alım gücü artıyor
+	insanların zenginliği arttıkça talep artıyor, talep arttıkça yatırımlar artıyor
+	japonlar tasarruflu old için yüksek tasarruf oranları oluyor. bu da sermaye stoğunu büyütüyor
+
+	faizleri düşürüp ucuz para pompaladılar... borsa ve emlak şişmeye başlar...
+	yen değerlendiğinde yurtdışından konut satın almak... sonrası patlayacak. 
+		ucuza dışardan mal alabiliyorsun ithalatçılar iyi... halk zenginleşmiş gibi hissediyor
+	yen değeri artınca ihracatçılar zararlı çıkıyor...
+
+	yen değeri azalsın diye faizleri indiriyor... piyasaya çok fazla para pompalanınca balon daha da şişiyor
+
+	# Feedback Loop: birbirini besleyen deflasyon sürecine giriyor...
+	faizler artınca borsa çöküyor, emlak piyasası çöküyor.. halk borç içinde kalıyor.. 
+					evin değeri çakılmış ama senin sabit faizli mortgage kredin duruyor...
+	borcu çok olan kemer sıkar.. bu da toplam talebin düşmesine neden olur... bu da fiyatları da düşürür.
+	fiyatlar düşünce şirketlerin gelirleri de düşer... 
+	gelirleri düşünce verdikleri maaşlar da düştü ya da sabit kaldı...
+	halk yine kemer sıkınca bu döngü bi daha tekrarlanır
+	
+	deflasyon: fiyatların düşmesi durumu...
+		japonyada insanlar da alışmış bu fiyatlara... artış yapıldığı zaman özür diliyorlar..
+	enflasyon olması lazım: çünkü büyümek için belli bir düzeyde şart
+		insanları daha çok harcamaya iter
+	japonyada halkın alışkanlarını ve enflasyon beklentisini kıralım
+	1. piyasaya para pompalanıyor ama halk harcamıyor.. 
+	pompalanan para harcanırsa fiyatlar yükselir ama harcanmıyor bankalarda yatıyor
+	2. düşük faiz oranları: 
+		hatta eksi faiz... bankalar rezervlerde tuttukları para için merkez bankasına faiz ödüyor...
+		şirketlere kredi veriliyor yatırım artmıyor, yatırıma dönse talep artmıyor...
+		Japonyada likitide tuzağı oluşuyor: Liquidity Trap
+		yani faizi düşürmek artık etki etmiyor.. halk alışmış para harcamamaya...
+		eksi faiz var... carry trade imkanı doğuyor.... yani para yurtdışına ingiltereye amerikaya akıyor....
+		japonlar tüm parayı alıp us piyasalarında değerlendiriyor...
+		us tahvilleri de bu yüzden en çok japonlar tutuyor...	- Japan is the largest Foreign Holder of U.S. Treasuries
+	3. kobi çok fazla: halen bakkal var büyük marketler yok..
+	demografik sorun: nufüsta büyümedikçe ekonomi büyümüyor..
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Verimlilik / Productivity
+	How Productive is an Hour of Work?
+	Daha az girdi ile daha çok çıktı:	iki kişi 10 ürün üretiyor. biri işten çıkıyor... bir kişi yine 10 ürün ya da fazlasını üretiyor
+	Aynı girdi ile daha çok çıktı:		iki kişi artık 10 değil 20 ürün üretiyor...
+	Japonya da iki kişinin yapacağı işi 5 kişi yapar.... verimsizlik yapar..
+	bu teknolojinin gelişimiyle de ilgili yani tekniğin...
+
+
+
+
+# world bank datas... growth forecast by country
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 
-recession ----> inflation	a general increase in the prices of goods and services in an economy. This is usually measured using a consumer price index (CPI)
-		deflation	a general decline in prices for goods and services, typically associated with a contraction in the supply of money and credit in the economy. 
+recession	ekonomik durgunluk, inflasyonun geçici değil, daha uzun süreli olduğunu gördüklerinde...
+		reel gayri safi yurtiçi hasılanın iki ya da daha fazla çeyrek yıllık periyotta arka arkaya negatif büyüme göstermesi durumu.
+		faizlerin artışıyla talep düşüyor, dahası arz da talebe yetmiyor.. işsizlik artar gelir/talep azalır, enflasyon artar..
+		ülke ekonomisinin üstüste iki çeyrek boyunca daralması... ekonomik büyümenin tam tersi..
+		merkez bankalarının faiz artışı, ve yüksek enflasyon tüketicileri ve işletmeleri bunaltarak harcamalarını ve yatırımları yavaşlatmaya zorlar.
+			toplam üretim azalır, işletme ve şirketler işten çıkarıma gider.. harcamalar daha da düşer...
+			resesyonun en açık sinyali: istihdam kaybı ve işsizlikte devamlı bir artış
+			10 yıllık hazine tahvilinin getirisi 3 aylık bono gibi kısa vadeli tahvilin getirisinin altına düştüğünde resesyon beklentisi artıyor..
+			faiz oranları...
+				4y faiz ile 2y faiz arasındaki getiri farkı... zaman maliyeti - risk premium 
+		causes of recession:	overheated economy - faizler yüksek, enflasyon var
+					asset bubbles - fiyat yükselişi konut gibi..
+					black swan events
+inflation	a general increase in the prices of goods and services in an economy. This is usually measured using a consumer price index (CPI)
+deflation	a general decline in prices for goods and services, typically associated with a contraction in the supply of money and credit in the economy. 
 					During deflation, the purchasing power of currency rises over time.
 					a process where prices of consumer goods and services fall and money increases in value.
 stagflation			the simultaneous appearance in an economy of slow growth, high unemployment, and rising prices. 
-					high inflation, low economic growth and high unemployment.
-					stagnant
+	= recession			high inflation, interest increase, low economic growth and high unemployment.
+					stagnation - stagnant - durgun
 shrinkflation			the practice of reducing the size or quantity of a product while the price of the product remains the same or slightly increases.
 					It allows manufacturers and retailers to manage rising production costs while maintaining sales volume, operating margin, and profitability.
 					the same price, reduces size 
@@ -30,11 +107,57 @@ repression - baskılamak
 
 
 # Process
-				   baskılama
-	-------------------------> repression ------------------------->
-	recession ----> inflation ----> shrinkflation	----> stagflation
-					skimpflation
+		cold - less demand			baskılama		hot - much demand	
+		--------------------------------------> repression ----------------------------->
+		deflation <----	recession ----> inflation ----> shrinkflation	----> stagflation
+		no demand			break demand	skimpflation
+		japan				argentina
 
+Talepsiz ekonomi büyümez...
+
+
+
+# The Economy Cycle
+	ekonomiler büyür, faiz oranları yükselmeye başlar, bir noktadan sonra talep düşer, 
+	ekonomiler küçülmeye başlar, fiyatlar da düşer: hisse, konut(dolar bazlı trde), işsizlik artar
+	sonra faiz oranları düşmeye başlar, talep artar... ekonomiler büyür...
+	
+	resesyonda çeşitlendirme gerekir: büyüme, değer, defansif 
+					  defansif şirketler: enerji, perakende, sağlık 
+
+
+
+
+
+
+
+
+
+
+# Enflasyon ve M3 Para arzı
+basılan para miktarını görmek. m3 1 yılda ne kadar çıkmış
+diyelim ki 3t olan arz 7t'ye çıkmış --- çıkmış işte bu enflasyon
+süre alacak etkisini göremezsin hemen
+
+# M3 TR Money Supply
+https://tr.tradingview.com/chart/J2seMRXg/?symbol=ECONOMICS%3ATRM3
+https://tr.tradingeconomics.com/turkey/money-supply-m3
+https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# ÖNEMLİ
+# RALLY METRE (BIST'de rally olabilmesi için) 
+	1. +150Billion lira hacim lazım
+	2. VIOP kontratlarında düzelme: endeks bazlı short kontratlar azalmalı...şu an 200bin short kontrat var iş yatırımda
+		matriksIQ: alım-satım yapanlar
+	3. Hisse fonlarına para girişi
+		https://fintables.com/fonlar/nakit-giris-cikisi
+	6. Faizlerin düşmesi
+	4. 9400 üzeri kapanışlar
+	5. Hisse haberleri
+		fintables: yeni iş ilişkileri
+		matriksIQ: alım-satım yapanlar
 
 
 
@@ -50,9 +173,6 @@ maliyet sıfırlamak (finansta böyle bişey yok - ama psikolojik olarak ideal)
 	hisse yükseldiğinde mesela 10x yaptığında koyduğun o 10 lirayı geri çekiyorsun.. içerde hiç paran kalmadığını düşünüyorsun
 	bunu biraz daha analiz et, mantıksız noktalar var.. gibi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-
-
 
 şirketleri değil yatırım türünü çeşitlendir
 
@@ -72,6 +192,7 @@ Videos:
 https://youtu.be/Hg2jQuf7BxU?si=UePR4_AuuHiX9gZA
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Fiat Para (kağıt para)
+	borçlanmak için ideal
 
 		saving, no investing										investment
 		fiat money (kağıt parada kalmak) - compound yatırım bulunmalı					debt / borç - yeni yatırım için kredi bulunmalı
@@ -165,10 +286,6 @@ if			do
 viop long (buy)		spot - piyasa yükselecek beklentisinde
 	eğilimin/trendin yönü hakkında net bilgi veriliyor
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-ENERJİ ŞİRKETLERİ
-SABANCI KOÇ ŞİRKETLERİ
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Kuru sabit tutmak
@@ -186,17 +303,6 @@ Beklentiler alınır gerçekleşenler satılır, tersi de mümkün
 	kötü beklentiler satılır, kötü gerçekleşenler alınır
 büyüme yavaşlaması, faizlerin yüksekliği, bilançolar kötü, enflasyon etkisi...
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# RALLY METRE (BIST'de rally olabilmesi için)
-	1. +150Billion lira hacim lazım
-	2. VIOP kontratlarında düzelme: endeks bazlı short kontratlar azalmalı...şu an 200bin short kontrat var iş yatırımda
-		matriksIQ:alım-satım yapanlar
-	3. Hisse fonlarına para girişi
-		https://fintables.com/fonlar/nakit-giris-cikisi
-	4. 9400 üzeri kapanışlar
-	5. hisse haberleri
-		fintables:yeni iş ilişkileri
-		matriksIQ:alım-satım yapanlar
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # How to Invest First $5.000 as a beginner
@@ -319,9 +425,6 @@ gece ayık ol
 airdrop kovalama
 testnet işlemler
 
-penny pincher - kuruş sıkan, pinti
-be curious, not judgemental - meraklı ol, yargılayıcı değil
-
 
 piyasa ayı piyasasına girmesinin nedenlerinden biri faiz oranlarıdır. 
     faiz düşerse borsa ralli başlar.                       ama tr yabancı payı düştü, %60lardan %20lere düştü. fed faiz indirmesi bize pek yaramıyor..
@@ -388,10 +491,9 @@ Volatility (oynaklık)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
+ENERJİ ŞİRKETLERİ
+SABANCI KOÇ ŞİRKETLERİ
 
-AKSA
-ULKER
-DOAS
 
 yatirimnedir.com
 	yabancı oranı yüksek hisse iyi ama kork. yabancı kaçarsa hisse düşer...
@@ -502,32 +604,27 @@ KONTR - PAHALI ÇARPANLARI YÜKSEK. YÜKSELMEYEBİLİR FİYAT DÜZELTMESİ
 ALARK -FİİLİ DOLAŞIM - %37-38 ÇIKABİLİR.. DAHA DA PATRON SATIŞI GELİBİLİR. ŞAİBELİ
 
 çarpanı pahalı şirketten uzak dur zehirli
-astor
+astor - 81 cvarı toplanır.. gesandan yüksek çarpan
 gesan - iyi bölge de alınabilir..
 alfas - fiyatlanmış
 kords - iyi.... 66liradan risk alınabilir..
 
 bakır işinde - sarky, megam
 kmpur - ederinin üzerinde
-gwind uzun süredir yatayda
 
 vakko - alınır beğenilen hisse fiyatını bekle..
 froto - çök izle atıl....
 1200liradan 600e düşecek nerdeyse
 726 bölgesi
 
-astor - 81 cvarı toplanır.. gesandan yüksek çarpan
 ttraktör - bekle çök gelecek gibi
 enerjisa - yatay
 DOAS- ucuz fiyatlamış fk3 fazla düşmez... fk1e düşse bi de üste temettü verse fiyatı daha da yarıya iner bu yüzden kolay düşmez....
 ISMEN - 200 günlük hareketli aşağına düşerse sıkma bölgesi
 
-
 halka açıklık düşük ise volatil. <30 daha sağlıklı....
 
 christmas günü bofa biste girmez, bist düşer - yabancı yok çünkü.
-
-
 
 ihracat çimento şirketleri
 banka
@@ -548,15 +645,20 @@ DOAS - otomotiv
 ENJSA - elektrik üretim-dağıtım - Cari oran yok, çünkü stok yok
 ARDYZ - yazılım
 
-PGSUS
-TAVHL
-DOAS
-ISMEN
-INVES
 
 
 enerji depolayan şirketler - enerji teknolojileri
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+penny pincher - kuruş sıkan, pinti
+be curious, not judgemental - meraklı ol, yargılayıcı değil
+öyle şeyleri yanyana getir ki orijinal biri ol
+eski ayıya yeni dans öğretilmez
+burnunu sok ama elini sokma..
+ahırdaki buza büyüyüp öküz olmaz düşüncesi
+bir tane yapmaya sanat, çok yapmaya sanayi denir..
+conjecture - sanı
 
 
 
