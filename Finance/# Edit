@@ -8,74 +8,31 @@ en dipte yakalamak için elinde tutup aşağıya ortalama yapmayı göze almak l
 paranın zaman değeri
 dollar cost average 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Risk Management
+risk almak
+cahil cesareti
+riski hesaplamak
+no all-in
+the worst case scenario? can you afford with worst case?
+riskleri dağıtmak - 
+tutumlu gittiğinde risk alma olanağın oluyor
+küçük küçük riskler ile başlanmalı
+kaybetmekle barışmak - hatalarınla barış
+limit belirlemek: nereye kadar kaybedebilirim
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Japonya
-ministry of economy, trade and industry
-ekonomi yönlendirme:
-	teşvikler nereye verilecek
-	krediler nereye akacak
-bank of japan
-development bank of japan
-yatırım artsın diye piyasaya sermaye pompalıyorlar
-özel sektörde: keiretsu sistemi (çapraz hissedarlık yöntemi)
-Market Access
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# BITCOIN
+On Chain and NUPL Analysis
+https://youtu.be/54ym8Hyhft0?si=HudlUjE4tTjqdoR5
+https://tr.tradingview.com/chart/J2seMRXg/?symbol=NASDAQ%3AMSTR
+https://studio.glassnode.com/workbench/a823eda6-2709-4c93-42d7-39e75bbb4ce8?&utm_source=gn_insight&utm_medium=insights_woc&utm_campaign=woc_47_2024
+https://studio.glassnode.com/workbench/ca1fab62-e6a1-441d-46ef-40841dc0145f?&utm_source=gn_insight&utm_medium=insights_woc&utm_campaign=woc_47_2024
+https://studio.glassnode.com/metrics?a=BTC&m=indicators.NetUnrealizedProfitLoss&resolution=24h
+https://www.blockchaincenter.net/en/altcoin-season-index/
+https://marketcapof.com/
 
-Overloaning - banakalar kredi basıyor, şirketler yatırıma gidiyor
-	şirketler aşırı borçlanıyor ve aşırı büyüyor.
-	paralar yatırama gittiği için enflasyon olmuyor.. real ekonomiye doğrudan katkısı yok
-	yatırımla birlikte ekonomi büyüyor, ekonomi büyüdükçe insanların alım gücü artıyor
-	insanların zenginliği arttıkça talep artıyor, talep arttıkça yatırımlar artıyor
-	japonlar tasarruflu old için yüksek tasarruf oranları oluyor. bu da sermaye stoğunu büyütüyor
-
-	faizleri düşürüp ucuz para pompaladılar... borsa ve emlak şişmeye başlar...
-	yen değerlendiğinde yurtdışından konut satın almak... sonrası patlayacak. 
-		ucuza dışardan mal alabiliyorsun ithalatçılar iyi... halk zenginleşmiş gibi hissediyor
-	yen değeri artınca ihracatçılar zararlı çıkıyor...
-
-	yen değeri azalsın diye faizleri indiriyor... piyasaya çok fazla para pompalanınca balon daha da şişiyor
-
-	# Feedback Loop: birbirini besleyen deflasyon sürecine giriyor...
-	faizler artınca borsa çöküyor, emlak piyasası çöküyor.. halk borç içinde kalıyor.. 
-					evin değeri çakılmış ama senin sabit faizli mortgage kredin duruyor...
-	borcu çok olan kemer sıkar.. bu da toplam talebin düşmesine neden olur... bu da fiyatları da düşürür.
-	fiyatlar düşünce şirketlerin gelirleri de düşer... 
-	gelirleri düşünce verdikleri maaşlar da düştü ya da sabit kaldı...
-	halk yine kemer sıkınca bu döngü bi daha tekrarlanır
-	
-	deflasyon: fiyatların düşmesi durumu...
-		japonyada insanlar da alışmış bu fiyatlara... artış yapıldığı zaman özür diliyorlar..
-	enflasyon olması lazım: çünkü büyümek için belli bir düzeyde şart
-		insanları daha çok harcamaya iter
-	japonyada halkın alışkanlarını ve enflasyon beklentisini kıralım
-	1. piyasaya para pompalanıyor ama halk harcamıyor.. 
-	pompalanan para harcanırsa fiyatlar yükselir ama harcanmıyor bankalarda yatıyor
-	2. düşük faiz oranları: 
-		hatta eksi faiz... bankalar rezervlerde tuttukları para için merkez bankasına faiz ödüyor...
-		şirketlere kredi veriliyor yatırım artmıyor, yatırıma dönse talep artmıyor...
-		Japonyada likitide tuzağı oluşuyor: Liquidity Trap
-		yani faizi düşürmek artık etki etmiyor.. halk alışmış para harcamamaya...
-		eksi faiz var... carry trade imkanı doğuyor.... yani para yurtdışına ingiltereye amerikaya akıyor....
-		japonlar tüm parayı alıp us piyasalarında değerlendiriyor...
-		us tahvilleri de bu yüzden en çok japonlar tutuyor...	- Japan is the largest Foreign Holder of U.S. Treasuries
-	3. kobi çok fazla: halen bakkal var büyük marketler yok..
-	demografik sorun: nufüsta büyümedikçe ekonomi büyümüyor..
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-Verimlilik / Productivity
-	How Productive is an Hour of Work?
-	Daha az girdi ile daha çok çıktı:	iki kişi 10 ürün üretiyor. biri işten çıkıyor... bir kişi yine 10 ürün ya da fazlasını üretiyor
-	Aynı girdi ile daha çok çıktı:		iki kişi artık 10 değil 20 ürün üretiyor...
-	Japonya da iki kişinin yapacağı işi 5 kişi yapar.... verimsizlik yapar..
-	bu teknolojinin gelişimiyle de ilgili yani tekniğin...
-
-
-
-
-# world bank datas... growth forecast by country
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # 
 recession	ekonomik durgunluk, inflasyonun geçici değil, daha uzun süreli olduğunu gördüklerinde...
 		reel gayri safi yurtiçi hasılanın iki ya da daha fazla çeyrek yıllık periyotta arka arkaya negatif büyüme göstermesi durumu.
@@ -124,14 +81,6 @@ Talepsiz ekonomi büyümez...
 	
 	resesyonda çeşitlendirme gerekir: büyüme, değer, defansif 
 					  defansif şirketler: enerji, perakende, sağlık 
-
-
-
-
-
-
-
-
 
 
 # Enflasyon ve M3 Para arzı
@@ -649,6 +598,123 @@ ARDYZ - yazılım
 
 enerji depolayan şirketler - enerji teknolojileri
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Borçkolik
+tr yıllardır dövizsizlik problemi var
+devalüasyon olduğu için enflasyon oluyor, enflasyon olduğu için devalüasyon oluyor
+döviz borcu alınıyor, bi süre stabil, ama dış borç çoğalıyor,  sonra o borcu ödemeye kalktığımızda dövizsiz kalıyoruz tekrar.
+2002-2016ya kadar tr düşük enflasyon dönemi yaşandı. ama dış borçlar birikiyor...
+fiyat istikrarını temin ederken finansal istikrar aşağıya gidiyor
+kriz geçirmeden bu bağımlılıktan kurtulunamıyor..
+cari açık problemi çözülmeli ilk etapta - sıfır cari açık
+
+sanayiciye döviz lazım, tarıma o kadar lazım değil gibi
+döviz rantı - dövizi bulan ihya oluyor..
+
+Gastarbeiter...
+Özal - Sermaye hareketleri serbest bırak döviz gelir...
+serbest faiz	serbest döviz		tr şirketler battı
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# İhracat olmalı: ne bollaşırsa onun fiyatı düşer...
+japonya kendi parası en değersizken ihracata başlıyor.. böyle de olmalı ki dövizin fiyatı düşsün.. oyuna başlarken dayağı yemeye razı olacaksın...
+tr - biz borç dövizle dövizin fiyatını düşürüyoruz sonra o borcu ödemek için tekrarla dövizle borçlanıyoruz.
+
+Ege Cansen: https://youtu.be/Hk6Lmd8jjUQ?si=bL5US7uMt41lFTt-
+İhracatın %80i emektir.. Çin..
+	Çin tarımdaki boş iş gücünü sanayiye yönlendirdi...
+	Yaptıkları hesap: Emek İhracatı
+	İhracatı arttırmak demek ucuz emek demektir.. Geride kalan finansmanlar: kar, kira, faiz...
+	Unit Labor Cost: Birim Emek Girdisi (Birim işçisinin ücreti değil)
+			 Bir ürünün içindeki emek girdisi
+			 Almanya: işçi ücreti: 25euro per hour ama unit labor cost daha düşük... çünkü verimli
+			 İtalya: işçi ücreti: 15euro per hour
+	
+# Verimlilik / Productivity
+	Verimliliğin %90ı yatırım ve mühendisliktir...
+	Ama verimlilik artışı tirajla gelir.. yüksek sayıda üretimle gelen bişeydir. hemen verimli olalım diyemezsin..
+	yüksek adeti nasıl satarsın, bu noktada da ihracat için fiyatını düşük tutarsan satarsın...
+	How Productive is an Hour of Work?
+	- Daha az girdi ile daha çok çıktı:	iki kişi 10 ürün üretiyor. biri işten çıkıyor... bir kişi yine 10 ürün ya da fazlasını üretiyor
+	- Aynı girdi ile daha çok çıktı:	iki kişi artık 10 değil 20 ürün üretiyor...
+	Japonya da iki kişinin yapacağı işi 5 kişi yapar.... verimsizlik yapar..
+	bu teknolojinin gelişimiyle de ilgili yani tekniğin...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# world bank datas... growth forecast by country
+
+
+
+# ÖNEMLİ: İthalat
+innovasyon rantı - trde para ithalattan kazanılır.
+	akıllı tüccarlar fuar dolaşır. sen icat etmezsin ama ithal edip satarsın...
+	Messe - Fuar (de)
+	Almanya fuar gezeceksin, Japonyaya gidip mağaza gezeceksin. hangi mallar daha çok gidiyor.
+	Amerika	:
+	Çin	:
+	Japonya	:	Japonların kuruşu yoktur...
+	İngiltere: Vape
+	Almanya	: Forklift
+
+	İthalatçılık dediğin şey de acentacılıktır. mümmessillik, genel temsilcilik, distribütörlük...
+		Bayilik al: marka var, ürün var, itibar var, tedarik var
+		büyüksen acenta ol, küçüksen bayi ol
+	Vehbi Koç: avrupadaki acentacılık işi bittiğini görüp, amerikaya gidiyor...
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Japonya
+ministry of economy, trade and industry
+ekonomi yönlendirme:
+	teşvikler nereye verilecek
+	krediler nereye akacak
+bank of japan
+development bank of japan
+yatırım artsın diye piyasaya sermaye pompalıyorlar
+özel sektörde: keiretsu sistemi (çapraz hissedarlık yöntemi)
+Market Access
+
+Overloaning - banakalar kredi basıyor, şirketler yatırıma gidiyor
+	şirketler aşırı borçlanıyor ve aşırı büyüyor.
+	paralar yatırama gittiği için enflasyon olmuyor.. real ekonomiye doğrudan katkısı yok
+	yatırımla birlikte ekonomi büyüyor, ekonomi büyüdükçe insanların alım gücü artıyor
+	insanların zenginliği arttıkça talep artıyor, talep arttıkça yatırımlar artıyor
+	japonlar tasarruflu old için yüksek tasarruf oranları oluyor. bu da sermaye stoğunu büyütüyor
+
+	faizleri düşürüp ucuz para pompaladılar... borsa ve emlak şişmeye başlar...
+	yen değerlendiğinde yurtdışından konut satın almak... sonrası patlayacak. 
+		ucuza dışardan mal alabiliyorsun ithalatçılar iyi... halk zenginleşmiş gibi hissediyor
+	yen değeri artınca ihracatçılar zararlı çıkıyor...
+
+	yen değeri azalsın diye faizleri indiriyor... piyasaya çok fazla para pompalanınca balon daha da şişiyor
+
+	# Feedback Loop: birbirini besleyen deflasyon sürecine giriyor...
+	faizler artınca borsa çöküyor, emlak piyasası çöküyor.. halk borç içinde kalıyor.. 
+					evin değeri çakılmış ama senin sabit faizli mortgage kredin duruyor...
+	borcu çok olan kemer sıkar.. bu da toplam talebin düşmesine neden olur... bu da fiyatları da düşürür.
+	fiyatlar düşünce şirketlerin gelirleri de düşer... 
+	gelirleri düşünce verdikleri maaşlar da düştü ya da sabit kaldı...
+	halk yine kemer sıkınca bu döngü bi daha tekrarlanır
+	
+	deflasyon: fiyatların düşmesi durumu...
+		japonyada insanlar da alışmış bu fiyatlara... artış yapıldığı zaman özür diliyorlar..
+	enflasyon olması lazım: çünkü büyümek için belli bir düzeyde şart
+		insanları daha çok harcamaya iter
+	japonyada halkın alışkanlarını ve enflasyon beklentisini kıralım
+	1. piyasaya para pompalanıyor ama halk harcamıyor.. 
+	pompalanan para harcanırsa fiyatlar yükselir ama harcanmıyor bankalarda yatıyor
+	2. düşük faiz oranları: 
+		hatta eksi faiz... bankalar rezervlerde tuttukları para için merkez bankasına faiz ödüyor...
+		şirketlere kredi veriliyor yatırım artmıyor, yatırıma dönse talep artmıyor...
+		Japonyada likitide tuzağı oluşuyor: Liquidity Trap
+		yani faizi düşürmek artık etki etmiyor.. halk alışmış para harcamamaya...
+		eksi faiz var... carry trade imkanı doğuyor.... yani para yurtdışına ingiltereye amerikaya akıyor....
+		japonlar tüm parayı alıp us piyasalarında değerlendiriyor...
+		us tahvilleri de bu yüzden en çok japonlar tutuyor...	- Japan is the largest Foreign Holder of U.S. Treasuries
+	3. kobi çok fazla: halen bakkal var büyük marketler yok..
+	demografik sorun: nufüsta büyümedikçe ekonomi büyümüyor..
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 penny pincher - kuruş sıkan, pinti
@@ -658,9 +724,15 @@ eski ayıya yeni dans öğretilmez
 burnunu sok ama elini sokma..
 ahırdaki buza büyüyüp öküz olmaz düşüncesi
 bir tane yapmaya sanat, çok yapmaya sanayi denir..
+susturmak istiyorsan önce sen susacaksın
 conjecture - sanı
+delikten girip dışarıya fındık atan fare =! delikten girip yiyen fare
+korkuttuğun zaman maliyetlere razı edersin
+in god we trust all others pay cash
 
 
+
+ne gibi hizmetlerin var?
 
 
 
