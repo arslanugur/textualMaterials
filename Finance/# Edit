@@ -8,20 +8,79 @@ en dipte yakalamak için elinde tutup aşağıya ortalama yapmayı göze almak l
 paranın zaman değeri
 dollar cost average 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Risk Management
-risk almak
-cahil cesareti
-riski hesaplamak
-no all-in
-the worst case scenario? can you afford with worst case?
-riskleri dağıtmak - 
-tutumlu gittiğinde risk alma olanağın oluyor
-küçük küçük riskler ile başlanmalı
-kaybetmekle barışmak - hatalarınla barış
-limit belirlemek: nereye kadar kaybedebilirim
+ROI - Return of Investment
+ROE - Return of Equity
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Markets
+https://www.marketscreener.com/stock-exchange/shares/north-america/united-states-12/
+https://www.tradingview.com/markets/stocks-germany/market-movers-all-stocks/
+https://www.investing.com/equities/turkey/top-stock-gainers
+https://markets.ft.com/data/world
+https://markets.ft.com/data/world/countries/netherlands
+https://www.boerse-frankfurt.de/equities
+
+
+https://youtu.be/tAXpjqc_z6c?si=cS4ytegWl6c43eib
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Yüzde Hesaplamaları
+https://www.hesaplama.net/
+										A	B	C = Result	Formula				Kullanım Alanları
+1. 			A sayısının %B'si kaç?					100	10	10		(AxB)/100 = (A/100)*B
+2. 			A sayısı, B sayısının yüzde kaçı?			100	10	%1000		(A/B)*100
+3. Değişim Yüzdesi	A sayısından B sayısına değişim oranı yüzde kaç? 	100	10	%90 azalış	((B-A)/A))x100			Borsada getiri/götürü yüzdesini bulmak
+4. Yüzdelik Artış	A sayısı, %B kadar artırılırsa kaç olur?		100	10	110		A+(A*B)/100 = ((A*B)/100)+A	Fonlar (A=Anapara, B=Yüzdelik Artış, C=Kar)
+5. Yüzdelik Azalış	A sayısı, %B kadar azaltılırsa kaç olur?		100	10	90		A-(A*B)/100 = ((A*B)/100)-A	Fonlar (A=Anapara, B=Yüzdelik Azalış, C=Zarar)
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Krizin işaretleri
+bir sürü ekonomik göstergenin tamamını / çoğunun birlikte ve aynı anda hızla kötüleşmesi
+-sorunlu krediler artıyor bireysel/ticari
+-bankaların kar marjları daralıyor	xbank
+-faiz hızla artıyor
+-kur artıyor
+sonrasında gelenler
+-konut fiyatları dolar/euro bazında düşer.. lira bazında düşmez...
+-fiyatlara zamlar gelir (satın alma gücü azalır)
+-borsadan yabancılar çıkar
+-piyasalar ve sektörler tıkanır
+
+
+# 01. geçici refah yaratmak
+-asgari ücret iki kademe artıtıldı
+-biryerlerden insanlara para pompalanır
+-para basılması
+-yanlış politika uygulandı
+	faiz düşürüldü (borç bulmak kolaylaştı), ama kur zıplamasına neden oldu
+	mallar kurlar ilişkili olduğu için fiyatlar arttı.. 
+	fiyatlar arttıkça, ücretlere daha da zam yaptılar, kur daha da gitti, fiyatlar daha da arttı
+	bir noktada senin malları alamayacağın nokta gelecek... buna hazırlıklı ol
+	bu noktada öldüm diyeceksin
+	yurtdışından döviz girdiği anda hayat ferahlayacak... bu da bir illüzyon bir süre için idare edecek
+
+# 02. Harcama gücü illüzyonu
+-burası ucuz kalmışsa kur yanlış demek, kur zıplayacak demek (doğrusu italya pahalı, türkiye daha da pahalı)
+-insanlar genelde oralar ucuz demiyor.. buralar çok pahalı diyor
+
+çözümler
+-yabancı dövizle gelmeli, vatandaş yurtdışına götürdüğü dövizi getirmesi ya da yastık altından çıkarmalı
+	bu şekilde kur düşecek ve tl değerlenecek.. hayat ferahlayacak
+	tl değerlendiği noktada millet döviz almaya koşacak yine.. ekonomiye güvensizlik
+-piyasa serbest mi değil mi, kurun gitmesine izin veriyor muyuz yoksa vermiyor muyuz
+-faizi kontrol edersen kuru kontrol edemezsin, 
+	kuru kontrol edersen faizi kontrol edemezsin
+	ikisini kontrol edeceksen de ülkeden para çıkışını elgellemen lazım - ithalat biter..
+-faiz artırır, kuru yukarı çıkartır
+-kkm'den kurtulmak için bono çıkartılır.
+	sadece kkmlerin yararlanacağı
+	bononun vadesi geldiğinde faizler 30 ise 32lik bir kağıt daha.. 1-1,5yıllık bir seyirde bundan çıkarlar
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # BITCOIN
 On Chain and NUPL Analysis
 https://youtu.be/54ym8Hyhft0?si=HudlUjE4tTjqdoR5
@@ -71,6 +130,9 @@ repression - baskılamak
 		japan				argentina
 
 Talepsiz ekonomi büyümez...
+enflasyon = gizli vergi 
+parada stabilizasyon = düşük enflasyon
+bitcoin'de total asset sabit ama sentetik,  
 
 
 
@@ -206,26 +268,6 @@ https://youtu.be/Hg2jQuf7BxU?si=UePR4_AuuHiX9gZA
 	getiri faiz yıllık 1-2%		getiri faiz yıllık %20-30
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Gold as Commodity
-	XAU/USD - Gold Spot / ONS Altın - US Dollar
-	XAU/TRY - Gold Spot / ONS Altın - TR Lira
-
-	Ounce = 31,10gr in Global		30,59gr in France		28,349gr in United Kingdom
-
-	Gram altın
-		1 ons altın 31,10 gram altına denk gelir. 
-		Ons fiyatı piyasalar üzerinden belirlenmektedir. 
-		Bu kapsamda 1 gram altının fiyatının hesaplanmasında 
-			o andaki 1 ons altın fiyatının değeri 31,10'a bölünür 
-			ve devamında Dolar/TL (USD/TRY) kuru ile çarpılarak TL bazında değeri bulunur.
-
-	# 24K (24 Ayar) ?= 995.0/1000 purity
-		0,05gr		0,10gr
-		1gr = (1000gr)	2,5gr	5gr
-		10gr		20gr	50gr
-		100gr
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Tactic
 if			do
 viop short (sell)	spot no buy		
@@ -253,13 +295,7 @@ Beklentiler alınır gerçekleşenler satılır, tersi de mümkün
 büyüme yavaşlaması, faizlerin yüksekliği, bilançolar kötü, enflasyon etkisi...
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# How to Invest First $5.000 as a beginner
-Visionary	AMZN	SE	SOFI	long term growth
-Boring Stocks	COST	MO	MCO	downside protection
-Founder Led	META	BRK.A	BLK	value creators
-Gold		GOLD	GLD		crash protection
-Global Indices	VT	URTH	SPGM	stable and reliable
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # How to Buy a House
 Minimum Wage		Price		Advance Payment		Interest	Amortization
@@ -534,17 +570,7 @@ xtx markets - alex gerko
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
-SASA diplerde ölü
-SISE güzel noktada.... fırsat verebilir... 43 lira iyi seviyeler.... topla
 
-AKSA - 200 günlüğün altına girdi...
-      Fib'e bakarsan biraz daha bekle
-      düşüşte fib608 olursa ya da 786 yaparsa alım...
-      düşüşte, önceki yükseliş hareketinin %60ına geldiği zaman, ya da  %78ine geldiği zman alırsın.
-66liraya inerse atıl kurt
-VESBE
-ENKAI - patron alım yapıyor.....
-PGSUS
 
 OYAKC - TAYLANDLILARA SATILDI
 ÇİMENTO UZUN VADE İÇİN İDEAL
@@ -645,7 +671,7 @@ Ege Cansen: https://youtu.be/Hk6Lmd8jjUQ?si=bL5US7uMt41lFTt-
 # world bank datas... growth forecast by country
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # ÖNEMLİ: İthalat
 innovasyon rantı - trde para ithalattan kazanılır.
 	akıllı tüccarlar fuar dolaşır. sen icat etmezsin ama ithal edip satarsın...
@@ -661,7 +687,13 @@ innovasyon rantı - trde para ithalattan kazanılır.
 		Bayilik al: marka var, ürün var, itibar var, tedarik var
 		büyüksen acenta ol, küçüksen bayi ol
 	Vehbi Koç: avrupadaki acentacılık işi bittiğini görüp, amerikaya gidiyor...
-
+	yabancılarla işbirliği yapmayan firmalar gelişemez
+		kurumsal yabancılarla işbirliği yolları
+			1. Know-How alabilirsin
+			2. Lisansiye olabilirsin: mcdonalds, coca cola, franchise
+			3. Onların alıcısı/satıcısı olabilirsin
+			4. Ortaklık kurabilirsin
+			5. mümessil/temsilcilik
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Japonya
@@ -716,7 +748,22 @@ Overloaning - banakalar kredi basıyor, şirketler yatırıma gidiyor
 	demografik sorun: nufüsta büyümedikçe ekonomi büyümüyor..
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Risk Management
+risk almak
+cahil cesareti
+riski hesaplamak
+no all-in
+the worst case scenario? can you afford with worst case?
+riskleri dağıtmak - 
+tutumlu gittiğinde risk alma olanağın oluyor
+küçük küçük riskler ile başlanmalı
+kaybetmekle barışmak - hatalarınla barış
+limit belirlemek: nereye kadar kaybedebilirim
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 penny pincher - kuruş sıkan, pinti
 be curious, not judgemental - meraklı ol, yargılayıcı değil
 öyle şeyleri yanyana getir ki orijinal biri ol
@@ -729,13 +776,35 @@ conjecture - sanı
 delikten girip dışarıya fındık atan fare =! delikten girip yiyen fare
 korkuttuğun zaman maliyetlere razı edersin
 in god we trust all others pay cash
-
-
-
+silent authority
+yönetim kurulu: directorate, not management... yönetmek değil, yönlendirme kuruludur aslında..
+ustanın önünde hata ayağa kalkarmış
+süt sağmak: eğer aptalı oynarsan herkes sana birşey öğretir, eğer akıllıyı oynarsan kimse bişey öğretmez
 ne gibi hizmetlerin var?
+bi adam etrafına güçlü adamlar toplayabildiği kadar güçlüdür. kendinden daha iyi adamlar bile topla..
+en etkisiz elemanın bile bir yerde zararı olabilir. camı takamaz ama camı kırabilir gibi..
+	faydası olmasa da gelecekte zararı olabilir. zararı önlemek de bir faydadır.
+notunu aldım: evet mi hayır mı --> uzatma lafı
+gerçek kişi değil ama kişiliği var: tüzel kişilik
+saltanat kayığına binmek
+herkes kendi pozisyonuna göre konuşur: daha seksi... yani dolar ben de var, dolar yükselecek diyen biri sana çekici gelir..
+
+
+# Ceteris Paribus
+bir denklemde sonucu etkileyen birden çok değişken varken bunlardan sadece birini inceleyerek sonuca olan etkisini tanılamak 
+'everything else accepted as the same/stable/constant', 'diğer tüm etkenler aynı/stabil kabul edildiğinde' - sadece birisi dışında tüm değişkenlerin sabit tutulması veya eşitlenmesi
+her ne kurguluyorsan, diğer her seyin sabit olduğu görüşüyle hareket etmek
+karmaşık olayları kolaylaştırmak için diğer tüm değişkenleri sabit kabul ederek ,bağımlı değişkenin bağımsız değişkene göre durumunun incelendiği yönteme verilen isim.
+1) diğer tüm faktörler sabit tutularak bir faktör değiştirilir (bağımsız değişken).
+2) buna bağlı değişen bir ya da birkaç değişkendeki değişim incelenir (bağımlı değişen).
+iktisadi olaylar çok karmaşıktır. bunların bütün değişkenleriyle teori haline getirilmesi değişimin algılanmasında sıkıntı oluşturur. 
+bu nedenle iktisatçılar olayları anlaşılabilir tarzda anlatabilmek için her şeyin sabit bir tek unsurun değişken olduğunu kabul etmek durumundadırlar."
 
 
 
 
+# Useful Videos:
+Flutv: Hakan özerol
+https://youtu.be/MvFU6UuqmZ0?si=5p9V9nHgPsBxQ4EB
 
 
