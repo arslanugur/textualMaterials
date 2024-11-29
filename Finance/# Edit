@@ -8,8 +8,35 @@ en dipte yakalamak için elinde tutup aşağıya ortalama yapmayı göze almak l
 paranın zaman değeri
 dollar cost average 
 
+bankrun...
+
 ROI - Return of Investment
 ROE - Return of Equity
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Olanaksız Üçlü (The Policy Trilemma)
+	Sermaye Hareketleri	: serbest	kontrollü		free capital flow/mobility
+	Kur			: serbest	kontrollü		exchange rate management
+	Faiz			: serbest	kontrollü		monetary autonomy
+
+	Conditions:
+		sermaye: serbest, o zaman ya faizi tutup kuru serbest bırakacaksın
+					  ya kuru tutup faizi serbest bırakacaksın
+		kur: serbest / kontrollü
+		faiz: serbest / kontrollü
+
+	2001 öncesinde
+		sermaye: serbest, kur: kontrollü, faiz: serbest		
+			kuru neden tutmaya çalışıyorsun sen mi basıyorsun dolları... faizler artar da artar...
+
+	2001 sonrasında ***
+		sermaye: serbest, kur: serbest, faiz: kontrollü
+
+	TR'de şu an yapılan
+		sermaye: kontrollü, kur: kontrollü, faiz: kontrollü		kur patlar...
+									ya da   faizi patlatman lazım...
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -41,7 +68,7 @@ https://www.hesaplama.net/
 bir sürü ekonomik göstergenin tamamını / çoğunun birlikte ve aynı anda hızla kötüleşmesi
 -sorunlu krediler artıyor bireysel/ticari
 -bankaların kar marjları daralıyor	xbank
--faiz hızla artıyor
+-faiz hızla artıyor: faiz geleceği, enflasyon geçmişi gösterir...
 -kur artıyor
 sonrasında gelenler
 -konut fiyatları dolar/euro bazında düşer.. lira bazında düşmez...
@@ -92,8 +119,8 @@ https://www.blockchaincenter.net/en/altcoin-season-index/
 https://marketcapof.com/
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# 
-recession	ekonomik durgunluk, inflasyonun geçici değil, daha uzun süreli olduğunu gördüklerinde...
+#
+recession	ekonomik durgunluk, büyüme yavaşlaması, inflasyonun geçici değil, daha uzun süreli olduğunu gördüklerinde...
 		reel gayri safi yurtiçi hasılanın iki ya da daha fazla çeyrek yıllık periyotta arka arkaya negatif büyüme göstermesi durumu.
 		faizlerin artışıyla talep düşüyor, dahası arz da talebe yetmiyor.. işsizlik artar gelir/talep azalır, enflasyon artar..
 		ülke ekonomisinin üstüste iki çeyrek boyunca daralması... ekonomik büyümenin tam tersi..
