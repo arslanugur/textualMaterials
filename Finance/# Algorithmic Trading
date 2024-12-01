@@ -1358,8 +1358,6 @@ ALGORİTMA DÜNYASI 44 İŞLEMLERDE HACİM ANALİZİ
 ALGORİTMA DÜNYASI 45 MUM FORMASYONLARI - BOĞA
 ALGORİTMA DÜNYASI 46 MUM FORMASYONLARI - AYI
 
-   
-
 
 
 EXTRA INDICATORS:
@@ -1381,24 +1379,6 @@ Kaufman (KAMA)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ALARK
 şirket aşırı fiyatlandığında sahibi bile satar...
       aşırı faiz, borçlanma maliyetli olur sahibi yine hisse satar...
@@ -1413,10 +1393,6 @@ stockeys.com
 sanayi şirketlerinde %20 brüt kar marjı varsa atla...
 
 mavi - hendeği olan bi şirket
-
-
-
-
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Edilen zararı tam karşılamak için gereken kar oranları
@@ -1447,7 +1423,117 @@ mavi - hendeği olan bi şirket
             Trading 212                           Popular, Low Commission.
             Banks                                 High Commission
 
-      
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Indicators and Trade Strategies
+# Binance Indicators
+(OBV) On-balance volume
+Accumulation/distribution line.
+Average directional index.
+Aroon oscillator.
+Moving average convergence divergence (MACD)
+Stochastic oscillator.
+
+https://www.currentmarketvaluation.com/models/buffett-indicator.php
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# EMA
+Ağırlıklı Hareketli Ortalama'ya (WMA) benzer. 
+EMA göstergesi, n-dönem ayarlarını 50, 100 veya 200 döneme ayarlayarak uzun vadeli alım satımiçin de kullanılabilir; 
+iki EMA arasındaki bir kesişme, trendin tersine döndüğünü gösterebilir. 
+Bir trader, fiyat EMA çizgisinin altına düştüğünde bir long işlem açabilir.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# SAR (Stop and Reverse)
+Parabolic SAR, genellikle bir enstrümanın kısa vadedeki görünümünü analiz etmek isteyen yatırımcılar tarafından kullanılan, 
+    ne zaman alım ne zaman satım yapılacağı hakkında bilgi veren bir göstergedir. 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+VOL
+MACD
+KDJ
+WR
+StochRSI
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# RSI (Relative Strength Index)
+  Traders use the RSI to spot potential overbought and oversold market conditions. 
+  When the RSI reads above 70, it suggests an overbought condition.                     +70 Aşırı Alış
+  In contrast, when it moves below 30, it may be indicative of an oversold condition.   -30 Aşırı Satış
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# MA (Moving Average)
+
+  Hareketli Ortalama, bir gecikme indikatörü olarak çalıştığı ve daha önce gerçekleşmiş olan olaylara tepki gösterdiği için, tahmin göstergesi olarak kullanılmaz. 
+  Temelde onaylama ve analiz için kullanılan yorumlayıcı bir gösterge türüdür.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# BOLL
+  John Bollinger tarafından icad edilen Bollinger Bantları Hareketli ortalamaları kullanarak fiyatı göreceli olarak yüksek mi yoksa düşük mü olduğunu tanımlamamıza yarar. 
+  %b, Bandwith ve çeşitli hacim indikatörlerle beraber Bollinger bantlarını kullanarak fiyat tahmini yapılır.
+
+  Bollinger Bandı genellikle sıkışması veya genişlemesi yoluyla sinyal verir. 
+
+  Bollinger bantlarının, daralması durağan bir piyasa olduğuna işaret ederken, Bollinger Bandı alt ve üst çizgilerinin birbirine yaklaşması halinde daralma meydana gelecektir.
+            bantların kesişmesi ise, piyasada bir düzeltme hareketinin olacağına dair erken sinyaldir. 
+  Orta Bollinger çizgisi düşüş hareketlerinde trend direnç çizgisi, 
+                          yükselme eğiliminde ise trend destek çizgisi olarak takip edilebilir.
+
+  Genişlemelerin olduğu zamanlarda büyük oynaklık gözlemlenir. Volatilitenin arttığı bu dönemlerde sert düşüşler ve yükselişler gözlemlenebilir. 
+
+Üst Bant - fiyatlardaki değişime dayalı standart sapma çizgisi
+Orta Bant - SMA - 20 periyotluk hareketli ortalama popüler olan, diğer bantlar için referans niteliğinde
+Alt Bant - fiyatın ne derece oynak olduğunu gösterir
+standart sapma - fiyatların ortalama değerden ne kadar uzaklaştığını gösterir.
+
+fiyat oynaklığı arttıkça bantlar genişler. trendin sona ereceğine dair işaret olabilir.
+
+azaldıkça bantlar daralır.
+fiyatlar orta banttan aşağı-yukarı yönlü uzaklaştıkça
+bantlar genişler, fiyatlar orta banda yaklaştıkça bantlar daralır. standart sapma azalır. belirsiz ve durağan. trendler bantlar daralamsıyla başlar alta ya da üste doğru
+
+fiyatlar, alt banda yaklaştıkça satışlar artıyor, olası bir alış fırsatı.
+fiyatlar, üstt banda yaklaştıkça alışlar artıyor, olası bir satış fırsatı.
+ama bu her zaman tutmaz
+
+Intraday Intensity Index
+Money Flow Index
+Accumulation Distribution
+On Balance Volume 
+bunlar ile uyumlu olabilir.
+
+hacim ind ile momentum gösteren ind birbirlerini tamamlar. 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# TRADE STRATEGIES
+https://youtu.be/-DXU_3l8btE
+
+Kar da edersin, zarar da ama kar için oranın ve noktan stop lossdan büyükse çoğunlukla kar edersin. 
+
+# Indicators
+- Fisher indicator - 9 günlük bir Fisher at (Al-Sat sinyali üreten bir indikatör)
+- ALMA Hareketli ortalaması indikatörü
+  karda da zararda da çok agresif hızlı çalışıyor
+  teğitleri burdan alıyor oluyoruz
+- Tilson T3 indicatör
+  Al sinyali üretmeli ama nerede hangi noktada..
+  sonrası ALMAdan onay alınır
+  fiyat grafiğinin ALMA hareketli ortalamanın üzerine çıkmalı
+  eğer Fisher da yukarı hareket (AL) varsa olur
+  Grafik ise 1G olsun hızlı yükselişleri incele
+
+# Kar alım noktalarını bir kaç kademede koyarsın
+  (AL üzerine, SAT için değil)
+  
+# Mutlaka Stop Loss ile çalışılmalı
+  Nerede alıp nerede satacağını bilmelisin
+  Alım için en iyi strateji satım için en iyi strateji olmayacaktır.
+    Al için farklı strateji, Sat için farklı bir strateji kullanılır..
+    
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+
 
 
 
