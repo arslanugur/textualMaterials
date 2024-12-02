@@ -7,7 +7,7 @@
 - Bebeklikte ve Yetişkinlikte Bağlanma
 - Diğer Kişilik Kuramcıları Adler, Jung, Horney
 - Piaget - Bilişsel Gelişim
-- Bruner Vygotsky - Bilişsel Gelişim
+- Bruner & Vygotsky - Bilişsel Gelişim
 - Ahlak Gelişimi Psikanalitik ve Öğrenme Kur. Ahlak Gelişimi
 - Piaget - Ahlak Gelişimi
 - Kohlberg - Ahlak Gelişimi
