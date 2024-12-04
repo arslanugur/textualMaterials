@@ -1,0 +1,140 @@
+# Social Engineering
+01. Malware - Zararlı Yazılımlar
+02. Phishing Websites - Oltalama Siteleri
+03. Messages - Oltalama Mesaj ve SMSler
+
+# İnsani Zafiyetler (Vulnerability)
+- Korku
+- Acele, Telaş ve zrunluluk hissiyatı
+- Dikkatsizlik
+- Merhamet (Sömürebilir Boyutta)
+- Tanımadığın insanlara karşı duyulan gereksiz güven
+- Manipülasyon teknikleri
+- İnsan Psikolojisi
+
+# Hedefler
+- Haksız yoldan maddi kazanç
+- Kişisel bilgilere yetkisiz erişim
+- Kurumsal bilgilere yetkisiz erişim - apt attacks
+- Kişisel bilgisayarı ele geçirme
+- Kurumsal sistemleri elegeçirme
+- Fiziksel olarak sistemlere erişebilme
+
+
+# Techniques
+  Smishing (SMS-Phishing)
+    Ödemeli numaralar, web sitesi bağlantısı, zararlı mobil uygulamalar, kazandınız...
+  Spear Phishing (hedef odaklı oltalama)
+  Vishing (Voice + Phishing)  --> Calls
+  Omuz sörfü
+  Çöp karıştırma  --> Fiş, Fatura, Belge
+
+# Types of Phishing
+  Credit Card Phishing
+  Email accounts Phishing
+  Social Media Phishing
+    Sosyal medyadan atılan mesajlar yoluyla oltalama (redirecting.., campaigns)
+    Sosyal medya hizmetleri kisvesi yoluyla oltalama (telif hakkı itiraz formu hizmeti, kullanıcı adı şifre..., takipçi arttırma, beğeni arttırma)
+  Crypto Phishing
+  Kurumsal sistem oltalamaları - hedef odaklı oltalama
+  Genel maksatlı oltalama siteleri - Ödül kazandın, Login Panel vs
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# APT (Advanced Persistent Thread)
+  Gelişmiş Kalıcı Tehdit / Hedef Odaklı Saldırılar
+  Sisteme yerleşme ve uzun süre kalma odaklıdır.    daha fazla veriyi elde etmek
+  Genelde devletler arası siber uzay çatışmaları bu kapsamdadır
+  Karakteri: Yüksek maddi kaynak, uzun süren hazırlık, ciddi boyutta tehditler
+  Spear Phishing...
+    Saldırı öncesinde hedefi tanıma ve bilgi toplama
+    Öncesinde Sızma Testleri ile kurum ve kuruluşun güvenliği sağlanır..
+
+# Fiziksel Yöntemler
+  Hedef oluşumun fiziksel güvenlik sistemlerini atlatma yöntemleri
+  - giriş/çıkış sistemi için kullanılan envanterinin klonlanması
+  - yapıda yetkisiz girişlere izin verilebilecek zafiyet tespiti yapılması
+  - misafir, tamirci, müşteri vs gibi yöntemlerle mahrem bölgelere erişilmesi
+
+  Çöplerde, ortak kullanım alanlarında veya masalarda açık şekilde bırakılan belgelerin incelenmesi
+  - masasında şifresini yazılı olarak bırakmış
+
+  Ortama bırakılabilecek oltalama materyalleri
+  - zararlı içerikli USB bellekler
+  - kişilerle haricen iletişime geçilerek yürütülen faaliyetler
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Social Engineering ToolKit (Setoolkit)
+    Çok kullanılan servislerin hazır klonlarını barındırmak
+    İçinde bu ataklar için kullanılabilecek bir çok modül barındırır.
+    - Site Klonlayıcı (facebook, yahoo ... arayüz)
+    - Payload Üretici (Sistem üzerinde çalıştırılan zararlı kodlar)
+    - Oltalama eposta üretici
+    - Zararlı içerik üretici
+
+    * "Kali Linux" İşletim sisteminde varsayılan olarak gelmektedir..
+
+    Menu:
+    Social-Engineering Attacks
+      Spear-Phishing Attack Vectors
+        - perform a mass email attack
+        - create a fileformat payload
+        - create a social-engineering template
+      Website Attack Vectors
+      Infectious Media Generator
+      Create a Payload and Listener
+      Mass Mailer Attack
+      Arduino-Based Attack Vector
+      Wireless Access Point Attack Vector
+      QRCode Generator Attack Vector
+      Powershell Attack Vectors
+      Third Party Modules
+    Penetration Testing (Fast-Track)
+    Third Party Modules
+    Update the Social-Engineer Toolkit
+    Update SET configuration
+    
+# Wifiphisher
+  Sahte bir bağlantı noktası oluşturarak kurbanların bu ağa bağlanması ve bilgileriniin ele geçirilmesi hedeflenir..
+  Man in the Middle Attack (MitM)
+  Birçok modülü vardır. bu modüller de ataklara eklenerek daha geliştirilebilir...
+
+# MSFvenom
+  Esasında sadece sosyal mühendislik için kullanılmamaktadır
+  Zararlı yazılım oluşturma noktasında kullanılmaktadır
+  Birçok farklı platform için zararlı yazılım oluşturma kabiliyetine sahiptir.
+  Sızma testlerinde çokça kullanılır
+
+  * "Kali Linux" İşletim sisteminde varsayılan olarak gelmektedir..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Spear Phishing Attacks
+  Hedef odaklı oltalama saldırıları
+    gerçek isim, adres ve bilgi kullanımı
+    hassasiyetlerin belirlenmesi
+    atak vektörü seçimi
+    atak sürekliliğinin sağlanması
+
+# Spear Phishing Scenario
+    Hedef Oluşum: WolfSec Siber güvenlik Danışmanlık ve Eğitim Hizmetleri
+    Hedef Oluşum Web Sitesi: http://wolfsec.xyz
+    Yöntem: Spear Phishing
+    Alt Yöntem: Mail yoluyla oltalama giriş paneli üzerinden bilgi çalma
+    Hedeflenen Bilgi: Şirket SSL VPN servisi giriş bilgilerinin ele geçirilmesi
+    Hedefteki Kişinin Mail Adresi: hedefkullanici@protonmail.com
+    Saldırgan Mail Adres: wolfseccontact@protonmail.com
+
+    Mail hazırlanır... parola değiştir.. redirecting...
+
+# Vishing
+    Calls
+    Kredi kartı ve banka bilgisi çalmak hedeflenir.
+
+# İhbar hattı
+    usom.gov.tr/iletisim
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Example
+Banks
+Wifi
+Phishing - Oltalama
+Emails and passwords
+ATM -
