@@ -1,7 +1,7 @@
 Para piyasaları
 
 
-
+bond - kefalet
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -61,45 +61,10 @@ Neden alıyım senin malını..
             elalem gitmiş büyük bir network kurmuş ben o telefonu alır, o networke dahil olurum..
             senin yarattığın şeyde mal sahibi olcam çevre sahibi olmayacağım ki
 
-
-
 Önemli olan ne kadar gelire sahip olduğun değil, ne kadar parayı aktif tarafında toplayabildiğindir. tasarruf ama enflasyona yedirme acil durum fonu
 vadeli mevduat
 
 New York paranın merkezi ama Londra, herkesin kendini off-shore'ladığı yer..
-
-"""
-eviniz bir varlık değil yükümlülüktür..
-Eğer bir ev kiralıyorsanız başka birinin varlığının büyümesini destekliyorsunuz demektir 
-gayrimenkul söz konusu olduğunda kesinlikle evinizi alırken kazand
-
-küçük başla ilerledikçe öğren...
-studio daire ile ya da 1+1 ile
-"""
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-
-Sermaye hareketleri:  serbest
-Kur:                  serbest/kontrollü
-Faiz:                 serbest/kontrollü            politika faizi (Merkez Bankası)
-
-Yüksek faiz oranları, yatırımcıların o ülkeye daha fazla yatırım yapmalarına teşvik ederken, 
-Düşük faiz oranları, yatırımcıların başka ülkelerdeki yatırımlara yönelmelerine neden olabilir.
-
-Bir ülkenin döviz kuru, o ülkenin ihracat ve ithalatını, turizm sektörünü, yabancı yatırımları ve sermaye hareketlerini etkiler.
-Bir ülkenin para biriminin değeri düşükse, o ülkenin ihracatı artabilir, çünkü diğer ülkeler için daha ucuz hale gelir. 
-Ancak, Düşük döviz kuru, yabancı yatırımcıların o ülkeye yatırım yapmasını engelleyebilir.
-Yüksek döviz kuru ise, ülkenin ithalatını artırabilir, çünkü diğer ülkeler için daha ucuz hale gelir. 
-Ancak, yüksek döviz kuru, ihracatı zayıflatabilir.
-
-
-Yüksek faiz oranları, bir ülkeye sermaye akışını artırabilirken, aynı zamanda ülkenin para birimini değerli hale getirerek ihracatını olumsuz etkileyebilir. 
-Yüksek faiz oranları, aynı zamanda kredi maliyetlerini artırabilir ve ekonomik büyümeyi yavaşlatabilir. 
-Düşük faiz oranları ve düşük döviz kuru, ihracatı artırabilirken, yatırımcıların ülkeye yatırım yapmasını engelleyebilir, çünkü yatırımcılara daha az getiri sağlar. 
-Düşük faiz oranları, kredi maliyetlerini düşürebilir ve ekonomik büyümeyi teşvik edebilir.
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -109,37 +74,6 @@ Düşük faiz oranları, kredi maliyetlerini düşürebilir ve ekonomik büyüme
     ---------------------------------------------------------------------------------------
     Draw/Checking/Transactional Acc.  < Flexible Acc. Limit   < Credit Card   < Bank Credit
     Vadesiz Hesap                       Esnek Hesap limiti
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-# Transaction Control Example
-
-                Balance/Debit   Credit Card             Bank Credit              
-                ----------------------------------------------------------
-YapıKredi       -6250/250       18000     <---------
-İş Bankası      0               Apply Credit       |
-QnB             -709/6490       18.863 --> 4200 ----
-                ----------------------
-                7000            18000
-                ---------------------
-                25k
-
-HSBC            0               0
-ING Bank        0               0
-
-
-
-
-                Balance/Debit   Credit Card             Bank Credit              
-                ----------------------------------------------------------
-YapıKredi       -5.288          16.277     <---------
-İş Bankası      0               Apply Credit       |
-QnB             -2.712/4.487    18.863 --> 4200 ----
-                ----------------------
-                7000            18000
-                ---------------------
-                25k
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -162,7 +96,6 @@ QnB             -2.712/4.487    18.863 --> 4200 ----
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 # Kredi Kartı Borcu
 Kredi kartı borcunuzu hiç ödememeniz hâlinde borcunuza "gecikme faizi" uygulanır. 
 Sadece asgarisini ödemeniz halinde ise "akdi faiz" uygulanır. 
@@ -173,7 +106,6 @@ Yasal takibe düşen borç ödenmezse borçlu tarafa "ihtarname" çekilir.
 Bu sürenin sonunda da borç ödenmezse "icra takibi" başlatılarak borçların icra yoluyla tahsili sağlanır.
 
 Kredi kartı borcunun zaman aşımına uğraması için belirlenen süre 10 yıldır.
-
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Dünyadaki bankacılık sistemi ve müşteri için ürünleri...
