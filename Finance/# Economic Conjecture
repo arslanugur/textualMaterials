@@ -1,44 +1,64 @@
+# Economic Indicators (Ekonomik Göstergeler)
+# US Economic Indicators
+	PPI - Producer Price Index		if PPI > %3	= enflasyon habercisi		ÜFE					aylık yüzde değişimi
+	CPI - Consumer Price Index		if PPI > %3	= enflasyon habercisi		TÜFE					aylık yüzde değişimi		yıllık yüzde değişimi
+	PMI - Purchasing Managers' Index							Satın Alma Yöneticileri Endeksi
+
+# TR Economic Indicators
+https://evds2.tcmb.gov.tr/index.php?/evds/dashboard/7413
+https://enagrup.org/
+
+# world bank datas... growth forecast by country
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 
 Good Environment					Bad Environment
 ---------------------------------------------------------------------------------------------------
 enflasyon yok						enflasyon geliyor ne yapılacak
-faizler düşük...					faizler yüksek...
+							enflasyon tehdidi gördüğünde faiz oranını artırır.. 
+faizler düşük...					faizler yüksek... Enflasyon yükselirse faiz yükselir..
 para biriktir...					biriken para faize yatırım - faiz getirisi	
 büyüme politikası					küçülme politikası
-	Kredi büyümesi yüzünden enflasyon büyür
+Kredi faizleri düşük					Kredi faizleri artıyor
+	Kredi büyümesi yüzünden enflasyon büyür			kredi kartı faizleri artıyor...
+	kredili pozisyonlar patlar...
 düşük kredilerle yatırım				yatırımı faize dönüştürmek
+faiz iner ama krediye erişim halen zorsa işe yaramaz	faiz artışı, yurt dışı borçlanma maliyeti artıyor...
 
+							nedenleri: vergi indirimi, ucuz kredi, şirketlere finansman, zayıf işçi hakları
 
+							yüksek faiz, üretimin düşmanı...				
+							tüketici harcamaları da düşer			
+							negatif faizde borçlanıp mal almak iyiydi...	
+							sanayi tarafı sıkıntı... çünkü borçlanamıyorlar
+							büyümeye duyarlı faizden olumsuz etkilenecek şirketler...
 
 Notes:
 enflasyon kalıcı - diğer herşey gidici
 enflasyon parası olanı daha da zengin eder her zaman - faiz oranları....
+	enflasyon - birinci anlam:	para basımı(devlet borcunu eritmek için yapar)
+	enflasyon - ikinci anlam:	fiyatlara zam gelişi
 Faiz, paranın maliyetidir. faiz'in ana foksiyonu geciktirmektir...
 faiz - kayıptan korunma -- latince
-enflasyon tehdidi gördüğünde faiz oranını artırır. Enflasyon yükselirse faiz yükselir..
 
-vergi indirimi
-ucuz kredi
-finansman
-zayıf işçi hakları
+- - - - 
+merkez bankası faiz arttıdıkça
+mevduat faizleri %45i buluyordu...
+bankalar halktan topladığı parayı satamıyor bu yüzden mevduat faizini aşağı çektiler
+    ticari ve bireysel kredileri satmalı....
+    çünkü bankaların elinde fazla likidite oluşuyor bunu satmalılar...
+mevduat faizleri düşürüldü...
+ama mevduat faizinden memnun olmayanlar dövize yöneliyor... dolarizasyon....
+      borsaya da güvenmiyor... borsada yerinde sayıyor... para girişi olmuyor..
+      altın desen o da dolarla hareket ediyor lirayı umursamıyor...
+      konut piyasası ise oldukça farklı...
+      tl de değer kaybediyor... yine dolar yine dolar
 
+  ama halka dolara kaçınca merkez bankası, bankalardaki likiditeyi yeniden çekti...
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-ppi spi %3ün üstüne çıkması - enflasyon habercisi
-PPI - Producer Price Index
-SPI - 
-PMI data
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-faiz iner ama krediye erişim halen zorsa işe yaramaz
-
-kredili pozisyonlar patladı
-
-aşağıya doğru maliyet yapmak
-en dipte yakalamak için elinde tutup aşağıya ortalama yapmayı göze almak lazım....
 
 paranın zaman değeri
 dollar cost average 
@@ -74,7 +94,6 @@ ROE - Return of Equity
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 # Markets
 https://www.marketscreener.com/stock-exchange/shares/north-america/united-states-12/
 https://www.tradingview.com/markets/stocks-germany/market-movers-all-stocks/
@@ -82,21 +101,8 @@ https://www.investing.com/equities/turkey/top-stock-gainers
 https://markets.ft.com/data/world
 https://markets.ft.com/data/world/countries/netherlands
 https://www.boerse-frankfurt.de/equities
-
-
-https://youtu.be/tAXpjqc_z6c?si=cS4ytegWl6c43eib
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Yüzde Hesaplamaları
 https://www.hesaplama.net/
-										A	B	C = Result	Formula				Kullanım Alanları
-1. 			A sayısının %B'si kaç?					100	10	10		(AxB)/100 = (A/100)*B
-2. 			A sayısı, B sayısının yüzde kaçı?			100	10	%1000		(A/B)*100
-3. Değişim Yüzdesi	A sayısından B sayısına değişim oranı yüzde kaç? 	100	10	%90 azalış	((B-A)/A))x100			Borsada getiri/götürü yüzdesini bulmak
-4. Yüzdelik Artış	A sayısı, %B kadar artırılırsa kaç olur?		100	10	110		A+(A*B)/100 = ((A*B)/100)+A	Fonlar (A=Anapara, B=Yüzdelik Artış, C=Kar)
-5. Yüzdelik Azalış	A sayısı, %B kadar azaltılırsa kaç olur?		100	10	90		A-(A*B)/100 = ((A*B)/100)-A	Fonlar (A=Anapara, B=Yüzdelik Azalış, C=Zarar)
-
-
+https://youtu.be/tAXpjqc_z6c?si=cS4ytegWl6c43eib
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Krizin işaretleri
@@ -152,7 +158,6 @@ sonrasında gelenler
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 #
 recession	ekonomik durgunluk, büyüme yavaşlaması, inflasyonun geçici değil, daha uzun süreli olduğunu gördüklerinde...
 		reel gayri safi yurtiçi hasılanın iki ya da daha fazla çeyrek yıllık periyotta arka arkaya negatif büyüme göstermesi durumu.
@@ -216,7 +221,6 @@ https://tr.tradingview.com/chart/J2seMRXg/?symbol=ECONOMICS%3ATRM3
 https://tr.tradingeconomics.com/turkey/money-supply-m3
 https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR
 
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # ÖNEMLİ
 # RALLY METRE (BIST'de rally olabilmesi için) 
@@ -232,11 +236,22 @@ https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR
 		matriksIQ: alım-satım yapanlar
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Borsa İstanbul
+
+# Yorum
+Beklentiler alınır gerçekleşenler satılır, tersi de mümkün
+	kötü beklentiler satılır, kötü gerçekleşenler alınır
+büyüme yavaşlaması, faizlerin yüksekliği, bilançolar kötü, enflasyon etkisi...
+
+
 # yükselirse ne yapacaksın
 maliyet sıfırlamak (finansta böyle bişey yok - ama psikolojik olarak ideal)
 	hisse fiyatı 1 lira ben de 10 lira koydum..
 	hisse yükseldiğinde mesela 10x yaptığında koyduğun o 10 lirayı geri çekiyorsun.. içerde hiç paran kalmadığını düşünüyorsun
 	bunu biraz daha analiz et, mantıksız noktalar var.. gibi
+
+aşağıya doğru maliyet yapmak
+en dipte yakalamak için elinde tutup aşağıya ortalama yapmayı göze almak lazım....
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -324,21 +339,7 @@ fiyatıyla oynamıyor, kurun yüzde %50siyle hesaplamak
 ----	------------	----------------------------
 3tl	35tl		70tl
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Borsa İstanbul
 
-# Yorum
-Beklentiler alınır gerçekleşenler satılır, tersi de mümkün
-	kötü beklentiler satılır, kötü gerçekleşenler alınır
-büyüme yavaşlaması, faizlerin yüksekliği, bilançolar kötü, enflasyon etkisi...
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# How to Buy a House
-Minimum Wage		Price		Advance Payment		Interest	Amortization
-
-https://youtu.be/B8rlEJYzTKs?si=O_8y6WAwxQB3tOZz
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Arz v Talep
 ürün (1 adet)		cebindeki para	
@@ -414,10 +415,6 @@ Borsada
 	ne aldığının farkında olmamak
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-laf satacak iş bul...
-cost of business
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 güçlü lira trye sermaye akışını azaltıyor...
 	yatırım için kimse gelmiyor
 	sadece carry trade için geliyorlar - tefeci faizi için
@@ -491,8 +488,6 @@ Volatility (oynaklık)
 https://youtu.be/dwhak83ONR0?si=vGUFFAoQBPcZNets
 https://youtu.be/0BZz9SFTdvo?si=hCPJlSHOJ5cfgVmp
 
-
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 hang seng index - china stocks
@@ -515,7 +510,6 @@ bir metal var, birisi gelip daha yüksek fiyatla senden alacak beklentisiyle al�
 savaş çıktı, enflasyon var vesaire
 
 
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Deutsche Bank
 TCMB - ilk önce %45 faiz
@@ -523,10 +517,6 @@ Türkiye 2024 son çeyrekte %25 faiz indirecek, millet de borsaya koşacak...
 yirmi puan faizler inecek diyor...
 
 yabancı buna gelir ama londra piyasasından bi likitideye sahip olmam lazım - swap kanalları piyasası açılması lazım... ama insanlar banklar yoluyla 29dana lirayı açığa satarlar diye açılmıyor.. swap, tamamen kkm ile bağlantılı...
-
-kchol
-sahol
-eregl
 
 ICICI
 Reliance
@@ -555,20 +545,15 @@ XBANK
 
 turk şirketlerinin eurobondları artıyor...
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+laf satacak iş bul...
+cost of business
 
 xtx markets - alex gerko
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-
-
-
 OYAKC - TAYLANDLILARA SATILDI
 ÇİMENTO UZUN VADE İÇİN İDEAL
-HEKTS - DİPLERDE ÖLÜ
-KONTR - PAHALI ÇARPANLARI YÜKSEK. YÜKSELMEYEBİLİR FİYAT DÜZELTMESİ
-ALARK -FİİLİ DOLAŞIM - %37-38 ÇIKABİLİR.. DAHA DA PATRON SATIŞI GELİBİLİR. ŞAİBELİ
 
 çarpanı pahalı şirketten uzak dur zehirli
 astor - 81 cvarı toplanır.. gesandan yüksek çarpan
@@ -592,10 +577,6 @@ ISMEN - 200 günlük hareketli aşağına düşerse sıkma bölgesi
 halka açıklık düşük ise volatil. <30 daha sağlıklı....
 
 christmas günü bofa biste girmez, bist düşer - yabancı yok çünkü.
-
-ihracat çimento şirketleri
-banka
-gıda
 
 tcell - enf düşerken alınır
 
@@ -652,11 +633,6 @@ Ege Cansen: https://youtu.be/Hk6Lmd8jjUQ?si=bL5US7uMt41lFTt-
 	- Aynı girdi ile daha çok çıktı:	iki kişi artık 10 değil 20 ürün üretiyor...
 	Japonya da iki kişinin yapacağı işi 5 kişi yapar.... verimsizlik yapar..
 	bu teknolojinin gelişimiyle de ilgili yani tekniğin...
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-# world bank datas... growth forecast by country
-
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # ÖNEMLİ: İthalat
@@ -721,9 +697,6 @@ unicorn
 decacron	10milyar dolar ın üzerinde piyasa değeri
 ülkelere göre maliyetler değişeblir. her yer tr değil
 gelişmekte olan ğlkeler: tr gibi fırsat vardır... maaşlıysan zor ama
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Temel+Faaliyetler/Para+Politikasi/Merkez+Bankasi+Faiz+Oranlari/faiz-oranlari
 	faiz %10a indiğinde alabildiğin kadar borç alacaksın...
@@ -738,8 +711,7 @@ TR Merkez Bankası
 Federal Reserve System (FED)
 European Central Bank (ECB)
 Bank of England
-																enflasyon - birinci anlam:	para basımı(devlet borcunu eritmek için yapar)
-																enflasyon - ikinci anlam:	fiyatlara zam gelişi
+
 
 POLİTİK FAİZ			FAİZ ARTIŞI											FAİZ DÜŞÜŞÜ
 				---------------------------------------------							---------------------------------------------
@@ -963,20 +935,6 @@ Faiz aşağı gittiği zaman (Fed Faiz indirimi)
 	Fed'in nokta grafiği, her Fed yetkilisinin merkez bankasının temel kısa vadeli faiz oranı olan federal fon oranı projeksiyonunu kaydeden, üç ayda bir güncellenen bir grafiktir. 
 	Noktalar, ABD merkez bankacılarının her birinin, her takvim yılı sonunda federal fon oranının uygun orta noktası olacağını düşündüğünü yansıtıyor.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-merkez bankası faiz arttıdıkça
-mevduat faizleri %45i buluyordu...
-bankalar halktan topladığı parayı satamıyor bu yüzden mevduat faizini aşağı çektiler
-    ticari ve bireysel kredileri satmalı....
-    çünkü bankaların elinde fazla likidite oluşuyor bunu satmalılar...
-mevduat faizleri düşürüldü...
-ama mevduat faizinden memnun olmayanlar dövize yöneliyor... dolarizasyon....
-      borsaya da güvenmiyor... borsada yerinde sayıyor... para girişi olmuyor..
-      altın desen o da dolarla hareket ediyor lirayı umursamıyor...
-      konut piyasası ise oldukça farklı...
-      tl de değer kaybediyor... yine dolar yine dolar
-
-  ama halka dolara kaçınca merkez bankası, bankalardaki likiditeyi yeniden çekti...
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -996,12 +954,6 @@ tahvil piyasları yükselmesi
   spk bülteninde her hafta 10 şirketin tahvil icracı var... nerdeyse
   PARASINI İYİ DEĞERLENDİRMEK İSTEYENLER BU YOLA GİDEBİLİR...  %60a varan bir tahvil faizi
   ama bu noktada sağlam şirketlere borç verilmeli, yoksa bu ortamda şirket aldığı parayı nasıl ödeyecek. şirketler iyi seçilmeli
-
-
-Faiz arttıkça, yurt dışı borçlanma maliyeti artıyor....
-              kredi faizleri artıyor...
-              kredi kartı faizleri artıyor...
-    250bas puan daha artırır...    %40 olur... sonrasında yılbaşı beklenir...
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Yabancı yatırımcı ne ister ne bekler
