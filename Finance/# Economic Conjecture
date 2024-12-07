@@ -1,39 +1,61 @@
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Economic Indicators (Ekonomik Göstergeler)
+	..., işsizlik oranı gibi göstergeler, aylık merkez bankası faizi yükseltecek mi yoksa indirecek mi ile ilgili verilerdir...
 # US Economic Indicators
 	PPI - Producer Price Index		if PPI > %3	= enflasyon habercisi		ÜFE					aylık yüzde değişimi
 	CPI - Consumer Price Index		if PPI > %3	= enflasyon habercisi		TÜFE					aylık yüzde değişimi		yıllık yüzde değişimi
 	PMI - Purchasing Managers' Index							Satın Alma Yöneticileri Endeksi
 
-# TR Economic Indicators
-https://evds2.tcmb.gov.tr/index.php?/evds/dashboard/7413
-https://enagrup.org/
+https://tr.tradingeconomics.com/united-states/unemployment-rate
+tarım dışı istihdam
 
 # world bank datas... growth forecast by country
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# TR Economic Indicators
+https://evds2.tcmb.gov.tr/index.php?/evds/dashboard/7413
+https://enagrup.org/
+https://data.tuik.gov.tr/Bulten/Index?p=%C4%B0%C5%9Fg%C3%BCc%C3%BC-%C4%B0statistikleri-Eyl%C3%BCl-2024-53515&dil=1
+https://tr.tradingeconomics.com/turkey/unemployment-rate
 
-
-
-Good Environment					Bad Environment
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+											Talepte düşüş olunca "arz fiyatında düşüş" olur, 
+                                                 					arzın kendisinde de düşüş gerçekleşir..
+                                                					bu şekilde de "arz ve talep dengesi" sağlanmaya çalışılır.
+ekonomi arzın yetebildiği kadar büyür..							yüksek faizle ekonomiyi iyice öldürüyorlar...
+	arzın bittiği yerde talebi kırmak için fiyat artışı olur
+	arz düştükçe de ürün/hizmetin fiyatında artış olacaktır.
+Good Environment - ekonomi büyüyor ...							Bad Environment - ekonomi küçülüyor
 ---------------------------------------------------------------------------------------------------
-enflasyon yok						enflasyon geliyor ne yapılacak
-							enflasyon tehdidi gördüğünde faiz oranını artırır.. 
-faizler düşük...					faizler yüksek... Enflasyon yükselirse faiz yükselir..
-para biriktir...					biriken para faize yatırım - faiz getirisi	
-büyüme politikası					küçülme politikası
-Kredi faizleri düşük					Kredi faizleri artıyor
-	Kredi büyümesi yüzünden enflasyon büyür			kredi kartı faizleri artıyor...
-	kredili pozisyonlar patlar...
-düşük kredilerle yatırım				yatırımı faize dönüştürmek
-faiz iner ama krediye erişim halen zorsa işe yaramaz	faiz artışı, yurt dışı borçlanma maliyeti artıyor...
+enflasyon yok										enflasyon geliyor ne yapılacak
+											enflasyon tehdidi gördüğünde faiz oranını artırır.. 
+faizler düşük...									faizler yüksek... Enflasyon yükselirse faiz yükselir..
+para biriktir...									biriken para faize yatırım - faiz getirisi	
+büyüme politikası									küçülme politikası
+Kredi faizleri düşük / kredi maliyetleri azalır						Kredi faizleri artıyor
+	borç alanlar daha az faiz öder	
+	Kredi büyümesi yüzünden enflasyon büyür						kredi kartı faizleri artıyor...
+	kredili pozisyonlar patlar... 							"house money effect" - yatirimcilarin borsadan kazandiklari parayla daha fazla risk almasi. 
+	ana para biriminin değeri düşer.. ortalıkta çok borç.. enflasyon artar
+	para birimine olan talebi azaltır, millet dövize kaçar...ya da dövizle harcar
+düşük kredilerle yatırım artar cazip, çarklar daha sağlıklı olur			yatırımı faize dönüştürmek
+	iki makine daha alınır.. çarpan etkisiyle ihracatı bile artar..			"kredi maliyetlerinin"/"yatırım maliyetleri" artması
+		ekonomik aktivite artar
+		ama rant var kim uğraşcak işletmeyle...
+tüketici harcmaları artar (kredili mal/hizmet satın almak) eko büyüme
+faiz iner ama krediye erişim halen zorsa işe yaramaz					faiz artışı, yurt dışı borçlanma maliyeti artıyor...
+krediler açıldığı an			
+	ekonomide çarpan etkisi yaşanır							nedenleri: vergi indirimi, ucuz kredi, şirketlere finansman, zayıf işçi hakları
+		ev yapılır, ev alınır, perde, makine, tv alınır...
+		olmayan bir proje başlatmak...						yüksek faiz, üretimin düşmanı...				
+			o projenin yaratacağı hareket projenin 2 katı			tüketici harcamaları da düşer, "tüketim"/"toptan talep" azalır ancak tasarruflarda artış beklenir.			
+											negatif faizde borçlanıp mal almak iyiydi...	
+											sanayi tarafı sıkıntı... çünkü borçlanamıyorlar
+											büyümeye duyarlı faizden olumsuz etkilenecek şirketler...
+											Tasarrufda artışın sonucu, kaynaklar artar ve yatırımlar için finansman bulmak yüksek faizler olduğu için kolay hale gelir. 
+											Faiz artışı, borç verenlerin borç alanlara verdiği borçların faiz oranlarının artmasıdır.
 
-							nedenleri: vergi indirimi, ucuz kredi, şirketlere finansman, zayıf işçi hakları
-
-							yüksek faiz, üretimin düşmanı...				
-							tüketici harcamaları da düşer			
-							negatif faizde borçlanıp mal almak iyiydi...	
-							sanayi tarafı sıkıntı... çünkü borçlanamıyorlar
-							büyümeye duyarlı faizden olumsuz etkilenecek şirketler...
 
 Notes:
 enflasyon kalıcı - diğer herşey gidici
@@ -43,17 +65,10 @@ enflasyon parası olanı daha da zengin eder her zaman - faiz oranları....
 Faiz, paranın maliyetidir. faiz'in ana foksiyonu geciktirmektir...
 faiz - kayıptan korunma -- latince
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+stagnation - ekonomik durgunluk
+faiz yüksek, işsizlik yüksek
 
-paranın zaman değeri
-dollar cost average 
-
-bankrun...
-
-ROI - Return of Investment
-ROE - Return of Equity
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 # Olanaksız Üçlü (The Policy Trilemma)
 	Sermaye Hareketleri	: serbest	kontrollü		free capital flow/mobility
@@ -67,13 +82,13 @@ ROE - Return of Equity
 		faiz: serbest / kontrollü
 
 	2001 öncesinde
-		sermaye: serbest, kur: kontrollü, faiz: serbest		
+		sermaye: serbest, kur: kontrollü, faiz: serbest	
 			kuru neden tutmaya çalışıyorsun sen mi basıyorsun dolları... faizler artar da artar...
 
 	2001 sonrasında ***
 		sermaye: serbest, kur: serbest, faiz: kontrollü
 
-	TR'de şu an yapılan
+	2022 sonrasında TR'de yapılan
 		sermaye: kontrollü, kur: kontrollü, faiz: kontrollü		kur patlar...
 									ya da   faizi patlatman lazım...
 
@@ -233,26 +248,8 @@ https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR
 		fintables: yeni iş ilişkileri
 		matriksIQ: alım-satım yapanlar
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Borsa İstanbul
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-# Yorum
-Beklentiler alınır gerçekleşenler satılır, tersi de mümkün
-	kötü beklentiler satılır, kötü gerçekleşenler alınır
-büyüme yavaşlaması, faizlerin yüksekliği, bilançolar kötü, enflasyon etkisi...
-
-
-# yükselirse ne yapacaksın
-maliyet sıfırlamak (finansta böyle bişey yok - ama psikolojik olarak ideal)
-	hisse fiyatı 1 lira ben de 10 lira koydum..
-	hisse yükseldiğinde mesela 10x yaptığında koyduğun o 10 lirayı geri çekiyorsun.. içerde hiç paran kalmadığını düşünüyorsun
-	bunu biraz daha analiz et, mantıksız noktalar var.. gibi
-
-aşağıya doğru maliyet yapmak
-en dipte yakalamak için elinde tutup aşağıya ortalama yapmayı göze almak lazım....
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Fiat Para (kağıt para)
 	borçlanmak için ideal
 
@@ -318,16 +315,6 @@ en dipte yakalamak için elinde tutup aşağıya ortalama yapmayı göze almak l
 	enflasyon 2-5de			enflasyon yüksek
 	getiri faiz yıllık 1-2%		getiri faiz yıllık %20-30
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Tactic
-if			do
-viop short (sell)	spot no buy		
-	spotta alış olmadığı için vioptaki pozisyondan para kazanmaya devam ediyorsun
-	spottan alsan borsa yükselecek çünkü, viop da yükselecek vioptaki pozisyonun zarar edecek
-if			do
-viop long (buy)		spot - piyasa yükselecek beklentisinde
-	eğilimin/trendin yönü hakkında net bilgi veriliyor
-
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Kuru sabit tutmak
@@ -359,342 +346,6 @@ Tapınak ayakkabıları ve jetonlar
 değer yaratmak önemli, para basmak değil
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-# First 100K
-https://youtu.be/FHOZwvMLu4g?si=D5lJHw-Gn5hQ8Xei
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Millionaire System (Yöntem/Method)
-https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php
-bileşik faiz formülü
-
-1. safha: pasif gelir
-	Wage			17.000		Getiri
-	PPF (Investment)	10.000		400*12		7.000
-	1st year	120.000					84.000	94.000
-	2nd year	240.000
-	3rd year	360.000
-	4th year	480.000
-	5th year	500.000
-	Total	
-her ay 7.000 atarsan 5 seneye milyonersin
-	5 yıl sonunda belki 2milyonun 700bin olacak ama ne kaybedeceksin ppf'de
-
-2. safha: kaldıraçlı yatırım..		yarı aktif gelir
-	biriktirdiğin parayla konut alınır.. 0.90 yüzde krediler çıktığında ev fiyatları da fırlayacak..
-	hisselere gir... temettüler de akacak.. ya da hisse 5-6x olursa kapat...
-	altına gir..
-
-3. safha: gerçek zenginlik. büyümeyle başlar...
-	insan çalıştıracaksın: en zor iş
-	şube açacaksın
-	işi bilen kişileri işe almak
-	restaurant yemek yapmayaı bilmezsin ama aşçı çalıştırıcaksın...
-	iş büyümüyorsa en iyi ihtimalle orda kalır, ya da ölür...
-	yeteneğine göre iş kurabilirsin de
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Borsada
-	erken satmak yapabileceğin en büyük hata...
-	alış majını düşünüyorsun satış marjını da 2x düşenmen lazım
-
-	zamanlamaya çalışmak
-		düştü alayım daha da düşecek daha da alsam... keşke almasaydım	darbe yiye yie alışıyorsun sarediyorsun.
-			
-		yükseldi satayım daha da yükselecek keşke satmasaydım
-		zarar da oturmasını bil... kardaysan bile oyunun içinde kalmaya çalış.. çok oynaşma
-
-	yeterince çeşitlendirmemek
-
-	trading yapma:
-		kırmızı bir denizde köpek balığına yem olmak...
-		mavi deniz:
-
-	ne aldığının farkında olmamak
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-güçlü lira trye sermaye akışını azaltıyor...
-	yatırım için kimse gelmiyor
-	sadece carry trade için geliyorlar - tefeci faizi için
-
-	yabancı yatırımcı kur fırladığında gelir, o noktada borsa fırlayacak
-	olmazsa tahvil daha tatlı geliyor
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-1 milyon olsa
-	%40 nakitte kalır para piyasası fonuna konur: fırsat kollanır
-	geri çekilmelerde pozisyon toplarsın
-	%10-15 - sadece altın değil, kıymetli metal: gümüş gibi
-	%10 - fon sepeti yapmak
-	%30 - bist
-	%- cryptos
-	düşen piyasada ayı piyasasında topla... yükselen trend türk için candır, sen böyle olma sakın
-	borsa: sabırsızların parasının sabırlıların eline geçtiği yer.
-
-black swan geldiğinde yapılacaklar:
-	kriz fırsattır
-	en yüksek riski black swanda alınır: covid dönemi
-	usdeki resesyon buhrana dönerse, likitide sıkışıklığı nedeniyle blackswan olur...
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Sepet
-  Çoktan çok gider..
-  Para yağız at gibi, çıkması kolay, üstünde durması zor
-
-
-inflation      wage      spends
-              monthly
-              yearly
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Links:
-https://www.lattedenborsaya.com/
-https://youtu.be/rZi7l4H6hOY?si=UFxn8B1_rDmJH7oF	About Fire
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-çarşamba satış günü
-tüpras ve brent petrol ilişkisi... düşerse düşer
-
-fon sepeti şemsiye fonu... kardan %10 stopaj vergisi yok...
-  tcd, gmr, mac -- uzun vadeli..
-  ytd, aes, tge, ojt, oil, otj
-
-3000 mağazan varsa ayda 70 şube açarsın - migros bileşik getiri örneği
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-https://youtu.be/Cr2j0Z7055Y?si=YOfaPU9oiV_pAayl
-Volatility (oynaklık)
-	içsel değer..
-	döngüsellik
-	korelasyonu az şirketlerle çeşitlendirmek
-		us etf, bist100, eurobond, fon, gold, kripto, kira geliri..
-	stick prices: zincirlenmiş fiyat oynamaları - içsel değer ve korrelasyon
-	trend değişimi
-	belirsizlik
-	bu yüzen uzun dönem yapılmalı
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# İş döngüleri ve Likitide
-	Business Cycle
-	ne zaman hangi varlıklara girmek ve çıkmak
-	ISM - 50 altında işler kötü - 4 yıl sürer
-		işler güzelse para bollaşır..
-
-https://youtu.be/dwhak83ONR0?si=vGUFFAoQBPcZNets
-https://youtu.be/0BZz9SFTdvo?si=hCPJlSHOJ5cfgVmp
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-hang seng index - china stocks
-
-sector rotation - sektör döngüsü
-utility - kamu hizmetleri
-bench marketing
-valor yok - para boşta duracağına para piyasasına koyulur
-
-tracking system - takip sistemi 
-
-# işten çıkış prosedürü
-  çıkacağını söyleme, diğer iş net değilse dillendirme.
-  gel bi konuşalım demek işe aldım demek değil
-  patron egosu ve maliyeti düşürmek için erken çıkış verir.
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Deutsche Bank
-TCMB - ilk önce %45 faiz
-Türkiye 2024 son çeyrekte %25 faiz indirecek, millet de borsaya koşacak...
-yirmi puan faizler inecek diyor...
-
-yabancı buna gelir ama londra piyasasından bi likitideye sahip olmam lazım - swap kanalları piyasası açılması lazım... ama insanlar banklar yoluyla 29dana lirayı açığa satarlar diye açılmıyor.. swap, tamamen kkm ile bağlantılı...
-
-ICICI
-Reliance
-Infosys
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-ışık ökte
-barış esen
-mete yüksel
-özgür yurtdaşseven
-nuri sevgen
-
-
-HALKA ARZ FURYASI
-legal kitle fonlaması
-çin, mısır, kore, brezilya,
-halka arz furyasının kralı oldu buralarda
-
-pandeminin başında başlamışlar vole oldular...
-2020 sonu 21 başı doğru zamanda
-
-2008 lehmann krizi dolar bazından %300 verdi bankacılık endeksi
-
-xHARZ
-XBANK
-
-turk şirketlerinin eurobondları artıyor...
-
-laf satacak iş bul...
-cost of business
-
-xtx markets - alex gerko
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-OYAKC - TAYLANDLILARA SATILDI
-ÇİMENTO UZUN VADE İÇİN İDEAL
-
-çarpanı pahalı şirketten uzak dur zehirli
-astor - 81 cvarı toplanır.. gesandan yüksek çarpan
-gesan - iyi bölge de alınabilir..
-alfas - fiyatlanmış
-kords - iyi.... 66liradan risk alınabilir..
-
-bakır işinde - sarky, megam
-kmpur - ederinin üzerinde
-
-vakko - alınır beğenilen hisse fiyatını bekle..
-froto - çök izle atıl....
-1200liradan 600e düşecek nerdeyse
-726 bölgesi
-
-ttraktör - bekle çök gelecek gibi
-enerjisa - yatay
-DOAS- ucuz fiyatlamış fk3 fazla düşmez... fk1e düşse bi de üste temettü verse fiyatı daha da yarıya iner bu yüzden kolay düşmez....
-ISMEN - 200 günlük hareketli aşağına düşerse sıkma bölgesi
-
-halka açıklık düşük ise volatil. <30 daha sağlıklı....
-
-christmas günü bofa biste girmez, bist düşer - yabancı yok çünkü.
-
-tcell - enf düşerken alınır
-
-ASTOR - enerji
-SMRTG - enerji - şu sıra borç sıkıntısında...
-EREGL - demir-çelik
-YUNSA - tekstil
-TUKAS - gıda
-MPARK - sağlık
-DOAS - otomotiv
-ENJSA - elektrik üretim-dağıtım - Cari oran yok, çünkü stok yok
-ARDYZ - yazılım
-
-enerji depolayan şirketler - enerji teknolojileri
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Borçkolik
-tr yıllardır dövizsizlik problemi var
-devalüasyon olduğu için enflasyon oluyor, enflasyon olduğu için devalüasyon oluyor
-döviz borcu alınıyor, bi süre stabil, ama dış borç çoğalıyor,  sonra o borcu ödemeye kalktığımızda dövizsiz kalıyoruz tekrar.
-2002-2016ya kadar tr düşük enflasyon dönemi yaşandı. ama dış borçlar birikiyor...
-fiyat istikrarını temin ederken finansal istikrar aşağıya gidiyor
-kriz geçirmeden bu bağımlılıktan kurtulunamıyor..
-cari açık problemi çözülmeli ilk etapta - sıfır cari açık
-
-sanayiciye döviz lazım, tarıma o kadar lazım değil gibi
-döviz rantı - dövizi bulan ihya oluyor..
-
-Gastarbeiter...
-Özal - Sermaye hareketleri serbest bırak döviz gelir...
-serbest faiz	serbest döviz		tr şirketler battı
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# İhracat olmalı: ne bollaşırsa onun fiyatı düşer...
-japonya kendi parası en değersizken ihracata başlıyor.. böyle de olmalı ki dövizin fiyatı düşsün.. oyuna başlarken dayağı yemeye razı olacaksın...
-tr - biz borç dövizle dövizin fiyatını düşürüyoruz sonra o borcu ödemek için tekrarla dövizle borçlanıyoruz.
-
-Ege Cansen: https://youtu.be/Hk6Lmd8jjUQ?si=bL5US7uMt41lFTt-
-İhracatın %80i emektir.. Çin..
-	Çin tarımdaki boş iş gücünü sanayiye yönlendirdi...
-	Yaptıkları hesap: Emek İhracatı
-	İhracatı arttırmak demek ucuz emek demektir.. Geride kalan finansmanlar: kar, kira, faiz...
-	Unit Labor Cost: Birim Emek Girdisi (Birim işçisinin ücreti değil)
-			 Bir ürünün içindeki emek girdisi
-			 Almanya: işçi ücreti: 25euro per hour ama unit labor cost daha düşük... çünkü verimli
-			 İtalya: işçi ücreti: 15euro per hour
-	
-# Verimlilik / Productivity
-	Verimliliğin %90ı yatırım ve mühendisliktir...
-	Ama verimlilik artışı tirajla gelir.. yüksek sayıda üretimle gelen bişeydir. hemen verimli olalım diyemezsin..
-	yüksek adeti nasıl satarsın, bu noktada da ihracat için fiyatını düşük tutarsan satarsın...
-	How Productive is an Hour of Work?
-	- Daha az girdi ile daha çok çıktı:	iki kişi 10 ürün üretiyor. biri işten çıkıyor... bir kişi yine 10 ürün ya da fazlasını üretiyor
-	- Aynı girdi ile daha çok çıktı:	iki kişi artık 10 değil 20 ürün üretiyor...
-	Japonya da iki kişinin yapacağı işi 5 kişi yapar.... verimsizlik yapar..
-	bu teknolojinin gelişimiyle de ilgili yani tekniğin...
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# ÖNEMLİ: İthalat
-innovasyon rantı - trde para ithalattan kazanılır.
-	akıllı tüccarlar fuar dolaşır. sen icat etmezsin ama ithal edip satarsın...
-	Messe - Fuar (de)
-	Almanya fuar gezeceksin, Japonyaya gidip mağaza gezeceksin. hangi mallar daha çok gidiyor.
-	Amerika	:
-	Çin	:
-	Japonya	:	Japonların kuruşu yoktur...
-	İngiltere: Vape
-	Almanya	: Forklift
-
-	İthalatçılık dediğin şey de acentacılıktır. mümmessillik, genel temsilcilik, distribütörlük...
-		Bayilik al: marka var, ürün var, itibar var, tedarik var
-		büyüksen acenta ol, küçüksen bayi ol
-	Vehbi Koç: avrupadaki acentacılık işi bittiğini görüp, amerikaya gidiyor...
-	yabancılarla işbirliği yapmayan firmalar gelişemez
-		kurumsal yabancılarla işbirliği yolları
-			1. Know-How alabilirsin
-			2. Lisansiye olabilirsin: mcdonalds, coca cola, franchise
-			3. Onların alıcısı/satıcısı olabilirsin
-			4. Ortaklık kurabilirsin
-			5. mümessil/temsilcilik
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Risk Management
-risk almak
-cahil cesareti
-riski hesaplamak
-no all-in
-the worst case scenario? can you afford with worst case?
-riskleri dağıtmak - 
-tutumlu gittiğinde risk alma olanağın oluyor
-küçük küçük riskler ile başlanmalı
-kaybetmekle barışmak - hatalarınla barış
-limit belirlemek: nereye kadar kaybedebilirim
-
-# Useful Videos:
-Flutv: Hakan özerol
-https://youtu.be/MvFU6UuqmZ0?si=5p9V9nHgPsBxQ4EB
-https://youtu.be/gPkfx5yiRVM?si=4N6ResMs3f6nZWPe
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-tüm varlığını hisseye yatırma: şirketleri değil yatırım türünü çeşitlendir
-max %50 hissede olsun gersini dağıt
-altın almak..
-karı gördüğünde çek ya da temettülere çek
-trden evi borçla alıp, akabinde yurt dışına kaçacaksın...
-
-bütçe yap - maliyet yap
-kazanmak bilinçli bir eylemdir. şans olmaz
-kartallar kolayca bir araya gelmez
-even bad market timing trumps inertia
-
-yatirimnedir.com
-	yabancı oranı yüksek hisse iyi ama kork. yabancı kaçarsa hisse düşer...
-temettucu.com
-
-unicorn
-decacron	10milyar dolar ın üzerinde piyasa değeri
-ülkelere göre maliyetler değişeblir. her yer tr değil
-gelişmekte olan ğlkeler: tr gibi fırsat vardır... maaşlıysan zor ama
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Temel+Faaliyetler/Para+Politikasi/Merkez+Bankasi+Faiz+Oranlari/faiz-oranlari
-	faiz %10a indiğinde alabildiğin kadar borç alacaksın...
-	faiz oranlarının tarihçesi de gösteriyorki trde %10 iyi faiz...
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Central Banks - Interest and Inflation
 
 # FAİZ ORANI ARTIŞ VE AZALIŞ
@@ -749,52 +400,9 @@ Politik faiz, bankaların borç verme faiz oranlarına da etki eder ve genel ola
 Bu durum da kredi ve mevduat faizlerinde artışa neden olacaktır. --> SIRADAN VATANDAŞ ETKİSİ
 
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-YÜKSEK FAİZ
-Faiz artırımı yapıldığında "tüketim"/"toptan talep" azalır ancak tasarruflarda artış beklenir. Bu düşüş ile beraber enflasyon düşürülmeye çalışır
-                           Faiz oranlarındaki artış, "kredi maliyetlerinin"/"yatırım maliyetleri" artmasına..
-                              yatırımcıların ve işletmelerin harcamalarının azalmasına tasarrufun artışına neden olabilir..
-                              Tasarrufda artışın sonucu, kaynaklar artar ve yatırımlar için finansman bulmak yüksek faizler olduğu için kolay hale gelir. 
-                              Faiz artışı, borç verenlerin borç alanlara verdiği borçların faiz oranlarının artmasıdır.
-                           
-                           Talepte düşüş olunca "arz fiyatında düşüş" olur, 
-                                                 arzın kendisinde de düşüş gerçekleşir..
-                                                 bu şekilde de "arz ve talep dengesi" sağlanmaya çalışılır.
-                                                 arz düştükçe de ürün/hizmetin fiyatında artış olacaktır.
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-DÜŞÜK FAİZ
-
-Faizlerin düşmesi yatırımın artması, ekonomideki çarkların daha sağlıklı dönmesine neden olur. 
-
-Faiz düşüşü, kredi maliyetlerinin azalmasına, 
-Bununla birlikte, faiz düşüşü para biriminin değerini düşürebilir ve enflasyonu artırabilir. Çünkü ortada çok borç dolaşmaya başlar...
-
-Ekonomide faiz düşüşünün etkileri şunlar olabilir:
-
---> Kredi maliyetleri azalır: 
-Faiz oranları düştüğünde, kredi maliyetleri de azalır. 
-Bu durum, borç alanların daha az faiz ödemeleri gerektiği anlamına gelir. 
-Bu da yatırımcıların veya işletmelerin yeni yatırımlar yapmalarını daha cazip hale getirebilir. 
-Bu durum, ekonomik aktivitenin artmasına yardımcı olabilir.
-
---> Tüketici harcamaları artar: 
-Faiz oranlarındaki düşüş, tüketici harcamalarını artırabilir. 
-Daha düşük faiz oranları, kredi alarak mal ve hizmetler satın almayı daha uygun hale getirir. 
-Bu durum, ekonomik büyümeyi teşvik edebilir.
-
---> İşletme yatırımları artabilir: 
-Faiz oranlarındaki düşüş, işletmelerin yatırım yapma niyetlerini artırabilir. 
-Daha düşük maliyetlerle kredi alarak, işletmeler yeni projeler başlatabilir veya mevcut işlerini genişletebilir. 
-Bu da ekonomik büyümeye katkıda bulunabilir.
-
---> Döviz kurları etkilenebilir: 
-Faiz oranlarındaki düşüş, bir ülkenin para birimine olan talebi azaltabilir. 
-Bu durum, para biriminin değerinin düşmesine neden olabilir. 
-Düşük faiz oranları aynı zamanda, para birimine olan talebi artırabilir ve para biriminin değerinin yükselmesine neden olabilir.
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 INTEREST / INFLATION
 
 # Merkez Bankası Silahları/Araçları:
@@ -987,10 +595,399 @@ bu nedenle iktisatçılar olayları anlaşılabilir tarzda anlatabilmek için he
 
 
 
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# STOCKS and STRATEGIES
+
+# Tactic
+if			do
+viop short (sell)	spot no buy		
+	spotta alış olmadığı için vioptaki pozisyondan para kazanmaya devam ediyorsun
+	spottan alsan borsa yükselecek çünkü, viop da yükselecek vioptaki pozisyonun zarar edecek
+if			do
+viop long (buy)		spot - piyasa yükselecek beklentisinde
+	eğilimin/trendin yönü hakkında net bilgi veriliyor
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# First 100K
+https://youtu.be/FHOZwvMLu4g?si=D5lJHw-Gn5hQ8Xei
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Millionaire System (Yöntem/Method)
+https://www.thecalculatorsite.com/finance/calculators/compoundinterestcalculator.php
+bileşik faiz formülü
+
+1. safha: pasif gelir
+	Wage			17.000		Getiri
+	PPF (Investment)	10.000		400*12		7.000
+	1st year	120.000					84.000	94.000
+	2nd year	240.000
+	3rd year	360.000
+	4th year	480.000
+	5th year	500.000
+	Total	
+her ay 7.000 atarsan 5 seneye milyonersin
+	5 yıl sonunda belki 2milyonun 700bin olacak ama ne kaybedeceksin ppf'de
+
+2. safha: kaldıraçlı yatırım..		yarı aktif gelir
+	biriktirdiğin parayla konut alınır.. 0.90 yüzde krediler çıktığında ev fiyatları da fırlayacak..
+	hisselere gir... temettüler de akacak.. ya da hisse 5-6x olursa kapat...
+	altına gir..
+
+3. safha: gerçek zenginlik. büyümeyle başlar...
+	insan çalıştıracaksın: en zor iş
+	şube açacaksın
+	işi bilen kişileri işe almak
+	restaurant yemek yapmayaı bilmezsin ama aşçı çalıştırıcaksın...
+	iş büyümüyorsa en iyi ihtimalle orda kalır, ya da ölür...
+	yeteneğine göre iş kurabilirsin de
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Borsada
+	erken satmak yapabileceğin en büyük hata...
+	alış majını düşünüyorsun satış marjını da 2x düşenmen lazım
+
+	zamanlamaya çalışmak
+		düştü alayım daha da düşecek daha da alsam... keşke almasaydım	darbe yiye yie alışıyorsun sarediyorsun.
+			
+		yükseldi satayım daha da yükselecek keşke satmasaydım
+		zarar da oturmasını bil... kardaysan bile oyunun içinde kalmaya çalış.. çok oynaşma
+
+	yeterince çeşitlendirmemek
+
+	trading yapma:
+		kırmızı bir denizde köpek balığına yem olmak...
+		mavi deniz:
+
+	ne aldığının farkında olmamak
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+güçlü lira trye sermaye akışını azaltıyor...
+	yatırım için kimse gelmiyor
+	sadece carry trade için geliyorlar - tefeci faizi için
+
+	yabancı yatırımcı kur fırladığında gelir, o noktada borsa fırlayacak
+	olmazsa tahvil daha tatlı geliyor
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+1 milyon olsa
+	%40 nakitte kalır para piyasası fonuna konur: fırsat kollanır
+	geri çekilmelerde pozisyon toplarsın
+	%10-15 - sadece altın değil, kıymetli metal: gümüş gibi
+	%10 - fon sepeti yapmak
+	%30 - bist
+	%- cryptos
+	düşen piyasada ayı piyasasında topla... yükselen trend türk için candır, sen böyle olma sakın
+	borsa: sabırsızların parasının sabırlıların eline geçtiği yer.
+
+black swan geldiğinde yapılacaklar:
+	kriz fırsattır
+	en yüksek riski black swanda alınır: covid dönemi
+	usdeki resesyon buhrana dönerse, likitide sıkışıklığı nedeniyle blackswan olur...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Sepet
+  Çoktan çok gider..
+  Para yağız at gibi, çıkması kolay, üstünde durması zor
+
+
+inflation      wage      spends
+              monthly
+              yearly
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Links:
+https://www.lattedenborsaya.com/
+https://youtu.be/rZi7l4H6hOY?si=UFxn8B1_rDmJH7oF	About Fire
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+çarşamba satış günü
+tüpras ve brent petrol ilişkisi... düşerse düşer
+
+fon sepeti şemsiye fonu... kardan %10 stopaj vergisi yok...
+  tcd, gmr, mac -- uzun vadeli..
+  ytd, aes, tge, ojt, oil, otj
+
+3000 mağazan varsa ayda 70 şube açarsın - migros bileşik getiri örneği
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+https://youtu.be/Cr2j0Z7055Y?si=YOfaPU9oiV_pAayl
+Volatility (oynaklık)
+	içsel değer..
+	döngüsellik
+	korelasyonu az şirketlerle çeşitlendirmek
+		us etf, bist100, eurobond, fon, gold, kripto, kira geliri..
+	stick prices: zincirlenmiş fiyat oynamaları - içsel değer ve korrelasyon
+	trend değişimi
+	belirsizlik
+	bu yüzen uzun dönem yapılmalı
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# İş döngüleri ve Likitide
+	Business Cycle
+	ne zaman hangi varlıklara girmek ve çıkmak
+	ISM - 50 altında işler kötü - 4 yıl sürer
+		işler güzelse para bollaşır..
+
+https://youtu.be/dwhak83ONR0?si=vGUFFAoQBPcZNets
+https://youtu.be/0BZz9SFTdvo?si=hCPJlSHOJ5cfgVmp
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+hang seng index - china stocks
+
+sector rotation - sektör döngüsü
+utility - kamu hizmetleri
+bench marketing
+valor yok - para boşta duracağına para piyasasına koyulur
+
+tracking system - takip sistemi 
+
+# işten çıkış prosedürü
+  çıkacağını söyleme, diğer iş net değilse dillendirme.
+  gel bi konuşalım demek işe aldım demek değil
+  patron egosu ve maliyeti düşürmek için erken çıkış verir.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Deutsche Bank
+TCMB - ilk önce %45 faiz
+Türkiye 2024 son çeyrekte %25 faiz indirecek, millet de borsaya koşacak...
+yirmi puan faizler inecek diyor...
+
+yabancı buna gelir ama londra piyasasından bi likitideye sahip olmam lazım - swap kanalları piyasası açılması lazım... ama insanlar banklar yoluyla 29dana lirayı açığa satarlar diye açılmıyor.. swap, tamamen kkm ile bağlantılı...
+
+ICICI
+Reliance
+Infosys
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Borsa İstanbul
+
+# Yorum
+Beklentiler alınır gerçekleşenler satılır, tersi de mümkün
+	kötü beklentiler satılır, kötü gerçekleşenler alınır
+büyüme yavaşlaması, faizlerin yüksekliği, bilançolar kötü, enflasyon etkisi...
+
+
+# yükselirse ne yapacaksın
+maliyet sıfırlamak (finansta böyle bişey yok - ama psikolojik olarak ideal)
+	hisse fiyatı 1 lira ben de 10 lira koydum..
+	hisse yükseldiğinde mesela 10x yaptığında koyduğun o 10 lirayı geri çekiyorsun.. içerde hiç paran kalmadığını düşünüyorsun
+	bunu biraz daha analiz et, mantıksız noktalar var.. gibi
+
+aşağıya doğru maliyet yapmak
+en dipte yakalamak için elinde tutup aşağıya ortalama yapmayı göze almak lazım.... ama RSI ve geçmiş düşüşleri takip et
+
+
+paranın zaman değeri
+dollar cost average 
+
+bankrun...
+
+ROI - Return of Investment
+ROE - Return of Equity
+
+
+
+
+ışık ökte
+barış esen
+mete yüksel
+özgür yurtdaşseven
+nuri sevgen
+
+
+HALKA ARZ FURYASI
+legal kitle fonlaması
+çin, mısır, kore, brezilya,
+halka arz furyasının kralı oldu buralarda
+
+pandeminin başında başlamışlar vole oldular...
+2020 sonu 21 başı doğru zamanda
+
+2008 lehmann krizi dolar bazından %300 verdi bankacılık endeksi
+
+xHARZ
+XBANK
+
+turk şirketlerinin eurobondları artıyor...
+
+laf satacak iş bul...
+cost of business
+
+xtx markets - alex gerko
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+OYAKC - TAYLANDLILARA SATILDI
+ÇİMENTO UZUN VADE İÇİN İDEAL
+
+çarpanı pahalı şirketten uzak dur zehirli
+astor - 81 cvarı toplanır.. gesandan yüksek çarpan
+gesan - iyi bölge de alınabilir..
+alfas - fiyatlanmış
+kords - iyi.... 66liradan risk alınabilir..
+
+bakır işinde - sarky, megam
+kmpur - ederinin üzerinde
+
+vakko - alınır beğenilen hisse fiyatını bekle..
+froto - çök izle atıl....
+1200liradan 600e düşecek nerdeyse
+726 bölgesi
+
+ttraktör - bekle çök gelecek gibi
+enerjisa - yatay
+DOAS- ucuz fiyatlamış fk3 fazla düşmez... fk1e düşse bi de üste temettü verse fiyatı daha da yarıya iner bu yüzden kolay düşmez....
+ISMEN - 200 günlük hareketli aşağına düşerse sıkma bölgesi
+
+halka açıklık düşük ise volatil. <30 daha sağlıklı....
+
+christmas günü bofa biste girmez, bist düşer - yabancı yok çünkü.
+
+tcell - enf düşerken alınır
+
+ASTOR - enerji
+SMRTG - enerji - şu sıra borç sıkıntısında...
+EREGL - demir-çelik
+YUNSA - tekstil
+TUKAS - gıda
+MPARK - sağlık
+DOAS - otomotiv
+ENJSA - elektrik üretim-dağıtım - Cari oran yok, çünkü stok yok
+ARDYZ - yazılım
+
+enerji depolayan şirketler - enerji teknolojileri
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Borçkolik
+tr yıllardır dövizsizlik problemi var
+devalüasyon olduğu için enflasyon oluyor, enflasyon olduğu için devalüasyon oluyor
+döviz borcu alınıyor, bi süre stabil, ama dış borç çoğalıyor,  sonra o borcu ödemeye kalktığımızda dövizsiz kalıyoruz tekrar.
+2002-2016ya kadar tr düşük enflasyon dönemi yaşandı. ama dış borçlar birikiyor...
+fiyat istikrarını temin ederken finansal istikrar aşağıya gidiyor
+kriz geçirmeden bu bağımlılıktan kurtulunamıyor..
+cari açık problemi çözülmeli ilk etapta - sıfır cari açık
+
+sanayiciye döviz lazım, tarıma o kadar lazım değil gibi
+döviz rantı - dövizi bulan ihya oluyor..
+
+Gastarbeiter...
+Özal - Sermaye hareketleri serbest bırak döviz gelir...
+serbest faiz	serbest döviz		tr şirketler battı
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# İhracat olmalı: ne bollaşırsa onun fiyatı düşer...
+japonya kendi parası en değersizken ihracata başlıyor.. böyle de olmalı ki dövizin fiyatı düşsün.. oyuna başlarken dayağı yemeye razı olacaksın...
+tr - biz borç dövizle dövizin fiyatını düşürüyoruz sonra o borcu ödemek için tekrarla dövizle borçlanıyoruz.
+
+Ege Cansen: https://youtu.be/Hk6Lmd8jjUQ?si=bL5US7uMt41lFTt-
+İhracatın %80i emektir.. Çin..
+	Çin tarımdaki boş iş gücünü sanayiye yönlendirdi...
+	Yaptıkları hesap: Emek İhracatı
+	İhracatı arttırmak demek ucuz emek demektir.. Geride kalan finansmanlar: kar, kira, faiz...
+	Unit Labor Cost: Birim Emek Girdisi (Birim işçisinin ücreti değil)
+			 Bir ürünün içindeki emek girdisi
+			 Almanya: işçi ücreti: 25euro per hour ama unit labor cost daha düşük... çünkü verimli
+			 İtalya: işçi ücreti: 15euro per hour
+	
+# Verimlilik / Productivity
+	Verimliliğin %90ı yatırım ve mühendisliktir...
+	Ama verimlilik artışı tirajla gelir.. yüksek sayıda üretimle gelen bişeydir. hemen verimli olalım diyemezsin..
+	yüksek adeti nasıl satarsın, bu noktada da ihracat için fiyatını düşük tutarsan satarsın...
+	How Productive is an Hour of Work?
+	- Daha az girdi ile daha çok çıktı:	iki kişi 10 ürün üretiyor. biri işten çıkıyor... bir kişi yine 10 ürün ya da fazlasını üretiyor
+	- Aynı girdi ile daha çok çıktı:	iki kişi artık 10 değil 20 ürün üretiyor...
+	Japonya da iki kişinin yapacağı işi 5 kişi yapar.... verimsizlik yapar..
+	bu teknolojinin gelişimiyle de ilgili yani tekniğin...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# ÖNEMLİ: İthalat
+innovasyon rantı - trde para ithalattan kazanılır.
+	akıllı tüccarlar fuar dolaşır. sen icat etmezsin ama ithal edip satarsın...
+	Messe - Fuar (de)
+	Almanya fuar gezeceksin, Japonyaya gidip mağaza gezeceksin. hangi mallar daha çok gidiyor.
+	Amerika	:
+	Çin	:
+	Japonya	:	Japonların kuruşu yoktur...
+	İngiltere: Vape
+	Almanya	: Forklift
+
+	İthalatçılık dediğin şey de acentacılıktır. mümmessillik, genel temsilcilik, distribütörlük...
+		Bayilik al: marka var, ürün var, itibar var, tedarik var
+		büyüksen acenta ol, küçüksen bayi ol
+	Vehbi Koç: avrupadaki acentacılık işi bittiğini görüp, amerikaya gidiyor...
+	yabancılarla işbirliği yapmayan firmalar gelişemez
+		kurumsal yabancılarla işbirliği yolları
+			1. Know-How alabilirsin
+			2. Lisansiye olabilirsin: mcdonalds, coca cola, franchise
+			3. Onların alıcısı/satıcısı olabilirsin
+			4. Ortaklık kurabilirsin
+			5. mümessil/temsilcilik
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Risk Management
+risk almak
+cahil cesareti
+riski hesaplamak
+no all-in
+the worst case scenario? can you afford with worst case?
+riskleri dağıtmak - 
+tutumlu gittiğinde risk alma olanağın oluyor
+küçük küçük riskler ile başlanmalı
+kaybetmekle barışmak - hatalarınla barış
+limit belirlemek: nereye kadar kaybedebilirim
+
+# Useful Videos:
+Flutv: Hakan özerol
+https://youtu.be/MvFU6UuqmZ0?si=5p9V9nHgPsBxQ4EB
+https://youtu.be/gPkfx5yiRVM?si=4N6ResMs3f6nZWPe
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+tüm varlığını hisseye yatırma: şirketleri değil yatırım türünü çeşitlendir
+max %50 hissede olsun gersini dağıt
+altın almak..
+karı gördüğünde çek ya da temettülere çek
+trden evi borçla alıp, akabinde yurt dışına kaçacaksın...
+
+bütçe yap - maliyet yap
+kazanmak bilinçli bir eylemdir. şans olmaz
+kartallar kolayca bir araya gelmez
+even bad market timing trumps inertia
+
+yatirimnedir.com
+	yabancı oranı yüksek hisse iyi ama kork. yabancı kaçarsa hisse düşer...
+temettucu.com
+
+unicorn
+decacron	10milyar dolar ın üzerinde piyasa değeri
+ülkelere göre maliyetler değişeblir. her yer tr değil
+gelişmekte olan ğlkeler: tr gibi fırsat vardır... maaşlıysan zor ama
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Temel+Faaliyetler/Para+Politikasi/Merkez+Bankasi+Faiz+Oranlari/faiz-oranlari
+	faiz %10a indiğinde alabildiğin kadar borç alacaksın...
+	faiz oranlarının tarihçesi de gösteriyorki trde %10 iyi faiz...
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 dilution - rüçhan hakkı
-house money effect - yatirimcilarin borsadan kazandiklari parayla daha fazla risk almasi. 
-stagnation - ekonomik durgunluk
-faiz yüksek, işsizlik yüksek
 
 kapdaki şirketlerin muhasebe verileri - database kurmak - karışık tabloyu anlaşılır yapabilmek - veri görşelleştirme yolları - fintables - bist lisans bedelleri
 sermayeleri aslında emekleriydi bu yüzden seçilen sektör önemli.
@@ -1018,6 +1015,19 @@ ama mevduat faizinden memnun olmayanlar dövize yöneliyor... dolarizasyon....
 Case Study: oscar friseur in Side/Antalya
 ambigramania.com
 
+
+altınları fiziken ingiltere merkez bankasına koyayım senden dollar karşılığı kredi alacağım.. 
+
+hangi sektör gidecek ve bu sektörde hangi şirketin geleceği var...
+netflix ağı - ispanya la casa de papel üretip dünyaya satmak, almanya dark üretip trde satmak
+
+vatandaşı olmasan türkiye aslında çok komik bir ülke, çok eğlenceli
+
+6-7 senelik bir plan kurmalısın yatırımda- kimse o kadar kararlı doğmuyor. bir karakter inşa ediliyor
+ek işinin yanında kuryelik yapmak
+kendin rasyonel olurken müşterileri duygusal yap
+The Almanack Of Naval Ravikant: A Guide to Wealth and Happiness.pdf
+dollar bazlı getiri %7 amerikada. trde fonlar dolar bazlı %20 yapılabilir.
 
 
 
