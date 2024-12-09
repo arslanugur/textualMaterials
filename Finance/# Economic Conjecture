@@ -1,4 +1,4 @@
-
+Vatandaşı olmasan türkiye aslında çok komik bir ülke, çok eğlenceli...
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Economic Indicators (Ekonomik Göstergeler)
@@ -18,6 +18,14 @@ https://evds2.tcmb.gov.tr/index.php?/evds/dashboard/7413
 https://enagrup.org/
 https://data.tuik.gov.tr/Bulten/Index?p=%C4%B0%C5%9Fg%C3%BCc%C3%BC-%C4%B0statistikleri-Eyl%C3%BCl-2024-53515&dil=1
 https://tr.tradingeconomics.com/turkey/unemployment-rate
+
+
+# Compound Interest
+https://www.investor.gov/
+https://data.bls.gov/cgi-bin/cpicalc.pl?cost1=1000000&year1=199410&year2=202410
+
+# rewatch
+https://www.youtube.com/live/qvonSYkayws?si=5fAFCHcIGlSaBVkO
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 											Talepte düşüş olunca "arz fiyatında düşüş" olur, 
@@ -115,7 +123,8 @@ https://markets.ft.com/data/world
 https://markets.ft.com/data/world/countries/netherlands
 https://www.boerse-frankfurt.de/equities
 https://www.hesaplama.net/
-https://youtu.be/tAXpjqc_z6c?si=cS4ytegWl6c43eib
+
+Flutv: https://youtu.be/tAXpjqc_z6c?si=cS4ytegWl6c43eib
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Krizin işaretleri
@@ -129,6 +138,8 @@ sonrasında gelenler
 -fiyatlara zamlar gelir (satın alma gücü azalır)
 -borsadan yabancılar çıkar
 -piyasalar ve sektörler tıkanır
+
+
 
 
 # 01. geçici refah yaratmak
@@ -233,20 +244,6 @@ süre alacak etkisini göremezsin hemen
 https://tr.tradingview.com/chart/J2seMRXg/?symbol=ECONOMICS%3ATRM3
 https://tr.tradingeconomics.com/turkey/money-supply-m3
 https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# ÖNEMLİ
-# RALLY METRE (BIST'de rally olabilmesi için) 
-	1. +150Billion lira hacim lazım
-	2. VIOP kontratlarında düzelme: endeks bazlı short kontratlar azalmalı...şu an 200bin short kontrat var iş yatırımda
-		matriksIQ: alım-satım yapanlar
-	3. Hisse fonlarına para girişi
-		https://fintables.com/fonlar/nakit-giris-cikisi
-	6. Faizlerin düşmesi
-	4. 9400 üzeri kapanışlar
-	5. Hisse haberleri
-		fintables: yeni iş ilişkileri
-		matriksIQ: alım-satım yapanlar
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -497,16 +494,6 @@ yıllık dolar bazlı büyüyen ülkelerin borsa indeksleri 5.00$ altında mı
 	cari açık - turizm ve ihracat ile gelişir
 	ithalatın %73 ile üretim yapıyoruz....
 
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# CDS nasıl belirlenir... neyle alakalı - 4 temel şey
-1. dünyadaki likitide (Küresel faiz oranları - FED tarafından belirlenir)
-     US Treasure (ABD Tahvil fiyatları)
-2. Dolar endeksi
-3. Dolar-Lira
-4. Kredi derecelendirme Kurumlarının notları:
-    Nota göre bizim tahvillerimiz değişik küresel endekslerde yer alıp almaması
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # FED & US
 fed faizi yükselttikça olan parayı americaya tekrar çeker...
@@ -594,26 +581,6 @@ iktisadi olaylar çok karmaşıktır. bunların bütün değişkenleriyle teori 
 bu nedenle iktisatçılar olayları anlaşılabilir tarzda anlatabilmek için her şeyin sabit bir tek unsurun değişken olduğunu kabul etmek durumundadırlar."
 
 
-
-
-
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# STOCKS and STRATEGIES
-
-# Tactic
-if			do
-viop short (sell)	spot no buy		
-	spotta alış olmadığı için vioptaki pozisyondan para kazanmaya devam ediyorsun
-	spottan alsan borsa yükselecek çünkü, viop da yükselecek vioptaki pozisyonun zarar edecek
-if			do
-viop long (buy)		spot - piyasa yükselecek beklentisinde
-	eğilimin/trendin yönü hakkında net bilgi veriliyor
-
-
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # First 100K
 https://youtu.be/FHOZwvMLu4g?si=D5lJHw-Gn5hQ8Xei
@@ -649,26 +616,6 @@ her ay 7.000 atarsan 5 seneye milyonersin
 	yeteneğine göre iş kurabilirsin de
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Borsada
-	erken satmak yapabileceğin en büyük hata...
-	alış majını düşünüyorsun satış marjını da 2x düşenmen lazım
-
-	zamanlamaya çalışmak
-		düştü alayım daha da düşecek daha da alsam... keşke almasaydım	darbe yiye yie alışıyorsun sarediyorsun.
-			
-		yükseldi satayım daha da yükselecek keşke satmasaydım
-		zarar da oturmasını bil... kardaysan bile oyunun içinde kalmaya çalış.. çok oynaşma
-
-	yeterince çeşitlendirmemek
-
-	trading yapma:
-		kırmızı bir denizde köpek balığına yem olmak...
-		mavi deniz:
-
-	ne aldığının farkında olmamak
-
-
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 güçlü lira trye sermaye akışını azaltıyor...
@@ -677,8 +624,6 @@ güçlü lira trye sermaye akışını azaltıyor...
 
 	yabancı yatırımcı kur fırladığında gelir, o noktada borsa fırlayacak
 	olmazsa tahvil daha tatlı geliyor
-
-
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 1 milyon olsa
@@ -712,27 +657,6 @@ inflation      wage      spends
 https://www.lattedenborsaya.com/
 https://youtu.be/rZi7l4H6hOY?si=UFxn8B1_rDmJH7oF	About Fire
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-çarşamba satış günü
-tüpras ve brent petrol ilişkisi... düşerse düşer
-
-fon sepeti şemsiye fonu... kardan %10 stopaj vergisi yok...
-  tcd, gmr, mac -- uzun vadeli..
-  ytd, aes, tge, ojt, oil, otj
-
-3000 mağazan varsa ayda 70 şube açarsın - migros bileşik getiri örneği
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-https://youtu.be/Cr2j0Z7055Y?si=YOfaPU9oiV_pAayl
-Volatility (oynaklık)
-	içsel değer..
-	döngüsellik
-	korelasyonu az şirketlerle çeşitlendirmek
-		us etf, bist100, eurobond, fon, gold, kripto, kira geliri..
-	stick prices: zincirlenmiş fiyat oynamaları - içsel değer ve korrelasyon
-	trend değişimi
-	belirsizlik
-	bu yüzen uzun dönem yapılmalı
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # İş döngüleri ve Likitide
@@ -772,108 +696,7 @@ ICICI
 Reliance
 Infosys
 
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-# Borsa İstanbul
-
-# Yorum
-Beklentiler alınır gerçekleşenler satılır, tersi de mümkün
-	kötü beklentiler satılır, kötü gerçekleşenler alınır
-büyüme yavaşlaması, faizlerin yüksekliği, bilançolar kötü, enflasyon etkisi...
-
-
-# yükselirse ne yapacaksın
-maliyet sıfırlamak (finansta böyle bişey yok - ama psikolojik olarak ideal)
-	hisse fiyatı 1 lira ben de 10 lira koydum..
-	hisse yükseldiğinde mesela 10x yaptığında koyduğun o 10 lirayı geri çekiyorsun.. içerde hiç paran kalmadığını düşünüyorsun
-	bunu biraz daha analiz et, mantıksız noktalar var.. gibi
-
-aşağıya doğru maliyet yapmak
-en dipte yakalamak için elinde tutup aşağıya ortalama yapmayı göze almak lazım.... ama RSI ve geçmiş düşüşleri takip et
-
-
-paranın zaman değeri
-dollar cost average 
-
-bankrun...
-
-ROI - Return of Investment
-ROE - Return of Equity
-
-
-
-
-ışık ökte
-barış esen
-mete yüksel
-özgür yurtdaşseven
-nuri sevgen
-
-
-HALKA ARZ FURYASI
-legal kitle fonlaması
-çin, mısır, kore, brezilya,
-halka arz furyasının kralı oldu buralarda
-
-pandeminin başında başlamışlar vole oldular...
-2020 sonu 21 başı doğru zamanda
-
-2008 lehmann krizi dolar bazından %300 verdi bankacılık endeksi
-
-xHARZ
-XBANK
-
-turk şirketlerinin eurobondları artıyor...
-
-laf satacak iş bul...
-cost of business
-
-xtx markets - alex gerko
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-OYAKC - TAYLANDLILARA SATILDI
-ÇİMENTO UZUN VADE İÇİN İDEAL
-
-çarpanı pahalı şirketten uzak dur zehirli
-astor - 81 cvarı toplanır.. gesandan yüksek çarpan
-gesan - iyi bölge de alınabilir..
-alfas - fiyatlanmış
-kords - iyi.... 66liradan risk alınabilir..
-
-bakır işinde - sarky, megam
-kmpur - ederinin üzerinde
-
-vakko - alınır beğenilen hisse fiyatını bekle..
-froto - çök izle atıl....
-1200liradan 600e düşecek nerdeyse
-726 bölgesi
-
-ttraktör - bekle çök gelecek gibi
-enerjisa - yatay
-DOAS- ucuz fiyatlamış fk3 fazla düşmez... fk1e düşse bi de üste temettü verse fiyatı daha da yarıya iner bu yüzden kolay düşmez....
-ISMEN - 200 günlük hareketli aşağına düşerse sıkma bölgesi
-
-halka açıklık düşük ise volatil. <30 daha sağlıklı....
-
-christmas günü bofa biste girmez, bist düşer - yabancı yok çünkü.
-
-tcell - enf düşerken alınır
-
-ASTOR - enerji
-SMRTG - enerji - şu sıra borç sıkıntısında...
-EREGL - demir-çelik
-YUNSA - tekstil
-TUKAS - gıda
-MPARK - sağlık
-DOAS - otomotiv
-ENJSA - elektrik üretim-dağıtım - Cari oran yok, çünkü stok yok
-ARDYZ - yazılım
-
-enerji depolayan şirketler - enerji teknolojileri
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Borçkolik
 tr yıllardır dövizsizlik problemi var
 devalüasyon olduğu için enflasyon oluyor, enflasyon olduğu için devalüasyon oluyor
@@ -983,16 +806,6 @@ https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Temel+Faaliyetler/P
 	faiz %10a indiğinde alabildiğin kadar borç alacaksın...
 	faiz oranlarının tarihçesi de gösteriyorki trde %10 iyi faiz...
 
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-
-dilution - rüçhan hakkı
-
-kapdaki şirketlerin muhasebe verileri - database kurmak - karışık tabloyu anlaşılır yapabilmek - veri görşelleştirme yolları - fintables - bist lisans bedelleri
-sermayeleri aslında emekleriydi bu yüzden seçilen sektör önemli.
-ya yatırımla büyümek yada özkaynakla büyümek
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Scenario
 merkez bankası faiz arttıdıkça
@@ -1015,13 +828,9 @@ ama mevduat faizinden memnun olmayanlar dövize yöneliyor... dolarizasyon....
 Case Study: oscar friseur in Side/Antalya
 ambigramania.com
 
-
-altınları fiziken ingiltere merkez bankasına koyayım senden dollar karşılığı kredi alacağım.. 
-
 hangi sektör gidecek ve bu sektörde hangi şirketin geleceği var...
 netflix ağı - ispanya la casa de papel üretip dünyaya satmak, almanya dark üretip trde satmak
 
-vatandaşı olmasan türkiye aslında çok komik bir ülke, çok eğlenceli
 
 6-7 senelik bir plan kurmalısın yatırımda- kimse o kadar kararlı doğmuyor. bir karakter inşa ediliyor
 ek işinin yanında kuryelik yapmak
