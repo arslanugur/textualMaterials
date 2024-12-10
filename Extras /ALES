@@ -2,16 +2,16 @@
 
 
 # Üniversitelerdeki akademik pozisyonlar/unvanlar
-                                            Lecture    Research    Book/Article/Presentation
-  Akademisyen                               v          v           v
-  Öğretim görevlisi                         v
-  Okutman
-  Araştırma görevlisi                       x          v           kadroya girmesi için 1 yıl çalışmalı
-  Yardımcı Doçent
-  Doçent                Öğretim Üyesi
-  Profesör              Öğretim Üyesi       v          v           v
-  Dekan
-  Rektör
+                                                                   Lecture    Research    Book/Article/Presentation
+                         Akademisyen                               v          v           v
+                         Öğretim görevlisi                         v
+                         Okutman
+                         Araştırma görevlisi                       x          v           kadroya girmesi için 1 yıl çalışmalı
+  Associate Professor    Yardımcı Doçent
+  Docent                 Doçent                Öğretim Üyesi
+  Professor              Profesör              Öğretim Üyesi       v          v           v
+  Dean                   Dekan
+  Rector                 Rektör
 
 35 yaşından sonra mesleğe gireceksen 
     araştırma görevlisi kadrosu yerine 
