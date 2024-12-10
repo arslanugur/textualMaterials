@@ -1,3 +1,15 @@
 # ALES
 
 
+# Üniversitelerdeki akademik pozisyonlar/unvanlar
+                                            Lecture    Research    Book/Article/Presentation
+  Akademisyen                               v          v           v
+  Öğretim görevlisi                         v
+  Okutman
+  Araştırma görevlisi                       x          v           kadroya girmesi için 1 yıl çalışmalı
+  Yardımcı Doçent
+  Doçent                Öğretim Üyesi
+  Profesör              Öğretim Üyesi       v          v           v
+  Dekan
+  Rektör
+
