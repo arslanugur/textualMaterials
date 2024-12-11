@@ -1,6 +1,626 @@
 # Technical Analysis # Fundamental Analysis
 # Investment Strategies
 
+
+# Valuation
+# Ev seçer gibi 1-2 ay doğru hisseyi ara...
+
+Akla kazınacak iki şey...
+- içsel değer
+- hisse fiyatı grafiği
+
+Düzeltilmiş hisse fiyatı - bedelsizler, temettüler düştüğünde..
+
+
+
+https://www.getmidas.com/midasin-kulaklari/ihracat-orani-en-yuksek-sirketler-p-18836
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Bora Özkent: https://youtu.be/FUpXgaZ5d0U?si=c4xA9JeUnXiT9ogU
+
+# Fiyat / Satış Ratio (Price/Sales)
+şirket satışları büyükse = büyüme şirketi 
+Satış tarafı şirketle ilgili en doğru tahminlerde bulunabilecek yer
+	Fiyat/Satış (F/S) Ratio
+	F: Son hisse senedi fiyatı	(piyasanın kararı)	bu noktada kontrolün yok...
+	S: Hisse senedi başına satışlar	(somut ve büyümeye bağlı)
+		yıllık ciro / kaç tane hisse senedi var = S
+ 
+  Fiyatı etkileyen faktörler                        Satışı etkileyen faktörler
+  - Büyüme hızı                                     - ürünler
+  - Karlılık artıyor mu                             - pazar
+  - Serbest Nakit Akış (para yaratıyor mu)          - marka
+  - Hype (Popülerlik)                               - tekrarlayan satışlar
+  - Sektör (değerlenmesinde önemli - dönemsellik)   - trendler
+  - Makro (resesyon, faiz oranları)                 - müşteri sadakati
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# VALUATION
+# Aswath Damodaran - Dark Side of Valuation
+                     The Valuing Young, Distressed, and Complex Businesses
+
+Normalde bir şirketin karı - fiyatının 10 katıdır.
+      20-25 ise aşırı fiyatlanmış..
+      yani 25 yıllık karına şirket alınmaz gibi
+
+PDDD - özvarlıklar 3.8 katından işlem görmesi..
+      varlığından borcunu çıkarırsın.. herşeyi: makinası, fabrikası şusu busu topla borcuna çıkar - özvarlıklar
+
+      böyle bir durumda şirketin özvarlık değeri 1 lira sen 3.8 katı ödüyorsun...
+
+            - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+            bu öyle bir durum ki bi kuruyemişçi satın alacaksın
+            kuruyemişçinin malı 50 lira, borcu 20 lira -  30 liranın 4 katını ödeyip devralmak gibi..
+            ödenmesi gereken para:
+                  size aylık ne kadar getirecek: 20 lira ciro
+                  o borcu kendi satıldıkça öder. 20 lira ciro, 4 lira para kalıyor. %20 kar
+
+                  4bin lira kaç yıllık karına alırsın.
+                  4*12=48lira adam bu fiyata devretmez. çünkü bir yılda çıkarırsın parasını 
+                  adam sana diyebilir: en az 5-6 yıl karına satarım der...
+                  çünkü zamanla insanlar artar, gelenler artar o muhitte 20 değil belki 25 lira ciro yapacaksın aylık vs
+                  sen diyorsun ben buraya şu çerezi getiririm dükkanı genişletirim vs daha çok yatırım yapacaksın
+                  bunların sonucunda 350-400 lira ver diyebilir...
+                  8-10 yıllık karına satın alabilirsin...
+            - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+            Neye bakılır:
+                  Şirket Sermayesi:           1.000.000.000
+                  şirket değeri (pd):         40.000.000.000      yani sermayesinin 40 katından işlem görüyor....
+                  şirket özsermayesi/varlık:  4.442.683.000       herşeyi satınca kalan para özvarlık...
+                  defter değeri:              4.44                değeri bu
+                  şirket fiyatı:              40.12               ama ödediğin bu... 9 katı  
+                  pddd:                       9.03                öz varlığının 9 katı işlem görüyor..
+                  
+                  PDDD - x kadar önden fiyatlamış (ederinden fazla) demektir..
+                  pddd = Yani Özsermeyesi'nin X katına piyasa da satılıyor.
+
+
+
+                  Özsermaye ---> bu şirketin bütün varlığını herşeyini satsan; bilançoa yazılı değerlerden paraya çevirsen ve arkasından da tüm borçlarını ödersen kalacak para
+                      Özkaynak Karlılığı (%) - Şirketin ürettiği karlılık. Sektörü içinde kıyaslanabilir
+
+                  peki kaç para ödüyorsun buna şu an... 40.000.000.000 (pd)
+                  yani 9 katı ----> bunun diğer formülü: pd/dd: 9.03
+
+                  pd / özsermaye = pddd = 9.03
+
+
+                                Bilanço
+                  -------------------------------------
+                  tüm varlıklar   |  borçlar (kısa+uzun)
+                  alacaklar       |  
+                  makineler       |
+                  fabrika/arsa    |
+                  vs.                                           özvarlık
+                  500.000.000     -  300.000.000              = 200.000.000
+
+                  hisse fiyatı * sermaye = piyasa değeri     -> 200m'dan fazlaysa bak, neden?
+                                           400.000.000        pddd = piyasa değeri / özvarlıklar
+                                                              2.0 = 4M / 2M
+                                                              yani piyasa bu şirkete 2 katını ödüyor...
+                  pddd neden artar?
+                  1. hisse fiyatı artıyorsa/azalıyorsa pddd artar/azalır... piyasa pahalı bulursa talebi çeker hisse fiyatı düşer ve pddd düşer...
+                  2. ama hisse fiyatı değişmezken karları artıyorsa öz varlığı da artıyordur.. pddd aşağı doğru gider...
+
+                  bir şirketin pddd, normalde özvarlık karlılığının 10 katı olması lazım
+                                      Dupont Analizi:
+                                        Özvarlık karlılığı: 16,18 --> bunun 10 katı 1.60 yapar... (%0.16 * 1.6 = 1.60 yapar.)
+                                        pddd=1.80 demek ki özvarlık karlılığına göre yüksek gözüküyor..
+                                        tabi elimizdeki veriler hep böyle devam ederse pahalı ama şirket büyüyecek...
+
+                                        yine de şirket olması gereken fiyatta...
+                                        piyasa, şu anki pddd bakar ama değerlemeyi yaparken şirketin geleceğini satın alır...
+                                            şirketin gelecek yıl ne kadar kar edeceğini bilmen lazım
+                                            bu karın kaç katı oluru tahmin etmemiz lazım...
+                                            yani bir nevi pddd tahmini
+                                            ve bu karı şuanki özvarlığa eklersek yeni özvarlık rakamı kaç oluyor...
+                                            özvarlık çok artar, fiyatta bu noktada kalırsa pddd düşebilir...
+                  https://www.youtube.com/watch?v=d9lJ2thfevM
+            
+
+            Yani eğer 10 katını ödüyorsan burda pddd= 9.03
+            ya da karın 32.51 katını ödüyorsan  fk=32.41
+            bu şirkette öyle birşey olmalı ki öyle inanmalısın ki gelecek yıllarda bunun karı büyüyecek ama yüzde kaç büyüyecek...
+                  karı her yıl %32 büyüyeceğini bekliyor fk...
+            her yıl şirketin karı %32 büyürse bu fiyat normal bir fiyat.... fk bunu gösterir..
+
+            peki bu şirketin karı her yıl %32 büyüyebilir mi
+
+
+Şirketlerin "Esas Faaliyet Karlarında büyüme" var mı dönemlere göre analiz et...
+
+https://www.bilgeyatirimci.com/i/borsada-bir-sirketin-analizi-ve-cikarilacak-dersler/
+
+
+
+# https://www.youtube.com/watch?v=4DOby5w9jgs&t=1332
+Tüyo: Son 2-3 aydır "pddd oranı" daha önceki zirvelerin üzerine çıkmış şirketlere bak. Onun faaliye raporunu oku... bir hikaye var...
+      ama pdd teknolojik şirketlerde uymuyor. çünkü varlıklrını belirleyemiyorsun sadece kod işi sonuçta...  intangible assets...
+      pddd - bankalar için ideal çünkü bankaların karı, büyük bölümü kendi sermayesinden gelir...
+Tüyo: Ortalama Fksının altına düştü diye bir şirket alınmaz...
+        belki de ilerde karları çok düşeceği için piyasa satıyordur... faaliyet raporundaki satış karlılığına bakılmalı
+
+
+# Kütahya Porselen aldatmacası:
+    Adamın biri kütaya porseleni arayıp iki kamyon porselen siparişi vermek istediğini söyler.
+    telefondaki de 6 ay beklemeniz lazım sıra veremeyiz siparişlerimiz çok der. 
+    bunu duyan adam parayı kütahya porselene basar. 9 ayda 6x kazanır...
+
+# Kızılderili, Odun - Meteroloji Tahmini...
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - <
+
+# Hisse Analizi
+Balık Tutmak Nasıl olur?
+
+https://borfin.com/tr/courses/2299/hisse-secimi-analiz
+
+
+NOTES:
+Fiili Dolaşım Oranı (Halka Açıklık) - Yüksekse, Patron yetkiyi kendisine, sorumluluğu yatırımcılara kitlemesine yarar. Düşükse, Kolay Manipüle edilir (QNB gibi)
+F/K - Rakip analizine göre düşün - Ağırlıklı ortalamalara bakılır. Aritmetik değil.. Sektörüne göre şirketlere F/K kıyaslaması yapılır.
+Beta: endeks yukarı/aşağı gittiğine etkilenme oranı
+
+
+# https://www.youtube.com/watch?v=uhSgtzrkruM
+Kriz ortamında 
+          elinde bol nakti olan şirketler sağ çıkar... çünkü daralma gelir... hızlı toparlayıp çıkıyorlar.
+                  likitide oranı: yüksek olan şirketler...
+                  cari oranı: yüksek olan şirketler: daha çok elinde nakit/nakte dönüştürebilcek varlık bulunduran şirketler
+                  nakit oranı:
+            elinde döviz varlığı yüksek şirketler getirisi iyi.  
+                  ihracatı güçlü firmalar ve ithalat girdisi de düşük olmalı - yerel malı hizmeti ihraç etmek...
+            perakende şirketleri: bimas
+
+yıllık getiri ortalaması= ?
+standart sapma = stdsapma.p(f2:j2)        spec/manip olanlarda yüksek çıkar
+sharp = getiri ortalaması / standard sapma
+
+
+
+https://www.youtube.com/watch?v=d0EBO-vs0GM
+
+halka arzda, fiyat tespit raporunda yazılanlarla açıladıkları paralel olan şirketler. yoksa fiyatı yüksek göstermek için rapor şişirilir..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+        2 years ago      now
+ISYAT  4*10.000 40.000   260.000
+
+bir ortalama ne kadar aşınırsa o kadar çalışmaz halde gelir.. Düşer.. Kırması lazım bir yerde alım gerek
+mal toplamak investment isteniyorsa endeks düzeltilmez ezilir kağıdı basarak toplanır.. yükseltilmez, iyice düşürülür am trade al-sat için gelen hedge fonlar umursamaz dalar.. 50den alır 51,25 olur okutur kaçar.
+bist 30 - defansif büyük hisseler yabancı ilk böyle başlar
+sığ tahta = small cap plansız alınmaz risk yönetimi. yoksa elde patlar. önce ana akım hisseler gider, sonra yeni yatırımcılarla small cap de yükselmeye başlar ama zaman alır
+
+Endeksin geldiği yer ile hisselrin geldiği yerde fark olabilir.
+  Endeks 5000 iken alark ne kadardı şimdi Endeks 8000 iken alark ne kadar?
+                   alarko 8000 endekste 5000 endeks fiyatı varsa ucuz olabilir.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Hacim-fiyat ilişkisi
+    3 parametreyi kontrol et...
+    - Fiyat grafiği (Düşüyor/Yükseliyor)
+    - Hacim (Düşüyor(Daralıyor)/Yükseliyor(Açılıyor))
+    - RSI (Düşüyor/Yükseliyor)
+
+    Hacim fiyattan önce gelir! (Düşük Spread)
+    RSI düşüşü...  Alıcıların isteksiz olduğu bölge... Satıcılar da satmıyor..
+    Hisse dipte, RSI dipte.. hisse satışı azalmış olduğunu gösterir... fiyat, burdan çıkar diye düşünme RSI değerini kontrol et...
+    Spekülatif hisse nasıl ayırt edilir...
+        Fiyat yükselmeye devam eder ama hacim düşmeye doğru gider... bu noktada karını al çık....
+    RSI değeri <30 -> düşüş    = aşırı satım (oversold) bölgesi
+               >70 -> yükseliş = aşırı alım (overbought) bölgesi
+
+    Fiyat yükselişi ne kadar uzun olursa, düşüşü/düzeltmesi o kadar uzun olur.. yatay ya da düşey ilerler..
+
+
+Sektördeki hisseleri incele...
+  Hepsi benzer grafiği yapmış mı yani para girişi/çıkışı.. grafikler birbirine benzeyebilir...
+  RSI ve hacimler dip yani yüksek olabilir... sektörel olarak hisselerde benzer durumlar olabilir...
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Özsermaye
+özsermaye = tüm varlıklar - tüm yükümlülükler
+
+
+Örn: SISE
+      Özsermaye: 93.967.108.000          özsermaye = Özkaynaklar
+          şirketin tüm varlıkların tüm borçları çıkarıldığı zaman kalan özkaynak..
+
+      Sermaye: 3.063.214.056      sermaye = lot sayısı = shares
+
+      özsermaye / sermaye = defter değeri
+      93.967.108.000 / 3.063.214.056 = 30.68
+      SISE güncel hisse fiyatı ise şu an 46.38
+      piyasa değeri = şirketin bir hissesinin fiyatı
+      46.38 / 30.68 = PDDD = 1.51        şirket defter değerinin 1.51 katına satılıyor...
+      piyasa değeri bazen altta bazen üstte.. beklenti ise --> defter değerinin büyüme beklentisi
+      özsermayesini arttıracak bir şirket piyasada o kadar talep görür. pahalıya satılır
+
+
+# Defter değeri
+defter değeri = 1 adet hissenin özsermayesi
+    defter değer bilinmesi için ödenmiş sermaye bilinmeli
+
+
+# Bilanço eşitliği
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+                         |  kısa vade yükümlülükler (borçlar)
+duran varlıklar          |  ÖZSERMAYE
+                         |    ödenmiş sermaye
+                         |    geçmiş dönem karları
+                         |    yeniden değerlendirme karları
+
+toplam her zaman eşit olmalı...
+borç aldın mesela aktif dönene nakit girer
+nakiti aldın makine satın aldın duran varlıklar
+gittin borcu ödedin, borç azalır, nakit de azalır...
+Özsermaye, bilançoda kolay kolay değişmez... bu yüzden önemli... fk yanıltabilir, favök yanıltabilir, pd favök yanıltabilir.. şirket zarardadır fk eksiye düşer...
+ÖZSERMAYEyi değiştirmek için 
+        ya ödenmiş sermaye değişecek
+        ya geçmiş dönem karları
+        ya yeniden değerlendirme karları yazacaksın
+Şirket kar etmediği sürece, öz sermayesi değişmez...
+Şirket zarar ettiğindeyse, özsermaye negatif değişir, erir.
+
+
+Örnek:
+    8000 kendi paran
+    2000 ortak parası  (1/5 ortağı)
+    toplam sermaye: 10000
+    ödenmiş sermaye: 10000 lira (10000 lot). lot başı 1 lira
+    12000 para lazım şirketi kurmak için..
+    2000 borç alındı...
+
+# bilançosu ise:
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+12000 nakti harcadık     |  kısa vade yükümlülükler (borçlar)
+                         |  (2000)
+stoklar                  |
+malzeme (5000)           |
+duran varlıklar          |  ÖZSERMAYE (10000) = (DD: 1)              defter değeri değiştikçe senin payında değerlenir...
+mallar alınır            |    ödenmiş sermaye = (10000)              alınan borç özsermayeye etki etmez, çünkü o parayı biz kendimiz koyduk...
+(7000)                   |    geçmiş dönem karları
+                         |    yeniden değerlendirme karları
+
+total: 12000                total: 12000
+yapılan aksiyonlar, şirketin değerlenmesini sağlar...
+
+
+1 yıl sonra
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+5000 nakit konuldu       |  kısa vade yükümlülükler (borçlar)
+                         |  (2000)
+stoklar                  |
+malzeme (5000)           |
+duran varlıklar          |  ÖZSERMAYE (15000) = (DD: 1,5)              defter değeri değişti, senin payında değerlenir...
+mallar alınır            |    ödenmiş sermaye = (10000)
+(7000)                   |    geçmiş dönem karları
+                         |    yeniden değerlendirme karları
+
+total: 17000                total: 17000
+
+borcu ödemek için nakit 5000-2000 = 3000            borcu dolar olarak aldıysan sıkıntı, dolar kuru zıplayabilir, üstüne bi de faiz gelebilir.... 
+bunu da hesaplarsak        5000-3300 = 1700               2000 sana 3000 bile olabilir...
+total: 17000                total: 17000
+şirket borç alınarak özsermaye değişmez ama borç bekledikçe faiz veya döviz sıkıntısına düşer bu da özsermayeyi etkiler...
+aktif aynı kalır ama özsermyeden yükümlülüklere çalışırız....
+                            3300 - yükümlülük olur
+                            özsermaye: 13700e düşer... dd:1.37
+total: 17000                total: 17000
+nakitle borç ödersek, özsermaye değişmez....
+total:15000                 total: 15000
+
+2.şube için 12000lira daha lazım....
+    ama bizdeki nakit 3000 şuan
+    9000 daha bulmamız gerek. borç aldık...
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+3000 nakit 12000e çıkar  |  kısa vade yükümlülükler (borçlar)
+borç eklendi             |  (9000)
+stoklar                  |
+malzeme (5000)           |                                             borç aldık yine ama
+duran varlıklar          |  ÖZSERMAYE (15000) = (DD: 1.5)              defter değeri değişmedi...
+mallar alınır            |    ödenmiş sermaye = (10000)
+(7000)                   |    geçmiş dönem karları
+                         |    yeniden değerlendirme karları
+
+total: 24000                total: 24000
+
+bu aşama sonrası....
+ikinci şube
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+nakit:0                  |  kısa vade yükümlülükler (borçlar)
+                         |  (9000)
+stoklar                  |
+malzeme (5000+5000)      |                                             ikinci şube kara geçti
+duran varlıklar          |  ÖZSERMAYE (15000) = (DD: 1.5)              defter değeri değişti...
+mallar alınır            |    ödenmiş sermaye = (10000)
+(7000)                   |    geçmiş dönem karları                     şirket özsermaye karlılığını arttırdı...
+(7000)                   |    yeniden değerlendirme karları
+
+total: 24000                total: 24000
+
+
+bir yıl sonra
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+nakit:10000              |  kısa vade yükümlülükler (borçlar)
+                         |  (9000)
+stoklar                  |
+malzeme (5000+5000)      |                                             borç aldık ve ikinci şubeye harcadık ama
+duran varlıklar          |  ÖZSERMAYE (25000) = (DD: 2.5)              defter değeri değişmedi... yani 1 lira yatırılan işten, 2.5 lira kara geçildi...
+mallar alınır            |    ödenmiş sermaye = (10000)                nakit-- özsermayeye de gösterildi...
+(7000)                   |    geçmiş dönem karları
+(7000)                   |    yeniden değerlendirme karları
+
+total: 34000                total: 34000
+
+borcu ödersek peki
+nakit:1000                  yükümlülük:0
+total:25000                 total:25000
+
+bu noktada borcun faizi ve şirkete ne kadar etkili olduğu önemli. ek olrak şirketin büyüme perspektifi...
+gelecek aksiyon 3.şubeyi açmak....
+ama kendi büyüse bile karı büyümeyecekse şirket burda parayı başka şekilde değerlendirebilir...
+bir şirket yatırım yapmadığı sürece küçülür... yani özsermayeden yer...
+ilk etapta büyümesinin sebebi içeri iyi para koymasıyla...
+içeri gelen parayı değerlendiremezsen. şirket küçülür.. ya da old yerde kalır...
+bebek şirketler bu yüzden önemli: büyüme oranı büyük olabilir..
+bu yüzden özsermaye büyüme pattern takip edilmeli.. ÖZSERMAYE KARLILIĞI ARTIYOR MU?
+
+Yüksek özsermaye karlığı olan şirket örnekleri:
+  ttrak
+      özsermaye: 7.757.455.846
+      net karı: 6.295.874.992
+        nerdeyse %100 kar yazmış.... 3 çeyrek içinde....
+
+net dönem karı ve özkaynaklar - bu ikisinden özsermaye karlılığını da bulabiliriz..
+  ttrak
+      özsermaye: 7.757.455.846
+      net karı: 6.295.874.992
+        nerdeyse %100 kar yazmış.... 3 çeyrek içinde....
+yani isterse bir ttrak daha kurabilir...
+ama trrak parayı ortaklara dağıtıyor.. özsermaye büyümüyor hemen...
+kasaya koysa nakitte dursa özsermaye iki katı olurdu ama şirket tekrardan para kazandığı için %50 özsermaye karlılığına düşmüş olacaktı..
+bu durum, şirketin satıldığı fiyatı değiştirir....
+    ttrak defter değeri: 77.52
+    trrak pddd: 8.72                    defter değerinin neredeyse 9 katına satılıyor...
+    ttrak güncel hisse fiyatı: 676.00....
+ama ttrak temettü vermese nakitte tutsa, özsermayesi büyütse ama karını arttıramasaydı..
+    şirket defter değeri 150.00 olurdu... pddd: 5.00 defter değerinin de 5 katına satılırdı.. 676.00
+    ama fiyatta bu kadar hızlı artmazdı
+
+ama sise'ye bakarsak
+    özsermaye:93.967.108.000      özsermaye devasa büyümüş...
+    ner kar: 13.359.946.000
+    burda %15-20 gibi bir özsermaye karlılığı var... ttrak aksine...
+    13/93=0.13= %13 özsermaye karlılığı var      = 1.3
+    bir şirketin özsermaye karlılığının 1/10 kadar pddd olur
+    sise pddd: 1.5 
+    sise defter değeri: 30.68
+    sise piyasa fiyatı: 46.38
+    defter değerine göre ucuz konumlanıyor ttrak kıyasla sebebi
+        dd, hızlı büyütemeyecek hale gelmesi
+    ama ttrak özsermaye karlılığı yüksek oldu için kendini büyütebiliyor..
+
+ÖZSERMAYE KARLILIĞI YÜKSEK OLAN ŞİRKETLERİ BULUNMALI.... ve daha ne kadar büyüyebilir diye düşünülmeli
+    ve şirketi de alırken pahalı almayacaksın... pddd bakınca çok pahalı olmamalı
+    özsermaye karlılığı %50 olan şirket 1 iken 1.5 olur 4 çeyrekte... 1 yıl sonra yani
+    ama baktın şirket zaten 1.3 katından satılıyor... aşırı ucuzdur.. alınır
+    ama ttrak gibi şirketler zaten 50 katına satılıyor... ödediğini alman yılları bulur....
+    ttrak %100 bile büyüse o 50 katı ödediğin paraya gelmesi yılları bulur.. ve bu mantıklı iş değil...
+
+şirket özsermaye karlılığı yüksek ama hali hazırda çoktan pahalı fiyatlanmış ise... girilmez artık...
+    pddd değeri yüksekse girme, ama büyümesi iyi umurum da olmaz demen gerek.. fiyat şişirilmiş...
+    ancak black swan'da girilir..
+
+hangi yıl ne kadar özsermaye karlılığı vardı bak..
+ya da 
+şuan özsermaye karlılığı yüksek olanları bul...
+    geçmiş yıllardaki fiyat artışı, defter değeri artışına bir bak
+ya da özsermaye karlılığı düşük olan şirketler bunları yazıp bulmak
+hangi şirket fazla fiyatlanmış bir gör... ya da hangisi daha çok kar ettirmiş bir gör
+nerden alsam ya da satsam kar ederdim diye analiz etmelisin.
+
+özsermaye karlılığı yüksek ama kaç katından satılıyor.... teraziye koy...
+    özsermaye karlılığı fiyatına göre ağır basıyorsa... o şirket alınır...
+    tersi sat kurtul... güzel bir fiyatlama varsa
+https://youtu.be/FwFWEdzeEIs?si=jtZ5shTQy9klr_5a
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Şirket: 
+Likitide Oranları
+- Cari Oran = Dönen varlıklar / Kısa vadeli yükümlülükler -->1.5'in üzerindeyse iyi..
+                                                             yani kısa vadeli borcunu ödeyebiliyor mu? düşüş varsa ama 1.5in üzerindeyse iyi
+                                                             bunun anlamı, eğer bu oran 2.0 ise yüksekse... 
+                                                                yani borç mu ödenecek, 1 yıllık kısa vade borç. 
+                                                                bir yıl içerisinde nakite çevirebilecek varlıklarım ile bu borcu 2 kere öderim demek... 
+                                                                burdan stokları çıkarırsa buna da likitide oranı denir... yükselmesi iyi.
+- Likitide Oranı = Dönen varlıklar - Stoklar / Kısa vade yükümlülükler --> 0.8 fena sayılmaz. sadece nakitlerinle bu borcu ne kadar ödersin de nakit oranı hesabında... yükselmesi iyi.
+- Nakit Oranı = Nakitler / Kısa Vade Yükümlülükler --> 0.3-0.4 kabul edilebilir yani sadece nakit ile borçlarının %40nı öder.. bu oranların yükselmesi iyi
+- Kaldıraç Oranı (Borçluluk Oranı) = Toplam Borçlar / Toplam Varlıklar (Şirketler için %40 ile %70 ideal konum) 
+                                                                      (Toplam varlıkların içinden borçlarının oranı) 
+                                                                      bu oranı git gide düşürmesi ideal.. ama 70 üstü çok borçlu, 40 altı borç yapmıyor.. 
+                                                                      %10 kaldıraç oranı iyi değildir yani.. şirket yatırım yapmalı
+- Finansal Borç Oranı = toplam finansal borçlar / toplam varlıklar
+       şirketler, faiz artışı nedeniyle finansal borçluklarını ellerinden geldiğince düşürüyor... düşürülmesi ideal.
+
+# Pahalılık Oranları
+            ŞİRKET    SEKTÖR    ORAN 
+F/K          7.43      10.69      30%             sektöründe %30 ucuz
+FD/FAVÖK     16.38     13.89      -17%            sektöründen %17 daha pahalı
+PD/DD        0.89      1.74       51%             sektöründen %51 dah ucuz
+                                                  Ortalamada %30 ucuz diye sallayalım
+
+ASTOR - önceden fiyatlanmış, ama oranları sektörüyle kıyalandığında iyi bir şirket. 
+        yine de uzun vadeliysen riske girilir.
+
+
+Brüt Kar marjı: Ürün ve hizmetin maliyeti çıktıktan sonra
+Net Kar Marjı: Ürün ve hizmetin maliyeti ve vergileri çıktıktan sonra
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Strateji
+((net kar / özsermaye)*100)/10 = pddd   bu aralarındaki ilişki alakasız ise o işe girme...
+
+fintables:  net dönem karı / özkaynaklar * 100/10 = pddd yakın olmalı yoksa alakasız....
+
+net dönem karı ve özkaynaklar - bu ikisinden özsermaye karlılığını da bulabiliriz..
+  ttrak
+      özsermaye: 7.757.455.846
+      net karı: 6.295.874.992
+        net dönem karı / özkaynaklar * 100 = özsermaye karlılığı % = %81
+        nerdeyse %81 kar yazmış.... 3 çeyrek içinde....
+yani isterse bir ttrak daha kurabilir...
+ama trrak parayı ortaklara dağıtıyor.. özsermaye hemen büyümüyor...
+kasaya koysa nakitte dursa özsermaye iki katı olurdu ama şirket tekrardan para kazandığı için %50 özsermaye karlılığına düşmüş olacaktı..
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# ucuz şirket için birinci yöntem: PD
+                        sermaye
+Özkaynaklar (Bin TRY) / Shares (Ödenmiş Sermaye) = Defter Değeri      Piyasa değeri
+ 214.138.000.000        2.535.898.050              84 lira            140 lira              KCHOL
+ 38.825.680.000         363.281.250                106 lira           107 lira              TAVHL
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# ucuz hisse için ikinci yöntem: F/K
+  aynı sektörde hangi hisse daha iyi araştırması
+  bir şirketten bir lira kazanmak için kaç paramı şirkete vermeliyim...
+
+  Hisse piyasa fiyatı / hisse başına kar = ödenmesi gereken fiyat (F/K)
+
+  ARCLK  127.90 / 7.59 = 16.85                           aslında bulduğumuz şey FK
+  Arclkten 1 lira kazanmak için 16.75 riske atılıyor.
+
+  hisse başına kar - geçmiş 4 çeyrekten elde edilir. yani gelecekle ilgili değil...
+  yani fk denilen şey 1 lira kar etmek için ne kadar yatırmamız gerektiğidir.
+  diğer anlamı ise yıl hesabı kaç yılda amorti eder.
+
+  şirket piyasa değeri artıyor ama hisse başına kar artmıyorsa fk yükselir... 
+
+  tahvil faizleri ve eurobond ile ters orantı. faiz risksiz getiridir. kesin getiridir. o zman neden borsaya gideyim
+    faizler düşükse fkler yüksektir
+    faizler yüksekse fklar düşüktür
+
+  ileriye dönük beklenti yüksekse yüksek fk ile ödeme yaparlar
+  sağlıklı olan şirketin fksı düşükse alınır...
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# FK Analizi 
+fk başlangıç noktasıdır... ne herşey ne de hiçbirşey
+  net kar marjı, net akışları faaliyetleri... bunlar fk ile başlar...
+
+f/k - piyasa değeri/son dört çeyrek net karı 12 aylık net kar biilgisi
+doğru formül: piyasa değeri = net kar x F/K
+fk - piyasada fiyatlanan birşey aslında
+piyasa şirketi ne kadardan fiyatlıyor. piyasanı arz ve talep dengesini ifade ediyor..
+şirketin karı büyüdükçe fk küçülüyor. çünkü borsa geleceği fiyatlayan yerdir..
+gelecekte kar büyümesi olacak mı tahmin etmen lazım
+60m = 2m x 30
+66m = 3m x 22
+60m = 4m x 15  fk normalleşiyor.. ama karda artıyor yine de sana faydası yok.
+40m = 4m x 10  şirket artık revaçta değil. hisse elinde patladı..
+talep bozulmazsa şirket alınır...
+PEG ratiosu ama enflasyon ortamında pek çalışmaz
+talep bozuldu ama şirkette iyi yıllık kar getirirse yine sağlam kazanırsın..
+200m = 20m x 10
+
+
+https://youtu.be/1G4e77xQB60?si=GxowOQ5Yf6tkgDGd
+
+
+Şirketin geleceğini bilmelisin yoksa FK işe yaramaz... 
+5 yıllık karı hesaplaman gerek...
+
+A şirketi                        B Şirketi
+F/K = 10                         F/K = 8
+Net Kar Büyüme Oranı = %50       Net Kar Büyüme Oranı = %20  
+İlk Yıl Kar = 100                İlk Yıl Kar = 100
+PEG = 10/50 = 0.2                PEG = 8/20 = 0.4
+100
+5 yıl içinde her yıl %50 kar yapacağını hesaplarsan... yani karı büyütme oranı %50        %20 karı büyütme oranı olan şirket
+100 * 1.5 = 150                                                                          100 * 1.2 ^ 5 = 248
+150 * 1.5 =                                                                                          5 yıl içerisind ekar bu rakama ulaştı. şikete 800 lira verdin ama kar hiç büyümemiş...
+225 * 1.5 =                                                                               100 * 8 = 800 ---> 248 * 8 (fk aynı kalsa...) = 2000
+337 * 1.5 =                                                                                    5 yıl içinde işler kötü gider insanlar buna 4 fk verirse ---> 248 * 4 = 992 ... para kazanamazsın kr büyüse bile...
+506 * 1.5 = 759 5 yılda karlılık bu rakama çıktı
+
+PD = 10 * 759
+bu şirketi 7500liraya satabilirsin...
+ilk yıl kaça aldık... 1000 liraya aldık
+1000 = 100 (ilk yıl kar) * 10 (FK)
+diyelim ki fk 5e düştü. yine kar ama 3500 lira oluyor bu kez..
+
+karını ciddi büyütecek şirketi ucuz bir fiyattan alırsan... ve peg rasyosu küçük olan değerden alırsan kar edersin
+fk yüksekse kaçınacaksın. coşkulu dönemmmm
+froto: ne zman 8 fkdan alırsan kar. ne zaman 120 fkdan alırsan zarar.... grafiği incelemek gerek.....
+coşkunun olmadığı insanların unuttuğu. fknın düştüğü ve şirketin iyiye gideceğini düşünüyorsan yatırım vs... alırsın hisseyi
+
+bu nasıl bilinir? gelecek net kar....
+-kap haberleri...
+-fintables: çeyreklik net kar son 4 çeyrek....
+  satışlar hasılat yükseliyorsa FAVÖK yükseliyorsa... iyi alınır...
+işler kötüye gittiğinde güvenlik marjı bırakacaksın riskli ülkedesin patronun lafına bile inaanma yüksek fkye girme... 
+max 10 fk trde ama yüksekse iyi bir şirketse ttrak gibi bunu da kaçırırsın
+fk bu noktada hiç bir şey... astor bile kaçabilir...
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Bedelsiz Sermaye Artışı      --> bedelsiz lot vermek
+Bolca lot alınır ve bir süre elinde tutulur, aynı fiyata tekrar geldiğinde de satılır ve sıfır maliyete düşer...
+SPK onayından sonra bir tarih verilir bu bir fırsat olur.
+  KONTR   ZEDUR   VBTYZ   MPARK   TUCLK   KNFRT   HKTM   ASUZU   BFREN   MRGYO   CASA   LINK   SNPAM   SEKFK   PCILT   BAKAB   MTRKS   TERA
+
+  hemen buna kanıp yatırım yapma!
+    özsermaye karlılığı ne?
+    karlılık durumu ne?
+    güncel fiyatı ne?
+    vizyon, piyasadaki algısı
+    temel ratio
+    döviz girdisi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Bedelli Sermaye Artırımı
+# Temettü
+
+https://www.youtube.com/watch?v=PMg85gMTKEk
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
 # 00. Borsa'da Zamanlama
       Kısa      Orta      Uzun..      
 
