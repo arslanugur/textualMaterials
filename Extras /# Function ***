@@ -189,7 +189,50 @@ https://polgovpro.blog/2021/06/18/problems-for-and-of-governance/
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Types of Growth
+      Curves..
+      Büyüme Türleri (Fonksiyonları)
+      https://jamesclear.com/growth-curves
 
+# Exponential Growth: Improvements come slowly in the beginning (lag phase), but your gains increase rapidly over time. (exponential phase),  and then (stationary phase)... and death...
+                        Requires patience to get past the early period and see results.
+      (unrestricted)
+
+      Formula: f(x)=2^x
+
+            y
+            |
+            |
+            |
+Population  |
+  Results   |
+   Size     |
+            |
+            |
+            |________________________________ x
+                         Time / Effort
+
+            Example: Bacterial Growth Curve..
+
+# Logarithmic Growth: Improvements come quickly in the beginning, but your gains decrease overtime.
+                        Requires consistency even when you see a slowdown in wins.
+
+
+# Logistic Growth: Carrying capacity (K) of environment
+            (restricted)
+            
+
+# Linear Growth:
+
+
+f(x)=50x
+f(x)=x^3
+f(x)=x^2
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 
