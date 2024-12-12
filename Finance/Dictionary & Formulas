@@ -24,6 +24,61 @@
     Formula: 
         RRR = Revenue for Period * Number of Periods in Year
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# FINANCIAL RATIOS
+  # Liquidity Ratios
+    Current Ratio = Current Assets / Current Liabilities
+    Cash Ratio = Cash + Marketable Securities / Current Liabilities
+
+  # Asset Turnover Ratios
+    Receivables Turnover = Annual Credit Sales /  Accounts Receivable
+    Inventory Turnover = Cost of Goods Sold / Average Inventory
+
+  # Financial Leverage Ratios
+    Debt Ratio = Total Debt / Total Assets
+    Debt to-Equity Ratio = Total Debt / Total Assets
+
+  # Profitability Ratios
+    Return on Assets = Net income / Total Assets
+    Gross Profit Margin = Sales - Cost of Goods Sold / Sales
+
+  # Dividend Policy Ratios
+    Payout Ratio = Dividends per Share / Earnings per Share
+    Dividend Yield = Dividends per Share / Share Price
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Income Statement
+  "Revenues" - Cost of Goods Sold = Gross Profit
+  "Gross Profit" - Operating Expenses = Earnings before Interest & Taxes (EBIT) 
+  
+      Operating Expenses = wage and rent expense, non-direct labor, office and clerical expense, depreciation expense, etc.)
+
+  "EBIT" - Interest Expense = Earning Before Taxes (EBT)
+  
+  "EBT" - Tax Expense = "Net Income"
+  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+1. In case of profit,
+    selling price = cost price * (100+profit) / 100
+    cost price = (100*selling price) / (100 + profit)
+2. In case of loss,
+    selling price = cost price * (100-loss) / 100
+    cost price = (100*selling price) / (100 - loss)
+    
+3. Discount = marked price - selling price
+4. rate of discount = discount % = (discount*100) / marked price
+5. selling price = marked price * (100 - discount) / 100
+6. marked price = (100*selling price)/(100-discount)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+  
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
