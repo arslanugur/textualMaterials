@@ -1,0 +1,3510 @@
+# Borsa Analizi (Stocks Tricks)
+
+# ÖNEMLİ
+# RALLY METRE (BIST'de rally olabilmesi için) 
+	1. +150Billion lira hacim lazım
+	2. VIOP kontratlarında düzelme: endeks bazlı short kontratlar azalmalı...şu an 200bin short kontrat var iş yatırımda
+		matriksIQ: alım-satım yapanlar
+	3. Hisse fonlarına para girişi
+		https://fintables.com/fonlar/nakit-giris-cikisi
+	4. 9400 üzeri kapanışlar
+	5. Hisse haberleri
+		fintables: yeni iş ilişkileri
+		matriksIQ: alım-satım yapanlar
+  6. Faizlerin düşmesi... (borsadaki genel beklenti)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Bir Varlığı en dipten almanın yolu... 
+Furkan Özbek: https://youtu.be/o-3ayPQSzFg?si=AT4kL0sD-XeBAzSW
+01. RSI Seviyeleri
+  Aşırı Alımda seviyeler yükselir  70        zirvede satarken mümkün olduğunca zirvede satmak için 75 yapabilirsin
+  Aşırı Satımda seviyeler düşer    30        en dipten alacaksan bu seviyeleri takip etmelisin- bu oranı düşürürsen dipte alırken daha garantici olursun 25 yapabilirsin
+
+  (Sakın sadece RSIya göre iş yapma bist gold nasdaq belki okay ama btc yanıltıcı volatilite fazla: Trendlere de dikkat et - düşüş trendlerinin dönmesini beklemelisin)
+  düştükçe düşebilir rsi 30 olması bişey değiştirmez trend önemli.... yani piyasa ayıya geçmiş... ya da boğaya geçmiş kısa vadeli şekilde
+  bir önceki tepesini geçerse trend boğaya döner....
+02. trend değişimini izle
+03. geçmiş düşüş yüzdelerine bak..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# STOCKS and STRATEGIES
+
+# Tactic
+if			          do
+viop short (sell)	spot no buy		
+	spotta alış olmadığı için vioptaki pozisyondan para kazanmaya devam ediyorsun
+	spottan alsan borsa yükselecek çünkü, viop da yükselecek vioptaki pozisyonun zarar edecek
+if			          do
+viop long (buy)		spot - piyasa yükselecek beklentisinde
+	eğilimin/trendin yönü hakkında net bilgi veriliyor
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Borsada
+	erken satmak yapabileceğin en büyük hata...
+	alış marjını düşünüyorsun satış marjını da 2x düşenmen lazım
+
+	zamanlamaya çalışmak
+		düştü alayım daha da düşecek daha da alsam... keşke almasaydım	darbe yiye yie alışıyorsun sarediyorsun.
+			
+		yükseldi satayım daha da yükselecek keşke satmasaydım
+		zarar da oturmasını bil... kardaysan bile oyunun içinde kalmaya çalış.. çok oynaşma
+
+	yeterince çeşitlendirmemek
+
+	trading yapma:
+		kırmızı bir denizde köpek balığına yem olmak...
+		mavi deniz:
+
+	ne aldığının farkında olmamak
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+çarşamba satış günü
+tüpras ve brent petrol ilişkisi... düşerse düşer
+
+fon sepeti şemsiye fonu... kardan %10 stopaj vergisi yok...
+  tcd, gmr, mac -- uzun vadeli..
+  ytd, aes, tge, ojt, oil, otj
+
+3000 mağazan varsa ayda 70 şube açarsın - migros bileşik getiri örneği
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Volatility
+
+https://youtu.be/Cr2j0Z7055Y?si=YOfaPU9oiV_pAayl
+Volatility (oynaklık)
+	içsel değer..
+	döngüsellik
+	korelasyonu az şirketlerle çeşitlendirmek
+		us etf, bist100, eurobond, fon, gold, kripto, kira geliri..
+	stick prices: zincirlenmiş fiyat oynamaları - içsel değer ve korrelasyon
+	trend değişimi
+	belirsizlik
+	bu yüzen uzun dönem yapılmalı
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# FUNDAMENTAL ANALYSIS - TEMEL ANALYSIS
+Fundamental analysis is a method of assessing the intrinsic value of a stock. 
+    It combines financial statements, external influences, events, and industry trends.   
+    It is important to note that the intrinsic value or a fair value of a stock does not change overnight.
+
+    A valuation tool used by stock analysts to determine whether a stock is over- or undervalued by the market. 
+
+    Intrinsic value / Real worth / Fair Price
+
+
+Fundamental analysis consists of three main parts/components:
+    Economic analysis
+    Industry analysis
+    Company analysis
+
+
+1. Bilanço
+  Bilanço okumak
+            Bilanço üzerine ekleyerek gider. çeyrek çeyrek
+            https://www.isyatirim.com.tr/tr-tr/Sayfalar/default.aspx
+            https://fintables.com/
+            Dönen varlıklar: bir yıldan kısa sürede nakite dönüşebilecek varlıklar
+                Nakit ve Nakit benzerleri
+                Stoklar
+                Ticari alacaklar
+            Duran Varlıklar: bir yıldan uzun sürede nakite dönüşebilecek varlıklar ama nakte dönüştürülmesi zorunlu değil..
+                5 Senelik tahviller..
+                Ticari alacaklar
+                Finansal yatırımlar
+                Maddi olmayan duran varlıkar - işletmenin sahip old haklar, imtiyazlar
+
+                Özvarlık - Şirketin uzun ve kısa vadeli borçları çıktıktan sonra yani aktiflerinden kalan varlıklar "özvarlıkları" gösterir.
+                Özkaynaklar: toplam bütün mallardan toplam bütün borçları çıkardığımızda elimizde ham para...
+                Özkaynaklar/özsermaye artışına bakılır artıyor mu?
+                    formül:  özsermaye = toplam varlıklar - toplam borç
+                özsermaye/özkaynaklar ne kadar artarsa senin de hissen o kadar artar
+                    Özkaynak ham para olarak durmaz yatırımlarla değerlendirilir.
+
+
+  Gelir tablosu okumak
+  Nakit akım tablosu okumak
+
+2. Piyasa Çarpanları
+  Sektörel Kıyas yapmak
+  Şirketin geçmişi ile kıyas yapmak
+
+3. Faaliyet raporu okumak
+
+
+p/e rasyosu çok aldatıcı olabilir, illa değerleme metriği arıyorsanız ev ve ebitda çarpanlarına yönelin.
+
+
+    Understand the company
+    Operations
+    Business model
+    Company's competitors/rivals
+    Company's debt and compare it with rivals.
+    Company’s prospects
+
+    Company’s structure and revenue
+    Company’s profits over the years
+    Revenue growth over the years
+    Company’s debt
+    Corporate governance
+    Rate of turnover
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Terminology and Formulas
+Ödenmiş Sermaye = Toplam Hisse Sayısı
+Hedef Fiyat (Muhtemel Gelecek Fiyatı) = (Net Faaliyet Karı * 10) / Ödenmiş sermaye
+Adil Fiyat (Şirketin olması gereken fiyatı) = Özvarlık / Ödenmiş Sermaye
+
+
+Net kar marjına bakılır?	Esas faaliyet kar marjı	
+%30 üzerindeyse alınır, istikrarlıysa bu değer yarattığı anlamına gelir	
+Net esas faaliyet karı artışı - şirketin Esas ve asıl işlerinden satışlarından elde etmiştir		
+Cirosu da artıyorsa daha iyi - long pozisyon açılır.		
+
+
+FAVÖK (EBITDA) - Faiz, Amortisman ve Vergi öncesi Kar
+FAVÖK Marjı (EBITDA Marjı) = (FAVÖK / Toplam Gelirler) * 100
+      Yüksek FAVÖK = Operasyonel faaliyetler Karlı, Maliyetler etkin şekilde kullanılıyor.
+
+Esas Faaliyet Kar Marjı
+
+Aktif Karlılık (ROA)(%)	
+Özsermaye Karlılığı (ROE) (%)	
+FAVÖK Marjı (Yıllık)	ROIC	
+PEG Oranı (<1)	
+İhracat Oranı (%)
+
+Piyasa Değeri (USD)	
+PD/DD	
+F/K	
+Hisse Başına Kar	
+Temettü Verimi (%)	
+Temettü Verimi Brüt (%)	
+Halka Açıklık Oranı
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Piyasa Çarpanları (Oranlar Analizi)
+      F/K (FKO)      Fiyat/Kazanç Oranı                      Price to Earnings             Fiyatın, Son bir yıllık kazanca (Kara) bölünmesi
+      PD/DD          Piyasa Değeri/Defter Değeri             Market Value / Book Value     Piyasa değeri, Özsermayeye bölünmesi
+      FD/FAVÖK       Firma Değeri/FAVÖK                      / FAVÖK = EBITDA              Firma değeri = Net Borçları + Piyasa Değeri
+      FD/S           Firma Değeri/Satış                      / Sales                       Firma değeri, son bir yıllık hasılata bölünmesi
+      F/NA           Fiyat/Nakit Akış                        Price to Cash Flow
+      F/S            Fiyat/Net Satış                         Price to Sales
+
+      Şirket: Bu çarpanlara göre değerlendirilir.. Ucuz mu yoksa Pahalı mı?
+
+# Piyasa Çarpanları (English version)          Cheat Sheet: Four ways to value a stock
+                                                                        Formula
+      P/E            Price to Earnings        Good P/E = <10            Share Price / Earnings/Share              tells you how much you are paying for each dollar of earnings
+      P/S            Price to Sales	          Good P/S = 1 to 2         Share Price / Sales/Share		              tells you how much investors are willing to pay for each dollar of sales
+      PEG            Price to Growth	        Good PEG = <1	            P/E / Earnings Growth		                  tells you how much you are paying for each dollar of earnings, while also factoring in earnings growth					
+      D/E            Debt to Equity	          Good D/E = <1	            Total Liabilities / Shareholder Equity		tells you how well a company is leverage its debt to generate profit for its shareholders
+			
+
+	EV/EBITDA						Enterprise Value/EBITDA -> Şirket değeri faiz, vergi, amortisman öncesi kâra bölünerek çarpan hesaplanır.
+	P/BV - Price to Book Value
+	P/S - Price to Sales
+	EV/S
+	P/AFFO
+	P/CFPS
+
+			  şirket değeri
+	işletme değeri  = özsermaye değeri - toplam borç + nakit
+	Equity value = Enterprise Value - total debt + cash
+
+	Özkaynak, bir şirketin sahiplerine ait olan ve şirketin varlıklarının değerini temsil eden kaynaklardır. 
+		Özkaynaklar, şirketin hisse senetleri, sermaye yedekleri, kar yedekleri, geçmiş yılların karları ve zararları gibi unsurları içerir. 
+		Özkaynaklar, şirketin borçlarını karşılamak için kullanılabilecek bir kaynak olarak hizmet eder.
+	Özsermaye ise, bir şirketin sahiplerinin şirkete yaptığı sermaye yatırımlarını ifade eder. 
+		Özsermaye, şirketin sahiplerinin şirkete koyduğu varlıkların toplamını temsil eder. 
+		Şirketin borçları ve diğer yükümlülükleri düşüldüğünde, geriye kalan miktar özsermayeyi oluşturur.
+	Özkaynak ile özsermaye arasındaki fark, özkaynağın şirketin sahiplerine ait olan tüm kaynakları ifade etmesine karşın, özsermayenin sadece sahiplerin şirkete yaptığı sermaye yatırımlarını temsil etmesidir. 
+		Özkaynak, şirketin finansal durumunu ve değerini gösterirken, özsermaye sadece sahiplerin şirkete yaptığı yatırımları ifade eder.
+
+
+Book value is calculated by subtracting a company's total liabilities from its total assets. Enterprise value, on the other hand, is calculated by adding a company's market capitalization to its debt and subtracting its cash and cash equivalents.
+
+
+F/K:  şirketin kendini amorti etme süresi, hesaplanışı; şirketin güncel piyasa değerini, şirketin yıllık karına bölünersek çıkan sonuç fko
+								
+	20.000.000.000 / 5.000.000.000 = 4			      şirket bu karlılıkta kendini 4 kere amorti eder				
+	güncel piyasa değeri	şirketin yıllık karı		10nun altındaysa iyi, aksi varsa peg ratiosu düşük olmalı o zaman cazip oluyor
+
+    A Şirketi FK 	123$	yani yatırımcının 1$ için 123$ vermeye razı olması 		
+    B Şirketi FK	12$	  bu daha ucuz...
+		      Aynı sektördeki şirketleri kıyaslamak daha doğru		
+
+
+EPS = Hisse Başına Kar		
+    Şirketler karşılaştırılırken, hisse başına karı daha yüksek olan şirket daha güçlü olarak değerlendirilir.
+
+
+
+(PEG Ratio) Fiyat Kazanç Büyüme Oranı = Fiyat/Kazanç Oranı / Hisse Başına Büyüme Tahmini			
+                PEG Ratio = (Share Price / EPS = F/K) / EPS Growth Rate	
+
+
+favök - Şirketin amortisman, vergi ve faiz öncesi çekirdek karını gösterir yani esas faaliyet karını gösterir.
+        Favök sürekli artıyorsa şirketin sürdürülebilir karlılık olduğunu gösteren bi göstergedir
+
+
+Satışlar, geçen ve bu yıl ile kıyaslanır. 
+    Genelde artış olmalıdır. Ne kadar olduğuna bakılır
+    şirket her yıl ciroyu arttırıyor ama belli bir süre sonra çita yükselecek
+    ve büyüyemecek çünkü karın büyüme hızı bilançoya ve yıllık olarak düşebilir.
+    peg ratiosundadaki oranlar 1in üzerine çıkmaya başlayacak, ucuz olmaktan çıkar, satışa geçer
+
+
+Net nakit pozisyonu yüksek olan şirketler, güçlüdür
+    net borç / favök ratio = 4'ün üstündeyse problem...
+    cari oranı (1 yıl içindeki yükümlü varlıkları) da 1'in altında ise işletme sermayesi açığı var
+
+
+
+Links:
+https://www.investing.com/equities/koc-holding-ratios
+https://dergipark.org.tr/tr/download/article-file/427609#:~:text=%E2%80%9CPiyasa%20%C3%A7arpanlar%C4%B1%E2%80%9D%20olarak%20adland%C4%B1r%C4%B1lan%20oranlardan,ve%20Firma%20De%C4%9Feri%2FFAV%C3%96K%20%C3%A7arpanlar%C4%B1d%C4%B1r.
+https://www.youtube.com/watch?v=6mT3TREPs3Y
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+tasarrufu fiyata bağlamak: para mevduatta kalmasın. parayı bağla. eve krediye bağla. parayı fiyata bağla...
+
+
+
+First Quarter     Second Quarter      Third Quarter     Fourth Quarter
+-------------     --------------      -------------     -------------
+January           April               July              October
+February          May                 August            November
+March             June                September         December
+
+
+
+Bilanço Tarihleri
+  Çeyreklik gelecek tarihleri
+  Bilançodan iki hafta öncesi/sonra hareketlilik olur --> 3. 6. 9. 12.ay
+  aylık alım satımlarda önemli
+
+Yaz ayları
+  Borsa hafif hafif düşer
+  Tabi tüm veriler eşit olduğu zaman
+      bütün değikenler sabit olmalı
+      Faiz oranları, Enflasyon, Yabancı yatırımcılar, Kur dengesizlikleri, Seçim, Politika, Olaylar ...
+      ama dolaylı bir etki olursa yukarı gider
+  nedeni yaz tatil oluyor borsaya pek bakan yok
+
+
+January Effect
+    eylül ve mart ayları arasında yukarı yönde hareketli
+    yıllık bilançolarda bu arada geliyor...
+    aralık, ocak, şubat, mart
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+Yurtdışındaki yabancı fonların kapanışı
+    fon satın alır..
+    kapandığı zaman düşer... tabanlar... satış dalgası geliyor..
+    yabancıların ölçekleri ve hacimer büyük etkileri de büyük böylece
+    aylık olarak yurtdışındaki fonların kapanış zamanları olur
+    mayıs ayında düşülerin nedeni de bu yönde
+
+Verilerin açıklanması
+    faiz kararı major, enflasyon verisi major, işsizlik...
+    bütün verilerin major etkisi olmaz
+    faiz oranları her ayın ilk perşembesi açıklanır gibi...
+    
+Şirketlerin özel ve cap haberleri
+    aylık olarak kontrol
+    
+Tatiller
+    çarşamba günleri satış yer
+        çünkü cumaya kadar 2 gün var, yatırımcı paranın eline geçmesini ister, cumadan pazartesiye kadar da repoda değerlendirir.
+    bu aylık olarak büyük tatillerde de yaşanır.
+        ramadan, kurban, borasaların belli bir süre kapalı olur iki gün öncesinden satış yapar fiyatlar düşer
+        pazartesi satış yapar çarşamba parayı alır..
+                
+    ülkede 9 gün nolacak bilinmez bu yüzden satış yapar. güvensizlik ortamı..
+    tatil sonrasında geri gelinir...
+    
+# Stock Types:
+- Growth:     rapidly growing earnings/revenue
+- Blue Chip:  large and stable good reputation
+- Penny:      extremely small ana volatile
+- Dividend:   use earnings to pay shareholders
+- Defensive:  offer products/services everyone needs
+- Cyclical:   dependent on health of economy
+              Döngüsel şirketlere tepeden girilmez...
+
+
+# Holding gibi düşüneceksin yani long position - temettü hisselerinde..
+
+# yabancı, çıkabileceği hisseyi satın alır yani ilerde satabileceği hisseyi alır... 
+                                           yani biraz büyüklüğü olacak, volume olcak.. sığ hisseyle uğraşmaz..
+           yabancı, sığ hisseyle uğraşırsa bu trade niyetinde yapılır.. 
+                    bu durumla hızlı/fırsatçı fonlar uğraşır.
+          Gerçek yabancı fon, satabileceği hisseyi alır...
+
+# Everest Durumu (Prey and Predator - Av v Avcı)
+    Bedelsiz geliyor diye yükseliyor, buna atlama, düştüğünde yarısından bile daha azına inebilir. 
+    Dağa çıkan koyun olma... 
+    Bedelsiz sermaye, hisse fiyatını etkilemez. yükselecek haberi duyup koyun gibi birikirler...
+    
+    Bedelsiz sermaye - şirket sağ cebinden çıkarıp sola koyar hepsi bu. 
+    Yani, bilançonun aktif-pasifinde değişen birşey olmaz. 
+          Bedelsiz iyi birşey olsaydı EGEEN yapardı ama büyüyerek devam etti.
+
+    Sonuç olarak grafiklerde, teknik analiz everest dağı gibi olmuşsa çok primlenmiştir. 
+                              tepede koyunlar kesildikten sonra uzun süre yatay seyir izleyebilir..
+
+    Bu konuda uygulanacak strateji ya "Black Swan" bekler girersin ya da "Intrinsic value" hesabı yaparsın.
+
+# Şirketin borcu, son 5 yılda artıyorsa o topa girilmez.
+                  ha borcu kadar, özkaynakları da artıyorsa sorun yok.
+                  Borcunun, özkaynaklara göre oranına bakılır..
+                  ve nakit akışına bakılır.
+
+
+# Bazı hisseler yatırım hissesi bazıları trade hisseleridir. bu yüzden "Volatilite"yi iyi analiz et.
+
+
+
+2. mümkünse farklı sektörlerden en az 4-5 hisse senedini içeren bir portföy yapın ki birisi kaybettirirse diğerinden telafi etme şansınız olsun.
+5. kısmi hareket etmeyi alırken de satarken de parça parça hedef rakamlarla işlem yapın.
+6. borsa faizin düşük ülke büyümesinin yüksek olduğu durumlarda değerlenir tersi durumlarda ise dolar bazında ciddi değer kaybeder.
+7. kayıp ve kazanç ancak elinizdeki metayı sattığınızda gerçekleşir. mal alırken kazanılır sözü çoğu durumda geçerlidir. almakta aceleci satmada panik halinde olmayın.
+13. borsa kısa vadede zero sum game olarak tanımlanabilir yani birisi kazanırken birisi kaybeder mutlak kazanan işlem komisyonu alan aracı kurumdur.
+-stoplosslara kesinlikle rivayet edin. "şu fiyatın altına düşerse satarım" deyip altına düşünce "yükselir yea" demeyin satın kaçın. aldığınız enstrümandan çok umutluysanız çok az bir esneme payı bırakın o da aşılırsa satıp kaçın.
+-temel analiz öğrenin. her yıl başka sektör trend olur. bu yıl mesela demir-çelik ve petrol sektörleri revaçtaydı. ama 2015-2016'da bunlar sürünüyordu misal. para nereye akıyor onu saptamaya çalışın.
+-bu yıl ortalama mevduat faizi %26. borsa'da 1 yılda %30'dan fazla kazanamıyorsanız fırsat maliyeti bakımından kaybediyorsunuz demektir bunu bilin.
+-kara geçtiğiniz zaman riski bölün. en tepeden mal vermeye heveslenmeyin. saniyelik değdirip çektirirler malınızı satamazsınız. tahmin ettiğiniz tepeye yaklaştıkça malınızı parça parça satıp karınızı orantılı şekilde cebinize koymasını bilin.
+-tahtayla boğuşmaya çalışmayın. borsada bulunan kağıtların çoğunu algoritmik robotlar idare eder. şu kadar mal alırsam robot yukarı götürür demeyin. malı kucağınıza verir sürünürsünüz.
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+borsa düşüş, yatay, yükseliş
+pozisyon zamanlaması
+margin of safety
+
+düşen pozisyona paçal yapılmaz, stop loss yapılır... 
+düşüyor diye almaktansa yatay seyre girdiğinde dal...
+haftalık grafik önemli
+düşüşte dönüşü kovala
+
+logaritmik - uzun vade de 
+lineer - kısa vadeli grafik okumak için yararlı
+
+likitide olursa yabancı gelir...
+
+dolarla iş yapan şirketlere yatırım yapılmalı...
+dolara yatırım yapılmaz... amerikalı gelip sorsa bu duruma güler. çünkü doların da alım gücü düşüyor... böyle bir yatırım yok.
+
+karı artmıyorsa o şirket sıkıntı
+
+haftalık kapanış bi önceki haftadan yüksekse trend oluşmaya başlamıştır...
+
+
+takas değişimi
+- sattıkça onlar alıyor
+- acelesi yok
+- pozisyonu alıp trend başlatacaklar
+- sen hangi ara buraya geldi dersin
+- alırsın ve eline veririler bombayı
+
+
+# Variable Change
+sermayenizin %50'sini kaybederseniz, eski hâline getirmek için %100 kazanmanız gerekir. 
+  yani mesela 10 bin lira sermayenin 5000'e düşmesi %50 kayıptır, ama o 5 bini 10 bin yapmak %100 kazançtır. 
+  yani kayıplar, kazançlardan orantı olarak daha güçlüdür.
+
+- acemiler piyasayı açar, ustalar kapatır.
+rsi ile sektör seçimi
+roe - özkaynak karlılığı
+ROI Marketing
+
+
+faiz artmayacak ortama giriliyor. borsa yükselir
+ecb, fed
+yazın inşaat artar
+faiz düştüğü an konut fiyatları da artar adam senin gibi arayan çok satmıyorum der... bu yüzden yükseleceği an alıma başlanır..
+
+piyasada anlık düşünülmemeli, herkes geleceğe göre hareket ediyor. bunu yapamıyorsan fona gir..
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Borsa İstanbul
+döngüsel şirketlerde kar patladığında çıkılır
+
+# Yorum
+Beklentiler alınır gerçekleşenler satılır, tersi de mümkün
+	kötü beklentiler satılır, kötü gerçekleşenler alınır
+büyüme yavaşlaması, faizlerin yüksekliği, bilançolar kötü, enflasyon etkisi...
+
+
+# yükselirse ne yapacaksın
+maliyet sıfırlamak (finansta böyle bişey yok - ama psikolojik olarak ideal)
+	hisse fiyatı 1 lira ben de 10 lira koydum..
+	hisse yükseldiğinde mesela 10x yaptığında koyduğun o 10 lirayı geri çekiyorsun.. içerde hiç paran kalmadığını düşünüyorsun
+	bunu biraz daha analiz et, mantıksız noktalar var.. gibi
+
+aşağıya doğru maliyet yapmak
+en dipte yakalamak için elinde tutup aşağıya ortalama yapmayı göze almak lazım.... ama RSI ve geçmiş düşüşleri takip et
+
+bankrun...
+
+ROI - Return of Investment
+ROE - Return of Equity
+
+
+
+
+ışık ökte
+barış esen
+mete yüksel
+özgür yurtdaşseven
+nuri sevgen
+
+
+HALKA ARZ FURYASI
+legal kitle fonlaması
+çin, mısır, kore, brezilya,
+halka arz furyasının kralı oldu buralarda
+
+pandeminin başında başlamışlar vole oldular...
+2020 sonu 21 başı doğru zamanda
+
+2008 lehmann krizi dolar bazından %300 verdi bankacılık endeksi
+
+xHARZ
+XBANK
+
+turk şirketlerinin eurobondları artıyor...
+
+laf satacak iş bul...
+cost of business
+
+xtx markets - alex gerko
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# İş döngüleri ve Likitide
+	Business Cycle
+	ne zaman hangi varlıklara girmek ve çıkmak
+	ISM - 50 altında işler kötü - 4 yıl sürer
+		işler güzelse para bollaşır..
+
+https://youtu.be/dwhak83ONR0?si=vGUFFAoQBPcZNets
+https://youtu.be/0BZz9SFTdvo?si=hCPJlSHOJ5cfgVmp
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+çarpanı pahalı şirketten uzak dur zehirli
+astor - 81 cvarı toplanır.. gesandan yüksek çarpan
+gesan - iyi bölge de alınabilir..
+alfas - fiyatlanmış
+kords - iyi.... 66liradan risk alınabilir..
+
+bakır işinde - sarky, megam
+vakko - alınır beğenilen hisse fiyatını bekle..
+DOAS- ucuz fiyatlamış fk3 fazla düşmez... fk1e düşse bi de üste temettü verse fiyatı daha da yarıya iner bu yüzden kolay düşmez....
+ISMEN - 200 günlük hareketli aşağına düşerse sıkma bölgesi
+
+halka açıklık düşük ise volatil. <30 daha sağlıklı....
+
+christmas günü bofa biste girmez, bist düşer - yabancı yok çünkü.
+
+tcell - enf düşerken alınır
+
+ASTOR - enerji
+SMRTG - enerji - şu sıra borç sıkıntısında...
+EREGL - demir-çelik
+YUNSA - tekstil
+TUKAS - gıda
+MPARK - sağlık
+DOAS - otomotiv
+ENJSA - elektrik üretim-dağıtım - Cari oran yok, çünkü stok yok
+ARDYZ - yazılım
+
+enerji depolayan şirketler - enerji teknolojileri
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+BIST100 F/k
+fk Median yani ortalaması: 7.5
+şuanki fk: 5.93                 
+dolar bazlı da bakıldığında bu oran daha gerçekçi
+
+bir ülkede CDS risk fazlaysa, o ülkede endeks düşük fk ile fiyatlanır...
+CDS risk azsa, endeks daha yüksek fk ile fiyatlanır...
+fk:12 olduğunda endeks ikiye katlanacak... böylelikle riskte azalacak
+
+cds yükseldikçe - kredi alman da zorlaşır. ülkene vermiyorlar, ülken sana ne diye versin
+
+ebitda marjı hesaplama
+
+Düşmeye başladığında al ki aşağıya doğru ortalama yap....
+birden de hepsini basma..... kademe kademe aşağıya doğru gidebilir... sen rahat ol... alımları böl, paçal yapmaya devam et iyi nokta diye tüm parayı yapıştırmamak lazım... yükseldiğinde de ya realize et kar çünkü bir noktada şişecek patlamaya kalma... ya da kalsın bi süre
+ama ppfonları da yılda %30 kazandırıyor.
+endekste yılda %30 
+burda önemli olan uzun vadeli biriktirmeyi düşünmüyorsan 
+yükselince karı realize et, önemli olan T zamanını yakalamak....
+
+dibi bekleme, çünkü dibi bulamazsın...
+
+# Trend Takibi
+yatayda gideni takip et.. balina takliti yap. satacağın noktayı belirlemen gerek. balonu gördün mü sat
+
+# Kaufman
+Trendi belirler, eğer üzerine çıkarsa trend yükselecek...
+Aşağıdaysa uzun vadeci olmadığın sürece almamak lazım...
+
+Kırmızı sev ama yeşile gidecekse sev...
+
+Volatilite'ye dikkat et asıl olay bu öyle ki eğer bir hisse bir yılda iki tane %10 yapsa faizi bile geçer... 
+    sene başından bakmayacaksın olaya, anlık olarak bakacaksın.... 
+    dipten alıp yukarda %10 yaptığıyla realize et... 
+    diğer türlü temettü vemiyorsa uzuna girmeye gerek yok. Trend takipçisi ol ve onu bekle...
+
+fiyat hareketlerini piyasada ön göremezsin ama değerini öngörebilirsin...
+Dolar bazında ve 10 çeyrekte incele - fintables
+
+Çarpan Analizinde çarpanlar ne neye göre düşer yükselir....
+
+f/k yükselmesi için; 
+              ya kazanç kısmı düşecek, gelecekte daha düşük kar açıklayacak
+              ya da hisse fiyatı yükselecek
+fiyat: 739.00
+kazanç: hisse başı karı (bir hisse için karı) = net kar / sermaye
+f/k: 7.65
+son 3 yıl ortalama fk: 10.71
+son 3 yıl ortalama pddd: 9.24 --> şu an pddd:6.31
+son 3 yıl ortalama fd/favök: 10.28 -->8.43
+şirket şuan son 3yılın en düşük çarpanlarına sahip
+şirket karı iyi gelecekse bilançoda %10 artırırsın
+
+https://youtu.be/fQa_HYGZhPU?si=2YmeZy_8CmlbuUhc
+kendini çoktan fiyatlamış şirketlerden uzak dur.... yoksa 3-4 yıl da şuanki fiyatına gelir...
+
+
+Konsolide olmus ne demek?
+Bir şeyleri bir araya getirmek  (şirket bilançosu ve tahminler.. ya da hedef ler)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+dilution - rüçhan hakkı
+
+kapdaki şirketlerin muhasebe verileri - database kurmak - karışık tabloyu anlaşılır yapabilmek - veri görşelleştirme yolları - fintables - bist lisans bedelleri
+sermayeleri aslında emekleriydi bu yüzden seçilen sektör önemli.
+ya yatırımla büyümek yada özkaynakla büyümek
+
+🔻 
+    Piyasa zamanlaması yapmamalısın
+    Biriktirdiğin herşeyle piyasaya girmemelisin - Traderlar bunu çok yapıyor
+
+    Borçla başa çıkabilecek disiplinin olmalı.
+
+    - Mali tabloları incele
+    - Gelir tablosunu incele
+    - Güncel nakit akışını incele
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+      para - BIST30 sağlam şirketlere gidiyor. 2024de
+
+      Borsa, Uzun vadeli kazançlar uğruna, kısa vadeli kayıpları göze alabilenlerindir..
+      Winter in Stocks - Sert düşüşler, bu yüzden önceden bu kışa alışılmalı, planlanmalı 
+            fiyat düşüşleri fena olur. hisselerde maliyet düşürmek gerekli... 
+            yoksa tepeden kitlerler maliyeti bekler durursun 
+            bu noktada düşükten dalacaksın hisselere.... düşeni al çıkanı sat...
+          
+
+
+      Piyasaya pozitif reel faiz verildiğinde borsa endeksi düşer
+               negatif reel faiz verildiğinde borsa endeksi yükselir....
+                    yani insanlar son iki faiz artırımına inanmadı.. borsaya kaçtı...
+
+
+      para düşük riski yüksek getiriye gider...
+          şu sıra faiz ve tahviller moda...
+
+
+      yabancılar tahvile koşar...    tahvil piyasası...
+          sonrası borsaya
+
+
+# ENDEKS MÜHENDİSLİĞİ ve Döngüler...
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Varlık fonu, hisseyi alıyorsa ileriki tarihlerde bunu yükselteceği ya da malın yükseleceğini düşündüğü için alıyordur...
+
+# Piyasaya para girerken piyasa nasıl yükselmiyor....
+  Ordino verenler (yabancı/balina), malları halktan alır ama piyasayı yükseltmez..             Ordino/Dealer: Yabancı, Balina, Varlık Fonu, BOFA, HSBC, Ak Yatırım
+      Ordinoların, dealer'ı olur, dealer'a bana 100M akbnk hissesi al diyor.
+            birinci yöntem - Ordino'nun acelesi var
+                  dealer, ya çize çize alır...      
+                  satıcı geldikçe 10 kademe yukarı tavana gönder... ne kadar varsa tarar alır... hisse yukarı sürülür...
+            ikinci yöntem - Ordino'nun acelesi yok
+                  dealer - hisseyi yukarı sürülmeden o malları toplamaksa eğer...
+                  acelen olmaz, satıcı geldikçe malları al ---> bu noktada piyasa yükselmezi sadece kademe kademe kademeyi de yükseltmeden ağır ağır gider
+                  satıcı geldi ama elindeki hissenin hepsi alınmaz... kademe kademe alınır ki kademe düşmesin
+                  böyle böyle dealerlar ordinolar için hisseleri toplar. grafiğe baktığındaysa... YATAY bir grafik hakimdir.. yükselmez...
+                  piyasaya para girmiş ama sadece el değiştiriyor... ama piyasa bir yere gitmemiş
+                  Bu noktada takas analizine bakılabilir ama bir gün olarak bakılırsa bi şey anlaşılmaz. bu zamana yayılmış şekildedir...
+
+      bu düşük endekste 270$'da beklemeyip, malını ordinoya satan yerli de saf biraz...
+      Yarın bir gün, 400$'dan da yabancının elinden malı almak için koyun gibi kuyruğa giriyor...
+      Diğer bi açıdan, millette zaten kenara atıp uzun vade unutacak para yok... yoluna bakıp günü kurtarıyor... uzun vade bekleyecek duyguya sahip değil...
+      ya da fenası kredili alıp borçlanıyor....
+      borsa, zero sum game - biri satıyorsa biri alır....
+
+
+      Beklersen, Hisseler ederine gider değeri artar... Yabanacılar girerse...
+
+
+
+
+      ?v=ZUfEQBxIT_s&t=860
+      ?v=ZvnfzQbXvRg&t=137
+
+
+
+  Bu noktadan sonra - Mal Çakma Operasyonu
+      Ordino, elinde çok fazla mal var
+      Yani, Ordino satışı geçerse elden malı çıkarma metodunu uygular...
+      Mal bir süre sonra yükselir...
+      Ordino, dealer'a malı 100liradan elden çıkar der... ama bunu malı acalak olanlar bilmez...
+            Küçükler, bu yükselen malı görünce pirana gibi üşüşmeye başlar... / koyun gibi kuyruğa girer...
+      
+      ?v=hfY27PrlH6c
+
+      Yabancı bu mallardan çıktığında da ülke için döviz talebi yaratır...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Balinalar o kadar büyük ki pozisyonlanmak için...
+  borsaya girmek için, küçük balıkları Bitcoin'e yönlendirip borsadaki eldeki malları alır bekler. 
+    sonra bitcoini yükseltip ordan da küçük yatırımcının parasını alır..
+    
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Peter Lynch Strategy
+    Bir şirketin gerçek değerini beklemek, premature durumda kalmamak
+
+
+
+
+
+
+
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Dividend Strategies
+
+CAGR Calculator (Compound Annual Growth Rate)
+
+# Temettü
+    Bir şirketin elde ettiği karları yatırımcılarına dağıtması...
+
+Pay başına 
+1M hisse var, 1M kar da etmişse, her bir hisse başına 1tl kar payı dağıtır..
+
+temettü verimi - bir şirketin piyasa değerine oranla ne kadar temettü dağıttığını gösterir.
+
+temettü verimi yüksek şirketlere yatırım yapmak iyi
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Bir ağaç düşün,
+      ağacın maliyeti 1000tl, ağaçtaki biriken elmalarla 1100 tl. bu ağaç 1100tlye satın alınır, üzerindeki elmalarla..
+            şirket hissesi                    şirketin karı
+
+      elmaları satarsın, ağaç yine 1000tl olmaya devam eder..
+
+      Şirket temettü ödedikten sonra şirketin hisse fiyatı o elmalar kadar düşer... zaten öyle olması gerekir
+      elmaları bedava alamazsın sonuçta, o elmaları aldın sattın, tekrar ağaç elma verdi o zman para kazanırsın
+
+      temettü dağıtımı sonrasında girersek... şirketi ucuza alabiliriz gibi duruyor... elmalar formülden çıkıyor, ağaç kalıyor...
+      yani şirketin önceki karında hakkın yoktu ki zaten, sen hisseyi aldıktan sonraki evreye bakacaksın..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Örnek Temettü:
+      DOAS Hissesi    Hisse Adet    Hisse Fiyatı    Toplam Ödenen
+      ------------    ----------    ------------    -------------
+              2020        20.000           11 TL       220,000 TL            20bin DOAS hissesi 2020 yılında 11 liradan alındı...
+
+Temettü dağıtım tarihi            hisse başı temettü              toplam hisse adedinden temettü
+----------------------            ------------------              ------------------------------
+    27.04.2021                        1,1591 tl                         23,182 tl
+    12.07.2021                        1,1591 tl                         23,182 tl
+    08.04.2022                        5,1136 tl                         102,272 tl         220,000 >> 6,16M
+    14.11.2022                        3,6818 tl                         73,636 tl
+    06.04.2023                        8,1818 tl                         163,636 tl       
+    24.08.2023                        10,2200 tl                        204,400 tl
+
+                                                 Temettülerin toplamı   590,308 tl   ---> yoktan kar geldi...
+
+Ek olarak, bizim aldığımız hisseler halen elimizde bunları aktif fiyattan satmaya kalkarsak...
+        220,000 mal ettiğimiz hisselerin, güncel fiyatı 6,16M oldu....
+
+
+        Buy the company, not the product...
+
+
+
+bunu tüm şirketlere uygula excelde...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Bedelsiz Sermaye Arttırımı
+                            bunun anlamı şirket... kat kat düşecek...
+Şirkete faydası
+Yatırımcıya faydası
+
+
+Şirketin "ödenmiş sermayesi", enflasyon karşısında yetersiz kalıyor... komik kalıyor
+  bu durum piyasada şirketin değerinin çok küçük görülmesine sebep oluyor..
+  bu durum yaşanmaması için şirketler özsermayelerinin enflasyon karşısında erimemesi için bedelsiz sermaye arttırımına gidiyor..
+
+Örnek Durum:
+  46M ödenmiş sermaye ile ALFAS kuruldu...
+  Şimdi, Bırak tamamını, arsasını bile o paraya alamazsın....
+  Hesapladılar 368m olması lazım dediler...
+  %700 sermaye arttırımı yapılması lazım dendi...
+  bunu SPK'ya bildirip onaylatıp gerçekleştirdiğinde ise...
+  elinde ALFAS hissesi olan herkese, şirket ekstradan bedava hisse dağıttı...
+  %700 bedelsiz verince, örneğin elinde 100 adet hissen varsa, +700 tane daha veriliyor...
+  toplam 800 hissen oluyor..
+
+  ama burda bir püf nokta var...
+  adet artıyor ama... toplamdaki değer değişmiyor... birim fiyat o oranda düşüyor..
+  örn: 100 hisse, tanesi 956 liradan 95,600 liraya iniyor...
+       800 hisse adedimiz oldu ama tanesi 119buçuk liradan çarpınca yine 95,600 liraya eşit oldu....
+        burdaki tek avantaj elindeki adeti daha fazla çoğaltmak arttırmış olmak....
+
+burdan temettü yoluyla bile kazanılır... beklersin adet sayısından ve vadeden kazanırsın..
+  fiyatla işi olmaz, adetleri arttırmak. adet artarsa alınacak temettü de artar....
+  ALFAS eski gördüğü 956 tekrar görürse para makinesi olur....
+
+Sermaye Arttırımı yapacak şirketler...
+https://halkarz.com/sermaye-artirimi/
+https://www.getmidas.com/midasin-kulaklari/bedelsiz-sermaye-artirimi-icin-spkya-basvuran-sirketler-2023-p-16874
+
+Örnek: YYLGD, 11 Aug'da %130 bedelsiz verip, üstüne de 31 Aug'da tanesine 0,13 tl temettü dağıttı... 160 milyon lira ortaklara dağıttı
+
+
+bedelsiz gelecek diye gidip hisse alınmaz...
+      100 tane alacaksın diyelim... ne verilecek... 95bin 6yüz
+      800 tane olacak buna da aynı parayı vereceksin... fiyatta değişen bir durum olmayacak
+      adet işi temettü için gerekli...
+
+
+
+
+# bedelsiz sermaye arttırımına gidecek olan şirketleri önceden nasıl bulursun...
+  yani doğuracak hisse nasıl anlaşılır... illa verecek diye birşey yok.. şirketin bununla ilgili toplantı yapması gerek..
+    şirketin öz kaynaklarından, ödenmiş sermayesini çıkart
+        elde ettiğin bu rakamı ödenmiş sermayesine böl ve 100 ile çarp (bi nevi yüzde hesabı)
+            böylece o hissenin bedelsiz verme potansiyelini bulmuş olursun...
+
+    Bedelsiz verme potansiyeli yüksek olan yabancı şirketler...
+      AAPL, MSFT, GOOG, AMZN, TSLA, JNJ, DSNY, WALM, HATHAWAY
+
+    yani eldeki matematikle bunu yapma oranı yüksek demek
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+https://www.youtube.com/watch?v=5FQqw48mDjM 
+
+
+Marjlar, diğer şirketlerle kıyaslanır. 
+	Ne eksi ne de fazla artı gibi gözükmezse sektörel olarak iyi.
+
+Elektrik - her 25 yılda bütün transformatörler yenileniliyor....
+	dağıtım transformatörleri
+	Anahtarlama ürünleri
+
+
+Amortisman - Şirket demirbaşların değerinin yüzde 5ini masraf olarak göstermek. bu malın mesela tablo ya da makinenein şirketin malı olması lazım
+
+
+değerleme
+	- çarpan analizi
+	- şirketin satışları
+
+# aracı kurumlar, İndirgeniş Nakit Akışı yöntemiyle hisse fiyatı belirliyor..
+# Enerji sektörü karmaşık, çünkü üreten var dağıtan var...
+
+defensif sektörler - ekonomi, kötü da iyi de olsa tüketeceksin - enerji sektörü, perakende sektörü
+
+sadece net kara bakarak karar verme.. - fiyat şeytandır...
+	bilançoyu yatay kıyasla 
+	esas faaliyet karına, favök'e bakılır...
+
+Borçluluk Oranı formülü: finansal net borç / faaliyet gelirleri
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+Merkez bankaları, krizleri önlemek için çok para bastığında....
+    o dönemde hisse, altın ve varlıklar satın alın
+    çünkü o dönemde değerleri artacaktır
+    doların ve paralarında değeri düşecektir...
+    2008de gayrimenkul krizini bastırmak için de bu yapıldı
+    2020de pandemiyi atlatmak için de çokça para basıldı...
+
+paraya kıy, anlık veri lisansı al ve kim ne alıyor satıyor, takasları ne kadar, saklı payları var mı gör. mesela takasta yabancı mal topluyorsa o kağıt nispeten iyi durumdadır.
+
+aldığınız beklenti, sattıklarınız gerçektir.
+sabırsızların, sabırlılara para aktardığı yerdir.
+dip yapan kağıtlardan uzak durun, dibin dibi vardır,
+sular yükselince balıklar karıncaları,sular çekilince karıncalar balıkları yer 
+futbol basittir ama zor olan basit oynamaktır...
+
+
+türkiye'de bist30 ya da xtm25 dışında hisse almayın. 
+ihtiyacınız olan parayla almayın. aylık düzenli alım yapma durumunuz varsa azar azar biriktirin. 
+herkes alırken ya az alın ya da hiç almayın. 
+herkes satarken alımlara başlayın ya da alımlarınızı artırın. alınca da bekleyin.
+
+dunyanin sampiyonlar ligi gibi bir sey borsa. trading ekiplerine olasilik hesaplamalari icin nukleer fizikci alani gordum. 
+emir iletim gecikmesi nanosaniye mertebesinde olan sistemler var. 
+sizi saniyede degil nanosaniye icinde bitirirler baslamayi dusunmeyin bile.
+- hisse ile duygusal bağ kurmayın
+
+koç, oyak, iş bankası iştiraklerinin hisselerine yatırım yapıp bekleyen, 
+kısa süreli al satlarla köşe dönme aptallığına yakalanmamış insanlar küçük sermayelerle 10 senede zengin olabilir.
+
+kasımda techno gir may al git ....
+
+
+Halka Açıklık Oranları
+https://bullekon.com/hisselerin-halka-aciklik-oranlari/
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Warren Buffet Analysis
+- Buffet Seçim Kriterleri
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Şirket: 
+Likitide Oranları
+- Cari Oran = Dönen varlıklar / Kısa vadeli yükümlülükler -->1.5'in üzerindeyse iyi..
+                                                             yani kısa vadeli borcunu ödeyebiliyor mu? düşüş varsa ama 1.5in üzerindeyse iyi
+                                                             bunun anlamı, eğer bu oran 2.0 ise yüksekse... 
+                                                                yani borç mu ödenecek, 1 yıllık kısa vade borç. 
+                                                                bir yıl içerisinde nakite çevirebilecek varlıklarım ile bu borcu 2 kere öderim demek... 
+                                                                burdan stokları çıkarırsa buna da likitide oranı denir... yükselmesi iyi.
+- Likitide Oranı = Dönen varlıklar - Stoklar / Kısa vade yükümlülükler --> 0.8 fena sayılmaz. sadece nakitlerinle bu borcu ne kadar ödersin de nakit oranı hesabında... yükselmesi iyi.
+- Nakit Oranı = Nakitler / Kısa Vade Yükümlülükler --> 0.3-0.4 kabul edilebilir yani sadece nakit ile borçlarının %40nı öder.. bu oranların yükselmesi iyi
+- Kaldıraç Oranı (Borçluluk Oranı) = Toplam Borçlar / Toplam Varlıklar (Şirketler için %40 ile %70 ideal konum) 
+                                                                      (Toplam varlıkların içinden borçlarının oranı) 
+                                                                      bu oranı git gide düşürmesi ideal.. ama 70 üstü çok borçlu, 40 altı borç yapmıyor.. 
+                                                                      %10 kaldıraç oranı iyi değildir yani.. şirket yatırım yapmalı
+- Finansal Borç Oranı = toplam finansal borçlar / toplam varlıklar
+       şirketler, faiz artışı nedeniyle finansal borçluklarını ellerinden geldiğince düşürüyor... düşürülmesi ideal.
+
+# Pahalılık Oranları
+            ŞİRKET    SEKTÖR    ORAN 
+F/K          7.43      10.69      30%             sektöründe %30 ucuz
+FD/FAVÖK     16.38     13.89      -17%            sektöründen %17 daha pahalı
+PD/DD        0.89      1.74       51%             sektöründen %51 dah ucuz
+                                                  Ortalamada %30 ucuz diye sallayalım
+
+ASTOR - önceden fiyatlanmış, ama oranları sektörüyle kıyalandığında iyi bir şirket. 
+        yine de uzun vadeliysen riske girilir.
+
+
+Brüt Kar marjı: Ürün ve hizmetin maliyeti çıktıktan sonra
+Net Kar Marjı: Ürün ve hizmetin maliyeti ve vergileri çıktıktan sonra
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Peter Lynch Analysis
+Döngüsel şirketlere dikkat et! - Portföyde Oynaklık yaparlar		
+	Sanayi Şirketleri: EREGL gibi	
+  https://www.lattedenborsaya.com/2022/06/18/dongusel-sirketler-ve-temettu-emekliligi/#:~:text=Peter%20Lynch%20%E2%80%9CBorsa'da%20Tek,%C3%A7elik%2C%20hava%20yollar%C4%B1%20gibi%20%C5%9Firketlerdir.
+  Bu dönemde, Sanayi şirketleri oynanmaya müsait şirketler olarak gözüküyor. EREGL, SASA ...
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Explanation:
+
+Primli: Nominal değerlerinden yüksek bir bedelle ihraç edilen...	
+	      yani 100 lira 100 lira değil demek...
+        bu yüzden şirketi ne kadar ucuza satın alırsan o kadar kardasın...
+        100 liranı 50 lira olarak işletmen yerine, 100 liranı geleceğin 1000 lirası olarak işletmeyi konvalaman gerek....
+
+
+# PMI (Purchasing Manager Index)
+  Sanayi vesaire şirkeler için PMI verileri incelenebilir..
+
+
+# Yabancı Takas Analizi
+  Yabancılar, BIST100'de %35,93
+             ama QNB'siz 26,82% 
+  geçtiğimiz ay içerisinde yabancı yatırımcıların hangi hisseleri aldığı ve hangi hisseleri sattığını gösteren rapordur.
+
+1/3 Ratio ---> Piyasa, 3 ayda kazandığını 1 yılda verebilir, ya da 3 ayda kazandığını 1 ayda verebilir
+
+yatay - trader piyasası.. 
+      stabil bir piyasada yeni başlayan bir yatırımcı ancak yem olur yazıktır, hevese kapılmayın.
+      burda uzun vadeliysen aylarca beklemek yerine, maliyete katlanmadan diğer enstrümanlara yönel.. mevduat faizine paranı yatır ya da altın vs..  
+
+
+
+borsa şu sıra ederinde, ucuz değil... ederindeyse dikkat et ucuzsa saldır
+
+borsa ve hisseler zirve noktalarından %20 düştüğünde ayı piyasasına girer
+
+opex - operasyonel giderleri yüksek olan şirketler, yüksek enflasyon ortamından negatif etkileniyorlar: tcell gibi
+
+düşük bir kar açıklanması, zayıf kar f/k şişirir. ama pddd bakılır...
+
+Equity
+
+
+blue chip
+
+
+# Strategies:
+    Bölünmüş hisseleri bul. bunlar büyümesi biraz zaman alır....
+          2023 yılında bedelsiz sermaye artırımı yapacak şirketler
+
+    IPO sonrasındaki birkaç gün (1 week) iyi bir kar yapıp realizasyona gidilir..
+
+    zaman serileri analizi, ekonometrik regressyonlar, stokastik modelleme gibi matematiksel yontemler kullanin ancak portfoyunuzu sakin bu metodlara endekslemeyin
+
+    temel analiz için bilanço ve mali tablo analiz bilgisi
+    teknik analiz için de metastock gibi analiz programlarını bilmek; yıllarca oluşan bütün dataları programa aktarıp uygulayıp bir enformasyon'a varmak ve macd, rsi gibi kullanışlı indikatörleri yorumlamak gerekecektir
+    bunlara ek olarak güncel konuları takip etmek firmaların ne yatırımlar yaptığı (fabrika almış mı, karı arttıracak neler yapılmış) araştırılmalıdır.
+
+    "Borsa, sokaktaki bilinçsiz bir yatırımcının bile agzına düşmüş, umut kapısı olmuşsa satış zamanı gelmiş demektir." George Soros
+
+    Düşüşlerde, çıkıp daha fazla kağıtla tekrar girin..
+
+    Spec - borsadaki cari fiyat, hisse senetlerinin gerçek getirisi olan yıl sonu kar payıyla uzaktan yakından ilgisi olmayan rakamlar oluyor. ucuzları bulmak burda önemli..
+    her dönüş noktasında burası en düşük yerdi diye alim yapmak size çok pahalı bir ders olabilir. 
+
+    portfoyünüzü bir top gibi düşünün. topun daha yükseğe çıkması, zıplaması için ne lazım? o topun yere hızlı bir biçimde çarpması lazım. 
+
+    # good times to bad times
+    otomotiv sektöründen lojistiğe, lojistikten perakendeciliğe, perakendecilikten gıdaya, gıdadan tarım sektörüne geçebilirsiniz. en sonunda geleceğiniz yer bankacılık sektörüdür. herşey parayla çünkü, para da bankada
+
+    fiyat hareketleri ile birlikte işlem miktarlarını da izleyin. 
+    fiyat ile işlem miktarının birlikte artması, alış sinyalidir. yükselişin devam edeceğini gösterir. 
+    fiyat azalırken işlem miktarının artış göstermesi satış işaretidir. 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Links:
+ISO500	
+  https://www.iso500.org.tr/500-buyuk-sanayi-kurulusu
+Bedelsiz Sermaye Arttırımı	
+  https://www.getmidas.com/midasin-kulaklari/bedelsiz-sermaye-artirimi-icin-spkya-basvuran-sirketler-2023-p-16874
+	https://halkarz.com/sermaye-artirimi/
+Temettü Şampiyonları	
+  https://www.getmidas.com/midasin-kulaklari/2023-temettu-sampiyonlari-yuksek-verimle-temettu-odeyecek-sirketler-p-18729
+	
+
+https://tr.tradingview.com/markets/world-stocks/worlds-largest-companies/
+
+-kara geçtiğiniz zaman riski bölün. en tepeden mal vermeye heveslenmeyin. 
+	saniyelik değdirip çektirirler malınızı satamazsınız. 
+	tahmin ettiğiniz tepeye yaklaştıkça malınızı parça parça satıp karınızı orantılı şekilde cebinize koymasını bilin.
+
+-bu yıl ortalama mevduat faizi %26. 
+	borsa'da 1 yılda %30'dan fazla kazanamıyorsanız fırsat maliyeti bakımından kaybediyorsunuz demektir bunu bilin.				* * * * * * * * * * * *
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+# İçsel Değer Stratejisi
+Versiyon 1:
+şirkette elimizdeki herşeyi satıyoruz, sonra borçlarımızı çıkarıyoruz.. yani ödüyoruz...
+elimizde ne kadlırsa da artık bu bizim güvenlik marjımızdır...
+şirket ucuz mu değil mi buna bakılıyordu 
+
+güvenlik marjı = 1 - (hisse fiyatı/tahmin edilen hisse fiyatı)
+
+Versiyon 2:
+pazarda üstün şirket bul. MOLT
+hendek stratejisi
+
+versiyon 3:
+	artık şirketler digital...
+	değer yatırımı sanayi şiketlerindeki gibi işlemiyor...
+	yeri geliyor bir parça kodu olan şirkete yatırım yapıyorsun...
+	bu yüzden net rekabette avantajlı olan şirketler seçilmeli. piyasasında avantajlı olanlar
+
+	büyüyen bir şirket her zaman karlı bir şirket olacak değil
+
+	şirket iyi günlerini geri de bırakmış mı... avantajlı mı yoksa uzun vadede zararlı bi şirket
+
+değer yatırımı sp500 halen yapılır mı... pek değil
+	çünkü buffet şirketi, snp500 göre kazanç oranı zayıf...
+
+	trde halen yapılır ilk on şirket sanayi şirketi....
+		sanayi ve enerji şirketleri var
+		ne zamanki trde teknoloji şirketleri büyürse trde de versiyon3e geçmek gerekli
+
+	TESLA nasıl analiz edilir... - hem bir otomotiv he mde bir teknoloji şirketi....
+		bu yüzden temel analiz buna göre yapılmalı...
+		https://www.youtube.com/watch?v=7QWWwNM-I3s
+
+
+warrent buffent: "benim için kısa vade yatırım süresi 5 yıl, 
+			orta vade yatırım süresi 10 yıl, 
+			uzun vade yatırım süresi ise 20 yıldır." 
+	buffet güvenlik marjı: %50
+
+
+
+
+# Value Investment - Intrinsic Value
+https://www.youtube.com/watch?v=l-T-Vyk2txc
+New Edition:
+https://www.youtube.com/watch?v=Shuu4f_5YMY
+
+https://www.youtube.com/watch?v=Vj0OPWDbvMQ
+
+
+Free Cash Flow = Operating Cash Flow (Cash Generated by Operating Activities) - Payments for Acquisition of Property, Plant and Equipment
+
+# Apple Past Performance
+		2006	2016		Annual Growth (%)
+Revenue		
+EPS (Diluted)
+Equity
+Free Cash Flow
+
+Selling Price = 10th year Cash Flow * 10
+
+
+# 
+fk - düşük olmalı - amorti süresi 
+	trde faiz oranları %24 ise fk 4-5 olmalı düşük olarak
+pddd - belli bir aralıkta düşük olmalı....
+	yatırımcı hisseyi nakde çevirirse ne kaadar para kazanacağı hakkında fikir verir...
+	özetle düşük piyasa herşey düştüğünde sen topla......
+
+yüksek temettü getirisi 
+
+
+
+# etkin piyasa hipotezi...
+içsel değerin altında değer alınmaya çalışılır...
+
+# R&D Breakthrough
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+
+ülkeler için parasal büyüme parasal genişleme olayı vardır...
+	kabaca örneklersek 2023 türkiyede dolaşımda 100 lira varsa
+			   2024 türkiyesinde dolaşımda 110 lira olacak
+			   2030 türkiyesinde dolaşımda 200 lira olacak
+		ya da 	   1990 türkiyesinde dolaşım miktarı 50 liraydı.....
+	parayla para kazanan şirketlerin karlılıkları da bu şekilde artacak
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+
+hisse senedi değerleme eğitim serisi - finans ve borsa kanalı
+	net dönem karı * 4 / ödenmiş sermaye = hisse başına ne kadar temettü dağıtacağını gösterir...
+
+temettü = sigorta
+
+hisse düşerse temmettünün yüzde olarak hisseye göre yükseleceği
+
+
+https://borfin.com/tr/programs/2280/fastweb
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+
+
+
+
+f/k oranını, yıllık tahvil getiri oranlarına göre değerlendirin. 
+örneğin benim düşünceme göre yıllık faiz oranı %12 ise, 100/12=8.5 üzerinde kalan hisseler pahalıdır ve satılabilir, altında kalanlar ucuzdur ve alınabilir. 
+bazı şirketlerin f/k oranları 25-30 civarına gelmiş olabilir, bunları hemen pahalı diye değerlendirmemek gerekir. 
+fiyatın bu kadar şişmiş olması ya spekülatif bir hezeyandır, ya da şirketin öngörülen gelirleri çok yükselmiştir. 
+öngörülen gelirleri kap açıklamalarından ve basın bültenlerinden takip ederek hesaplayın. 
+eğer az önce verdiğim formüle göre ucuzsa alınabilir, pahalıysa satılabilir. 
+aynı şey f/k oranı çılgıncasına düşük şirketler için de geçerlidir ve bu şirketlerin, örneğin finansman giderine veya petrol fiyatlarının yükselişine bağlı olarak, genellikle gelirlerinin daralacağı beklentisi mevcuttur. 
+o yüzden bu tür değişimlerin geliri ne kadar daraltacağını değerlendirdikten sonra fiyat ucuzsa alınabilir, pahalıysa satılabilir.
+
+keriz ve parası, geceyi aynı yatakta geçirmez..
+
+"Daha fazla kazanmak isteyen, daha fazla risk almış olur..." Hammurabi
+
+
+enf %70 faiz %10 bu noktada alınan kredi ilerde halka girer
+
+
+
+değer yatırımı - yatırım yöntemi
+joel greenblatt - little book that beats the market 
+- karlı olmalı
+- ucuz olmalu
+https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/Temel-Degerler-Ve-Oranlar.aspx#page-5
+
+
+borsada beklentiler alınır, gerçekler satılır. 
+
+İhracat odaklı çalışan şirketlere odaklanın ve ilginiz olan bir sektöre "yatırım" yapın. 
+
+
+bu ülkede hukuk yoktur, hiçbir zaman da olmamıştır, 
+zorda kalıp devletten/yasalardan umar beklediğinizde kaybedersiniz, en azından hakkınızı yeterince alamazsınız.
+siz incelemenizi/hesabınızı kılı kırk yararak yaparsınız, en mantıklı yatırımı paketlersiniz, 
+ama salağın biri bir yerde bir kitap fırlatır (bkz: 21 subat krizi), herşey tepetaklak olur.
+genel endeks üçte birine düşünce haliyle sizinkiler de bir oranda düşecektir.
+ilk ölçünüz pd/dd oranı olsun, bunun bir'den yüksek olması belli düşüncelerle absorbe edilebilir.
+
+-işlerin kötüye gittiği düşünülen sektörün, en sağlam şirketinin hissesi dipten alınacak
+-kendi hisselerini geri toplamayı amaçlayan şirket hisseleri en kazançlı hisselerdendir
+-hissenin fiyatı ilk arz fiyatının altında olması, fiyatın düşük olduğunun göstergesidir
+-tekel hisseleri daima karlıdır
+-popüler sanayilardeki popüler hisselerden uzak dur
+
+önce minik paralarla başlayın, mesela 1000 lira ile bir başlayın kaybetmenin ya da kazanmanın duygusuna bir bakın.
+	* ben öyle başlamıştım ama kaybettikçe daha çok girip maliyet düşüreceğim derken komple kayıp yaşadım.
+2. hisse düşerken alınır, çıkarken satılır. twitter ya da forumlara dalıp tersini yapmayın.
+3. malınızı zararına kaptırmayın sabredin.
+	* ben de öyle demiştim ama en güvenilir dediğim hisse zararına satmayacağım elbet çıkar dediğim halde 
+	bedelsizi ve temettüsüyle birlikte %40 zararda gördü, hala inatla satmıyorum.
+																		*******************
+
+takas analizi : gözünüde bir kağıt kestirdiniz, matriks veya idealdatadan lisansınızı alıyorsunuz, 
+		bu kağıtta kim satıyor kim alıyor not ediyorsunuz, takas dökümünden kağıdın lotları kimin elinde görüyorsunuz, 
+		kağıdın yükseldiği dönemlerde kimin mal aldığına kimin sattığına bakıyorsunuz, 
+		bu aslında almak istediğiniz kağıtla sizin aranızda kurduğunuz ilk somut adım diyebiliriz, 
+		çünkü somut olarak para giriş çıkışlarını görüyorsunuz, bu analizi kafasında oturtan adam işin yüzde %80'ini çözer. 
+		deneyim kazandıkça speğin, tahtacının peşine takılırsınız, tahtacının uğradığı tarihleri bilirsiniz, 
+		gözünüz kapalı tek parametreye bakarak deli paralar kazanırsınız...
+
+indicator: sizin yerinize tahminde bulunabilen program kısaca.
+
+düşüş ve yükseliş trendleri: hissenin kumulatif artıp azalması, bir süreçtir. başından yakalarsanız ekmek yersiniz.
+
+
+hisse arbitrajlama: 3.30 lük hisseniz var hedefiniz 3.35 diyelim. 3.35 e emir verdiniz sattan hisse 3.35 oldu ve sattı, 
+			pusuya yatıp hissenin tekrar düşüp alım fırsatı doğurmasını beklemek diyebiliriz. 
+			tekrar aynı hisseyi 3.16 dan almak gibi.
+
+direnç: hissenin aşmakta zorlandığı fiyat.
+destek: hissenin fiyat düşüşünün durmasının beklendiği seviye.
+
+
+pullback atma: yatırımcı için ikinci alım şansı.
+arkaya pullback: pullback durumu olsa bile, alınmaması gereken hisse.
+
+bedelli: şirket değerlerini, sermaye artırımıyla normalden fazla itelemesi.
+
+
+iteleme kağıt: hacimsiz hisseye doldur boşalt yapılması. alakasız şekilde inip çıkması. günlük saatlik alsatçıların gözde yeri.
+
+silkeleme: kağıdı şişirip tavandan girenlere elindeki kağıdı kakalayıp gitme, 
+	 panik başlar herkes kaçmaya başlar günlük dibe çakışlar görebilirsiniz. 
+
+keriz silkeleme: silkelemede yapılan şeyin bir farklısı. bunu tahtacılar yapar. 3.19 den kağıt aldım, 3.30 a şişirttim. 
+	3.30 da toplu sat verdim, günlük yükseliş trendine giren kağıt için tavandan sıraya girecek dolu adam bulursunuz. 
+	tahtacı hepsine 3.30 dan kitleyip kağıttan kaçar, 
+	al sat dengesinde sat emri öne geçtiği için anlık çakılma yaşanır, bazıları kağıttan kaçmaya başlar kaçma başladıkça saatlik kağıt 3,19 a düşer. 
+	tahtacı 3,19 dan doldur boşaltla tekrardan hisseleri toplar.
+
+hedge: riskten korunma
+
+açığa satış: elinde olmayan menkul kıymetin ödünç alınarak satılması, aman uzak durun çok risklidir.
+
+
+
+bist 100: borsa istanbul'da işlem gören, piyasa değeri ve işlem hacmi bakımından en yüksek 100 hisse burada bulunur , bolca akbaba var. xu100 kodu.
+bist 30: viop+ döviz. üç ayda bir yenilenir, 30 kağıtta burada var. 4 grubu var a,b,c,d
+a en yüksek fdp değerine sahip, d ye kadar azalıyor. xu030 kodu.
+fdp: fiili dolaşım pay oranı. bistte işlem gören payların halka açıklık oranını gösterir.
+
+spot piyasa: alım satım olduğunda fiyatlara saniyesinde yansıyan piyasa. örnek olarak hisse senedi piyasası.
+
+viop: vadeli işlem opsion piyasası. 
+	kimine göre daha garantici..., spot piyasaya göre daha yüksek risk, az mıktarla yatırım sağlayan piyasa. 
+	spk denetiminde burasıda. vergi avantajı var stopaj 0.
+	kaldıraçlı işlem yapılır karınız da zararınız da x5.
+
+
+
+* hisseye para giriyor, al satın önünde ilerliyor ise bu hissenin yükseliş trendine girme imkanı olduğunu gösterebilir.
+* hisse yükselişte olupta para çıkışı oluyorsa tepe noktasına erişmiş olur.
+*hisse düşüyor para girişi oluyorsa hisse dip noktasına ulaşmıştır.
+*panik reaksiyonu: doyuma ulaşmış kağıtta aniden satış emirlerinin verilmesi sonucunda düşüş yaşanırken, yatırımcı da oluşan sat isteği.
+*küçük girdiyseniz, portföy çeşitlendirme saçmalıktır. 
+		yumurtaları tek bir kağıtta toplayıp beklemek küçük yatırımcı için daha mantıklıdır. 
+		çünkü yüksek meblağlardan günlük al satçı değilseniz, küçük yatırımla orta kısa vadede kar elde edemezsiniz.
+* alım yapmak için en uygun saatler sabah 10-11 arasıdır.
+* tahtacılar tatil aralarında veya borsanın kapalı olduğu günlerde parasını ele çeker. 
+		buna cash on hand deriz, çünkü olası bir kötü senaryo durumunda 10 liralık kağıdı yüzde on değer kaybı günlük tahtacıyı batırır. 
+		borsa kapanmaya yakın sat verir, ilk sıralardan açılınca al ile tekrar girer. 
+		buda kağıtta gün sonlarına doğru düşüş gösterebilir, suni bir düşüştür.
+
+* eğer sabırlı ve uzun vadeli yatırım yapan bir borsa yatırımcısı olmaya karar verdiyseniz, unutmamanız gereken en önemli şey, 
+	almak için de sabırla beklemeniz gereğidir. 
+	iyi zamanlamayla yapılan bir alış, daha ilk günden, ilk haftadan kazandırmaya başlar, en azından riskinizi düşürür. 
+	bir hisseyi gözünüze kestirdiniz, izleyin, gerekirse 2 yıl almadan bekleyin, 
+	borsadaki dalgalanmalar size o hisseyi uygun fiyatlardan alma şansı verecektir. 
+	bizde küçük yatırımcının en büyük problemi vade değildir, 
+	genellikle alışlarını zirveye yakın fiyatlardan yaptıkları için çok uzun süre zarardan kurtulmayı beklerler. 
+	oysa zarardan kurtulmayı bekleyecekleri sürenin çok azını almak için beklemekle geçirselerdi, 
+	bu sabır onların en büyük silahı olurdu.
+
+* çoğunluk nereye gidiyorsa tersine gidin. 
+	dün iki kimya firması mesela birisi günlerdir yüzde on geri atıp pullback ıcın sinyal çakıyordu. 
+	diğer kimya firması ise maske yapacağını açıkladı ve şişti, dikkatleri oraya çekti herkes tavandan girdi, tahtacı patlattı 
+	ve diğer düşüş yaşayan kağıda girdi. herkes tavandan aldığı kağıtlarla kaldı.
+
+
+* diyelim bin liralık bir yatırım yapacaksanız, 
+	girdiğiniz hissenin fiyatı 20 liranın üzerinde, fakat bir beklentiniz varsa 
+	bin lirayı beşe bölün, ilk gün iki yüzlük alın, 
+	kağıt öbür gün düşerse bir iki yüz daha atıp daha fazla miktarda alın. 
+	lot sayınızı ufakta olsa artırır kağıttan daha fazla kar ile yatırım beklersiniz. 
+	öbür türlü düşüş değilde yükseliş olursa, alarm kurup kafanızdaki fiyattan sıraya girin. 
+	direk gidip paranızı abanmayın.
+
+* kaybeden bir pozisyona hiç bir zaman ek alım yapmayın
+	* tavan tabandan olabildiğince kaçın, ortalardan seyredin.
+
+
+*trendleri sektörel gelişmeleri hergün takip edin. 
+	yatırım yapacağınız firmanın son bilançolarını, kap faaliyet raporlarını okuyun.
+
+
+https://eksiseyler.com/borsaya-yeni-baslayacaklara-rehber-olacak-bir-yazi
+
+** temettü emekliliği kavramı her borsaçının hayalidir, açıp biraz araştırma yapın ne olduğu ile ilgili. 
+2023 editi, parası 1 milyonun altında olan arkadaşlar için saçmalıktan ibarettir, bulaşmayın.
+
+
+
+
+1- anaparanız altın(gold)da dursun yada günlük faiz veren fonlarda
+2- tr borsasına bulaşmayın
+3- illaki bulaşacaksanız haftalık rsi grafiği 30lara düşmüş “kelle” hisse alın......
+
+ brüt takas, açığa satış, kredili işlem, tek fiyat, teorik eşleşme, göz altı pazarı, devre kesici 
+
+borsa istanbul bileşik endeksinin 1986'da 100 olarak belirlendiği ve bugün o endeksin 100.000 olduğudur. 
+üstelik 1997'de atılan iki sıfır da hesaba katılırsa, 1986'daki endeks 1 olarak alınır ki, 
+bu, 1986'da borsa istanbul'a yatırılan 1 birim değerin şu an 100.000 birim olduğunu ifade eder. 
+bu da aradan geçen 33 yılda, bileşik* olarak yıllık %42 getiri demektir. 
+buradan hareketle rahatlıkla ifade edilebilir ki, borsa kazandıran bir yatırım alternatifidir.
+sadece bileşik endekse dayalı bir pozisyon alıp 33 yıl bekleyen ve 1'i 100.000 yapan bir yatırımcı var mıdır bilmiyorum. 
+ancak borsayı düzenli bir birikim aracı olarak görüp, sağlıklı gördüğü hisseleri sürekli alarak 
+	devam edebilen bir yatırımcının teorik olarak bu kazancı yakalamış olmasının önünde bir engel yok.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# TAKAS ANALİZİ
+	hisse, yatay bantta toplanır.... tahtacı, bir üst banda getirilir.. tahta daha cazip gözükür... 
+	yatay hareket, direnci kırdığı an hisse yükselmeye hazırlanır o anda girilir.. diğer türlü, aylarca karsız-zararsız hisseyi beklersin...
+		yatayın bozulduğu yere alarm kurulur... 
+		dirence alarma kurulur... desteğe değil çünkü aylarca malı bekleyebilirsin...
+			tabi uzun vadeliysen modele şirket ekliyorsan sıkıntı yok aldıkça alırsın...
+		çıkış yapacaksan da izsüren stop yaparsın.. 
+			https://www.youtube.com/watch?v=X5942fc7Gco
+	tahtacı fiyat yükseldiği zaman, talep çoğaldığı zaman satmak ister...
+
+	hisse, düşeyde toplanabilir...
+
+
+			Alıcılar:		Satıcılar:
+	Satıcılar:	dağınık ve çok		toplu ve az		
+	Alıcılar :	toplu ve az 		dağınık ve çok		
+
+
+	Bir hissede, yabancı satarken, yüklü miktarda yerli kurumlar alıştaysa, o hissede yine yükseliş devam edebilir.
+
+
+	dağınık alış olacak	toplu satış		arz azalır, fiyat yükselir
+	toplu alış olacak	toplu satış
+	dağınık satış olacak	toplu alış		arz çoğalır, fiyat düşer
+	dağınık satış olacak	dağınık satış
+
+	Büyük Oyuncular: Bankalar, Aracı Kurumlar, Fonlar....
+
+
+	takas analizinde aslında bazı sorulara cevap ararız.
+	-hissenin lotlarının çoğunluğu hangi kurumun elinde?
+	-spekülasyon girişimi var mı?
+	-hisseyi toplayan birileri varmı?
+	-hisseye yabancı ilgisi var mı?
+	-hisseleri satan (mal yıkan) birileri var mı?
+
+	ilgilendiğiniz şirketin paylarının hangi aracı kurumun saklamasında ne kadar olduğu, 
+	değişimlerinin ne ölçüde olduğu ve buna benzer verilerin değişimlerinin incelenmesi 
+	şirketin gelecekte hangi yönde trend oluşturacağı açasından önemlidir. 
+	düşüş ya da yükseliş trendi başlamadan önce takas verilerinin incelenmesi fikir sahibi olmak için en iyi yöntemlerdendir.
+
+	şirket paylarını en çok elinde bulunduran aracı kurumun takas değişimleridir. 
+	çoğunluk payları elinde bulunduran aracı kurumun alım satım hareketleri hissenin yönünü belirleyen ana faktörlerdendir. 
+	bu aşamada şirketin dolaşımdaki hisse senedi miktarı ve aracı kurumun hacmi de önemlidir.
+	hacim içerisinde en fazla alım yapan, günlük-haftalık düzenli alım yapan belirli bir aracı kurum var mı incelenmesi önemlidir. 
+	çünkü tahta sahibinin takasta gizlenme gayreti olacaktır........
+
+
+	Hangi periyotlarda hangi oyuncular alıyor...
+
+	aracı kurum dağılımında ilk 5 kurumun alımları diğerlerine göre %70 üzerinde ağırlıklı ise, 
+	aynı zamanda satış tarafından ilk 5 kuruma göre diğerleri bölümü satışta daha ağırlıklı ise ilgili payda kaliteli alımlar başlayabilir. 
+	tabi ki bu aşamada zaman kavramını ön plana çıkarmak gerekiyor. 
+	bahsettiğimiz yapı belirli bir düzeyde düzenli olarak bir süre devam etmelidir. 
+	bu süre yatırımcının risk algısına göre değişiklik gösterebilir. 
+	analizi tamamlamak için aracı kurum dağılımında pay alımları incelendikten sonra 
+	hangi aracı kurumun takasında, hangi oranda pay takası gerçeklemiş bakmak gerekir.	Tarihsel Takas Verileri...
+
+	ilgilendiğiniz iki tarih arasında payların hangi aracı kurumun saklamasında artıyor ya da azalıyor bu alandan gözlemlenebilir.
+
+	takas analizinde sadece aracı kurum dağılımlarına bakarak alım satım kararları vermek hatalı olabilir. 
+		takas analizi bir bütündür.
+		hedge (döviz, faiz veya emtia gibi finansal araç veya ürünlerde sahip olunan açık pozisyonlardan kaynaklı risklerden korunma amacıyla, bu açık pozisyonlara ters yönlü risk oluşturan işlemlerin yapılması),
+		arbitraj (aynı menkul kıymetin, paranın veya değerli madenin fiyatının farklı olması durumunda eş zamanlı olarak düşük fiyatlı piyasadan alınıp yüksek fiyatlı piyasada satılarak risksiz kar elde etmektir) ve
+		vadeli işlemler (belirli bir varlığın; örneğin hisse senedi, döviz, emtia gibi ileri bir tarihte, önceden belirlenmiş bir fiyat üzerinden alım veya satımı) de göz önünde tutulmalıdır.
+		örneğin herhangi bir kurum spotta sattığı x hissesine bir o kadar da vadelide pozisyon açmış olabilir.
+	Unutma veriler iki gün önceki verilerdir...
+
+
+
+	https://yatirimkurusu.com/yatirim/takas-analizi-nasil-yapilir/
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Technical Analysis # Fundamental Analysis
+# Investment Strategies
+
+
+# Valuation
+# Ev seçer gibi 1-2 ay doğru hisseyi ara...
+
+Akla kazınacak iki şey...
+- içsel değer
+- hisse fiyatı grafiği
+
+Düzeltilmiş hisse fiyatı - bedelsizler, temettüler düştüğünde..
+
+
+
+https://www.getmidas.com/midasin-kulaklari/ihracat-orani-en-yuksek-sirketler-p-18836
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Bora Özkent: 5yıl sonra 1m$ kaç hisse senedi almalıyız...
+https://youtu.be/FUpXgaZ5d0U?si=c4xA9JeUnXiT9ogU
+
+# Fiyat / Satış Ratio (Price/Sales)
+şirket satışları büyükse = büyüme şirketi 
+Satış tarafı şirketle ilgili en doğru tahminlerde bulunabilecek yer
+	Fiyat/Satış (F/S) Ratio
+	F: Son hisse senedi fiyatı	(piyasanın kararı)	bu noktada kontrolün yok...
+	S: Hisse senedi başına satışlar	(somut ve büyümeye bağlı)
+		yıllık ciro / kaç tane hisse senedi var = S
+ 
+  Fiyatı etkileyen faktörler                        Satışı etkileyen faktörler
+  - Büyüme hızı                                     - ürünler
+  - Karlılık artıyor mu                             - pazar
+  - Serbest Nakit Akış (para yaratıyor mu)          - marka
+  - Hype (Popülerlik)                               - tekrarlayan satışlar
+  - Sektör (değerlenmesinde önemli - dönemsellik)   - trendler
+  - Makro (resesyon, faiz oranları)                 - müşteri sadakati
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# VALUATION
+# Aswath Damodaran - Dark Side of Valuation
+                     The Valuing Young, Distressed, and Complex Businesses
+
+Normalde bir şirketin karı - fiyatının 10 katıdır.
+      20-25 ise aşırı fiyatlanmış..
+      yani 25 yıllık karına şirket alınmaz gibi
+
+PDDD - özvarlıklar 3.8 katından işlem görmesi..
+      varlığından borcunu çıkarırsın.. herşeyi: makinası, fabrikası şusu busu topla borcuna çıkar - özvarlıklar
+
+      böyle bir durumda şirketin özvarlık değeri 1 lira sen 3.8 katı ödüyorsun...
+
+            - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+            bu öyle bir durum ki bi kuruyemişçi satın alacaksın
+            kuruyemişçinin malı 50 lira, borcu 20 lira -  30 liranın 4 katını ödeyip devralmak gibi..
+            ödenmesi gereken para:
+                  size aylık ne kadar getirecek: 20 lira ciro
+                  o borcu kendi satıldıkça öder. 20 lira ciro, 4 lira para kalıyor. %20 kar
+
+                  4bin lira kaç yıllık karına alırsın.
+                  4*12=48lira adam bu fiyata devretmez. çünkü bir yılda çıkarırsın parasını 
+                  adam sana diyebilir: en az 5-6 yıl karına satarım der...
+                  çünkü zamanla insanlar artar, gelenler artar o muhitte 20 değil belki 25 lira ciro yapacaksın aylık vs
+                  sen diyorsun ben buraya şu çerezi getiririm dükkanı genişletirim vs daha çok yatırım yapacaksın
+                  bunların sonucunda 350-400 lira ver diyebilir...
+                  8-10 yıllık karına satın alabilirsin...
+            - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+            Neye bakılır:
+                  Şirket Sermayesi:           1.000.000.000
+                  şirket değeri (pd):         40.000.000.000      yani sermayesinin 40 katından işlem görüyor....
+                  şirket özsermayesi/varlık:  4.442.683.000       herşeyi satınca kalan para özvarlık...
+                  defter değeri:              4.44                değeri bu
+                  şirket fiyatı:              40.12               ama ödediğin bu... 9 katı  
+                  pddd:                       9.03                öz varlığının 9 katı işlem görüyor..
+                  
+                  PDDD - x kadar önden fiyatlamış (ederinden fazla) demektir..
+                  pddd = Yani Özsermeyesi'nin X katına piyasa da satılıyor.
+
+
+
+                  Özsermaye ---> bu şirketin bütün varlığını herşeyini satsan; bilançoa yazılı değerlerden paraya çevirsen ve arkasından da tüm borçlarını ödersen kalacak para
+                      Özkaynak Karlılığı (%) - Şirketin ürettiği karlılık. Sektörü içinde kıyaslanabilir
+
+                  peki kaç para ödüyorsun buna şu an... 40.000.000.000 (pd)
+                  yani 9 katı ----> bunun diğer formülü: pd/dd: 9.03
+
+                  pd / özsermaye = pddd = 9.03
+
+
+                                Bilanço
+                  -------------------------------------
+                  tüm varlıklar   |  borçlar (kısa+uzun)
+                  alacaklar       |  
+                  makineler       |
+                  fabrika/arsa    |
+                  vs.                                           özvarlık
+                  500.000.000     -  300.000.000              = 200.000.000
+
+                  hisse fiyatı * sermaye = piyasa değeri     -> 200m'dan fazlaysa bak, neden?
+                                           400.000.000        pddd = piyasa değeri / özvarlıklar
+                                                              2.0 = 4M / 2M
+                                                              yani piyasa bu şirkete 2 katını ödüyor...
+                  pddd neden artar?
+                  1. hisse fiyatı artıyorsa/azalıyorsa pddd artar/azalır... piyasa pahalı bulursa talebi çeker hisse fiyatı düşer ve pddd düşer...
+                  2. ama hisse fiyatı değişmezken karları artıyorsa öz varlığı da artıyordur.. pddd aşağı doğru gider...
+
+                  bir şirketin pddd, normalde özvarlık karlılığının 10 katı olması lazım
+                                      Dupont Analizi:
+                                        Özvarlık karlılığı: 16,18 --> bunun 10 katı 1.60 yapar... (%0.16 * 1.6 = 1.60 yapar.)
+                                        pddd=1.80 demek ki özvarlık karlılığına göre yüksek gözüküyor..
+                                        tabi elimizdeki veriler hep böyle devam ederse pahalı ama şirket büyüyecek...
+
+                                        yine de şirket olması gereken fiyatta...
+                                        piyasa, şu anki pddd bakar ama değerlemeyi yaparken şirketin geleceğini satın alır...
+                                            şirketin gelecek yıl ne kadar kar edeceğini bilmen lazım
+                                            bu karın kaç katı oluru tahmin etmemiz lazım...
+                                            yani bir nevi pddd tahmini
+                                            ve bu karı şuanki özvarlığa eklersek yeni özvarlık rakamı kaç oluyor...
+                                            özvarlık çok artar, fiyatta bu noktada kalırsa pddd düşebilir...
+
+		yaşar erdinç: ADIM ADIM HİSSE ANALİZİ
+			https://www.youtube.com/watch?v=d9lJ2thfevM
+            
+
+            Yani eğer 10 katını ödüyorsan burda pddd= 9.03
+            ya da karın 32.51 katını ödüyorsan  fk=32.41
+            bu şirkette öyle birşey olmalı ki öyle inanmalısın ki gelecek yıllarda bunun karı büyüyecek ama yüzde kaç büyüyecek...
+                  karı her yıl %32 büyüyeceğini bekliyor fk...
+            her yıl şirketin karı %32 büyürse bu fiyat normal bir fiyat.... fk bunu gösterir..
+
+            peki bu şirketin karı her yıl %32 büyüyebilir mi
+
+
+Şirketlerin "Esas Faaliyet Karlarında büyüme" var mı dönemlere göre analiz et...
+
+https://www.bilgeyatirimci.com/i/borsada-bir-sirketin-analizi-ve-cikarilacak-dersler/
+
+
+
+# Yaşar Erdinç: "Bir Hisseye Değer Biçmek"	https://www.youtube.com/watch?v=4DOby5w9jgs&t=1332
+Tüyo: Son 2-3 aydır "pddd oranı" daha önceki zirvelerin üzerine çıkmış şirketlere bak. Onun faaliye raporunu oku... bir hikaye var...
+      ama pdd teknolojik şirketlerde uymuyor. çünkü varlıklrını belirleyemiyorsun sadece kod işi sonuçta...  intangible assets...
+      pddd - bankalar için ideal çünkü bankaların karı, büyük bölümü kendi sermayesinden gelir...
+Tüyo: Ortalama Fksının altına düştü diye bir şirket alınmaz...
+        belki de ilerde karları çok düşeceği için piyasa satıyordur... faaliyet raporundaki satış karlılığına bakılmalı
+
+
+# Kütahya Porselen aldatmacası:
+    Adamın biri kütaya porseleni arayıp iki kamyon porselen siparişi vermek istediğini söyler.
+    telefondaki de 6 ay beklemeniz lazım sıra veremeyiz siparişlerimiz çok der. 
+    bunu duyan adam parayı kütahya porselene basar. 9 ayda 6x kazanır...
+
+# Kızılderili, Odun - Meteroloji Tahmini...
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - <
+
+# Hisse Analizi
+Balık Tutmak Nasıl olur?
+
+https://borfin.com/tr/courses/2299/hisse-secimi-analiz
+
+
+NOTES:
+Fiili Dolaşım Oranı (Halka Açıklık) - Yüksekse, Patron yetkiyi kendisine, sorumluluğu yatırımcılara kitlemesine yarar. Düşükse, Kolay Manipüle edilir (QNB gibi)
+F/K - Rakip analizine göre düşün - Ağırlıklı ortalamalara bakılır. Aritmetik değil.. Sektörüne göre şirketlere F/K kıyaslaması yapılır.
+Beta: endeks yukarı/aşağı gittiğine etkilenme oranı
+
+
+# Yaşar Erdinç: Borsanın Düşüş Dönemlerinde Hisse Seçiminde Dikkat Edilmesi Gereken Noktalar
+https://www.youtube.com/watch?v=uhSgtzrkruM
+
+Kriz ortamında 
+          elinde bol nakti olan şirketler sağ çıkar... çünkü daralma gelir... hızlı toparlayıp çıkıyorlar.
+                  likitide oranı: yüksek olan şirketler...
+                  cari oranı: yüksek olan şirketler: daha çok elinde nakit/nakte dönüştürebilcek varlık bulunduran şirketler
+                  nakit oranı:
+            elinde döviz varlığı yüksek şirketler getirisi iyi.  
+                  ihracatı güçlü firmalar ve ithalat girdisi de düşük olmalı - yerel malı hizmeti ihraç etmek...
+            perakende şirketleri: bimas
+
+yıllık getiri ortalaması= ?
+standart sapma = stdsapma.p(f2:j2)        spec/manip olanlarda yüksek çıkar
+sharp = getiri ortalaması / standard sapma
+
+
+How To Calculate Intrinsic Value:	https://www.youtube.com/watch?v=d0EBO-vs0GM
+
+halka arzda, fiyat tespit raporunda yazılanlarla açıladıkları paralel olan şirketler. yoksa fiyatı yüksek göstermek için rapor şişirilir..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+        2 years ago      now
+ISYAT  4*10.000 40.000   260.000
+
+bir ortalama ne kadar aşınırsa o kadar çalışmaz halde gelir.. Düşer.. Kırması lazım bir yerde alım gerek
+mal toplamak investment isteniyorsa endeks düzeltilmez ezilir kağıdı basarak toplanır.. yükseltilmez, iyice düşürülür am trade al-sat için gelen hedge fonlar umursamaz dalar.. 50den alır 51,25 olur okutur kaçar.
+bist 30 - defansif büyük hisseler yabancı ilk böyle başlar
+sığ tahta = small cap plansız alınmaz risk yönetimi. yoksa elde patlar. önce ana akım hisseler gider, sonra yeni yatırımcılarla small cap de yükselmeye başlar ama zaman alır
+
+Endeksin geldiği yer ile hisselrin geldiği yerde fark olabilir.
+  Endeks 5000 iken alark ne kadardı şimdi Endeks 8000 iken alark ne kadar?
+                   alarko 8000 endekste 5000 endeks fiyatı varsa ucuz olabilir.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Hacim-fiyat ilişkisi
+    3 parametreyi kontrol et...
+    - Fiyat grafiği (Düşüyor/Yükseliyor)
+    - Hacim (Düşüyor(Daralıyor)/Yükseliyor(Açılıyor))
+    - RSI (Düşüyor/Yükseliyor)
+
+    Hacim fiyattan önce gelir! (Düşük Spread)
+    RSI düşüşü...  Alıcıların isteksiz olduğu bölge... Satıcılar da satmıyor..
+    Hisse dipte, RSI dipte.. hisse satışı azalmış olduğunu gösterir... fiyat, burdan çıkar diye düşünme RSI değerini kontrol et...
+    Spekülatif hisse nasıl ayırt edilir...
+        Fiyat yükselmeye devam eder ama hacim düşmeye doğru gider... bu noktada karını al çık....
+    RSI değeri <30 -> düşüş    = aşırı satım (oversold) bölgesi
+               >70 -> yükseliş = aşırı alım (overbought) bölgesi
+
+    Fiyat yükselişi ne kadar uzun olursa, düşüşü/düzeltmesi o kadar uzun olur.. yatay ya da düşey ilerler..
+
+
+Sektördeki hisseleri incele...
+  Hepsi benzer grafiği yapmış mı yani para girişi/çıkışı.. grafikler birbirine benzeyebilir...
+  RSI ve hacimler dip yani yüksek olabilir... sektörel olarak hisselerde benzer durumlar olabilir...
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Özsermaye
+özsermaye = tüm varlıklar - tüm yükümlülükler
+
+
+Örn: SISE
+      Özsermaye: 93.967.108.000          özsermaye = Özkaynaklar
+          şirketin tüm varlıkların tüm borçları çıkarıldığı zaman kalan özkaynak..
+
+      Sermaye: 3.063.214.056      sermaye = lot sayısı = shares
+
+      özsermaye / sermaye = defter değeri
+      93.967.108.000 / 3.063.214.056 = 30.68
+      SISE güncel hisse fiyatı ise şu an 46.38
+      piyasa değeri = şirketin bir hissesinin fiyatı
+      46.38 / 30.68 = PDDD = 1.51        şirket defter değerinin 1.51 katına satılıyor...
+      piyasa değeri bazen altta bazen üstte.. beklenti ise --> defter değerinin büyüme beklentisi
+      özsermayesini arttıracak bir şirket piyasada o kadar talep görür. pahalıya satılır
+
+
+# Defter değeri
+defter değeri = 1 adet hissenin özsermayesi
+    defter değer bilinmesi için ödenmiş sermaye bilinmeli
+
+
+# Bilanço eşitliği
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+                         |  kısa vade yükümlülükler (borçlar)
+duran varlıklar          |  ÖZSERMAYE
+                         |    ödenmiş sermaye
+                         |    geçmiş dönem karları
+                         |    yeniden değerlendirme karları
+
+toplam her zaman eşit olmalı...
+borç aldın mesela aktif dönene nakit girer
+nakiti aldın makine satın aldın duran varlıklar
+gittin borcu ödedin, borç azalır, nakit de azalır...
+Özsermaye, bilançoda kolay kolay değişmez... bu yüzden önemli... fk yanıltabilir, favök yanıltabilir, pd favök yanıltabilir.. şirket zarardadır fk eksiye düşer...
+ÖZSERMAYEyi değiştirmek için 
+        ya ödenmiş sermaye değişecek
+        ya geçmiş dönem karları
+        ya yeniden değerlendirme karları yazacaksın
+Şirket kar etmediği sürece, öz sermayesi değişmez...
+Şirket zarar ettiğindeyse, özsermaye negatif değişir, erir.
+
+
+Örnek:
+    8000 kendi paran
+    2000 ortak parası  (1/5 ortağı)
+    toplam sermaye: 10000
+    ödenmiş sermaye: 10000 lira (10000 lot). lot başı 1 lira
+    12000 para lazım şirketi kurmak için..
+    2000 borç alındı...
+
+# bilançosu ise:
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+12000 nakti harcadık     |  kısa vade yükümlülükler (borçlar)
+                         |  (2000)
+stoklar                  |
+malzeme (5000)           |
+duran varlıklar          |  ÖZSERMAYE (10000) = (DD: 1)              defter değeri değiştikçe senin payında değerlenir...
+mallar alınır            |    ödenmiş sermaye = (10000)              alınan borç özsermayeye etki etmez, çünkü o parayı biz kendimiz koyduk...
+(7000)                   |    geçmiş dönem karları
+                         |    yeniden değerlendirme karları
+
+total: 12000                total: 12000
+yapılan aksiyonlar, şirketin değerlenmesini sağlar...
+
+
+1 yıl sonra
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+5000 nakit konuldu       |  kısa vade yükümlülükler (borçlar)
+                         |  (2000)
+stoklar                  |
+malzeme (5000)           |
+duran varlıklar          |  ÖZSERMAYE (15000) = (DD: 1,5)              defter değeri değişti, senin payında değerlenir...
+mallar alınır            |    ödenmiş sermaye = (10000)
+(7000)                   |    geçmiş dönem karları
+                         |    yeniden değerlendirme karları
+
+total: 17000                total: 17000
+
+borcu ödemek için nakit 5000-2000 = 3000            borcu dolar olarak aldıysan sıkıntı, dolar kuru zıplayabilir, üstüne bi de faiz gelebilir.... 
+bunu da hesaplarsak        5000-3300 = 1700               2000 sana 3000 bile olabilir...
+total: 17000                total: 17000
+şirket borç alınarak özsermaye değişmez ama borç bekledikçe faiz veya döviz sıkıntısına düşer bu da özsermayeyi etkiler...
+aktif aynı kalır ama özsermyeden yükümlülüklere çalışırız....
+                            3300 - yükümlülük olur
+                            özsermaye: 13700e düşer... dd:1.37
+total: 17000                total: 17000
+nakitle borç ödersek, özsermaye değişmez....
+total:15000                 total: 15000
+
+2.şube için 12000lira daha lazım....
+    ama bizdeki nakit 3000 şuan
+    9000 daha bulmamız gerek. borç aldık...
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+3000 nakit 12000e çıkar  |  kısa vade yükümlülükler (borçlar)
+borç eklendi             |  (9000)
+stoklar                  |
+malzeme (5000)           |                                             borç aldık yine ama
+duran varlıklar          |  ÖZSERMAYE (15000) = (DD: 1.5)              defter değeri değişmedi...
+mallar alınır            |    ödenmiş sermaye = (10000)
+(7000)                   |    geçmiş dönem karları
+                         |    yeniden değerlendirme karları
+
+total: 24000                total: 24000
+
+bu aşama sonrası....
+ikinci şube
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+nakit:0                  |  kısa vade yükümlülükler (borçlar)
+                         |  (9000)
+stoklar                  |
+malzeme (5000+5000)      |                                             ikinci şube kara geçti
+duran varlıklar          |  ÖZSERMAYE (15000) = (DD: 1.5)              defter değeri değişti...
+mallar alınır            |    ödenmiş sermaye = (10000)
+(7000)                   |    geçmiş dönem karları                     şirket özsermaye karlılığını arttırdı...
+(7000)                   |    yeniden değerlendirme karları
+
+total: 24000                total: 24000
+
+
+bir yıl sonra
+                BİLANÇO EŞİTLİĞi
+aktif                                      pasif
+--------------------------------------------------
+dönen varlıklar          |  uzun vade yükümlülükler (borçlar)
+nakit:10000              |  kısa vade yükümlülükler (borçlar)
+                         |  (9000)
+stoklar                  |
+malzeme (5000+5000)      |                                             borç aldık ve ikinci şubeye harcadık ama
+duran varlıklar          |  ÖZSERMAYE (25000) = (DD: 2.5)              defter değeri değişmedi... yani 1 lira yatırılan işten, 2.5 lira kara geçildi...
+mallar alınır            |    ödenmiş sermaye = (10000)                nakit-- özsermayeye de gösterildi...
+(7000)                   |    geçmiş dönem karları
+(7000)                   |    yeniden değerlendirme karları
+
+total: 34000                total: 34000
+
+borcu ödersek peki
+nakit:1000                  yükümlülük:0
+total:25000                 total:25000
+
+bu noktada borcun faizi ve şirkete ne kadar etkili olduğu önemli. ek olrak şirketin büyüme perspektifi...
+gelecek aksiyon 3.şubeyi açmak....
+ama kendi büyüse bile karı büyümeyecekse şirket burda parayı başka şekilde değerlendirebilir...
+bir şirket yatırım yapmadığı sürece küçülür... yani özsermayeden yer...
+ilk etapta büyümesinin sebebi içeri iyi para koymasıyla...
+içeri gelen parayı değerlendiremezsen. şirket küçülür.. ya da old yerde kalır...
+bebek şirketler bu yüzden önemli: büyüme oranı büyük olabilir..
+bu yüzden özsermaye büyüme pattern takip edilmeli.. ÖZSERMAYE KARLILIĞI ARTIYOR MU?
+
+Yüksek özsermaye karlığı olan şirket örnekleri:
+  ttrak
+      özsermaye: 7.757.455.846
+      net karı: 6.295.874.992
+        nerdeyse %100 kar yazmış.... 3 çeyrek içinde....
+
+net dönem karı ve özkaynaklar - bu ikisinden özsermaye karlılığını da bulabiliriz..
+  ttrak
+      özsermaye: 7.757.455.846
+      net karı: 6.295.874.992
+        nerdeyse %100 kar yazmış.... 3 çeyrek içinde....
+yani isterse bir ttrak daha kurabilir...
+ama trrak parayı ortaklara dağıtıyor.. özsermaye büyümüyor hemen...
+kasaya koysa nakitte dursa özsermaye iki katı olurdu ama şirket tekrardan para kazandığı için %50 özsermaye karlılığına düşmüş olacaktı..
+bu durum, şirketin satıldığı fiyatı değiştirir....
+    ttrak defter değeri: 77.52
+    trrak pddd: 8.72                    defter değerinin neredeyse 9 katına satılıyor...
+    ttrak güncel hisse fiyatı: 676.00....
+ama ttrak temettü vermese nakitte tutsa, özsermayesi büyütse ama karını arttıramasaydı..
+    şirket defter değeri 150.00 olurdu... pddd: 5.00 defter değerinin de 5 katına satılırdı.. 676.00
+    ama fiyatta bu kadar hızlı artmazdı
+
+ama sise'ye bakarsak
+    özsermaye:93.967.108.000      özsermaye devasa büyümüş...
+    ner kar: 13.359.946.000
+    burda %15-20 gibi bir özsermaye karlılığı var... ttrak aksine...
+    13/93=0.13= %13 özsermaye karlılığı var      = 1.3
+    bir şirketin özsermaye karlılığının 1/10 kadar pddd olur
+    sise pddd: 1.5 
+    sise defter değeri: 30.68
+    sise piyasa fiyatı: 46.38
+    defter değerine göre ucuz konumlanıyor ttrak kıyasla sebebi
+        dd, hızlı büyütemeyecek hale gelmesi
+    ama ttrak özsermaye karlılığı yüksek oldu için kendini büyütebiliyor..
+
+ÖZSERMAYE KARLILIĞI YÜKSEK OLAN ŞİRKETLERİ BULUNMALI.... ve daha ne kadar büyüyebilir diye düşünülmeli
+    ve şirketi de alırken pahalı almayacaksın... pddd bakınca çok pahalı olmamalı
+    özsermaye karlılığı %50 olan şirket 1 iken 1.5 olur 4 çeyrekte... 1 yıl sonra yani
+    ama baktın şirket zaten 1.3 katından satılıyor... aşırı ucuzdur.. alınır
+    ama ttrak gibi şirketler zaten 50 katına satılıyor... ödediğini alman yılları bulur....
+    ttrak %100 bile büyüse o 50 katı ödediğin paraya gelmesi yılları bulur.. ve bu mantıklı iş değil...
+
+şirket özsermaye karlılığı yüksek ama hali hazırda çoktan pahalı fiyatlanmış ise... girilmez artık...
+    pddd değeri yüksekse girme, ama büyümesi iyi umurum da olmaz demen gerek.. fiyat şişirilmiş...
+    ancak black swan'da girilir..
+
+hangi yıl ne kadar özsermaye karlılığı vardı bak..
+ya da 
+şuan özsermaye karlılığı yüksek olanları bul...
+    geçmiş yıllardaki fiyat artışı, defter değeri artışına bir bak
+ya da özsermaye karlılığı düşük olan şirketler bunları yazıp bulmak
+hangi şirket fazla fiyatlanmış bir gör... ya da hangisi daha çok kar ettirmiş bir gör
+nerden alsam ya da satsam kar ederdim diye analiz etmelisin.
+
+özsermaye karlılığı yüksek ama kaç katından satılıyor.... teraziye koy...
+    özsermaye karlılığı fiyatına göre ağır basıyorsa... o şirket alınır...
+    tersi sat kurtul... güzel bir fiyatlama varsa
+https://youtu.be/FwFWEdzeEIs?si=jtZ5shTQy9klr_5a
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Strateji
+((net kar / özsermaye)*100)/10 = pddd   bu aralarındaki ilişki alakasız ise o işe girme...
+
+fintables:  net dönem karı / özkaynaklar * 100/10 = pddd yakın olmalı yoksa alakasız....
+
+net dönem karı ve özkaynaklar - bu ikisinden özsermaye karlılığını da bulabiliriz..
+  ttrak
+      özsermaye: 7.757.455.846
+      net karı: 6.295.874.992
+        net dönem karı / özkaynaklar * 100 = özsermaye karlılığı % = %81
+        nerdeyse %81 kar yazmış.... 3 çeyrek içinde....
+yani isterse bir ttrak daha kurabilir...
+ama trrak parayı ortaklara dağıtıyor.. özsermaye hemen büyümüyor...
+kasaya koysa nakitte dursa özsermaye iki katı olurdu ama şirket tekrardan para kazandığı için %50 özsermaye karlılığına düşmüş olacaktı..
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# ucuz şirket için birinci yöntem: PD
+                        sermaye
+Özkaynaklar (Bin TRY) / Shares (Ödenmiş Sermaye) = Defter Değeri      Piyasa değeri
+ 214.138.000.000        2.535.898.050              84 lira            140 lira              KCHOL
+ 38.825.680.000         363.281.250                106 lira           107 lira              TAVHL
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# ucuz hisse için ikinci yöntem: F/K
+  aynı sektörde hangi hisse daha iyi araştırması
+  bir şirketten bir lira kazanmak için kaç paramı şirkete vermeliyim...
+
+  Hisse piyasa fiyatı / hisse başına kar = ödenmesi gereken fiyat (F/K)
+
+  ARCLK  127.90 / 7.59 = 16.85                           aslında bulduğumuz şey FK
+  Arclkten 1 lira kazanmak için 16.75 riske atılıyor.
+
+  hisse başına kar - geçmiş 4 çeyrekten elde edilir. yani gelecekle ilgili değil...
+  yani fk denilen şey 1 lira kar etmek için ne kadar yatırmamız gerektiğidir.
+  diğer anlamı ise yıl hesabı kaç yılda amorti eder.
+
+  şirket piyasa değeri artıyor ama hisse başına kar artmıyorsa fk yükselir... 
+
+  tahvil faizleri ve eurobond ile ters orantı. faiz risksiz getiridir. kesin getiridir. o zman neden borsaya gideyim
+    faizler düşükse fkler yüksektir
+    faizler yüksekse fklar düşüktür
+
+  ileriye dönük beklenti yüksekse yüksek fk ile ödeme yaparlar
+  sağlıklı olan şirketin fksı düşükse alınır...
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# FK Analizi 
+fk başlangıç noktasıdır... ne herşey ne de hiçbirşey
+  net kar marjı, net akışları faaliyetleri... bunlar fk ile başlar...
+
+f/k - piyasa değeri/son dört çeyrek net karı 12 aylık net kar biilgisi
+doğru formül: piyasa değeri = net kar x F/K
+fk - piyasada fiyatlanan birşey aslında
+piyasa şirketi ne kadardan fiyatlıyor. piyasanı arz ve talep dengesini ifade ediyor..
+şirketin karı büyüdükçe fk küçülüyor. çünkü borsa geleceği fiyatlayan yerdir..
+gelecekte kar büyümesi olacak mı tahmin etmen lazım
+60m = 2m x 30
+66m = 3m x 22
+60m = 4m x 15  fk normalleşiyor.. ama karda artıyor yine de sana faydası yok.
+40m = 4m x 10  şirket artık revaçta değil. hisse elinde patladı..
+talep bozulmazsa şirket alınır...
+PEG ratiosu ama enflasyon ortamında pek çalışmaz
+talep bozuldu ama şirkette iyi yıllık kar getirirse yine sağlam kazanırsın..
+200m = 20m x 10
+
+
+https://youtu.be/1G4e77xQB60?si=GxowOQ5Yf6tkgDGd
+
+
+Şirketin geleceğini bilmelisin yoksa FK işe yaramaz... 
+5 yıllık karı hesaplaman gerek...
+
+A şirketi                        B Şirketi
+F/K = 10                         F/K = 8
+Net Kar Büyüme Oranı = %50       Net Kar Büyüme Oranı = %20  
+İlk Yıl Kar = 100                İlk Yıl Kar = 100
+PEG = 10/50 = 0.2                PEG = 8/20 = 0.4
+100
+5 yıl içinde her yıl %50 kar yapacağını hesaplarsan... yani karı büyütme oranı %50        %20 karı büyütme oranı olan şirket
+100 * 1.5 = 150                                                                          100 * 1.2 ^ 5 = 248
+150 * 1.5 =                                                                                          5 yıl içerisind ekar bu rakama ulaştı. şikete 800 lira verdin ama kar hiç büyümemiş...
+225 * 1.5 =                                                                               100 * 8 = 800 ---> 248 * 8 (fk aynı kalsa...) = 2000
+337 * 1.5 =                                                                                    5 yıl içinde işler kötü gider insanlar buna 4 fk verirse ---> 248 * 4 = 992 ... para kazanamazsın kr büyüse bile...
+506 * 1.5 = 759 5 yılda karlılık bu rakama çıktı
+
+PD = 10 * 759
+bu şirketi 7500liraya satabilirsin...
+ilk yıl kaça aldık... 1000 liraya aldık
+1000 = 100 (ilk yıl kar) * 10 (FK)
+diyelim ki fk 5e düştü. yine kar ama 3500 lira oluyor bu kez..
+
+karını ciddi büyütecek şirketi ucuz bir fiyattan alırsan... ve peg rasyosu küçük olan değerden alırsan kar edersin
+fk yüksekse kaçınacaksın. coşkulu dönemmmm
+froto: ne zman 8 fkdan alırsan kar. ne zaman 120 fkdan alırsan zarar.... grafiği incelemek gerek.....
+coşkunun olmadığı insanların unuttuğu. fknın düştüğü ve şirketin iyiye gideceğini düşünüyorsan yatırım vs... alırsın hisseyi
+
+bu nasıl bilinir? gelecek net kar....
+-kap haberleri...
+-fintables: çeyreklik net kar son 4 çeyrek....
+  satışlar hasılat yükseliyorsa FAVÖK yükseliyorsa... iyi alınır...
+işler kötüye gittiğinde güvenlik marjı bırakacaksın riskli ülkedesin patronun lafına bile inaanma yüksek fkye girme... 
+max 10 fk trde ama yüksekse iyi bir şirketse ttrak gibi bunu da kaçırırsın
+fk bu noktada hiç bir şey... astor bile kaçabilir...
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Bedelsiz Sermaye Artışı      --> bedelsiz lot vermek
+Bolca lot alınır ve bir süre elinde tutulur, aynı fiyata tekrar geldiğinde de satılır ve sıfır maliyete düşer...
+SPK onayından sonra bir tarih verilir bu bir fırsat olur.
+  KONTR   ZEDUR   VBTYZ   MPARK   TUCLK   KNFRT   HKTM   ASUZU   BFREN   MRGYO   CASA   LINK   SNPAM   SEKFK   PCILT   BAKAB   MTRKS   TERA
+
+  hemen buna kanıp yatırım yapma!
+    özsermaye karlılığı ne?
+    karlılık durumu ne?
+    güncel fiyatı ne?
+    vizyon, piyasadaki algısı
+    temel ratio
+    döviz girdisi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Bedelli Sermaye Artırımı
+# Temettü
+
+https://www.youtube.com/watch?v=PMg85gMTKEk
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+# 00. Borsa'da Zamanlama
+      Kısa      Orta      Uzun..      
+
+      Kaos Teorisi
+      Kaldıraç
+
+      Yarın ne olacak kimse bilmiyor... ülke/dünya konjektürü vs..
+      1 hafta sonra ne olacağını kimse bilmiyor..
+
+      yatırdıkları toplam para değişmiyor... Hepsi aynı parayı ortaya koyuyor...
+      A kişisi, yılın en dibinden alıyor.                                            Şanslı            1
+      B kişisi, yılın ilk işlem gününde alıyor. Ayın 1'i                             Disiplinli        2
+      C kişisi, her ayın 15'inde alıyor.                                             Aylıkçı           3
+      D kişisi, Olabilecek en kötü yerden / piyasa en yüksekteyken alıyor.           Bedevi            4
+      E kişisi,                                                                      Faizci            5                  
+
+      https://www.schwab.com/learn/story/does-market-timing-work
+
+      bir tren düşün, çok şanssız da olsan, bilgisiz de olsan, geri de ileri de gitsen, tren seni eninde sonunda oraya götürecek.
+
+      Three Girls...
+      1. Şanssız      bekletip zirveden aldı ya da kriz olmadan önce parasını koymuş..      üçüncü kazanan
+      2. Uyanık       bekletip dipten aldı ya da kriz olacağını biliyor, ve kriz olduğunda en dipten alıyor.. O girdikten sonra piyasa yükseliyor..  100 ve 200 günlük ortalamaya gelsin öyle alırım diyor. ikinci kazanan
+      3. Umarsız      her ay alım yapıyor...                              en iyi kazanan
+
+      "Remember time in the market beats timing the market. Invest early and often.." Jeremy Schneider - Personal Finance Club
+
+
+      Robert Shiller: piyasa pahalı mı ucuz mu... cape ratio
+            Cape oranı: piyasa değeri / son 10 yıllık karların enflasyon ile düzeltimiş ortalaması...
+            ratio yüksekse piyasa durağan..
+            ratio düşükse piyasa artacak..
+            https://youtu.be/jA7InuEM7Ug?si=_m9N1zOokFsyisIm
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Portföy çeşitlendirmesi seni ülke konjektüründen korumaz
+      çünkü hisselerinin, olabilecek olumsuz konjektür dahilinde correlation var...
+      sadece temettü kazanacaksın diye tüm paranı yatıramazsın. belli bir likiditen olmalı... 
+      peter lynch 
+
+Bu nokta yapılacak; kaynak çeşitliliği
+      yani sadece hisse değil
+      metal ya da eurobond vs...
+      ya da gayrimenkul
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Kaldıraç - Özkaynak / Borçkaynak Oranı
+50/50
+1/3 çalışan şirketler. eğer borç kaynağın maliyeti düşükse özkaynağın getirisi yüksek olur.
+
+Düşük faizde, enflasyonda varsa ne kadar borç kullanırsan özkaynağın getirisi büyür.
+Amaç: Özkaynağı güçlendirmek
+
+# Özkaynak # Borçkaynak
+Örneğin:
+karlılık %10       Aldığın borç sana %10 getirmiş
+faiz %5            Aldığın borca %5 faiz ödüyorsun
+Kalan %5           Bu yüzde de özkaynak getirini arttırır.
+
+ROI - Return on Investment - Yatırım verimliliği
+ROE - Return on Equity - Özkaynak verimliliği
+
+İş terse çalışırsa, özkaynağın getiri borca aktarılır... bu noktada batış yaşanır..
+Yatırım, genellikle borçla yapılır.
+İsabetsiz yatırım batırır. Yatırım yapmazsanda rekabet edemezsin, hacmin düşük kalır. büyük ölçek olamazsın.
+
+Borçtan korkma, Malsız/Mülksüz Kalmaktan kork... nasıl olsa enflasyonla varlıklar değerlenir..
+Turşucu gibi beklemek gerek..
+Enflasyon borcu azaltmak için kullanılır.
+1 lira borcun var senin, 100 lira varsa bankanın sorunudur...
+emniyete almadan borca girilmez...
+
+
+Küçülmeden büyüyemezsin...
+# Küçülerek Büyüme metodu (Scale Down)
+  Aldığın borca hizmet edersen sıkıntı.. 
+  İlk etapta işi büyütemezsin...
+    Bilançoyu küçültmen gerek..
+  Az borç yapmak, Çok özkaynak yapman gerek
+
+  Küçülme Modeli
+    entegre geçişler: pamuk --> iplik --> kumaş --> hazır giyim 
+    geçişlerinde hangisinde para kaybediyorsun...
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Definitions and Extras
+# Scalping
+    Scalping, teknik analiz yöntemleri ve farklı başka scalping teknikleri kullanarak çok kısa zaman aralıklarıyla alım satım işlemidir.
+
+# HFT (High-Frequency Trading)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Links
+https://phemex.com
+https://youtu.be/ajPrZt4tymE?si=nuEtYzyp83jHDttd
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+# Buffet's Moat Theory Criteria
+    Bir şirket bunlara sahip mi?
+    - Düşük işletme maliyetleri
+    - Maddi Olmayan Varlıklar: Patentler, lisanslar ve hatta markanın kendisi işin. Çeşitli ilaç şirketlerinde bir patent örneği bulunabilir.
+    - Mevcut talep nedeniyle (Kırmızı Efekt). Ürün veya hizmet o kadar popüler hale gelebilir ki 
+      Şirket pazar payı kazandığındave o kadar büyüyor ki, halihazırda orada bulunan diğer tüketicilerin motive ettiği yeni müşterileri bile çekiyor.
+      Apple, Amazon
+    - Değiştirme maliyetleri: Bir kişi marketini değiştirebilir ama bankasını ya da telefon markasını kolay kolay değişteremez...
+                              Değişen şirketlerin maliyetlerinden dolayı müşterileri güvence altına alma gücü
+                              
+    
+    
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Borsa ve bilanço terimleri
+Revenue - Ciro                      Turnover - kendini çevirme
+Cost of revenue - ciro maliyeti
+Gross Profit - Brüt Kar
+Net Profit - Net kar
+Adj. EPS - Hisse başı kar
+Q4 Revenue Outlook - Ciro beklentisi
+Operating Loss - Harcamalar
+
+Cost and Expenses - bütün giderler
+Operating Expenses:
+R&D - Ar-Ge 
+S&M - Sales and Marketing
+G&A - General and Administrative - Genel Giderler
+
+
+Income from Operations - net karlılık
+Operating Margin - esas faaliyet kar marjı
+operating profit - esas faaliyet karı
+Provision for income taxes - 
+effective tax rate - 
+net income - net kar, net gelir
+diluted earnings per share (eps) - 
+
+
+net cash provided by operating activities - net akışı...
+cash and cash equivalents - şirketin nakit miktarı
+total current assets - cari - her an nakite dönüşebilicek varlıklar
+  marketable securities - tahvil
+  accounts receivable, net - alacaklar
+  prepaid expenses and other current assets - önden ödenmiş giderler
+total assets - toplam bilançodaki varlıklar
+total liabilities - şirketin toplam borcu
+
+
+
+
+
+--------
+US. Gross Domestic Product (GDP)  - us büyüme oranları...
+Core PCE Price Index - Enflasyon oranı...
+     PCE - Personal Consumption Expenditures - Enflasyon oranı 
+
+
+
+
+
+Bir şirketi satın almak için hem hikayesini bilmek
+                         hem de matematiğini bilmek gerek..
+                        Yani bu fiyata bu hisse alınır mı..
+                        Tıpkı emlak yatırımı gibi evin fiyatı iyi olabilir ama bu fiyata alınır mı? ya da şirkete güvenilir mi?
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+bir hisse senedinin vadedeki fiyatı ile spottaki fiyatı (eğer orta da bir temettü yoksa)
+                  vadeli de daha ucuz oluyor... yani hisseyi alman için sana para veriliyor gibi
+                  nasıl olabiliyor... sıkıntılı durum.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+şirketin borçluluk durumuna bak, uzun vadeli
+borç azalır, fiyat yeterinde gitmezse ---> güzel bir alım fırsatı verir...
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# GYO
+      emlak konut
+      konut alımını zorlaştırıcı mı? faiz yüksek mi?
+            gyo arasında bireysel konuta odaklanan şirketler için olumsuz
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Alım hesaplama yöntemleri (İşin Matematiği)
+
+Satışları çeyreklerde ve her yıl artan şirketler bul
+
+Formül:
+
+      Fiyat / Satış (F/S Ratio)
+      |        |
+      |        hisse senedi başına satışlar
+      |                                    (satış, bir hisse senedine düşen yıllık ciro anlamında)
+      hisse senedi son fiyatı              yıllık ciro bilinmeli son 12 ay tercih edilebilir.
+      |                                    yıllık ciro / sirketin kaçtane hisse senedi varsa ona bölünür = hisse senedi başına satışları bulursun
+      |                                    |  
+      piyasa kararı                        somut ve büyümeye bağlı
+        piyasa neye göre karar veriyor?               satışlar sömuttur zaten
+
+      fiyat                                 satış
+      ----------------------------------    ----------------------------------
+      şirketin büyüme hızına bakar          ürünler (yeni ürünler çıkıyor mu)
+      karlılık                              pazar (içinde olduğu pazar büyüyen bir pazar mı)
+      serbest nakit akışı                   marka (marka yönetimi nasıl)
+          şirket para yatabiliyor mu        tekrarlayan satışlar (bi kere bi müşteri kazanınca uzun süre orda kalması: palantir)
+      sektör                                trendler (sektörü destekleyen ana trendler: elektrik araba ---> tesla: charging, )
+      hype                                  müşteri sadakati/memnuniyet
+      makro ekonomi
+
+
+
+      mesela son 1 yıldır nvidia hype var.. yapay zeka sektörü..
+      apple kriterlerin çoğunu veriyor...
+      düşük hızda büyüyen sektörler olmamalı
+      makro ekonomi: fed başkanı ne dedi, ekonomik kriz, resesyon vs
+
+      seekingalpha.com - income statement - satışlara bakılabilir... TSLA Growth Gradee
+        tesla sadece otomotiv sektörü olarak değerlendirmek yanlış bu yüzden büyümesi diğer şirketlere göre büyük
+                     otonom sürüş, yazılım şirketi, charging...
+        tesla biraz apple'a benziyor aracı sattıktan sonra yazılımla da para kazanıyor
+        apple gibi ecosistem de yaratıyor.
+        arabayı, telefon gibi düşünmek gerekiyor..
+        tüm para gömülmez 5 yıl içinde yavaş yavaş alınır düştükleri anda alınır... düzenli ve yavaş alım kurtarır.
+            bunu bir yılda da yaparsın ya da hemen de ama bu risk almak ile ilgili.....
+
+      şirket değeri hesaplama = son ciro * fiyat / satış
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+quantfury.com ---> parçalı şekilde us stockları satın alınabilir.
+                   kaldıraçlı işlemde yapılabiliyor... ama tehlikeli
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+finansal balon: ülke çılgınlar gibi para basar.. bu paranın değerini düşürecek ama ekonomi de parayı bulmak kolay olur.
+      kriz anında ihracatçıyı kurtarmak için ya çeşitli politakalar uygulanır ya da döviz yüksek tutulur... böylelikle de yabancı yatırımcı gelir.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+https://www.borsagundem.com.tr/
+
+            
+# Buffett's Triangle:
+            Enflasyon sırasında nasıl para kazanılır?
+            ^ ----------------------------------------------------------------------------------------------------------------------
+            Kendine Yatırım
+                        Aranan Eleman, Aranan İşletme...
+                                    Çalışacağın sektörün ihtiyaçları neler.. Karşılayabilecek misin?        (Örnek: İyi bir yazılımcı mısın?)
+                                                İşletme senden neler bekliyor..
+                                    Faaliyet gösterdiği sektör enflasyona karşı dayanıklı mı.. İhtiyaç mı?
+                                    
+                        Enflasyonist ortamda en başarılı kalabilen kişi, 
+                                    yaptığı işi zorunlu olarak ya da ihtiyaç olarak müşterilerine kabul ettirmiş kişidir
+                                    (bir barda tüm müşterilerin garsonu bilip sipariş verip kabul etmesi ve bahşiş vermesi)
+                                    Bu genelde hizmet sektöründe çalışan insanlar olabilir...
+                                    iyi bir doktor, uzman, avukat vesaire...
+                        Reklam ve bu yolda harcamalar
+                        
+            ^ ----------------------------------------------------------------------------------------------------------------------
+            Başarılı Üretken Varlıklar
+                        Bir ürünü bir kere alırsın, bir kere masraf yaparsın ve yıllarca öyle gider. Bir makine
+                        Bir varlığı bir kere satın alırsın, enflasyona göre fiyatlandırma yaparsın ve yıllarca öyle gider. Bir otel
+                        Yatırım: bir makine, bir Otel..
+                        
+                        Enflasyonsuz Ortam: %0
+                        1. yıl: 1000 birime alırsın     Kazanç: 100 birim
+                        2. yıl: 0 birim                 Kazanç: 100 birim
+                        3. yıl: 0 birim                 Kazanç: 100 birim
+                        
+                        Enflasyonlu Ortam: %10
+                        1. yıl: 1000 birime alırsın     Kazanç: 100 birim           % 10 zam yap
+                        2. yıl: 0 birim                 Kazanç: 110 birim           % 10 zam yap
+                        3. yıl: 0 birim                 Kazanç: 121 birim
+                                    2. ve 3. yılda herhangi bir işletme sermayesi ihtiyacı olmadığını düşünürsek toplam kar 331 birim 
+                                    Avantajlar:
+                                                Düzenli işletme sermayesi ihtiyacı yok
+                                                Fiyatlama gücüne sahip (ihtiyaç duyulan bir makine.. kağıt/koli makinesi gibi)......
+                                                Nakit bulundurma ihtiyacının hayati olmaması..
+                                                
+            ^ -----------------------------------------------------------------------------------------------------------------------------------
+            Vasat Üretken Varlıklar
+                        Hisse senetleri, Şirketler
+                        Her şirketin alınması, her şirkete ortak olunması sonunda iyi sonuçlar doğurmaz.
+                        Yumurtalar farklı sepetlere konulmalı.
+                        
+                        Örnek: 
+                        Enflasyonsuz Ortam: Sabit enflasyon oranı
+                                           %10 karla bir ürünü 100 birimden alıp 110 birime sattığında "üç yılda" 30 birim kar elde edersin                                           
+                        Enflasyonlu Ortam: Enflasyon oranı da %10 dersek, bu ortamda satış yapıyorsak
+                                           %10 karla bir ürünü ilk sene 100 birimden alıp 110 birime satarsın
+                                           %10 karla bir ürünü ikinci sene 110 birimden alıp 120 birime satarsın
+                                           %10 karla bir ürünü üçüncü sene 120 birimden alıp 130 birime satarsın
+                                           Sermaye bu şekilde asla artmaz..
+                                           Bu durumun adı: "Düzenli İşletme Sermayesi İhtiyacı"
+                                                Yıllık ve Aylık enflasyonu araştır ve yaptığın iş için fiyatlandırma noktasında uygula.                                           
+                                           Eğer düzenli işletme sermayesi olan bir şirkete ortak oluyorsanız, ve enflasyonist ortamdaysanız
+                                           kar döngüsünde ve sermayesinin arttırılmasında problemler yaşanabilir.
+                                           sadece senin ortaklığın ile sermayesi artıyorsa sıkıntı
+                                           ama eğer enflasyon oranından daha fazla şekilde kar marjını ortaya koyabiliyorsa sermayesini büyütebilecektir.
+                                           ama eğerki ürün/hizmet tüketici için ihtiyaç ya da zaruri değilse o zaman fiyat artışı da yanlış.. 
+                                           "Fiyatlandırma güç kaybı" yaşar ve batmaya gider..
+                                           
+                                           Bir diğer durum ise eğer işletme,
+                                                nakit ihtiyacı fazla ise ve enflasyonist ortamda "Üretken olmayan varlıklara" ve "Para birimi ile ifade edilen varlıklara" fazlaca sahipse 
+                                                yine ayakta kalamaz
+                        
+                        10 yıldır Enflasyon ve Dolları geçerek/katlayarak kazandıran hisselerin analizi
+                        
+            ^ ------------------------------------------------------------------------------------------------------------------------------------------
+            Üretken olmayan varlıklar
+                        Altın, Gayrimenkul, Pasif Varlık (Getiri elde edemeyeceğin varlıklar)
+                        bunları satın alırsan enflasyonda, dönemin sonuna kadar beklersen yeni fiyatlamayla birlikte aynı seviyed bir alım gücüne gelebilirsin
+                        ama üretken olmadığı için alım gücünü arttırmaz
+                        Buffett'a göre altın para getirmez.. ancak oynamalardan kazanırsın
+                        
+            ^ ------------------------------------------------------------------------------------------------------------------------------------------
+            Para birimi ile ifade edilen varlıklar
+                        Lira, Döviz($,£), Vadesiz Mevduat
+                        Enflasyonist ortamda bu yapılmaz
+                        Eğer dolar enflasyonun ortamında halen dolar tutuyorsan bu yanlış, zamanla alım gücü düşer...
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Start investing in Stocks
+https://www.schwab.com/
+https://www.tdameritrade.com/
+https://www.fidelity.com/
+https://robinhood.com/us/en/
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Peter Lynch Strategy
+            Sürekli yükseliş mümkün değil.
+            TENBAGGER - On kata kadar gidebilcek hisseler
+            1. Profesyonel Bilgi
+            2. Tüketici bakış açısı
+
+            Yılda %20-25 hızlı büyeyecek yeni şirketler...
+            Aynı zamanda risklidirler, yavaşlayacaklarını anlaman gerekir
+            
+            Otomativ, Havayolları, Çelik, Tekstil, Kimyevi Madde satanlar, Savunma sanayi genellikle döngüseldir.
+            
+            ....
+            
+            https://youtu.be/Hg2jQuf7BxU
+            
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+my rent is $4,000 pcm
+your rent is $2,500 pcm
+the difference?
+every unit i rent makes me $4,346 in profit every month
+Here's how..
+
+I don't rent places to lice
+I rent places I can list on AirBNB to create passive income
+- find a good area on data.rabbu
+- use Zillow to pick a rental                   https://www.zillow.com/
+- sign a corporate lease (3-5 yrs)
+- add some amenities
+- list it on airbnb
+- optimize and book +85%
+- collect the profit
+
+Step 1: Start an LLC
+you can do this for free with your state.
+after 10 days, you will receive your business paperwork
+you will go to IRS.gov and apply for an EIN number
+This will let you open a business bank account and get credit
+
+Step 2: Get a 0% credit line
+if you have a 600+ credit score, you can start your business using other people's money
+go to Chase, American Express, or BOA and take out a %0 interest loan
+$20k should be enough to cover your rent, deposit, and furnishing costs
+
+Step 3: Find a hot market
+I only operate  in submarkets with +65% occupancy and I outcompete them
+two good tools to find in-demand markets:
+            data.rabbu (check seasonality)      https://data.rabbu.com/
+            airbnb (confirm data)
+            
+market research, skills determine your profitability, learn well
+
+Step 4: Pick a unit
+go to Zillow, Realtor or Trulia and look for homes with nice amenities
+make a spreadsheet with 50 units that profit most + the link to the listing
+go down the list and set up an appointment to do a tour and pitch
+(then follow up consistency)
+
+Step 5: get it set up
+once a landlord agrees to corporate lease, we need to make it feel like home
+get some art, plants, and other unique amenities
+use your business credit to pay the first month's rent/deposit 
+then spend $10k-15k on high-quality furnishing
+
+Step 6: Repeat the prcess
+once i got this system working, i was addicted.
+i wanted to do it over and over
+each of my units profit 2-3x the monthly rent per month
+
+rent: $4k
+revenue: $9,5k
+profit: $5k
+
+in 2 years, able to scale to 14 units
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+bir konuda oldukça iyi ol. çünkü sen zamanı kullanan employee/specialist.... bir şeyde istisnayi ol
+temel şeylere talep hep vardır
+
+enflasyona dayanabilen şirketlerin iki önemli özelliği
+            pazar yayında ve birim hacminde öenmli bir kayıp yaşama korkusu olmadan fiyatları oldukça kolay arttırma yeteneği
+            küçük bir ek sermaye artışıyla, büyük dolar hacmini karşılama yeteneği (fed para basması gibi)
+
+            amazon, apple
+            
+            büyük kar marjı mı yoksa borç içinde mi mali tablolar incelenmeli
+            
+            s&p500 gibi endeks fonları... uzun vadede getirisi var enflasyona karşı dayanıklı
+            yıllık %10 kazanıyor..
+            
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Dividend Kings and Aristocrats
+
+- - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - 
+# Teknik Analiz
+# Dibin dibi seviyelere gelip fırsat veren hisseler
+
+# Halka yeni arz edilen hisselere yatırım 10000tl
+
+- - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - 
+# Investment Baskets: BUNU YAPMALISIN...
+            2020      2021                        2022    2023
+  ----------------------------        ------      ----    ----
+  Invest    10.000tl  32.000tl        Result
+  ----------------------------        ------      ----    ----
+  Dollar    2.500tl   3.200tl         kar
+  Gold      3.200tl   3.050tl         zarar
+  Ethereum  2.500tl   19.500tl        kar
+  Bitcoin   2.500tl   2.500tl         nötr
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# TRADE ŞEMASI
+
+                    sana para kazandırır.
+Boğa Piyasaları ----------------------------------> Fiyat Destekte/Support mi?  --> Yeşil
+                                                    EVET                                            HAYIR
+      |                                                  AL --> Yeşil                                   İşlem Yapma
+      |                                                  Elde tut ya da Long (Kaldıraçlı) Pozisyon al
+
+
+    TREND       --> Yatay'a Trend Oluşumu varsa uygun sinyali bekle acele etme!
+
+
+      |
+      |
+                    seni zengin eder.                                    
+Ayı Piyasaları  ----------------------------------> Fiyat Dirençte/Resistance mi?  --> Kırmızı
+                                                    EVET                                            HAYIR
+                                                        SAT --> Kırmızı                                İşlem Yapma
+                                                        Elden çıkar ya da Short (Kaldıraçlı) Pozisyon al
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# WARREN BUFFET METHODOLOGY
+      Başkaları aç gözlü olduğunda kork, Başkaları korktuğunda aç gözlü ol.
+      Birileri gölgede oynuyorsa, bunun sebebi uzun zaman önce birileri ağaç dikmiştir.
+      # Asla Para Kaybetme...
+      
+# TASARRUF BİLİNCİ
+      # Gelirinin/Kazancın %10 kenara al ve yatırım yap.. İstikrarlı, Tutarlı ol ve Unut gitsin..
+      Nakit tutmak her zaman kötü bir yatırım..
+      Yani yatırım için paraya ihtiyaç var o da tasarruftan gelecek.. 
+      %10 her ay zor geliyorsa "Çoğalan tasarruf tekniği"ni uygulayabilirsin. 
+            20$    1.week 
+            40$    2.week
+            60$    3.week
+            80$    4.week
+            --------------
+            200$   per month
+
+      # Aylık gelirindeki %10luk kesintiyi otomatik hale getirmek..
+      
+      1$'a 0,25$ alabililceğin yer yatırımdır... 
+      
+      
+      
+# Borsada 2 şeyi belirle
+1. bir şirketin gerçek değeri nedir?
+2. bu şirketin hisse senedi fiyatının, bu değerle uyuşup uyuşmadığı?
+
+Bu iki maddeyle birlikte ortaya çıkan kavram DEĞER YATIRIMI
+
+# DEĞER YATIRIMI - değeri düşük şirketlere yatırım
+Değeri düşük bir şirketleri bulup onlara yatırım yapmak, ve sabırlı olmak
+            Eğer bir şirketin hisse senedinin hak ettiğinden çok daha düşük bir fiyata sahip olduğu düşünülüyorsa, 
+            değer yatırımcıları bu hisseyle ilgilenir. Uzun vadeli bir yatırım stratejidir. 
+            Görece olarak birçok hisse senedine oranla daha düşük riske sahiptir.
+
+- piyasayı inceleyerek doğru rakamlara raporlara bakarak düşük değerli hisse senetleri bulunabilir...
+- şirketin değerinini, hisse satış fiyatından büyük olduğu hisseleri yakalamak     ---> düşük değerli hisse senetleri bulmak
+- borsada garantinin olmaması astronomik kazançların olmasını sağlıyor.. 
+- borsa sana der ki gel bana ortak ol büyüyelim... tüyo peşinde koşmak yalan aslında
+- tabi düşük değerli bir şirkete yatırı yapıldığında daha da düşmesi ihtimal....
+    ama değeri düşük şirketleri hesaplayıp oyuna girdiğin için, zamanla şirketin gerçek değeri anlaşılır.. sabır
+- binlerce şirket var burda kendine sorular sor?
+            
+    Başlamak için güzel bir nokta neresi?
+    ilgi alanın nedir?
+    aşina olmadığın herhangi bir işe yatırım yapmamak
+    şirket ne sunuyor, nasıl çalışıyor, ürün/hizmetlerinin değerini görebildiğin anlamına gelir.
+    Bu kavram kısaca YETKİNLİK ÇEMBERİ
+
+
+
+# YETKİNLİK ÇEMBERİnize nasıl yatırım yapılır?
+  kendi çemberini nasıl oluşturursun?
+  - hangi alanda çalışyorsun?
+  - hangi markalara para harcamayı seviyorsun --> APPLE, NIKE, AMAZON
+  - konu yemek pişirmeye geldiğinde iyi misin
+  - programlama konusunda yetkinliğiniz var mı?
+  
+  yukarda bir çember oluştu? bu şekilde sektör ve iş türlerini belirleyebilirsin
+  üç soru
+       - ne yapmayı seviyorum?
+       - hangi konuda iyiyim
+       - neye para harcıyorum
+       
+
+# EKONOMİK HENDEK - krizlere karşı dayanıklı şirketler
+# Buffet sadece değeri düşük şirketlerden oluşan bir portfoliosu yok
+    olası kayıplara karşı bir tür güvenlik marjı var ---> EKONOMİK HENDEK
+    hiç birimiz geleceği göremeyiz, emin olduğumuz şey yol boyunca düşüş ve yükselişler olacak
+    bazı işletmeler tüm bu boğa ve ayı piyaslarına direnen ürün ve hizmet sunarlar... bunu sağlayan şey ekonomik hendek
+    JENERİK MARKALAR: coca cola, pampers, gilette gibi markalar bu duruma örnek
+    çok bilindik markalar zamanla o ürünün adı olmuştur bu ekonomik hendeği gösterir.
+    bugüne kadar gelen tüm olumsuzlara bu şekilde direnç göstermişlerdir.
+    
+    ** Dikkat edilmesi gereken durum
+    bir ürün daha yüksek bir fiyat politikası belirleyip yine de müşteri kazanabilir mi.... 
+            NIKE, MCD, BURGER KING bunlar hayatta kalacak
+    
+    bir diğer ekonomik hendek ölçütü ise.. 
+    düşük maliyetli üretim modeline sahip olmak
+    yani bir marka fiyatlarını düşürse bile kar etmeye devam edebilir mi..
+    bu şirketler daha uygun fiyatlar sunarak rakiplerini alt edebilirler... AMAZON..
+
+    Elbette ekonomik hendekler sonsuza dek sürmez
+    bu durum özellikle teknoloji şirketleri için geçerli olabilir..
+    Sorulması gereken soru:
+            şirketin ürün/hizmeti hayatta kalamayacak kadar yeniliğe mi bağımlı...
+            Şu anda APPLE iyi bir hendek oluşturduğu düşünülebilir
+                        Apple'ın popüleritesi, oyunda önde kalmasına bağlı...
+                        ama piyasaya yeni ve daha iyi bir oyuncu girdiğinde nolcak... 
+                        iphone bir gecede modası geçmiş olma ihtimali var mı?
+                        benzer örneği nokia da var 
+                        ama buffet apple yatırım yapmış....
+                        apple sahip olduğu büyük bir ekonomik hendek var ve biraz daha sürer.
+                        apple durumu da istisnai bir durum zaten
+                        ve diğer ürünlerinin dünyadaki marka algısı büyük --> ipad, macbook, iphone
+
+
+# Değer yatırımın teknik kısmı
+            Bir işletmenin gerçek değerini belirlemek
+            İşletmenin dilinin anlamak -- finansal tabloları okumak....... öğren
+            
+            Diyelim ki
+            A şirketi
+                        ilgilendiğin şirketin yıllık faaliyet raporlarını oku
+                        hatta tüm şirketlerin
+                        üretiminde artış var mı?
+               3 ana finansal tablo kontrol edilmeli
+               - bilanço
+                        öz sermaye --> bi şirketin gerçek öz sermayesini net değerini burdan bulabilirsin
+                        Formül ---> Özsermaye(şirketin net değeri) = tüm varlıklar - borçlar dahil tüm yükümlülükler
+                        
+                        şirketin borç/özsermaye oranına odaklanırsak
+                        
+                                    A şirketinin öz sermayesi = 1,300.000
+                                    A şirketinin borcu        = 500.000
+                                    borç/özsermaye oranı      = %38
+                                    
+               - gelir tablosu
+                        bu tabloda net kara bakılmalı
+                        burada önemli olan öz sermaye getirisi
+                    
+                    gelir tablosu:
+                        2021de özsermaye --> 1.000.000
+                        2021de net kar --> 520.000
+                        özkaynak karlılığı --> %52                      %15 üstünde oldukça iyi..
+                        
+                        halk yatırım, iş yatırımm gibi sitelerde bunların hesapları yapılıyor..
+                        
+               - nakit akışı tablosu
+                        bu gösterge şirketin parasının nasıl kullandığını gösterir
+                        günlük operasyonlar için yeterli cash var mı?
+                        borçlarını ödüyor mu?
+                        hissedarları temettü alıyor mu?
+                        tutarlı pozitif nakit akışı görülmeli..
+                        
+                        tüm işletmeler bazen
+                                    "satın almalar" veya
+                                    "satış döngüleri" nedeniyle negatif nakit akışına girer
+                        ama genel olarak düşündüğümüzde geçmiş kayıtlara baktığımızda pozitif nakit akışı görülmeli
+                        
+                        burda önemli olan ne araycağını bilmek
+                        bir şirketin mali durumu onun sağlıklı ve karlı old gösterse bile
+                                    tek başına size ne zaman yatırım yapılabileceğini söylemez
+                                    yani şirketin bilançosu iyi olabilir ancak pahalı fiyatlanıyordur.
+                                    
+                                    mercedes 200binlik bir araç ama bunu 300bine akırsanız çok da akıllıca olmaz bu
+                                    fiyatı düşük iken ve tam da yükselecekken hisse senedi satın almak en ideali
+                                    bunun anahtarı NET-NET YÖNTEMİ
+                                    bir tür değer yatırımı tekniği
+
+            NETNET YÖNTEMİ
+            temelinde iki veriyi krşılaştırmak yer alır
+            - bir şirketin "net cari varlık değeri" --> yani tasfiye değeri --> NCAV
+                        tasfiye - bir şirket borçlarını ödemek için herşeyi sattığında olan şeydir
+                        bu noktada geriye kalanlar ihssedarlara gider
+                        * NCAV geriye kalanlardır.
+                        bilançodan bu veriye ulaşmak mümkün
+                                    BİLANÇO
+                                       a şirketinin "dönen varlıkları" = 700.000
+                                       borçlar = 650.000
+                                       NCAV = 50.000
+            - hisse başına net cari varlık değeri (HB - NCAV hesaplama)
+                        a şirketinin tedavülde olan 20bin ödenmemiş hissesi var
+                        NCAV/20000 = Hisse başına NCAVsi 2,5 olduğunu buluruz
+                        
+                        bu noktada şunu sormalıyız
+                        A şirketinde "hisse başına güncel fiyat" nedir...
+                        hisse senetleri şu an 2,5un altında mı satılıyor.....
+                        eğer öyleyse şirket düşük değerde
+                        
+                        en iyi fırsatlar, %33,3lük bir güvenlik marjı ile gelir
+                        bu hisse başına mevcut fiyatın hisse başına NCAVdan 3de1 daha az olması gerektiği anlamına gelir
+                        yani aşirketindeki hisse senetleri, hisse başına 1,60a satılıyorsa bunun bir fırsat olduğu söylenebilir..
+                        
+                        
+                        
+# PORTFÖY YÖNETİMİ - portföy çeşitliliği
+            "hiç kimse her zaman haklı değil", her zman kazanamazsın..
+            bu ne demek
+            çeşitlilik içeren bir portföy yönetirken hata payı bırakmak akıllıca olacak
+            yani herşey tahmin ettiğin gibi gitmezse ne olacak
+            %50 zarar yazdığınızda eski durumunuza geri dönmek için %100 kar etmeniz gerekir
+            Buffet portfoyünde çok fazla işletme var
+                        "Çeşitlilik, Cehalete karşı korumadır."
+            Portföy yönetiminde 5 kural önemli
+            1- yatırım için ne kadar para kullanacağın ve gelecekte ne kadar ayıracağını saptamak
+                        1969da Buffet 4 yıllığına yatırım oyunundan çekildi, yatırımları kesti, çünkü herşeyin aşırı değerli olduğunu gördü
+                        yani 1971-1974 yılında borsa çöktüğünde parası güvendeydi....
+            2-  tek bir hisse senedine asla %10dan fazlasını koyma
+            3- bir şirketin güven sıralaması
+                        diyelim ki 20 şirket ile ilgileniyorsun
+                        herbiri hakkında ne kadar güvende hissetiğinizi sıralamak için biraz zaman ayırın
+                        bu size basit bir strateji verecek
+                        bi şirketin güven sırlaması ne kadar yüksek ise o kadar çok parayı hak ediyor dmektir...
+                        bu şirketlerin değer kaybetmesi durumunda ne yapacağının bilirsin en azından
+                        
+            4- portföyü yılda en az bir kez gözden geçir
+                        şirketlerininzin yayınladığı yıllık ya da 3 aylık raporlara göz atın
+                        endişe verici eylemler fark ederseniz, bir takım ayarlamalar yapın
+            5- sadece fiyat göre satış yapmamak gerek
+                        fiyat arttı satalım mı hisseyi....
+                        ya da fiyat düştü satın alalım mı... hemen...
+                        şirket hisse senedinden daha fazlasıdır..
+                        sırf kötü bir gün bir hafta geçirdiği için birini kovamazsınız
+                        inanılmaz şirketler zaman zaman büyük fiyat düşüşleri yaşayabilir..
+                        -- güçlü bir şirketin hisse senedi fiyatı düştüğünde yatırım yapmak iyidir.......
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# NET-NET Method
+Net-net, şirketin cari varlıkları ile toplam borçları arasındaki farktan daha az piyasa değeri olan bir şirket için kullanılan bir terimdir.
+
+Net cari varlık değeri (NCAV), cari varlıkların değerinden imtiyazlı hisseler ve bilanço dışı yükümlülükler dahil olmak üzere toplam pasiflerin değeridir. 
+
+Formula:
+"Net Current Asset" Value per Share (NCAVPS) = (Current Assets - Total Liabilities) / Number of Shares Outstanding
+
+                                                                 Total Liability = Current Liability + Long Term Borrowings/Debt + Preference Share
+                                                                                                                                   (This is zero)
+Similar Formula:
+Net Stratregy = Stock Price < 2/3 * ((Current Assets - Total Liabilities) / Number of shares)
+
+Simplified Formula: 
+            Net Asset Formula = Assets - Liabilities
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+"Yaptıkları işin tümü süreli, kısa ve uzun vadeli plan yapmaktan geçiyor. 
+    Yüksek getirisi olan işte riskleri azaltmak,
+                                kaçınılmaz düşüş başladığında da riskleri düşünmeden fondan çıkmak."
+
+
+"Borsada an fiyatlanmaz.. an satın alınmaz.
+    borsa ya geleceği satın alır.. gerçekleştiğinde de satar                                            beklenti satın alınır, gerçekleşen satılır.
+          ya da geleceği satar.. gerçekleştiğinde de en kötüsü görüldüğü günde satın almaya başlar.     beklenti satılır gerçekleşen alınır."
+
+
+başarılı olmuş yatırım fonlarının tavsiyelri önemli -- warren beffet gibi
+
+
+lineer mi, logaritmik hissselere mi bakmak önemli
+kısa orta belli noktaya lineer bakılır, çok daha uzunsa loga bakmak daha iyi
+
+
+# links
+https://www.lattedenborsaya.com
+https://www.finnet.com.tr/FinnetStore/Tr/Urun/Finnet2000Plus
+https://www.borsanalist.com/fiyat-kazanc-orani-dusuk-ve-yuksek-hisseler/
+https://fical.net/tr/hisse-maliyet-hesaplama
+    Genel olarak, iyi şirketler uzun vadede hisse senedi fiyatlarında yükselme eğilimindedir ve kötü şirketler uzun vadede düşme eğilimindedir. 
+    Sırf hisse senedi fiyatı düştüğü için daha fazla hisse satın alırsanız, kötü bir şirkete daha fazla para yatırıyor olabilirsiniz. 
+    Bu nedenle, şirketin gelecek vizyonunu ve mevcut temellerini analiz ederek mevcut hisse fiyatının gerçekten değerinin altında olup olmadığına dikkatlice karar vermek gerekir.
+https://www.tobb.org.tr/BilgiErisimMudurlugu/Sayfalar/KurulanKapananSirketistatistikleri.php
+
+
+
+capex - sermaye yatırımı    Capital Expenditures - ilk yatırım maliyeti veya sermaye maliyeti 
+opex                        Operational Expenses - finansal modelleme sürecinde yatırımın faliyet giderleri hesaplanan tabloya verilen isimdir. 
+                                                    Yatırımın opex tablosunun hesaplanması, yatırımın için gerekli olan yıllık işletme giderlerinin bir araya getirilmesidir.
+
+21 dec 18    iphone: 1500$    Apple NASDAQ: 1500$ = 10 stocks
+08 may 19    iphone: -600$    Apple NASDAQ: 2000$ = 10 stocks    +600$
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Borsada yatırım yapıyorsan bu üçü her zman olsun
+
+- stop point
+- hedge
+- ek bir nakit
+- never lose money
+
+
+---> borsada; ya bilanço okursun, ya da mevcut trende uyarsın, ama trendin ne dibini ne de tepesini yakalayamazsın bu yüzden dikkat.. hemen realize etmeye bakıp takip edeceksin
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Güvenlik Marjları
+    1. İçsel Değer (bir şirket için makul bulunan fiyat)
+        - İndirgenmiş Nakit Akış Yöntemi
+                                            t    t+1    t+2    t+3
+                nakit akışı               100    100    100    100
+                iskonto oranı               1    1,1    1,21   1,33
+                indirgenmiş nakit akım    100    90,9   82,6   75,13
+                --------------------------> Net bugünkü değer = 348,7
+
+        - Çarpan analizi
+                100 lira kar eden bir işletme ben bu şirkete 1000 lira verebilirim. bnim için makul eder bu.
+
+    2. örneğin 100 lira içsel değer belirledik
+
+                güvenlik marjı = 1 - (piyasa değeri/içsel değer)            %30 = 1- (70/100)
+
+                şirket 70 liradan ucuz ise şirkete yatırım yapılır.    en az %30 güvenlik marjı gerek, yatırım için
+
+    3. şirket değeri 50 liraysa ama sen 100 lira değer biçmişsen zarar eden konuma düşersin.. burda atanan değer önemli.
+                hata yaptığını düşünürsek güvenlik marjı bir bir seviyede hatayı aza indirir.
+                güvenlik marjıyla elki alacağımız ve kar edeceğimiz hisseleri alamayıp kardan da olabiliriz.
+                sahip olduğumuz bilgi önemli. ne kadar bilgi o kadar kazanç/hata payı. sektöre hakim değilsen güvenlik marjına başvur.
+                anlaşılabilirlik: bazı şirketler basit değildir. bir çok faktör şirketin satışlarına, giderlerine herşeylerine etki edebilir.
+                                  anlasak bile bir çok farklı değişkeni bir araya getirip yorumlamak zor
+                                  bir iş ne kadar basitse, o kadar düşük bir güvenlik marjı kullanılmalı.
+                                                  karmaşıksa..     yüksek bir güvenlik marjı
+                belirsizlik: bazı şirketler satışlar ve karlar istikrarlı krizde bile.
+                             bazı şirketler ise hassastır: ekonomi küçülürken satışlar vs etkileyebilir.
+                             bir şirkette belirsizlik daha düşükse, daha düşük bir güvenlik marjı uygulanmalı.
+                             market işi ölmez çünkü ihtiyaç, ama ulaştırma öncelikli bir sektör değil. zaman gelir iş yapamaz..
+                kurumsallık: şirketin iş yapış şekli, işbirlikleri..
+                             kontrol nasıl yapılıyor bilmiyoruz. bu yüzden kurumsal bir yapıda olmalı
+                             kurumsallık etkisi güvenlik marjına yansıtılabilir. dolaylı etkisi vardır. bu yüzden satışa ya da kara pek bir etkisi yok gibi.
+                             %20 daha güvenlik marjı eklenebilir..
+                mevcut pozisyon seviyemiz: daha önceden pozisyonumuz yoksa ve portföye eklediğimizde olumlu bir katkısı oluyorsa güvenlik marjı düşük tutulur.
+                                           ama hali hazırda yüklü bir pozisyon varsa örn %5, sırf fiyatı çok cazip diye ilave yapmayı düşünüyorsan o zman çok yüksek bir güvenlik marjı kullanmak makul
+                                        çünkü bir şirkete ne kadar yüklenirsek riskimiz o kadar artar..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Hisse senedi portföyü yaratmak
+        geleceğin belirsizliğini önler.
+        iyi yatırım tezlerinin basit olması - bir şirkete neden yatıırım yaptığını basitçe açıklayabilmelisin. şirkete güvenmek
+        şirketler uzun vadeli görünümlerinin durağan olması - bazı şirletleri tahmin edebilirsin, hepsi invest değildir, trade için olan şirketler de vardır.
+        büyük kayıp riskinin azalması. ancak ekonominin genelini etkileyen durum olduğunda portföyün erir ya da yükselir. tek şirketin derdiyle uğraşmazsın.
+        oynaklıktaki azalmanın uzun vadede elde edeceğin birleşik getiriyi artırır.
+        gerçek performansının ortaya çıkıp şans faltörünün azalmasını sağlar.
+        yatırımcının bilgi seviyesi - özel bilgin yoksa tek şirkete yatırım yapmamak daha iyi
+        uygulanan stratejilerin çeşitliliği. farklı LOT vesaire
+        alfa potansiyeline uygun çeşitlendirme.
+            4-5 şirketten %10luk bir getiri bekliyorsan ve sonrasında yeni bir şirket eklediğinde o beklentin düşüyorsa o anda çeşitlendirmeyi durdurmak en iyisi.
+            standart sapmayı arttırmamak için o portföyünü bozmazsın. kare vs dikdörtgen kenarlar metodu....
+
+    # Modern Portföy Teorisi
+        birleşik getiri hesabı
+            1,1^10=2,59        eğer %10luk bir reel getirimiz varsa, enflasyonun üzerinde bir kazanç. bunu 10 yıl boyunca sürdürürsen 2.6 katını verir.
+            1,1'25=10,8        yani 1 birimlik bir yatırım 25 yılda 11 katını verir..
+                               esas olan getirinin sürdürülebilir olması...
+
+            kare kenarları       dikdörtgen kenarları
+            4 * 4 = 16     >     2 * 6 = 12
+            5 * 5 = 25     >     3 * 7 = 21
+            10 * 10 = 100  >     6 * 14 = 84
+
+            aslında toplama bakarsan aynı malzeme var elimizde yani 8 tane ama sonuç farklı..
+            istikrarlı ve standard sapması düşük bir şekilde bu getiriyi sürdürürsek
+
+            her bir hisse tek başına bakıldığında ciddi düşüşleri ve yükselişleri vardır
+            ama portföy olarak bakıldığında bunu optimizasyon yaparsın. hareketleri de daha yumuşak olur..
+
+            Sharpe Ratiosun portföy daha çok ortalamaya sahip
+
+        Çeşitlendirme
+            Hisse sayısı arttıkça oynaklık ve sapma azalır. Portföy, standart sapmayı minimize eder..
+            Piyasa getirisinden %10 kazanmayı bekliyorsan 10-20 hissen varsa piyasanın altında kalmazsın.
+            20 hisseyi geçtiğinde güvendesin..
+                Frank Martin      12-15 hisse
+                Mason Hawkins     18-22 hisse
+                Joel Greenblat    >6-8 hisse
+                Seth Klarman      10-15 hisse
+                Bill Ackman       15-20 hisse
+                Charlie Munger    Modern Portföy Teorisi karşıtı, S&P500e yatırın kendi kendine hisse seçmeye kalkma. piyasayı geçebilecek yetenek var mı?
+
+her sektöre %20 yatırılır. tek seferde yüklü alınmaz..
+
+
+aracı kurumların raporlarını okumak
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Artışı beklenen üç sey:
+    özsermaye
+    kar
+    ciro
+    satışlar
+
+firma yükselen bir rota da mı anlamak için
+    şirkette büyüme istikrarı var mı.
+        satış rakamları artıyor mu her sene... satamayan şirketten uzak dur.    enflasyon %50-60 şirket satışını %10 arttırmış...                     * * * * *
+        her yıl ortalama olarak cirosunu arttırmış mı?                                                                                                * * * * *
+        trde son 10 yılda cironun yıllık büyüme oranı artış oranı %30 üzeriyse gayet iyi 
+                                                                  altındaysa %20 gibi kötü.. çünkü son on yılın sermaye maliyeti var eflasyonu var
+                                                                            yıllık ortalama, bileşik büyüme hızı açısından az
+    özkaynaklar/özsermaye artışına bakılır artıyor mu?
+            formül:        özsermaye = toplam varlıklar - toplam borç                                                                                 * * * * *
+                                                                        özsermaye ne kadar artarsa senin de hissen o kadar artar..
+
+şirket verimli bir şirket mi?
+    iki farklı şirket cirosunu %30 arttırmış ama hangisinin cirosu daha kıymetli?
+    Net kar marjına bakılır.
+    'esas faaliyet kar marjı'na bakılır.                    net faaliyet karı - EBIT (Earnings Before Interest and Tax)
+                    %30 üzerindeyse alınır... ama istikrarlıysa bu değer yarattığı anlamına gelir.
+
+                    Net esas faaliyet karı artışı - şirketin Esas ve asıl işlerinden satışlarından elde etmiştir...
+
+
+    cirosu da artıyorsa daha iyi
+    %30luk kar marjı da varsa long pozisyonda inanılmaz kar
+
+
+yüksek sipariş durumunda kontrol edilecekler..
+    sipariş değeri, geçen yılın cirosunu/satışlarını geçiyor mu bakılır. çünkü büyüme için şart. 
+    yıllık cironun %10u gibi bir sipariş alsa anlaşmaları olsa heyecan yaratabilir. ama diğer türlü geçen yılın satışları ile mevcut satışlar kıyaslanır.
+    geçen yılın cirosundan ne kadar yüksek diye bakılır... ama genelde yüksek zaten.. yukarı hareket de devam ediyor..
+
+    diyelim 2022den iyi bir ciro yaptın. fiyatlandırman da ona göre oldu ve 2023de de cironu büyüttün ama 2024de çita artıyor.
+    bunu başarmak çok zor pek çok şirket için...
+    yani %200lük filan artışlar %50lere düşerse mevcut f/k'lar da birden bire anormal olmaya başlayacak. o noktada da bu rally biter. Musical chairs oyunu gibi yerini alırsın.. vaktinde satışını yapamayanalar zarar edecekler.
+    giderek karın büyüme hızı düşmeye başladıkça.. yani 3 aylıkta %400 sonrası 6 aylıkta %200e düştü, belki 9 aylık da %100e düşecek...
+                                                .. peg ratiosundadaki oranlar 1in üzerine çıkmaya başlayacak, ucuz olmaktan çıkar, satışa çıkar..
+
+
+15 altındaki Fiyat/Kazanç iyidir.. F/K yüksek diye alınmaz diye de bir kaide yok, bu noktada büyüyen hisselerde de f/k ölçümünü daha sağlıklı yapıyor.. 
+PEG rasyosu, F/K oranının büyüme potansiyeliyle dengelenmesini sağlar. 
+Eğer bir şirketin F/K oranı yüksekse, ancak büyüme potansiyeli de yüksekse, peg rasyosu düşük olabilir. 
+Bu durum, hisse senedinin adil değerlemeye sahip olduğunu gösterebilir ve yatırımcılar için cazip bir seçenek olabilir.
+    https://www.borsanalist.com/fiyat-kazanc-orani-dusuk-ve-yuksek-hisseler/
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Net nakit pozisyonu yüksek olan şirketler: koç vs... sektöründe liderler ve sektörü domino edebiliyorlar. rekabet avantajları var 
+    rekabet avantajın olmadı işte, kar marjından feragat edersin ve işletme sermayesini bozarsın 
+    bozunca da borçlanma ihtiyacın artar.. ne için rekabet etmek için borç alırsın ... saçmalık... rekabet üstünlüğün olsaydı bütün bunlara gerek kalmazdı zaten... başlarken iyi oynamak lazım..
+
+
+    faiz artışına karşı güçlü durabilecek şirketler hangileri...
+    - borçsuz şirketler en az etkilenir... toplam borç / toplam varlık oranı = daha düşük olan şirketler... %50lerin altında olan şirketler iyi..
+    - özsermaye ağırlığı daha yüksek olanlar... burdan biraz daha karlı çıkar
+
+    net borç / favök ratio = 4'ün üstünde olanlar şirketlerde problem olabilir... yüksek gider yazabilir, yazmasa bile yeterli favök üretemedikleri için riskli olur.
+    cari oranı 1'in altında (bir yıl içindeki yükümlü varlıkları) --> işletme sermayesi açığı bu... 
+        bu açığı kapatmak için yeniden borçlanmak zorunda olurlar... kısa vadeli borçlanırlar. yani borç devir hızı sürekli yüksek olan şirketler faiz artışından en çok etkilenir
+
+    şirket zamanında %10 borç almıştır bu uzun vadeli borçlanmadır. faiz artışı onu etkilmez çünkü zamanında o oranla borçlanmıştır..
+
+    uzun vadeli borçları, kısa vedeli borçlarından daha yüksek olan şirketler iyidir..    bilanço okuyacaksın...
+    kısa vadeli borçları, uzun vedeli borçlarından daha yüksek olan şirketler ........
+
+    şirketin borcu olması önemli değil, borcu iyi yönetebilen şirket olmalı...
+    nakit akışlarında sürekli bir borçlanma durumu varsa o zman borç seni yönetiyordur..
+
+    işletme sermayesinin ciroya oranı sürekli sabit olan şirket olması ve  düşük olan şirket olması önemli
+
+    FROTO        toplam borç / toplam varlık oranı = %70 hatta %80e çıktı    borcu çok gibi, yani kaldracı çok fazla kullanan bir şirket...
+             ama net borç / favök oranı = 1'in altında        eğer %4 üzeri olsaydıı sıkıntı...
+                 borçları genelde uzun vadeli...
+                 işletme sermayenin toplama cirodaki oranı da çok çok ufak = %10 bile altında
+                 stokların toplam ciroda oranı = %7 filan 
+                 işletme sermayesini çok iyi yönettiği için yüksek borçlanmadan da çok etkilenmiyor..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Karlılık:
+    - şirket açısından karlılık
+            özkaynak karlılığı diye birşey yoktur. yatırılan sermayenin getirisi diye birşey vardır.
+    - yatırımcı açısından karlılık
+            özsermaye karlılığı yatırımcılar için önemli
+            yani ödenmiş sermayeye ortak oluyorsun, bu da özsermayenin için önemli bir kalem
+            yatırdığın her bir liranın yüzde kaç karlılık olarak döndüğünü size söyler.
+            özsermaye karlılığı yüksek olan şirketler uzun vadede yatırımcılarına daha fazla getiri sunarlar.
+            özkaynak karlılığı, özkaynağın bir tür büyüme oranıdır.
+                net kar / özsermaye = özkaynak karlılığı                                    ne kadar yüksek olursa o kadar iyi yani %100 üstünde olması iyi yoksa şirket faiz ile yarışamaz..
+                                        yatırımcı biraz bakmalı: enflasyon yüzde kaç?
+                                                                 sektör ortalaması kaç? ortalamaya göre düşük mü yüksek mi?
+                                                                 sonuç olarak getiriye bakmak lazım: sermaye maliyetin nedir?    mevduata mı yatırmak yoksa borsaya mı yatırmak daha mantıklı...
+                                                            
+            mevduat faizi %40 ise bunun altında bir sermaye karlılığı olan bir şirkete para yatırmak anlamsız..
+                çünkü daha risksiz ve daha iyi bir yatırım var faizde...
+                faiz biraz borsanın düşmanıdır bu yüzden...
+
+            otomotiv şirketlerinin özsermaye karlılığı şu an için mevduat faizinden daha fazla kazandırıyor..
+
+            kar, enflasyondan etkilenir ve artar genel olarak.. bu da özsermayeyi artış yönünde etkiler..
+
+
+
+
+            # özsermaye karlılğını piyasa değeri defter değeri ratiosu ile bakılıyor.
+            piyasa değeri defter değeri ratiosu veya fk (fiyat/satış) gibi gibi ratiolar sana şirketin balon olup olmadığını gösterir     
+
+            pd/dd ratio = 10 diyelim bu yüksek bulunuyor.. yanlış biraz..               TTRAK özsermayesi, hisse olarak diğer şirketlerden daha değerli karlılık anlamına gelir.
+                          10 olabilir ama özsermaye karlılığı kaç.. diyelim %160
+
+            TTRAK --> pd/dd = 19,46
+                      fiyat kazanç oranı = 17,60
+                      özsermaye karlılığı = %164
+
+                        bu değerlerin anlamı traktör bir miktar primlenmiş.
+                        biz şunu isteriz            
+                            10 fk yaklaşımına göre yani 10 yılda amorti etme yaklaşımına göre
+
+                        formül:    (pd/dd) = özsermaye karlılığı / fk oranı
+
+                            özsermaye karlılığı / 10 = 16.40 olur ---> yani en yüksek pd/dd oranı bu olmalı yoksa primlenmiş olur. 16dan bile alınmaz. ondan daha aşağıda olmalı
+                                                    yani 16.40 oranının altında olacak ki biz alabilelim..... üstündeyse satarsın..
+
+                        bir şirketin F/K değeri 10 ise yatırımcılar her 1 dolarlık şirket kârı için 10 dolar ödemeye razılar demektir.
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Hangisi senin paran için kazandırıyorsa ona kay..
+  borsa              #   vadeli mevduat (faiz)
+  riskli enstruman   #   risksiz enstruman
+
+hacmi büyümüş şişmiş şirketleri gözlemle,
+
+balinalar/yabancılar önde gider bize de kırıntılar kalır. yabancıların yatırdığı şirketlere çök
+
+büyüme şirketleri para kazandırır. temel analiz neyi alacağını söyler, teknik analiz nerde alıp satacağını söyler.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+https://fintables.com/sektorler
+Holdingler başka ortaklıkların paylarının bir kısmını ya da tamamını elinde bulunduran ve diğer ortaklıkların yönetimini yapan şirketler topluluğudur. 
+Holdingler çatıları altında çok farklı sektörlerde faaliyetler gösterebilirler.
+https://docs.google.com/spreadsheets/d/1bYjFDQWkggnOeQHgveyPM2oC8mCHBgp1cydGVdbpUtY/edit#gid=337564222
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+Bankalar bireysel ve kurumsalların finansal ihtiyaçlarını karşılamak üzere mevduat toplayan, kredi veren, kambiyo işlemleri yapan ve her türlü yurtiçi ve uluslararası ödemelere aracılık eden kuruluşlardır. 
+Bankacılık sektörü ekonomik yapının en önemli temel parçalarından biridir. Krizlerde dikkat edilmeli. Özellikle faiz arttırımı gibi..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Faktoring kuruluşları şirketlerin sattıkları mal ya da hizmet karşılığında oluşan alacakları, üzerine alarak karşılığında nakit öder. Vadeli alacakları vadesi gelmeden likidite eden bir finansman yöntemi sunar.
+factoring - borçları tahsil eden şirketler. banka alacaklarını bankalardan satın alırlar.. 
+
+
+Finansal kiralama bir yatırım malının sözleşme süresi boyunca kullanılmasını sağlayan orta ya da uzun vadeli bir finansman yöntemidir. 
+Leasing şirketleri bu yöntem ile diğer şirketlere ekipmanları satın almadan kiralayarak kullanma imkanı sunar.
+
+Varlık yönetim şirketleri öncelikli olarak bankalardan olmak üzere finansal kuruluşların sahip olduğu tahsili gecikmiş alacak portföylerini devralan ve bu alacakları tahsil etmeye çalışan finansal kuruluşlardır.
+
+Sigortacılık sektörü, İnsanların ya da kurumların sahip olduğu tüm varlık ve riskleri koruma altına alan ve oluşabilecek zararları karşılayan finansal araç sigortadır. 
+Sigortacılık sektörü bu sözleşmelerin hazırlanması, satılması faaliyetlerini yürütmektedir.
+Emeklilik sektörü, Bu şirketler emeklilik ürünleri sunan finansal kuruluşlardır. 
+Ana faaliyetleri bireysel emeklilik olsa da gerekli lisansları alarak hayat sigortası alanında da faaliyet gösterirler.
+
+
+
+Sermaye Piyasası Kurulu tarafından yetkilendirilmiş ve Borsa İstanbul ile diğer organize piyasalarda işlem yapma ve yaptırma yetkisi olan şirketlerden oluşur. 
+İşlem aracılığı, portföy yönetimi, yatırım danışmanlığı gibi sermaye piyasası faaliyetlerinin bir çoğunu gerçekleştirme yetkilerine sahiptirler.
+
+
+
+Menkul Kıymet Yatırım Ortaklıkları hisse senedi, tahvil ve bonolar, varlığa dayalı menkul kıymetler gibi varlıklara yatırım yapan ve bu kıymetlerin alım-satımından gelir elde eden kurumlardır.
+
+
+Etkinlik planlama, fuar organizasyonu, güvenlik, danışmanlık, filo kiralama gibi alanlarda hizmet sağlayan şirketlerin faaliyet gösterdiği sektördür.
+
+
+Girişim Sermayesi Yatırım Ortaklıkları, sahip oldukları sermayeyinin en az yarısını girişim sermayesi yatırımlarında kullanan sermaye piyasası kurumlarıdır. 
+Bu şirketler aynı zamanda kurumsal yatırımcıdır ve SPK tarafından lisanslanır.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Bilişim ve yazılım sektörü bilgisayarlar, bilgisayar ağları, yazılım, donanım, web tasarımı, yarı iletken gibi ürün ve hizmetler üzerine çalışır. 
+Yazılım sektörü firmaları daha çok hizmet sağlayıcılığı yaparken bilişim sektöründe donanım ürünlerinin ticareti de yapılmaktadır.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Enerji üretim sektörü çeşitli doğal ve fosil kaynakları kullanarak bunları elektrik enerjisine çeviren şirketlerden oluşur. 
+Enerji dağıtım sektörü ise doğal gaz ve elektriğin konut ve sanayiye ulaştırılmasından sorumludur.
+Yenilenebilir enerjide üçüncü çeyrek bilançoları güçlüdür bu noktada realizasyon yapılabilir.
+Enerji şirketleri genele olarak borçluluğu olan şirketlerdir. genel yapıları bu çünkü pahalı maliyetli işler yapıyorlar. Enerji depolama maliyeti var.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Enerji teknolojileri sektörü; enerji üretimi, iletimi ve dağıtımı için gerekli olan ekipmanların imalatı ve kurulumuyla ilgilenen şirketlerden oluşur. 
+Sektörün imal ettiği ürünler, elektrik üretimi yapmak üzere kurulmuş şirketlerle kendi kullandığı elektriği üretmek isteyen sanayi şirketleri tarafından kullanılır.
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+İnşaat, konut başta olmak üzere fabrika, okul, işyeri, depo, hastane gibi yapıları inşa eden, yol, baraj, köprü, tünel gibi altyapıların yapımını sağlayan sektördür.
+
+Taş, toprak ve çimento sektöründeki şirketler yeraltı ve yerüstü kaynaklardan elde edilen ürünlerin işlenmesi ve inşaat başta olmak üzere çeşitli sektörlere tedarik sağlanmasından sorumludur.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Ana metal sektörü demir çelik ile bunun dışında kalan diğer alt sektörlerden oluşmaktadır. 
+Değerli metaller, alüminyum, kurşun, çinko, bakır dışındaki metallerin üretimi bu sektör tarafından yapılır. 
+Sektörün ürünleri inşaat, otomotiv, enerji kimya sektörlerde kullanılmaktadır.
+
+Madencilik ve taş ocakçılığı sektörü yeraltı kaynaklarının çıkarılması ve işlenmesi faaliyetini yürütmektedir. 
+Demir, bakır, alüminyum, lityum, kömür, altın, gümüş, nikel, grafit, kobalt gibi ürünleri çıkarır ve gerekli sektörlere hammadde tedariğini sağlar.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Metal eşya ve makine sektörü, sanayi içinde yatırım mallarını üreten sektördür. 
+Diğer sektörlerde kullanılan makinelerin, bu makinelere ilişkin ekipman ve yedek parçaların üretiminden sorumludur.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Kağıt ve kağıt ürünleri sektörü gündelik hayatın her alanında ihtiyaç duyulan basım ve ambalaj ürünlerine ara mal üretimi yapmaktadır. 
+Eğitim, sağlık, sanayi, iletişim gibi sektörlerde yoğun olarak kağıt ve kağıt ürünleri kullanılmaktadır.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Ambalaj sektörü sanayi ve perakendenin her dalına destek sağlayan sektörlerden biri. 
+Bu sektörde firmalar plastik, kağıt, karton, cam, metal ve ahşap gibi ürünleri kullanarak üretim yapmaktadırlar.
+
+Ambalaj şirketleri tüketime bakar. tüketim olmazsa yükselmez.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Cam sanayi inşaat, otomobil, ambalaj gibi alanlara ürün veren temel sanayi sektörlerinden biridir. 
+Porselen, seramik, granit gibi ürünler de inşaat, dekorasyon, ambalaj gibi sektörlerde yaygın olarak kullanılır.
+doğal gaz maliyeti var.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Kimya ve plastik sektörü pek çok sektöre ara mal ve hammadde tedariği yapmaktadır. 
+Tarım ilaçları, gübreler, sentetik malzemeler, temizlik ürünleri, kozmetik ürünler, boya, plastik hammaddeleri, petro-kimya ürünleri bu sektör tarafından üretilir.
+gübre, petrolden beslenir... petrol fiyatı yukarı gittiği zman gübre şirketleri yükselirdi eskiden. şimdi ise anomali olabilir..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+1. ve 4. çeyrekte gübre şirketlerin bilançoları iyi olur... al bi gübre şirketini 6 ay bekle...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Perakende sektörü üreticiyle tüketici arasındaki köprü görevini üstlenen ve malların nihai tüketiciye ulaşmasını sağlayan sektördür. 
+Market zincirleri, otomobil distribütörleri, teknoloji marketleri bu sektörün en bilinen oyuncularıdır.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Gıda ve içecek sektörü, her türlü sebze, meyve üretimi ve işlenmesi, et ürünlerinin imalatı ve işlenmesi, süt ürünlerinin imalatı ve işlenmesi, alkollü ve alkolsüz içeceklerin imalatı, şişelenmesi ve dağıtımı faaliyetlerini yürütmektedir.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Savunma sanayi sektörü askeri teknolojinin üretimini ve satışını gerçekleştirmektedir. 
+Silahlı ürünlerin, askeri haberleşme sistemlerinin, askeri teçhizatların araştırma ve geliştirme faaliyetlerini yürütmektedir.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Haberleşme sektörü her türlü ulusal ve uluslararası iletişim altyapısından sorumludur. 
+Kablosuz operatör, internet servis sağlayıcılığı, uydu hizmetleri gibi temel iletişim faaliyetlerini yürütmektedir.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+İmalat bir yarı mamulün ya da bir hammaddenin işlenerek bir sanayi ürününe ya da ara mala dönüştürülmesi faaliyetidir. 
+Bu süreçte makineler ve insan gücü ayrı ayrı ya da birlikte kullanılabilir. İmalat sektörü ağır ve hafif sanayi olarak ikiye ayrılır.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mobilya ve Dekorasyon sektörü, dekoratif ürünler ve masa, sehpa, sandalye, koltuk, dolap, karyola gibi mobilyaların tasarımı, planlaması ve üretimi faaliyetlerini yürütmektedir.
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Tekstil sektörü elyaftan ipliğe ve kumaşa sonrasında da kumaştan hazır giyim ürünlerine uzanan üretim faaliyetlerini yürütür. 
+Elde edilen giyim ürünlerinin satışı, pazarlanması da sektör tarafından yapılır. 
+Deri sektörü de derinin fiziksel ve kimyasal işlemler sonrasında eşyaya dönüştürülmesini gerçekleştirir.
+Türkiye'nin ihracat oranı yüksek sektörlerinden biridir....
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+İlaç sektörü, tedavi etme, iyileştirme, aşılama, semptom azaltma ya da takviye sağlama amacıyla hastalara verilen ilaçları geliştiren, üreten ve pazarlayan sektördür. 
+Sağlık sektörü ise hastaneler, poliklinikler, tıp merkezleri, özel klinikler gibi hastalara hizmet sağlayan kurumlardan oluşur.
+İlaç sektöründe ar-ge gideri var. bu yüzden kolayca kar göstermez. fiyatı hemen yükselmez.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Gayrimenkul sektörü taşınmaz ve değerli olan arsa, konut, işyeri gibi varlıkları satın alan ya da üreten, 
+        daha sonrasında bunları başka yatırımcılara satan ya da kiralayan şirketlerden oluşur.
+GYO'lar yüksek faiz dönemi devam ettiği sürece sıkıntı yaratabilir... F/K anlamında ucuz olan şirketler sonradan fiyatlanabilir. çoğu fiyatlanmıştır faiz döneminde.
+faiz dönemi olduğu için inşaat sektörü durma noktasında. müteahhit bu faizlerle ev yapmak istemiyor.
+pek çok müteahhit daha bina temeldeyken satışa başlıyordu. onu da iki katına satıyordu burdan faizini de ödeyip karını da cebe atıyordu...
+gyolar - ekin kasım aralık 4.çeyrekde hareketlenme olur...
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Otomotiv sektörü motorlu taşıtların tasarımını, üretimini ve pazarlamasını yapar.
+Sıfır ve ikinci el satışlar, kısa ve uzun dönem kiralamalar, satış sonrası hizmetler, bakım hizmetleri sektör tarafından yapılır.
+
+
+
+Otomotiv yan sanayi otomotiv sektörüne direkt olarak parça imal eden sektördür. 
+Her türlü otomobil parçası, ekipmanı, lastikler, jantlar bu sektör tarafından üretilir.
+Türkiye'nin ihracat oranı yüksek sektörlerinden biridir....
+
+    çinliler otomotiv sektörünü domine etmek istiyor.. bu sektör kabuk değiştiriyor..
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Ulaştırma sektörü insanların ve üretilmiş malların bir yerden başka bir yere taşınmasını sağlar. 
+Ulaştırma faaliyetleri hava, deniz, kara ve demiryolları üzerinden yürütülür.
+
+
+Servis taşımacılığı sektörü, çalışan personelin ve eğitim görmekte olan öğrencilerin ulaşım ihtiyacını, ticari minibüs ve otobüsler aracılığıyla karşılama hizmeti veren firmaları bünyesinde barındırır. 
+Araç kiralama sektörü ise bireylerin ya da şirketlerin bir veya birden fazla araç ihtiyacını belirli bir süre diliminde karşılayan firmalardan oluşur.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Turizm sektörü dinlenme, eğlenme, gezme, tanıma amacıyla yapılan gezi ve ziyaretler dolayısıyla oluşan talebi karşılayan ve turistlere hizmet amacıyla yürütülen ekonomik çalışmaları üstlenen sektördür. 
+Ana amacı uluslararası turistleri ülkeye çekmektir.
+
+
+
+
+
+https://fintables.com/sektorler
+    Future Stocks:
+    ASTOR    yüksek sipariş
+    TCELL
+    CCOLA    (İhracat)
+    AKSA
+    FROTO
+    THYAO
+
+
+CART STOCKS
+    Petkim        10 LOT
+    TCELL        8 LOT
+    Vestel        6 LOT
+    BIMAS        2 LOT
+
+    TTKOM        16 LOT
+    SISE        8 LOT
+    HEKTAS        3 LOT
+    ARCLK         2 LOT
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Stock Types
+    Growth
+    Dividend
+    Blue Chip
+    Cyclical
+    Defensive
+    Speculative
+
+NASDAQ %50
+    MSFT
+    AAPL
+    GOOGL
+    AMZN
+    NVDA
+    META
+    Tesla
+
+    PG
+    PEP
+    SBUX
+    UPS
+    MA
+    VCX
+    
+David Tepper Portfolio
+    CEG, GOOG, AMZN, M, ET, EQT, UNH, META, MSFT, HCA, CRM, AR
+
+
+Eleven Sectors in S&P 500
+    Information Technology
+    Customer Discretionary
+    Communication Services
+    Customer Staples
+    Real Estate
+    Utilities
+    Health Care
+    Energy
+    Materials
+    Financials
+    Industrials
+
+
+
+
+# INFLATION
+
+    200 tl          2010        2023                   TR            UK       
+                    -------------------                -----------------
+    gas/oil         54 l        5.44 l                     
+    milk            266 l       6 l                    
+    egg             1449 p      62 p                   
+    olive oil       15 l        1 l                    
+
+
+
+
+
+# Books
+orhan karaca - ekonomide geleceği okumak
+anadolu üni - sermaye piyasaları ve finansal kurumlar - yatırım
+anadolu üni - finansal tabloların analizi - yatırım
+mehmet baha karan - yatırım analizi ve portföy yönetimi - yatırım
+bennjamin graham - akıllı yatırımcı
+robert g. hagstrom jr. - warren buffett tarzı - yatırım tavsiyeleri
+david clark - warren buffett and the interpretation of financial statements - yatırım tavsiyeleri
+peter lynch  - borsada tek başına
+peter lynch  - borsayı yenmek
+richard koch -  financial times guide to selecting shares thet perform
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# pd/dd
+
+market sektörü örneği
+    peşin çalışmak/kredili mal almak
+    genişleme döneminde zarar etmek
+    en yüksek karlılığa ancak birkaç yıl sonra ulaşmak
+    marketlerde ölçek çok önemli ne kadar büyük bir zincir olursanız o kadar satıcılara karşı gücünüz fazla olur. mal alırken pazarlık
+    getir'in ilk açıldığında indirim müşteri çekmek. ayakları alışmak
+        ilk zarar eder o zarar da özkaynaklar düşer
+
+Fabrika örneği
+    eski, yeni -> duran varlıklarda amortisman denilen eskime nedeniyle belli bir payı her yıl değerden düşer.
+        fabrika 10milyona kuruldu. fabrikanın faydalı ömrü 10 yıl.. her yıl 1milyon eskime payı düşersin
+        bu yıl amortisman 10m ilse seneye 1 milyon
+        eski şirketlerin duran varlıkları neredeyse sıfıra yakındır nedeni ciddi anlamada amortisman düşmüştür.
+            bu noktada fabrikayı yenilemiş olabilir ya da hali hazırda kar da üretebilir..
+        bu şirketin piyasa değeri yüksek defter değeri düşüktür
+
+    kara katkı -> eski bir şirket yeni bir fabrika açarsa yatırım süreci devam ettiği için henüz kara yansımış birşey yok
+                    fakat ortada çok ciddi bir defter değeri var...
+                    piyasa değeri düşük, defter değeri yüksektir...
+        ama pd/dd daha yüksek olan şirket daha cazipte olabilir....
+
+    o yüzden herzaman bu şirket ne yapıyor hangi konumda bunu bilmek lazım
+
+şirketlerin PD/DD oranları arasındaki farkın nedenleri
+    karlılık
+            bazı şirketler daha az özkaynak ile daha çok kar üretebiliyor... patent, marka değeri varsa
+                    karı da dağıtıyor bu yüzden özkaynaklar büyümüyor ve sonucunda pd/dd yüksek oluyor ama şirket bunu hak ediyor nedeni özkaynağına kıyasla yüksek kar var ve kar devam edici
+            bazı şirketlerde de dönemsel olarak karı şişmiştir. kar/dd yüksek ama seneye düşecektir onu bilemeyiz. doğrudan yorumlamamak lazım
+
+    defter değerinin hatalı olması
+            bazı şirketler enf nedeni ile gerçeği yansıtmayabilir.. pd/dd hesabı da doğrudan dd'ye bağlı old için haliyle yanlış bi hesap gerçekleşir
+
+    beklentiler
+            yine bu şirketlerin pd/dd oranını yanıltan en önemli faktörlerden biri beklentiler
+            geleceğe yönelik hikayesi olabilir şirketin bu kadar büyüyecek denir... böyle olunca ne olur dd kıyasla çok pahalı işlem görür
+            beklentiler de gerçekleşmediği için, aslında bu faktörün anlamlı olmasına neden olan  
+                            düşük pd/dd oranına saip olan hiselerin daha çok getiri elde etmesine neden olan faktör bu
+    güvenilirlik
+            bazı şirketler prestijli - ne kadar kar elde edeceği daha belirgin, marka değeri yüksek        daha çok para verirsin o şirkete
+
+    manipülasyon
+            bir şirket anormal değerece şişiriliyorsa pd/dd haliyle yüksek olacak                buna daha az riskli diyemeyiz... riskli aslında
+            eğer risk fazlaysa şirketin pd/dd oranı daha düşük olur        risk = getiri            fama french modeli ama buna katılamıyoruz..
+
+            normal                                manipülasyonlu
+            pd/dd = yüksek ---> az riskli            bilinmez
+            pd/dd = düşük  ---> riskli               bilinmez
+            
+bu yüzden pd/ddye güvenemezsin hemen...
+
+https://corporatefinanceinstitute.com/resources/valuation/fama-french-three-factor-model/
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+FK oranı
+
+    fiyat/kar oranı = şirketin piyasa değeri / kar
+
+    ev değeri = 500.000
+    kiraya verdin = 20.000
+        500/20 = 25    fk oranı --> yani yıllık net kar ile 25 yılda yatırımızı amorti eder...
+
+    her şirketinde hisse fiyatına göre anlık değişen piyasa değeri vardır...
+        CCOLA = 7 milyar             dün
+        CCOLA = 6 milyar 900 milyon  bugün    yani düşüş olmuş...
+
+
+prof dr fko oranı videosu
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Index Düzeltmesi
+
+# Temel Analiz
+  Zirve Fiyatları Belirlemek ve altında almak. özellikle uzun vadede.
+  120 altı kademeli alım
+  Temeli:
+  Büyümesi:
+  Bilançoları:
+
+  Özkaynaklarını büyütmüş mü
+  Satışlarda esas faaliyet karı var mı? Net karda büyümesi var mı?
+
+  Çarpanlar incelediğinde
+  
+
+# Çeyrek Bilançolar
+
+# Sektörel Analiz
+
+
+
+# F/K (P/E) (Price–earnings ratio (Fiyat kazanç oranı))
+  En basit haliyle F/K oranı, bir şirketin hisse fiyatının hisse başına net kazanca (kâr) bölünmesiyle hesaplanan bir finansal metriktir. 
+  Bu metrik, hisse senedinin elde ettiği kâra göre fiyatını değerlendirilmeye yardımcı olur.
+
+  Formula:
+    P/E = Share Price / Earnings per Share
+
+  Örneğin, Tesla 48,34 F/K oranıyla işlem görürken, sektör ortalaması 21,1 seviyesinde seyretmektedir. 
+  Bu ise yatırımcılara şirketin hisselerinin sektör ortalaması üzerinden fiyatlandığını göstermektedir.
+
+  Facebook'un ana şirketi Meta da ise tam tersi bir durum söz konusudur. 
+  Buna göre Meta, 23,02 F/K oranıyla işlem görürken; sektör ortalaması, 27,08 düzeyinde seyretmektedir. 
+  Bu ise Meta’nın sektöründeki diğer hisselere göre daha cazip fiyattan işlem gördüğü anlamına gelebilir.
+
+https://www.doviz.com/makale/f-k-orani-nedir-ideal-f-k-orani-kac-olmalidir/196#:~:text=En%20basit%20haliyle%20F%2FK,g%C3%B6re%20fiyat%C4%B1n%C4%B1%20de%C4%9Ferlendirilmeye%20yard%C4%B1mc%C4%B1%20olur.
+
+
+
+# 
+
+
+nasdaq hesaplanma şekli - ağırlıklarına göre hesaplamaya katılırlar
+dow jones - hisse senetleri fiyatlara göre hesaplamaya katılırlar..
+
+dowjones, nasdaq gibi ağırlığın yani o şirketin ne kadar byük olduğunun önemi yok 
+dowjones, yükseliş daha genele yayılmış bir yükselişi gösterir
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+https://www.yardeni.com/
+s&p 500 positive % negative earnings surprises. - olumlu/olumsuz sürpriz yapanlar
+https://www.yardeni.com/pub/500esm.pdf
+
+https://insight.factset.com/sp-500-companies-reporting-positive-eps-surprises-for-q1-see-below-average-price-increases
+Q2 - 2023
+% Earnings Surprise
+% Y/Y Earnings Growth 
+% With Positive Surprise
+% With Negative Surprise
+% With Positive Y/Y Growth
+% With Negative Y/Y Growth
+# Companies Reported
+
+Q2 - 2023
+% Revenue Surprise
+% Revenue Growth
+% With Positive Surprise
+% With Negative Surprise
+% With Positive Y/Y Growth
+% With Negative Y/Y Growth
+# Companies Reported
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+rekabet gücü yüksek şirket - tekel
+            belirli bir bölgede yeta her yrde ürettiği ürünün veya ürün kalite seviyesinin bir eş değerinin bulunmadığı şirket.
+            pazar payını koruma kabiliyeti yüksek şirketler seni de zengin eder..
+            
+öncelikle "tekel" olan değilse "rekabet gücü yüksek" alması sebebiyle "hendekleri" olan şirketleri portfoyüne al
+            - tekel olan gerek maliyetleri gerek fiyatları istediği gibi indirip hayatta kalır
+            - geleceği olan şirkett olmalı geçmişte başarıları olup sönen şirketin kime ne yararı var
+            
+uzun vadede 5 yıllık haber akışı incelenmeli şirketlerin
+
+hisseler yükseldiğindeyöneticileri ya da hakim ortakları hisselerini satabilir değer düşüşü
+            veya hisseleri toplarsalar fiyatlaar tavan yaapbilir
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Future
+  geleneksel yöntemle yapılan ihracatlar, distribütörler, agencyler ortadan kalkacak
+  belli seviyelerden sonra...
+  global pazaryerleri crossborder yöntemleriyle 
+  arada bir aracı olmadan bu operasyonların yapıabileceğini
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Main Skills: Self-Disciple, Effective Communication
+
+I parked my ego at the door, and cut expenses ruthlessly.
+Invest everything you possibly can.
+Side Hustles
+
+Marcus Aurelius - Meditations.pdf
+
+"The healthy man wants a thousand things, 
+   the sick man wants but one" Seneca
+   Exercise, Nutrition, Sleep
+
+# Maslow's Hierarchy of Needs
+
+"You're paid in proportion to the magnitude of the problems that you solve." Musk
+"Many of life's failures are people who did not realize how close they were to success when they gave up." Thomas A. Edison
+
+# Geri dönmemek için gemileri yaktıran komutan: Tarık Bin Ziyad
+# "That which we can be, we must be." Abraham Maslow
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Paranı senden nasıl alabiliyorlar bunu düşün..
+      - Ulaşmam kolaydı aldım (en önemli kriter)
+      - Denemem kolaydı aldım (ikinci önemli kriter)
+      - İhtiyacım vardı aldım --> İhtiyaç ürünü kolay kolay pahalı bir ürün olmaz.. olursa da yeni çıkmıştır. piyasası yenidir. boşluk doldurmuştur.
+                                  Bazen imalatı ve ithalatı sebebiyle de pahalı bir ürün olabilir.                                    
+      - Zamanım yoktu aldım
+      - Dünya görüşüm ile bütünleşmiş aldım --> Pahalı Ürünü almak için neden.
+      - Hoşuma gitti aldım
+Money cant be made, is taken ...  how your money has taken from you?
+You dont earn money actually, you just convince people to give you their money
+Rich guy knows something about the world what you dont know.
+# What kind of things do people spend their money for?
+Why do you spend your money for Starbucks Coffee or another store/shop. Perhaps You dont need to do that.
+You should choose your NETWORK, Your NETWORK is your NET WORTH. Your Network and people around you define subjects you will talk about.
+Kendinden asla şüphe etmeden, pazartesi değil pazar günü başla hareket etmeye....
+
+"to have both mind and balls"
+
+Aklını kandır; Yoksa o seni kandırır tembelliğe 
+Heyecanlı, tutkulu, inanmış ve motivasyonlu olmanın ne kadar büyük bir özellik olduğunu anla. Olay kafada bitiyor olmalı, yaşta falan değil.
+
+Herkes aslında birşeyler satıyor, çalışan zamanını becerisini satıyor iş veren de ürünü/hizmeti satıyor
+İşveren motivasyonu yüksek olmalı ki saatlerce katlanıyor..
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+Berkshire Hathaway
+    Subsidiaries: 61
+    Minority Holdings: 47
+    Employees:  331,000   
+    Revenue:    $210,821,000,000
+    
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Free Money 
+Taxation
+Growth
+  - Defined Benefit (DB)
+    pension accrual
+    indexation
+  - Defined Contribution (DC)
+    pension fund
+    grows by investment
+ 
+ Money Out
+   - Defined Benefit (DB)
+    guaranteed future income like a salary
+    lump sum commmutation
+   - Defined Contribution (DC)
+     25% tax-free cash
+     annuity
+     income drawdown    
+ 
+ girmeye korktuğun mağarada aradığın hazine yatar. Joseph Campell
+
+
+
+
+
+
+
+
+
+
+
+Sektörde trendler nereye gidiyor
+Rekabet analizi
+Rekabet avantajı
+Müşteri sayıları
+İşlem hacimleri
+Ürün Satışları
+Bilinirlik ve Güvenilirlik
+Personel Performansı
+Teknolojik ve Trend Riskleri
+have an edge - bi avantajın olsun. bildiğine git
+Gelir Modeli
+
+şirketin değeri ne?
+
+
+
+
+
+
+
+
