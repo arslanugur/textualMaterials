@@ -930,21 +930,6 @@ Simmons, para birimini karşılaştırdığında döviz cinsleri arasında iki p
               Bir başka ifade ile Pair Trade işlemleri piyasanın yönünden bağımsız olarak alternatif bir getiri imkânı sağlamaktadır.
 
 
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-Korelasyon, iki A ve B değişkeni arasındaki doğrusal ilişkinin yönünü ve gücünü belirtir. Genel kullanımda korelasyon, bağımsızlık durumundan ne kadar uzaklaşıldığını gösterir.
-Korelasyon–1 ile +1 arasında değişir.
-Korelasyon pozitif bir değer taşıyorsa A ve B arasında aynı yönde; negatif bir değer taşıyorsa ters yönde bir ilişki vardır.
-Korelasyon sıfır değerini taşıyorsa değişkenler arasında ilişki yoktur.
-Korelasyon –1 ve +1’e yaklaştıkça ilişkinin gücü artar.
-
-
-Beta katsayısı bir hissenin dahil olduğu endeksle korelasyonunu gösterir. Pozitif değerler endeksle aynı yönde hareketi gösterirken, negatif değerler ise hissenin endekse ters yönde hareket ettiğini gösterir. 1’in üstünde değerler hissedeki fiyat hareketliliğinin endeksin genelinin ortalamasından daha yüksek olduğunu gösterir. Bu değer hissenin tarihsel performansı baz alınarak hesaplanır. Gelecekteki performans geçmiş performanstan farklılık gösterebilir.
-Beta Katsayısı (β);
-β= 1 ise hissenin hareketinin endeksle aynı yönde olduğunu ve ortalama risk taşıdığını ifade eder.
-β> 1 ise hissenin hareketinin endeksten daha hızlı olduğunu ve daha riskli, yüksek volatilite olduğunu ifade eder.
-Β <1 ise hissenin hareketinin endeksten daha yavaş olduğunu ve az riskli, düşük volatilite olduğunu ifade eder.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 https://www.osmanlimenkul.com.tr/hisse-ve-viop/platformlarimiz/arastirma-platformlari/hisse-vadeli-arastirma-platformlari/pair-trade
 
@@ -1169,6 +1154,9 @@ https://www.kkb.com.tr/
 # Kapitalizm küçük sermayeyi er ya da geç yutar.. örnek: bakkallar v zincir marketler.. bir bakkalın hayatta kalması için yayılması gerekiyor..
 
 
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 
