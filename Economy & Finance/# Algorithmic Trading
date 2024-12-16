@@ -1535,6 +1535,23 @@ Kar da edersin, zarar da ama kar için oranın ve noktan stop lossdan büyükse 
 
 
 
+Korelasyon, iki A ve B değişkeni arasındaki doğrusal ilişkinin yönünü ve gücünü belirtir. Genel kullanımda korelasyon, bağımsızlık durumundan ne kadar uzaklaşıldığını gösterir.
+Korelasyon–1 ile +1 arasında değişir.
+Korelasyon pozitif bir değer taşıyorsa A ve B arasında aynı yönde; negatif bir değer taşıyorsa ters yönde bir ilişki vardır.
+Korelasyon sıfır değerini taşıyorsa değişkenler arasında ilişki yoktur.
+Korelasyon –1 ve +1’e yaklaştıkça ilişkinin gücü artar.
+
+
+Beta katsayısı bir hissenin dahil olduğu endeksle korelasyonunu gösterir. Pozitif değerler endeksle aynı yönde hareketi gösterirken, negatif değerler ise hissenin endekse ters yönde hareket ettiğini gösterir. 1’in üstünde değerler hissedeki fiyat hareketliliğinin endeksin genelinin ortalamasından daha yüksek olduğunu gösterir. Bu değer hissenin tarihsel performansı baz alınarak hesaplanır. Gelecekteki performans geçmiş performanstan farklılık gösterebilir.
+Beta Katsayısı (β);
+β= 1 ise hissenin hareketinin endeksle aynı yönde olduğunu ve ortalama risk taşıdığını ifade eder.
+β> 1 ise hissenin hareketinin endeksten daha hızlı olduğunu ve daha riskli, yüksek volatilite olduğunu ifade eder.
+Β <1 ise hissenin hareketinin endeksten daha yavaş olduğunu ve az riskli, düşük volatilite olduğunu ifade eder.
+
+
+
+
+
 
 
 
