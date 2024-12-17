@@ -23,6 +23,33 @@ Instrument:
 # Volume/Hacim
 
 # Supertrend
+
+# OBV Indicator (On Balance Volume)
+obv denilen, teknik analiz yapilirken kullanabileceginiz 
+ama her zaman calismayan bir indicator. 
+eger fiyat asagi giderken obv yukari cikiyorsa bu trendin bitecegine isarettir.
+(yani fiyat asagi gidiyor ama millet de catir catir aliyor dusuk fiyatlardan). 
+tersi de dogrudur. fiyat yukari cikarken obv asagiya gosteriyorsa yukari trendin sonuna geliniyordur demek ki.
+trend bulucu olarak işe yarayan indikatördür.
+
+Margin call yemek - yatırdığın para yetmediği uyarısı. ek para ekleme durumu.. 
+                        VIOP işlemlerinde düşülen olumsuz durum
+
+
+# vadeli işlem
+VIOP vadeli işlemler - pay vadeli
+kaldıraçlı işlemler yapmak
+pay vadelisi olan hisseler
+kaldıraç x3 olsa ---> %4 ise --> bu %12 eder.. kazan/kaybet
+stop loss olmalı ---> viopta düşüşte yakalanırsan --> kol kesmen gerek yoksa ölürsün
+sıfırlanmamak bu noktada çok önemli
+sermaye bırakman gerek viopa girdiysen
+
+
+# spot işlem
+BISTte taban tavan uygulaması var %10 yükseliyoruz %10 düşüyoruz....
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 # 01. Algoritmalara Giriş
