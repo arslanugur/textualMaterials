@@ -1,0 +1,128 @@
+# Korelasyon
+  En az iki değişken arasındaki ilişkiyi gösteren istatistiksel yöntemdir.
+
+Değişken: Araştırmadan araştırmaya durumdan duruma farklılık gösteren kavram.
+
+Değişken
+  - Yapılarına göre Değişken:
+      Nitel Değişken: Sıfatlar/Sembollerle ile
+      Nicel Değişken: Sayılar ile
+
+  - Almış oldukları değerlere göre Değişken:
+      Süreksiz/Kesikli Değişken: iki değişken arasına başka bir değer alamayan
+          doğal birim ile ifade edilebiliyorsa - doğal birim tane ile bulunur..
+          yani buçuklu değer alamayan, virgülsüz ifade
+          sınıfta 30 tane araba var demek
+          bir yerde biteceği yani belli bir kesiği var
+          bir kesik içinde ele alınan değişken
+      Sürekli/Kesiksiz Değişken: tanımlanmış birimler demek
+          buçuklu değer alabilir: virgüllü ifade
+          sınav puanı, boy uzunluğu cm cinsinden
+
+  - Neden-Etki durumlarına göre Değişken: Cause-Effect * * *
+      Bir araştırmada neden sonuç ilişkisi kuruyoruz: araştırmanın neden kısmı - bağımsız, sonuç kısmı - bağımlı
+
+      Bağımlı Değişken (y): etkilenen değişken (Sonuç)
+      Bağımsız Değişken (x): etki eden değişken (Neden)
+
+      spor yapmanın sağlıklı yaşam üzerindeki etkisi
+      spor yapma neden --> Bağımsız
+      sağlık sonuç --> Bağımlı
+      bilgisayar programlarının öğrenci başarısı üzerindeki etkisi
+
+# Bu değişenler arasında bir ilişki vardır, bu ilişkiyi gösteren değere korelasyon diyoruz..
+
+
+
+# Korelasyon Kat Sayısı * * *
+    korelasyon kat sayısı -1 ile +1 arasındadır
+    tam ortada 0 vardır.. korelasyon katsayısı 0'a doğru yaklaştıkça ilişki azalır...
+
+
+
+     |---------------------------|---------------------------|
+    -1                           0                          +1
+     <-artar-------------azalır-><-azalır--------------artar->
+      negatif                   nötr                   pozitif
+      korelasyon             korelasyon             korelasyon
+      ilişki var             ilişki yok             ilişki var
+      ters orantı                                  doğru orantı
+
+                  # Korelasyon Dağılım Grafikleri
+      graph                    graph                     graph
+       \                                                    / up
+        \                                                  /
+         \                                                /
+          \ down                                         /
+      Ters Eksenli                                Doğru Eksenli
+
+      Ters Eksenli                                  
+      bir değişkeni azaltıkça diğerinde artış meydana geliyor
+      bir değişkeni arttırdıkça değinde azalış meydana geliyor
+
+    doğru orantı - biri artarken, diğeri de artar        aylık gelirin arttıkça alım gücün de artar...
+                   biri azalır diğeri de azalır          ders çalışman azaldıkça, başarın da azalır.
+
+    ters orantı  - biri artarken, diğeri azalır          yükseklik arttıkça, sıcaklık azalır
+                   biri azalırken, diğeri artar          enflasyon artıkça, alım gücün azalır
+
+
+    Örnek: Spor yapmak ile sağlık arasındaki ilişki yukarıdaki grafikte verilmiştir gibi sorular...
+
+# Korelasyon Tablosu
+          x        y        z
+    x     1.0      0.50     -0.70
+    y     0.50     1.0      0.60
+    z     -0.70    0.60     1.0
+
+
+Örnek:
+              Türkçe    Matematik    Sosyal
+  Türkçe      1.00      0.60         -0.70
+  Matematik   0.60      1.00         0.5 = 0.50
+  Sosyal      -0.70     0.5          1.00
+
+  aynı değişkenler oldukları için 1.0 ve aralarındaki ilişkiyi araştırmaya bile gerek yok
+  türkçe    ile türkçe     arasındaki korelasyon 1.00
+  matematik ile matematik  arasındaki korelasyon 1.0
+  sosyal    ile sosyal     arasındaki korelasyon 1
+
+  türkçe    ile matematik  arasındaki korelasyon 0.60
+  türkçe    ile sosyal     arasındaki korelasyon -0.70
+  sosyal    ile matematik  arasındaki korelasyon 0.5
+  matematik ile sosyal     arasındaki korelasyon 0.5
+
+En yüksek ilişki: sosyal ve türkçe    0.70 --> eksi ve artı bakılmaksızın -1 ve +1e en yakın olan ilişki
+En yüksek ilişki: sosyal ve matematik 0.50 --> eksi ve artı bakılmaksızın -1 ve +1e en yakın olan ilişki
+
+Öğrencilerin matematik dersi başarısı artarken türkçe dersi başarısı da artmaktadır... doğru
+neden: çünkü +0.60 --> doğru orantı
+
+Öğrencilerin sosyal dersi başarısı artarken türkçe dersi başarısı da azalmaktadır...  doğru
+neden: çünkü -0.70 --> ters orantı
+
+
+Korelasyon tablosuna bakılarak neden sonuç ilişkisi kurulamaz..
+  öğrenciler matematikte başarılı olduğu için türkçe de başarılıdır ifadesi doğru değil...
+  korelasyon değerine bakılarak söylenemez
+
+korelasyon tek bir derse değişkene ait bilgi veremez...
+  öğrenciler en fazla matematik dersinde başarı göstermiştir...
+
+korelasyona bakılarak değişkenlerin içeriğini gösterebilir... 
+  matematik dersi ile türkçe dersi ortak bir takım kavramlara sahiptir ifadesi doğru yani...
+  birini öğrendikçe diğerinin de öğrenmesi kolaylaşıyor..
+
+  pozitif ise içerik bakımından benzer...  benzer oldukları için birbirini olumlu/pozitif yönde doğru orantıyla etkiliyorlar..
+  negatif ise içerik bakımından farklı...  farklı oldukları için birbirini olumsuz/negatif yönde ters orantıyla etkiliyorlar..
+
+
+
+
+
+
+
+
+
+
+
