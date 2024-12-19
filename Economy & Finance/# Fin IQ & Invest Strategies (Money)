@@ -13,23 +13,29 @@
 Para enerji gibidir kaybolmaz, birileri fakirleşiyorsa birileri zenginleşir
 Flow of Money by Countries
 
-	# from instrument	# to instrument
-	interest		-> interest
-	gold			-> gold
-	exchange		-> exchange
-	stock 			-> stock
+	# from instrument	# to instrument			annual yield/return (%)
+	interest		-> interest			terms: short/middle/long
+	gold			-> gold				commodities: gold, silver, raw material
+	forex			-> forex			forex (f/x): foreign exchange
+	stock 			-> stock	
 	fund 			-> fund
 	crypto			-> crypto
 	derivative		-> derivative
 	carry trade		-> carry trade
-	real estate		-> real estate
 	silver			-> silver
 	oil			-> oil
 	bond			-> bond
+	future			-> future
+	forward			-> forward
+	option			-> option
+	swap			-> swap
+	real estate		-> real estate
 
 	us securities - menkul kıymetler
 	us treasures - hazine bonoları / tahviller
 
+https://www.investopedia.com/terms/f/financialinstrument.asp
+- - - 
 
 https://docs.google.com/spreadsheets/d/1bYjFDQWkggnOeQHgveyPM2oC8mCHBgp1cydGVdbpUtY/edit?usp=sharing
 
