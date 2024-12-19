@@ -1,0 +1,101 @@
+# Ölçme Değerlendirme
+01. Tanıtım
+12 Soru (9 soru sözel, 3 soru sayısal)
+- Temel Kavramlar (1q)
+- Değerlendirme ** (3q) (Önemli Ünite)
+- Korelasyon (1q)
+- Bir ölçme aracında bulunması gereken özellikler  (3q) (Güvenilirlik *, Geçerlilik *, Kullanışlılık)
+- Eğitimde kullanılan ölçme araçları (1q)
+- İstatistik
+	- Madde istatistikleri (1q)
+	- Test İstatistikleri (1q)
+	- Standart Puanlar (1q)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Ölçme Değerlendirme Ne işe yarar?
+		Program geliştirme dersinde 4 kavram var..
+			- Hedef Davranışı belirle
+			- İçeriği belirle
+			- Eğitim durumları/Öğrenme yaşantıları beirleme
+			- Sınama ve Değerlendirme kavramı gelir..
+				Hedefler hakkında bilgi verir?
+				Konular (İçerik) öğrenilmiş mi?
+				Kullanılan model, strateji, yöntem, teknik verimli olmuş mu?
+				Bu bilgiler program geliştirme uzmanlarıına verilerek
+					programa dirik olma özelliği kazandırır.
+	Ölçme değerlendirme yeterince başarılı öğrenciyi motive eder. Başarısızı motive etmez..
+	performansını gösterir..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Temel Kavramlar (1q)
+Ölçme: 
+	Varlıkların niteliklerini niceleştirme işlemi
+	Bir özelliğin kendi cinsinden veya kendi cinsinden olmayan bir araçla karşılaştırılıp kaç birim geldiğini belirlemek
+	Neden Ölçme işlemi yapılır...
+		Aslında Ölçme kavramı: varlıkların özellikleri arasındaki farkları ortaya çıkarmak..
+		İki özelliğin farkı söyleniyorsa bu ölçme işlemidir..
+		İki özelliğin farkının ne işe yaradığı söyleniyorsa bu değerlendirmedir...
+		Ali uzun boylu: ölçme			farkları bildiriyor, farkı ortaya çıkarıyor
+		Ali basket takımında: değerlendirme	
+		
+		iki kalem kırmızı ve siyah: ölçme
+		kırmızıyla bunu siyahla bunu yapacağım: değerlendirme
+		eğer farkımız olmasaydı, ölçmeye gerek kalmazdı
+
+Ölçme kavramının aşamaları:
+	Teori kısmı
+	1. Ölçülecek niteliğin belirlenmesi
+	2. Ölçme işleminin amacını belirlenmesi
+	3. Hangi araçla ölçme işlemini yapacaksın, araç oluşturulur
+	4. Ölçme kuralı belirlenir
+	Pratik kısmı
+	5. Ölçülecek özellikle, ölçme aracı karşılatırılır
+	6. Ölçülen özelliğin sayı veya sembolle ifade edilmesi
+
+Ölçme işleminin türleri * * * 
+	Asıl soru burdan geliyor..
+	3 farklı tür vardır
+	Doğrudan/Temel Ölçme işlemi
+		Bir özelliğin kendi cinsinden bir araç yardımıyla ölçülmesi
+		aynı nitelikte iki şeyi karşılaştırma
+		Uzunluk -> metre kullanımı --> uzunluk yine bir uzunlukla karşılaştırılır
+		Eşit/Kefeli kollu terazi/Tataravalli - ağırlığı ağırlıkla karşılaştırma = aynı özellik
+		temel sayma işlemi ile elde edilen ölçümler
+			sınıfta kaç öğrenci, 1 dakikada kaç kelime okudu, otoparkta kaç araba var
+		Duyu organlarıyla yapılan ölçme işlemleri
+			elmanın tadı tatlı, sınıf sıcak oldu, havuz soğuk = vücut sıcaklığı
+		bebeğin ateşi yükselmiş elimi alnıma koydum
+
+	Dolaylı/Göstergeyle ölçme işlemi
+		bir özelliğin kendi cinsinden olmayan ilişkili varsayılan başka bir araçla karşılaştırılması
+		uzunluk --> dürbünle, lazerle, telefonla kilometre, sinyal...
+		ağırlığık --> baskül/kantar yaylı teraziyle ölçülmesi --> ağırlığı ölçmez, basınç değişikliğiyle ölçer. yayıyın gerilmesile ölçülür
+		sıcaklığın termometre ile ölçülmesi: cıva ile sıcaklığı ilişkilendirmiş...
+		bebeğin yanağı kızarmış - ateşi olmalı ---> ilişkilendirme... 
+		saydı ama performansta bir form kullanarak ölçersek yani puan verirsek dolaylı ölçme işlemidir.. 
+		basketbol sınavında 8 basket atmış 8 puan almış.... dolaylı
+		6 soru çözdü 12 puan --> dolaylı
+		öğrencilerinin soyut özelliklerinin ölçülmesi: bilgi, zeka, tutum, önbilgi, hazırbulunuşluk, kişilik ölçülmesi
+		zeka nasıl bir ölçümdür: zeka doğrudan olmuyor.. ilişkili ölçümdür..
+		benim oğlan akıllı telefonu kullanıyor çok zeki: baba ilişkilendirmiş
+		iyi espri yapıyor, zeki biri diyorsun. mizahla ilişkilendirilmiş
+		puanlama kullanmak
+
+	Türetilmiş Ölçme işlemi
+		formül kullanmak
+		iki farklı ölçme işleminde formül kullanarak ölçme
+		alan hesaplama, yol/zaman=hız bulunması
+
+Örnek:
+		doğrudan ölçme	dolaylı	ölçme	türetilmiş ölçme
+sınavda 	70 doğru	88 puan aldım	67.5 netim var (düzeltme formülü)
+		10 yanlış	test vardır...
+		var
+
+	Ölçme işlemi araçsız da yapılabilir.. kilolu, uzun, başarılı, hızlı dersin.. niceleştirme yok. herkes farklı anlar 100 kilo mu 90 kilo mu?
+	Niceleştirme için araç kullanılır: 100 kilo dediğindeki durum..
+	Özelliğin sayı veya sembolle ifade edilmesi için araç kullanılır.. ve daha anlaşılır ve doğru olur..
+
+	
+
+
