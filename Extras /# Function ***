@@ -236,7 +236,7 @@ f(x)=x^2
 # COORDINATE GRAPH
 
         negative side                    positive side                
-                               y axis
+                               y axis (dependent variable)
                                |
                     .(-2,5)  5 -
                                |
@@ -248,7 +248,7 @@ f(x)=x^2
                                |
        .(-4,1)     (-1,1).   1 -                       .(4,1)
                                | origin (0,0)
--|-----|-----|-----|-----|-----:-----|-----|-----|-----|-----|-----> x axis
+-|-----|-----|-----|-----|-----:-----|-----|-----|-----|-----|-----> x axis (independent variable)
 -5    -4    -3    -2    -1     0     1     2     3     4     5
                                |
                              -1-           .(2,-1)
@@ -263,6 +263,51 @@ f(x)=x^2
                                |
 
 
+# Examples
+	x axis (independent variable)		y axis (dependent variable to x)
+	-------------------------------------------------------------------------
+	time					value / price / percent
+	quantity				price
+	understanding				context
+
+	# Big O Complexity Chart
+	elements / input data size n 		operations / computations
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Akademi Giriş Sınavı (AGS): %50 - 80 Soru - 120 dakika
+	Alan Bilgisi Testi ve Pedagojik Formasyon Testi
+		Alan Bilgisi Testi:
+			Adayların mezun oldukları öğretim alanına ilişkin bilgi düzeylerini ölçer. 
+			Matematik, Fen Bilimleri, Türkçe, Sosyal Bilimler gibi çeşitli branşlardan sorular içerir.
+		Pedagojik Formasyon Testi: 
+			Adayların eğitim teorilerine, sınıf yönetimi becerilerine ve öğrenci psikolojisine dair bilgi birikimini ölçmeyi hedefler. 
+			Bu bölümde adayların eğitim sürecindeki temel yeterlilikleri ve uygulama becerileri değerlendirilir.
+
+Yabancı Dil Sınavı (YDS): %50 - 80 Soru - dakika
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
