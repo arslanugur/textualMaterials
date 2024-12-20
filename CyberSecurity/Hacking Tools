@@ -1,0 +1,73 @@
+# Pentest Tools
+# Reckon NG
+  Hedef şirketin açık kaynaklı bilgilerini toplamak için
+  Domain ve çalışan bilgilerini toplamak
+  OSINT Aracı - Open Source Intelligence
+# Maltego
+  Sosyal Mühendislik - İlişki Haritalandırma
+  Hedef şirket çalışanlarının sosyal medya bağlantılarını analiz edip potansiyel zayıflıklar..
+  OSINT aracı
+  Community Edition
+# ZenMap
+# NMap
+  Ağda neler açık, hangi portlar açık, arkasında hangi servisler çalışıyor
+# Wireshark
+  Giden-Gelen paketler ne durumda. Kaçı girdi kaçı çıktı
+# Aircrack-NG
+  Wireless Hacklemek
+# Metasploit
+  Framework olarak kullanılıyor.
+  Varolan zafiyetleri delinip istismar ediliyor
+# Hydra
+  SSN sunucusuna karşı brute force
+# Nikto
+  Web sunucusunu tarar..
+  Yanlış birşeyler ya da configurasyon eksikleri, patlak çatlak varsa hepsini bulup çıkartır.
+# SQL Map
+  SQLde herhangi bir SQLInjection açıkları varsa onları çıkartmak için
+# Netcat
+  Karşı sunucudan bir bağlantı - Server Client bağlantısını inceler
+  Hedef sisteme veri göndermek/almak
+# Empire
+  Bir sistemde uzun vadeli erişim - kalıcılık - PostExploitation - Backdoor
+  İzlenmeden veri toplamak için
+# John the Ripper
+  Password Cracker
+  Hash veri tabanı çözer
+# PowerSploit
+  Yanlış yapılandırılmış servisleri analiz eder
+  privilege escalation için kullanılır
+# Timesdoom
+  Sistem loglarını manipüle etmek için kullanılır
+# DNSCat2
+  DNS Tünelleme işi için kullanılır. Firewalların arkasından
+  Verinin dışarı çıkarılması - Exfiltration
+# Burpsuit
+  Web uygulamasındaki zafiyetleri tarayıp teknik olarak arka tarafta eskiklik gediklik var mı kontrolü
+
+# DirBuster
+  Web sunucusunun içindeki klasörleri tırtıklamak için
+  ffuf eklemek gerek
+
+CrackStation
+INE
+OffSec
+​​potato script - ntlm hash saldırıları için
+wafw00f
+gau
+hakrawler
+BeEF, the Browser Exploitation Framework
+Bettercap
+
+
+
+XSS => cross site scripting. Js kodunu clinet tarafta calistirmaga yariyor
+
+https://github.com/LuNiZz/siber-guvenlik-sss?tab=readme-ov-file
+
+
+
+
+
+
+  
