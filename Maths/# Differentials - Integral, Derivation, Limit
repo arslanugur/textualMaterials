@@ -1,8 +1,20 @@
-# Integral
+# Differansiyel: Bir ya da birden fazla fonksiyonu ve bunların türevlerini ilişkilendiren denklemdir.
+                 Olasılıklar
+
+# Differential Equations
+
+Derivative
+Integral
+Limit
+Süreklilik
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Derivation = Değişim Teorisi
+🔻 Integral
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+🔻 Derivation = Değişim Teorisi
 
 
 
@@ -11,7 +23,7 @@
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Limit = Yaklaşma Teorisi
+🔻 Limit = Yaklaşma Teorisi
     Çember gibi eğri bir şeklin alanının nasıl bir yaklaşımla hesaplanır. 
 
   Formül: Çemberin Alanı = lim (n -> ∞) A_n
