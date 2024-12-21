@@ -9,6 +9,28 @@
 	long-term investment		--> stocks, various funds
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Arz/Talep Eğrisi
+
+	Price
+	|\			   / S (Supply Curve/Arz Eğrisi)  
+	|  \                     /
+P3 $525 |. . \. . . . . . . . ./c	c: supply surplus (arz fazlası)
+	|      \             /.			
+	|        \         /  .
+	|          \     /    .
+P2 $500 |. . . . . . \ /b     .		b: equilibrium price (supply=demand)
+	|            /.\      .
+	|          /  .  \    .
+	|        /    .    \  .
+P1 $475 |. . . /a     .      \.		a: supply shortage (arz kıtlığı)
+	|    /	.     .       .\
+	|  /	.     .       .  \
+	|/      .     .       .    \ D (Demand Curve / Talep Eğrisi)
+	. -------------------------------> Quantity
+		Q1    Q2      Q3
+		30    60      90
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 Para enerji gibidir kaybolmaz, birileri fakirleşiyorsa birileri zenginleşir
 Flow of Money by Countries
