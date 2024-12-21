@@ -12,23 +12,27 @@
 # Arz/Talep Eğrisi
 
 	Price
-	|\			   / S (Supply Curve/Arz Eğrisi)  
-	|  \                     /
-P3 $525 |. . \. . . . . . . . ./c	c: supply surplus (arz fazlası)
-	|      \             /.			
-	|        \         /  .
-	|          \     /    .
-P2 $500 |. . . . . . \ /b     .		b: equilibrium price (supply=demand)
-	|            /.\      .
-	|          /  .  \    .
-	|        /    .    \  .
-P1 $475 |. . . /a     .      \.		a: supply shortage (arz kıtlığı)
-	|    /	.     .       .\
-	|  /	.     .       .  \
-	|/      .     .       .    \ D (Demand Curve / Talep Eğrisi)
-	. -------------------------------> Quantity
+	|\		 \	   / S (Supply Curve/Arz Eğrisi)		satıcı - fiyat arttıkça, daha fazla üretim miktarı	- arz edilen miktar artar
+	|  \               \     /							 fiyat düştükçe, daha az üretim miktarı..	- arz edilen miktar azalır
+P3 $525 |. . \. . . . . . . .\ /c		c: supply surplus (arz fazlası)		piyasada fazla mal olur
+	|      \             /.\			talep arza göre düşük			arz talepten fazla - fiyat yüksek --> satış zorlaşacak, fiyat düşer
+	|        \         /  .  \
+	|          \     /    .    \
+P2 $500 |. . . . . . \ /b     .			b: equilibrium price (supply=demand)
+	|  \         /.\      .
+	|    \     /  .  \    .
+	|      \ /    .    \  .
+P1 $475 |. . . /.\    .      \.			a: supply shortage (arz kıtlığı)	piyasada eksik mal olur
+	|    /	.  \  .       .\			arz talebe göre düşük			talep arzdan fazla - fiyat düşük --> satış kolaylaşacak, fiyat yükselir
+	|  /	.    \.       .  \
+	|/      .     .\      .    \ D (Demand Curve / Talep Eğrisi)		alıcı - fiyat düştükçe, daha fazla tüketim miktarı	- talep edilen miktar artar 
+	. -------------------------------> Quantity					fiyat arttıkça, daha az tüketim miktarı		- talep edilen miktar azalır
 		Q1    Q2      Q3
 		30    60      90
+
+		slide to left		slide to right
+supply curve	arz azalır		arz artar	
+demand curve	talep azalır		talep artar - miktar artacak ama fiyatta artacak
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
