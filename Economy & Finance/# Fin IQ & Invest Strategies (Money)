@@ -21,8 +21,8 @@ P3 $525 |. . \. . . . . . . .\ /c		c: supply surplus (arz fazlası)		piyasada fa
 P2 $500 |. . . . . . \ /b     .			b: equilibrium price (supply=demand)
 	|  \         /.\      .
 	|    \     /  .  \    .
-	|      \ /    .    \  .
-P1 $475 |. . . /.\    .      \.			a: supply shortage (arz kıtlığı)	piyasada eksik mal olur
+P1 $475 |. . . \ /a   .    \  .
+	|      /.\    .      \.			a: supply shortage (arz kıtlığı)	piyasada eksik mal olur
 	|    /	.  \  .       .\			arz talebe göre düşük			talep arzdan fazla - fiyat düşük --> satış kolaylaşacak, fiyat yükselir
 	|  /	.    \.       .  \
 	|/      .     .\      .    \ D (Demand Curve / Talep Eğrisi)		alıcı - fiyat düştükçe, daha fazla tüketim miktarı	- talep edilen miktar artar 
