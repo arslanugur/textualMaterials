@@ -27,29 +27,31 @@ Ağırlıklı Özsermaye Maliyeti - WACC
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # ALL-TIME PERFORMANCE
 				1*	2*	3*	4	5
-yerli hisse yoğun * * * 	DAH	GAF	TI2	TYH	EC2	GL1	AK3	TKF	GHS	IHK	PPS	ACK	... MAC
+yerli hisse yoğun * * * 	DAH	GAF	TI2	TYH	EC2	GL1	AK3	TKF	GHS	IHK	PPS	ACK	HGM	MAC	HVS
 bist30				YEF	GAE	HBU	TIE	AKU
 banka				TAU	ADP	YZH
 iştirak				TI3	SAS	YAS
-sürdürülebilirlik		BIO	GZR	IFN	YLE	HMS	DLD
-bist100dışı* (büyüyenler - alt)	IDH	ZJV	ZJL	BDY	GOH	YHB	ZLH	BID	DTL	VAY
+sürdürülebilirlik		BIO	GZR	IFN	YLE	HMS	DLD	
+bist100dışı* (büyüyenler - alt)	IDH	ZJV	ZJL	BDY	GOH	YHB	ZLH	BID	DTL	VAY	BUY
 teknoloji			TTE	YHZ	ICZ	DHJ
-altın (sıralama değişir. içi..)	YKT	DBA	TCA	GGK	OJK	FIB	TTA	TUA	NAU	GTA	AFO	HBF
+altın (sıralama değişir. içi..)	YKT	DBA	TCA	GGK	OJK	FIB	TTA	TUA	NAU..	GTA	AFO	HBF	NAU - vadeli işlemler de yapıyor
 gümüş (sıralama değişir. içi..)	GTZ	DMG	GUM	GMC	YZG	MJG	KGM
 çeşitli diğer emtialar		KMF	KUT	OTJ	tge	zcn
-yabancı hisse			AFA	TMG	GBG	zsf	afv
-yabancı teknoloji		TFF	AFT	ITP	IRT	YAY	HOA	GUH	OJT
-fintech blockchain		GBV	YZC	IVY	ZFB	IJP
+yabancı hisse yoğun		AFA	TMG	GBG	zsf	afv
+yabancı teknoloji * * *		TFF	AFT	ITP	IRT	YAY	HOA	GUH	OJT
+fintech blockchain * * *	GBV	YZC	IVY	ZFB	IJP
 metaverse			DVT	MTX	MET	ZMY	MTV
 çip teknolojileri		IJP	cpt
 sağlık				IKL	TBE	AFS	GZG	RPM	SOS
 eurobond			DBH
 değişken (döviz)		KUB
 kira sertifikası (döviz)	TPI
-
+gıda				GIH
+enerji				URA
+petrol				AES
+				BIG
 
 # Advices and Hypes/Trends
-URA
 Eurobonda dah fazla yatır
 gümüşe gir
 
