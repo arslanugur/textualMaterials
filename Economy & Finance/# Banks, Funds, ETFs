@@ -36,13 +36,16 @@ bist100dışı* (büyüyenler - alt)	IDH	ZJV	ZJL	BDY	GOH	YHB	ZLH	BID	DTL	VAY
 teknoloji			TTE	YHZ	ICZ	DHJ
 altın (sıralama değişir. içi..)	YKT	DBA	TCA	GGK	OJK	FIB	TTA	TUA	NAU	GTA	AFO	HBF
 gümüş (sıralama değişir. içi..)	GTZ	DMG	GUM	GMC	YZG	MJG	KGM
-çeşitli diğer emtialar		KMF	KUT	otj	tge	zcn
+çeşitli diğer emtialar		KMF	KUT	OTJ	tge	zcn
 yabancı hisse			AFA	TMG	GBG	zsf	afv
 yabancı teknoloji		TFF	AFT	ITP	IRT	YAY	HOA	GUH	OJT
 fintech blockchain		GBV	YZC	IVY	ZFB	IJP
 metaverse			DVT	MTX	MET	ZMY	MTV
 çip teknolojileri		IJP	cpt
 sağlık				IKL	TBE	AFS	GZG	RPM	SOS
+eurobond			DBH
+değişken (döviz)		KUB
+kira sertifikası (döviz)	TPI
 
 
 # Advices and Hypes/Trends
@@ -50,6 +53,26 @@ URA
 Eurobonda dah fazla yatır
 gümüşe gir
 
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Make a Portfolio
+# Agresif Portfolio				# Dengeli Portfolio		# Defansif Portfolio
+% 70 hisse					% 50 hisse			% 30 hisse
+% 10 Gold					% 10 Eurobond
+% 10 Crypto					% 20 Gold
+-----------------------------------------------------------------------------------------------------
+Büyüme Şirketleri				Değer Şirketleri
+-----------------------------------------------------------------------------------------------------
+Volatility					Stability
+-----------------------------------------------------------------------------------------------------
+# Aggresive Portfolio				# Balanced Portfolio		# Defensive Portfolio
+Yerli		IIH MAC HVS BIG			IIH MAC HVS YAS SAS KYA
+Yabancı		AFT YAY AFA ITP			TMG YAY AFA	
+ETFs		VOO/SPDR QQQM SCHD TWOK			
+Gold		TTA				
+Tematik		GBV IVY IPB			
+Yarı İletken	IJC				
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 #Diğer					#YapıKredi			#Akbank					#İşBank				#Garanti
