@@ -1,0 +1,31 @@
+# Components
+PCB Board - Printed Circuit Board / Baskılı Devre Kartı
+    Elektronik devre elemanlarını monte etmek için yüzeyinde iletken (örneğin bakır) yollar ve adalar, 
+                                                   yüzeyler arasında ise içi lehim kaplı delikler içeren
+                                                   değişik yalıtkan materyallerden yapılmış plaka
+
+    Bileşenler tipik olarak iletken olmayan tarafa monte edilir
+                         ve iletken taraf, bileşenleri elektriksel olarak birbirine bağlayan bakır izleri içerir. 
+    Tek taraflı PCB'ler uygun maliyetlidir ve hesap makineleri ve sensörler gibi basit elektronik cihazlar için uygundur
+
+# Types of PCB
+https://hilelectronic.com/tr/pcb-basics/
+
+Example:
+  New Shine 6x4 board
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+10K Resistors
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Arduino Nano ---> USB ---> Computer and Code Process
+
+
+
+
+
+How to Build a 4x4x4 Led Cube at Home | Electronics Project
+https://youtu.be/MsX2WYQyAhI?si=QtHXkChJ_BF0G6UX
+https://www.amazon.com/iCubeSmart-Electronics-Electronic-Activities-3D16MINI-MULTI-KIT/dp/B09LZ1D63Z
+
+
