@@ -1,3 +1,18 @@
+# Correlation Examples
+                    x            y
+    ₺ Big Mac       year         price
+    $ Big Mac       year         price
+
+    ₺ Big Mac           $ Big Mac
+    2018: 13.95₺        2018: $
+    2019: 18.99₺        2019: $
+    2020: 29.99₺        2020: $
+    2021: 36.99₺        2021: $
+    2022: 99.00₺        2022: $
+    2023:               2023: $
+    2024:               2024: $
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # FORMULAS before starting a new business
 1. Return on Investment (ROI)
     Formulas:
