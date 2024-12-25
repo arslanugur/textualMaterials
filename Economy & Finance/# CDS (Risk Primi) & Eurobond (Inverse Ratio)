@@ -1,6 +1,19 @@
-CDS - Credit Default Swaps
+# Correlations
 
-EUROBOND
+	1.	FED Interest Rate	US Treasures	Gold	CDS (Credit Default Swaps)	TR Interest Rate	TR Eurobond Price
+		----------------------------------------------------------------------------------------------------------------------
+		DXY is up		increase	down	up	- high			up			decrease - untrustable
+		DXY is down		decrease	up	down	- low			down			increase - trustable
+
+
+	2.	Credit Ratings		CDS (Credit Default Swaps)	TR Interest Rate	TR Eurobond Price
+		------------------------------------------------------------------------------------------------------
+		bad - decrease		up	- high			up			decrease - untrustable
+		good - increase		down	- low			down			increase - trustable
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# EUROBOND
   devletin dolar tahvilleri
   tc ödüyor
   dolar/dollar emekliliği gibi de düşünebilirsin
@@ -9,7 +22,6 @@ EUROBOND
 Links:
 https://www.isbank.com.tr/eurobond-fiyatlari
 
-faizler indiğinde eurobond fiyatları yükselir. tr
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # CDS nasıl belirlenir... neyle alakalı - 4 temel şey
 1. dünyadaki likitide (Küresel faiz oranları - FED tarafından belirlenir)
