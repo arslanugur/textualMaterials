@@ -16,6 +16,25 @@ Example:
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 10K Resistors
 
+Resistor
+    to protect LED's
+    because baterry pushes a lot of electrons    too much charge!!
+    with resistor, less electrons can flow around the curcuit
+    the electrons collide with atoms inside the resistor and these collisions generate heat!!!
+
+# Helical Grove Cut inside Resistor to prevent colliding...
+    Shorter Cut, Low Resistance
+    Longer Cut, High Resistance
+
+LED Voltage drop = 2V
+Current = 20mA    (to LED manufacturer)
+
+Battery = 9V
+Resistor Voltage Drop    9V-2V=7V
+Resistor Value            7V ÷ 0.02A = 350Ω
+Energy removed (from circuit (P=I^2*R))    (0.02)^2 * 350Ω = 0.14W
+Min power Rating of resistor                1/4W (0.25W)
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Arduino Nano ---> USB ---> Computer and Code Process
