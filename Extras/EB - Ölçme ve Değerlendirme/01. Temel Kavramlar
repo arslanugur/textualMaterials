@@ -97,5 +97,191 @@ sınavda 	70 doğru	88 puan aldım	67.5 netim var (düzeltme formülü)
 	Özelliğin sayı veya sembolle ifade edilmesi için araç kullanılır.. ve daha anlaşılır ve doğru olur..
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Kavramlar
+- SIFIR
+	Ölçme işleminin başlangıç noktası
+		90 kilo, 0 kilodan başlamış..
+	Doğal Sıfır: Ölçme işleminin, Başlangıç noktası 'gerçek yokluğu' bildirir.
+			sınavda 80 doğru yaptı, 0 doğru var mı hiç yok
+			190cm boyunda --> boy ölçmek
+			bir şeyin uzunluğunu ölçerken yeri/zemini sıfır olarak kabul ediyoruz..
+			ders başlayalı on dakika oldu.. süre ölçümü...
+			günlük ders çalışma süresi, yarışta parkuru tamamlama süresi, uyku süresi, maç süresi..
+			çünkü sıfır dakika olduğunda ders daha yoktu ortada
+			10 gün karantina, kamp var, son üç gün kaldı...
+			sıcaklığın kelvin cinsi olarak ölçülmesi...	sıfırın altında sıcaklık ölçülmedi..
+			ÖSYM: temel sayma, süre soruları
+			elimde üç kalem, sınıfta 20 öğrenci var
+			hiç mi yok.. hiç
+
+	Yapay Sıfır: Özellik devam ederken, özelliğin bir kısmına sıfır denmiş..
+			yapay, keyfi, tanımlanmış, göreli, izafi sıfır - doğada yok yani
+			başlangıç noktası gerçek yokluğu bildirmez.
+			özellik gerçekten yok mu oluyor yoksa kendini devam mı ettiriyor.
+			rakım ölçümleri: ankaranın rakımı - deniz seviyesi sıfır olarak kabul edilmiş
+			matemeatik sınavından 80 puan aldı - sınavdan 0 alman hiç birşey bilmediğin anlamına gelmez...			
+			sınav puanı yapay sıfır
+			şu an saat 12 veya 12buçuk dediğinde ---- zaman ölçümü
+			gece yarısı 00:00 olduğunda zaman yok olmuyor... özellik kaybolmuyor
+			bugünün tarihi... takvim ölçümü... herkesin takvim başlangıcı uzmanı başka
+			sınıf 18santigrat celsius dersek... -- termometre - 0 altında da sıcaklık söz konusu
+
+			
+- BİRİM
+	Sıfırın kardeşi
+	Ölçme işleminin en küçük parçasıdır
+	
+		ölçüm   birim
+		--------------
+		80	doğru
+		10	dakika
+		20	gün
+		190	kilo
+
+		birim, ölçme işleminin anlaşılabilirğini sağlamak için var, anlaşılabilirliği arttırır.
+		
+
+	Doğal Birim: ölçme işlemine alınan herbir özellik, mecburen bir birim olarak kabul edilir
+			doğal birimler bölünemez, bölünce anlamını yitirir. 10 buçuk tane diyemezsin...
+			"tane, adet" cinsinden ifade edilir..
+			otoparkta 10 tane kitap var - her bir kitap bir birim
+			tane kelimesini koyduğunda anlam bozulmuyorsa doğal birimdir..
+			üç tane kardeşim var-- kardeş bir birimdir..
+
+	Tanımlanmış Birim: uzmanlar tarafından belirlenmiştir... doğada yok
+			uzunluğun 1 metre olacağı, kilonunn 1 kilo olacağı tanımlanmış
+			indirgenebilir birim: km, cm, mm -- indirebiliyorsun
+			ton, kg, gr
+			saat, dakika, saniye, salise
+			tanımlanmış birimler buçuklu değer alabilir..
+			puan, ne kadarlık bir birimim kaç puan alacağını belirlenir..
+			sınavdan 80 doğru yaptım	80 tane doğru		olur
+			sınavdan 80 puan aldım		80 tane puan 		olmaz
+
+
+	Birimlerin üç özelliği:
+		Eşitlik:	ölçme işlemi devam ederken birimler arasındaki mesafelerin eşit aynı olması: cm, m,kg, dakika
+				adımii karış, firavun arşını gibi şeylerde eşitlik yok
+		Genellik:	herkes trafından kullanılıyor kabul ediliyor: m, cm, km, kg genellik özelliği var
+				inch, mile, stone, okka, kile genellik yok.. anlaşılabilirliği yok	
+				fırından 1,5 ekmek, yarım karpuz almak --> genellik yok.
+				herkes aynı şeyi anlayorsa
+		Kullanışlık:	işi kolaylaştırmak
+				zaman, emek, maliyet bakımından fayda olmalı
+				en kullanışlı birim işi kolaylaştıran birim			
+
+
+				Doğal Birim		Tanımlanmış Birim
+				-----------------	-----------------
+		Doğal Sıfır	x
+		Yapay Sıfır				x
+
+
+
+- Ölçme Kuralı
+	ölçme işlemi yapılırken uyulması gereken kurallar..
+	bir birimin ne kadar değer alacağıdır..
+	sınav yönergesinde yer alan tüm kavramlar: ölçme kuralıdır
+		sınavda 80 soru vardır demek...
+		sınav saat 10da başlayacaktır..
+
+- Ölçek
+	Bunu bilmeden sınava girmeee....
+	Ölçme işlemi yorumlanırken uyulması gereken kurallar...
+	ölçme işlemi yapıldı bitti
+
+# Ölçekler
+	Eğer yapılan ölçme işlemi niteliksel ise. sıfır noktası yoksa
+		1- Sınıflama: en az bilgiyi veren ölçek. en basiti
+				varlıkların özelliklerine bakarak ortak olanlardan gruplar oluşturmak demek
+				ortak olanları bir araya getirmek, gruplamak
+				sarışın ve esmer, uzun ve kısalar
+				mezun olunan lise türene göre..
+				destek eğitim alanlar ve almayanlar
+				iki kategorili, puanlı, yapanlar ve yapmayanlar
+				sıfır noktası yoktur... sıfır diye bir kavram yok
+					sınıflama işleminde matematiksel işlemler yapılamaz: + - x ÷
+				dördüncü sokak dense bile sadece sembolik
+				mode, tepe değer, frekans, yüzdelik bunlar istatistik ile ilgilidir... vardır bunlar matematik değil
+				* ortak olanları bir arayag getirmek
+			Özellikleri:
+			- simetrik olma: iki tarafın da benzer olması: a=b	b=a
+			- geçişlilik: iki ayrı ölçme işleminden üçüncüsüne geçiş yapılması	a=b, b=c, a=b
+					ali betül ile kardeş, o zman mehmet ile de kardeş
+
+		2- Sıralama: varlıklarına bir özelliğe sahip olma düzeyine göre dizilmesi
+				çoktan az, en azdan en çoğa, düşükten yükseğe
+				enler önemli: en hızlı, iyi okuyan, en başarılı
+				sıralama ölçeklerinde sıfır yoktur...
+				bir başlangıç vardır.. ölçmeden ölçmeye değişir...
+				sıralama işleminde matematiksel işlemler yapılamaz: + - x ÷
+				birinci, ikinci, üçüncü, dördüncü
+				* enler ile düzeyi bildirecek... azlık çokluk
+				sıralama ölçeklerinde birimler arası mesafe bilinemez, eşit değildir...
+					bilinemediği için matematik yok
+				sıralama ölçekleri asimetriktir... simetrik olmayan bir ölçme işlemi
+				a>b	b>a olmaz.... betül aliden büyük değil...
+				ama geçişlilik var
+				a>b	b>c	olur..	üçüncü ölçmeye geçilebilir...
+				mode, frekans , yüzdelik, medyan (ortanca) işlemlerini yapabilir...
+	Eğer yapılan ölçme işlemi niceliksel ise. sıfır noktası varsa
+		3- Eşit Aralıklı
+			tanımlanmış sıfırın kullanıldığı ölçme işlemleridir	demek ki bir sıfır noktası var.. izafi..
+			başlangıç noktaları farklı olduğu için toplama ve çıkarma işlemi yapılabilir...
+			çarpma ve bölme yok yani oranlama işlemleri yok...
+			a sınavdan 70 puan, b sınavdan 35 puan alıyor... puanların toplamı/farkı gibi sorular...
+				ama a b'den iki kat bilgiye sahiptir. denilemez... yarısı kadar bilgiye sahiptir diyemezsin
+				bingöl, eskişehire göre 3 kat daha soğuktur denilemez... cantigrat yapay sıfır..
+		4- Eşit Oranlı: en fazla bilgi veren ölçek
+			doğal sıfırın kullanıldığı ölçme işlemleridir..
+			hiçliği bildirir, başlangıç noktası aynı yerden başlıyor..
+			toplama, çıkarma, çarpma, bölme işlemleri yapılabilir..
+			katlar, farklar, toplamlar,
+			a 70 puan b 35 puan aldı - iki katı ve yarısı
+			
+
+
+Ölçekler
+	doğal sıfır	yapay sıfır
+	süre		zaman
+
+	doğal birim	tanımlanmış birim
+	tane
+
+	Sınıflama	Sıralama	Eşit Aralıklı		Eşit Oranlı
+	gruplama	düzey, kalite	tanımlanmş sıfır	doğal sıfır
+	---------------	---------------	---------------		---------------
+	Mod		Mod
+	Frekans		Frekans
+	Yüzdelik	Yüzdelik
+	Tepe Değer	Tepe Değer
+			Medyan (Ortanca)
+
+Ölçeklerde dönüşüm: çok bilgi verenden az bilgi verene doğru gelir..
+	en çok bilgi verenden en az bilgi verene
+	4. sınavada 70 doğru yaptım	eşit oranlı
+	3. sınav puanım 89		eşit aralıklı
+	 	89 puan yaptıktan sonra kaç doğru yaptığının bir önemi yok
+	2. branş sıralaman 10.sıra
+	 	branş sıralaman açıklandıktan sonra 89 puanın bir önemi yok
+	1. gruplama: kontenjana girenler, girmeyenler...
+		100 kişi alınacak ben 10.cuyum atanır mıyım evet...
+		kontenjana girdikten sonra ha birinci olmuşun ha 99uncu..
+	her dönüşüm yapıldığında ölçek bilgi kaybına uğrar..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
