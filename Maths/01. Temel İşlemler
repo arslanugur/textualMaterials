@@ -33,10 +33,83 @@
 -7+11-6 = -7+11 = +4 -6 = -2
 (3x)-(7x) = -4x
 
-🔻 Çarpma İşlemi
-🔻 Bölme İşlemi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+🔻 Çarpma-Bölme İşlemi
+    Çarpma ve bölme işlemleri yapılırken işaretler tablosuna göre işaretler belirlenir
 
+    # İşaret Tablosu
+
+    + * + = +        + / + = +
+    - * - = +        - / - = +
+    + * - = -        + / - = -
+
+(-7)*(-13)  = +    91 
+-11*4       = -    44
+(+8)/(-2)   = -    4
+(-15)/(-3)  = +    5
+
+
+
+
+🔻 Kuvvet Alma İşlemi
+x² = x * x
+x³ = x * x * x
+(-x)^2 = -x * -x = +x^2
+    eğer negatif sayının üzerinde, çift bir ifade kuvvet varsa; içerdeki -, + olarak yazılır
+(-x)^3 = -x * -x * -x = -x^3
+x^0 = 1      bir sayının sıfıncı kuvveti 1 dir, sıfır olmadığı sürece..
+
+3^2 = 3 * 3 = 9
+2^3 = 2*2*2 = 8
+(-3)^2 = -3 * -3 = 9
+(-2)^3 = -2 * -2 * -2 = -8
+(-1905)^0 = 1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Q1
+x-(x-(-x-3x)) = -1x -3x = -4x    parantezden başla..
+              = x - (x-(-4x))    parantez açma işlemi..
+              = x - 5x
+              = -4x
+
+# Q2
+(3:4-2+5:2)*(6-1+5*(-1))
+İşlem önceliği: Çarpma --> Bölme --> Toplama --> Çıkarma
+
+(3:4-2+5:2)*(6-1+5*(-1))
+             5  -5 = 0
+(3:4-2+5:2)
+ ---  ----
+ ilk  sonra
+...........* 0 = 0    bir sayının sıfırla çarğımı sıfırdır..
+
+# Q3
+  Faktoriyel
+  1den n'ye kadar ardışık doğal sayıların çarpımı n!
+  0! = 1
+  1! = 1                    1! sonraki sayıların hepsi çifttir
+  2! = 1*2 = 2
+  3! = 1*2*3 = 6
+  4! = 1*2*3*4 = 24          4! sonraki sayıların hepsinin sonunda sıfır vardır
+  5! = 1*2*3*4*5 = 120
+  6! = 5!*6 = 720
+  7! = 6!*7 = 5040
+  ...
+
+  (0!+1!+2!)!-(3!-0!)!
+  (1 +1 + 2)!-(6-1)!
+  4! - 5! = 24-120 = 96
+                   = -96 çıkarma işleminde büyük olanın işaretini unutma
+
+
+# Extras
+🔻 Maddesel Matematik
+
+  # Street View
+    x = person
+    y = tree
+    z = car
+
+    2x + 3y + 5z = 10(x+y+z)
 
 
 
