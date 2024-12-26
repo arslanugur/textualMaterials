@@ -1,0 +1,60 @@
+# İşaret Tablosu
+
+  + * + = +        + / + = +
+  - * - = +        - / - = +
+  + * - = -        + / - = -
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Parantez Açma
+  Çarpanlara ayırma ve rasyonel sayılarda kullanılır.
+  Parantez aöma işlemi yapılırken parantezin önündeki işaret işlem üzerine dağıtılır.
+  işaretle birlikte denklem üzerine dağılıtır
+  -(-x) = +x
+  -(+x) = -x
+  -(-x-y-z) = +x+y+z
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Dört İşlem (+ - x ÷)
+🔻 Toplama İşlemi
+İki sayının işaretleri aynı ise toplama yapılır; sonucun işareti, ortak olan işarettir..
+
++3 + +5 = +8
+-7 + -13 = -20
+-11 -14 = -25
+-7-11-6 = -7-11 = -18-6 = -24
+-14x-11x = -25x
+
+🔻 Çıkarma İşlemi
+İki sayının işaretleri farklı ise çıkarma yapılır, sonucun işareti, büyük olanın işareti olur..
+(-5x) + (9x) = +4x
+3-5 = -2
+-8+12 = +4
++7 +(-13) = +7-13 = -6 
+-7+11-6 = -7+11 = +4 -6 = -2
+(3x)-(7x) = -4x
+
+🔻 Çarpma İşlemi
+🔻 Bölme İşlemi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
