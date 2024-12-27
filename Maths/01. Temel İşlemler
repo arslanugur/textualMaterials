@@ -199,25 +199,32 @@ Q8. 4-2x = 3x-4/-2 denklemini saplayan x değeri kaçtır?
     -2y  -3y  +5y     = 0y..      sıfırladı kendini
     +2z  -6z          = -4z       eşiti...
 
-🔻 Paranteze Alma
+🔻 Paranteze Alma (Kapatma) - Çarpanlara ayırma en sade hali nedir sorularında
   x*a+x*b+x*c = x*(a+b+c)
   işleminde x her bir terimde ortak olduğu için ortak çarpan parantezine alınarak ifade düzenlenir.
 Örnekler:
-  3x+2yx =
-  6+2xx-4y = 
-  2a-4ab-6ac =
+  3x+2yx =       ortak olan x  = x(3+2y)
+  6+2x-4y =      ortak olan?  = 2*3+2x-2*2y = ortak olan 2 = 2(3+x-2y)       
+  2a-4ab-6ac =   ortak olan a ve 2 = 2*a -2*2ab-2*3ac = 2a(1 -2b -3c)        çubukları 1 gibi düşünceksinki 1 ordan geliyor..
 
+Not: artı ve eksiye bakarak al, başında çarpma işlemi vars alma
 
-# Sadeleştirme ve Oranlama
+🔻 Sadeleştirme ve Oranlama
   Kesirli sayılarda pay ile paydaın ortak bir sayı ile bölünmesine sadeleştirme,
-  iki ifadenin birbirine bölünmesine oranlama denir.
-  18/10 = 
-  49/13 * 26/7 = 
-  5/7 * 9/5 * 21/8 =
+  iki ifadenin birbirine bölünmesine oranlama denir. iki ifadenin birbirine bölünmesidir
+  a'nın b'ye oranı a/b'dir
+    'a'nnenin yaşının 'b'abanın yaşına oranı...
+  18/10 = 9/5
+  49/13 * 26/7 = sayıları çarpma = sadeleştirme yap 7/1*2/1  = 14
+  5/7 * 9/5 * 21/18 = 1/1 * 1/1 * 3/2 = sonuç: 3/2 
+  5 21  18 5  7  9
 
-
-
-
+Q10. 3/7.777 -2/5.555 +3/2.444 işleminin sonucu kaçtır?
+    önce sadeleştirme
+    3/1.111 -2/1.111 +3/1.222
+    3.111 -2.111 +3.222          ifade paranteze alınabilir ama gerek yok
+    333-222+666 = 777
+    
 
 
 
