@@ -1,11 +1,11 @@
-# İşaret Tablosu
+🔻 İşaret Tablosu
 
   + * + = +        + / + = +
   - * - = +        - / - = +
   + * - = -        + / - = -
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Parantez Açma
+🔻 Parantez Açma
   Çarpanlara ayırma ve rasyonel sayılarda kullanılır.
   Parantez aöma işlemi yapılırken parantezin önündeki işaret işlem üzerine dağıtılır.
   işaretle birlikte denklem üzerine dağılıtır
@@ -82,8 +82,7 @@ x-(x-(-x-3x)) = -1x -3x = -4x    parantezden başla..
  ilk  sonra
 ...........* 0 = 0    bir sayının sıfırla çarğımı sıfırdır..
 
-# Q3
-  Faktoriyel
+🔻 Q3. Faktoriyel
   1den n'ye kadar ardışık doğal sayıların çarpımı n!
   0! = 1
   1! = 1                    1! sonraki sayıların hepsi çifttir
@@ -99,6 +98,129 @@ x-(x-(-x-3x)) = -1x -3x = -4x    parantezden başla..
   (1 +1 + 2)!-(6-1)!
   4! - 5! = 24-120 = 96
                    = -96 çıkarma işleminde büyük olanın işaretini unutma
+
+🔻 İşlem Önceliği
+1. Kuvvet İfadeleri
+2. Parantez içi
+3. Çarpma, Bölme
+4. Toplama, Çıkarma
+
+(-5+7)^2= +2 * +2
+12+5*(-3)= 12 -15 = -3 
+   -----
+(-5)*(-3)+(-2)*(+3)= +15 + (-6) = +15 -6 = +9
+(+15)/(-3)+(-17)= -5 + -17 = -5 -17 = -22
+----------
+
+
+🔻 Denklem kurma ve çözme:
+  Bir işlemde denklem çözümü yapılırken aynı cins ifadeler bir yerde taraf tarafa toplanır.
+  Burada dikkat edilmesi gereken şey eşitliğin karşısına geçen ifadenin işareti değişir.              
+  sayılar sayılar tarafında, ifadeler ifadeler tarafında...
+  küçük büyüğün yanına gider...
+# Q4. 2x+3 = x+11 denklemini sağlayan X değeri kaçtır?
+     --     -
+        -     --
+
+    2x-x = 11-3
+       x = 8
+  
+🔻 İki bilinmeyenli bir denklem çözümü yapılıyorsa
+    taraf tarafa toplanarak ya da çıkarılarak yok etme işlemi yapılır..
+            x'i bulmak istiyorsan y'leri yok et, y'yi bulmak istiyorsan x'i yoket
+            yok edeceğin ifadenin katsayılarını eşitleyecek şekilde genişleteceksin
+    ya da yerine koyma yöntemi uygulanarak denklem çözülür..
+
+# Q5. x+y = 12
+      x-y = 4      denklemini sağlayan x değeri kaçtır?
+
+  Not: Neyi soruyor ise diğerini yok et!
+
+    x+y = 12
+    x-y = 4
+ + ---------- ilk yöntem: taraf tarafa toplama... 
+    2x = 16   +y ve -y birbirini götürdü
+     x = 8
+
+    Diyelim ki taraf tarafanın işe yaramayacağı bir denklem denk geldi...
+    x+2y = 4
+    x+3y = 8      denklemini sağlayan x değeri kaçtır?
+
+    Not: Neyi soruyor ise diğerini yok et!
+    Ters yazma yöntemi kullanılır
+    3*  x+2y = 4      3x+6y = 12              3 her yere dağıtılır
+    -2* x+3y = 8      -2x-6y = -16            yok edeceğimiz için birine eksi yap mesela -2* gibi
+                      ----------- +
+                      x    = -4
+
+Q6. 2x+y = 8
+    x+y = 15  denklemini sağlayan y değeri kaçtır?
+
+    1* 2x+y = 8     2x+y = 8                 birbirinin  yani xlerin kat sayılarını ters yazarız
+   -2*  x+y = 15   -2x-2y = -30              Eşitleyip genişletmek için küçük olan x ifadesini -2 ile çarptık
+                    ----------- +
+                      -y = -22
+                      y = 22    eksiler birbirini götürdü
+
+🔻 İçler Dışlar Çarpımı (oran-orantı ve normal denklerde kullanılan method)
+  a/b = c/d ---> a*d = b*c  işlemine içler dışlar çarpımı yapma denir
+
+Not: bölüm durumundaki ifadeler sadeleştirilir.
+  yani a ile d ya da b ile c sadeleşemez.. içlerdışlar işleminde çarpıma gelen sayılar sadeleşmez...
+  bölüm durumunda olan b ile d ve a ile c sadeleştirilir.
+
+    |-----|  bölüm durumunda
+    a     c
+    -  =  -
+    b     d
+    |-----|  bölüm durumunda
+
+Q7. x-2/x+1 = 3/2 denklemini sağlayan x değeri kaçtır?
+      içler dışlar yapılır      küçük büyüğün yanına gider
+      2x-4 = 3x+3           =   x = -7
+Q8. 4-2x = 3x-4/-2 denklemini saplayan x değeri kaçtır?
+    -8+4x = 3x-4            =   x = 4
+     
+    Not: Unutma -8, -4den küçüktür. yani -8, -4ün yanına gider..
+
+🔻 Parantez Açma (Çarpanlara ayırma konusunda kullanılan işlem)
+  x*(a+b+c) = x*a + x*b + x*c    dağıtma işlemi = parantez açma
+  işleminde x şeklindeki gibi sırası ile çarpılarak parantez açılır.
+
+Örnekler:
+  3*(x-2) = 3x-6
+  -2*(-5-2y+x) = +10+4y-2x   * * * 
+
+# Q9. 2*(2x-y+z)-3*(y+2z-2x)-5*(2x-y) ifadesinin eşiti nedir?
+    tek tek açma işlemi yapılır
+    4x-2y+2z -3y-6z+6x -10x+5y
+    aynı cins ifadelerde toplama çıkarma yapabiliriz...
+    +4x  +6x  -10x    = 0x..      sıfırladı kendini
+    -2y  -3y  +5y     = 0y..      sıfırladı kendini
+    +2z  -6z          = -4z       eşiti...
+
+🔻 Paranteze Alma
+  x*a+x*b+x*c = x*(a+b+c)
+  işleminde x her bir terimde ortak olduğu için ortak çarpan parantezine alınarak ifade düzenlenir.
+Örnekler:
+  3x+2yx =
+  6+2xx-4y = 
+  2a-4ab-6ac =
+
+
+# Sadeleştirme ve Oranlama
+  Kesirli sayılarda pay ile paydaın ortak bir sayı ile bölünmesine sadeleştirme,
+  iki ifadenin birbirine bölünmesine oranlama denir.
+  18/10 = 
+  49/13 * 26/7 = 
+  5/7 * 9/5 * 21/8 =
+
+
+
+
+
+
+
 
 
 # Extras
