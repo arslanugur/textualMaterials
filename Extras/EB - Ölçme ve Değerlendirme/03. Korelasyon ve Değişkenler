@@ -1,7 +1,9 @@
 # Korelasyon
   En az iki değişken arasındaki ilişkiyi gösteren istatistiksel yöntemdir.
 
-Değişken: Araştırmadan araştırmaya durumdan duruma farklılık gösteren kavram.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Değişken:
+    Araştırmadan araştırmaya durumdan duruma farklılık gösteren kavram.
 
 Değişken
   - Yapılarına göre Değişken:
@@ -33,7 +35,7 @@ Değişken
 # Bu değişenler arasında bir ilişki vardır, bu ilişkiyi gösteren değere korelasyon diyoruz..
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Korelasyon Kat Sayısı * * *
     korelasyon kat sayısı -1 ile +1 arasındadır
     tam ortada 0 vardır.. korelasyon katsayısı 0'a doğru yaklaştıkça ilişki azalır...
@@ -69,6 +71,8 @@ Değişken
 
     Örnek: Spor yapmak ile sağlık arasındaki ilişki yukarıdaki grafikte verilmiştir gibi sorular...
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Korelasyon Tablosu
           x        y        z
     x     1.0      0.50     -0.70
