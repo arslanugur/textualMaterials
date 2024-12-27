@@ -236,36 +236,41 @@ f(x)=x^2
 # COORDINATE GRAPH
 
 
-			negative correlation	 no correlation		positive correlation
 
+			negative correlation	 no correlation		positive correlation
+						     (π/2)
+						      90°
+						     (0,1)
 			                               y axis (dependent variable)
 			(inverse ratio)		       |		(direct ratio/proportion - doğru orantı) = /	formula: y=k.x	k=constant
 			                    .(-2,5)  5 -
 			                               |
-			             .(-3,4)         4 -                 .(3,4)
-			                               |
-			    Quandrant II             3 -     .(1,3)      Quandrant I
-			                               |
-			                            y2 -           .(2,2)
-			                               |
+	sin	+	             .(-3,4)         4 -                 .(3,4)			sin	+
+	cos	-	                               |					cos	+
+	tan	-	    Quandrant II             3 -     .(1,3)      Quandrant I		tan	+
+	cot	-	                               |					cot	+
+	sec	-	                            y2 -           .(2,2)			sec	+
+	csc	+	                               |					csc	+
 			       .(-4,1)     (-1,1).  y1 -                       .(4,1)
 			        		       | 
-			-|-----|-----|-----|-----|---(0,0)---|-----|-----|-----|-----|-----> x axis (independent variable)
+	180° (2π) (-1,0)-|-----|-----|-----|-----|---(0,0)---|-----|-----|-----|-----|-----> x axis (independent variable) (1,0) 0° / 360° (2π)
 			-5    -4    -3    -2    -1   Origin x1    x2     3     4     5
 			                               |
 			                             -1-           .(2,-1)
 			                               |
-			       .(-4,-2)              -2-
-			                               |
-			     Quandrant III .(-2,-3)  -3-     .(1,-3)     Quandrant IV
-			                               |
-			             .(-3,-4)        -4-                       .(4,-4)
-			                               |
+	sin	-	       .(-4,-2)              -2-					sin	-
+	cos	-	                               |					cos	+
+	tan	+	     Quandrant III .(-2,-3)  -3-     .(1,-3)     Quandrant IV		tan	-
+	cot	+	                               |					cot	-
+	sec	-	             .(-3,-4)        -4-                       .(4,-4)		sec	+
+	csc	-	                               |					csc	-
 			                             -5-
 			(direct ratio)                 |		(inverse ratio/proportion - ters orantı) = \	formula: y=k/x	k=constant
+						     (0,-1)
+						      270°
+						     (3/2π)
 
-
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Examples
 	x axis (independent variable)		y axis (dependent variable to x)
 	neden					sonuç
@@ -281,10 +286,24 @@ f(x)=x^2
 	# Big O Complexity Chart
 	elements / input data size n 		operations / computations
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Oran, Orantı - Ratio, Proportion
 	Direct Ratio
 	Inverse Ratio
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Trigonometry
+	0	π/6	π/4	π/3	π/2	2π/3	3π/4	5π/6	π	7π/6	5π/4	4π/3	3π/2	5π/3	7π/4	11π/6	2π
+θ	0°	30°	45°	60°	90°	120°	135°	150°	180°	210°	225°	240°	270°	300°	315°	330°	360°
+--------------------------------------------------------------------------------------------------------------------------------------------
+sinθ	0	1/2	√2/2	√3/2	1	0	-1	0
+cosθ	1	√3/2	√2/2	1/2	0	-1	0	1
+tanθ	0	1/√3	1	√3	-	0	-	0
+cotθ	-
+secθ	1
+cscθ	-
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Math Functions - Graph of Factorable Polynomials
 	Grafiklerde x'in y eşitliğini bulmak için yapılmış bir yöntem
 		y=x	y=x^2	y=x^3		y=sinx	y=cosx
