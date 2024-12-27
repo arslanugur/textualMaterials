@@ -1,108 +1,121 @@
-# Ölçme Değerlendirme
-01. Tanıtım
-12 Soru (9 soru sözel, 3 soru sayısal)
-- Temel Kavramlar (1q)
-- Değerlendirme ** (3q) (Önemli Ünite)
-- Korelasyon (1q)
-- Bir ölçme aracında bulunması gereken özellikler  (3q) (Güvenilirlik *, Geçerlilik *, Kullanışlılık)
-- Eğitimde kullanılan ölçme araçları (1q)
-- İstatistik
-	- Madde istatistikleri (1q)
-	- Test İstatistikleri (1q)
-	- Standart Puanlar (1q)
+1 Soru çıkacak!
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# Ölçme Değerlendirme Ne işe yarar?
-		Program geliştirme dersinde 4 kavram var..
+# Ölçme Değerlendirme Ne işe yarar? Mantığı/Felsefesi
+		Program geliştirme dersinde 4 kavram/özellik var..
 			- Hedef Davranışı belirle
 			- İçeriği belirle
 			- Eğitim durumları/Öğrenme yaşantıları beirleme
 			- Sınama ve Değerlendirme kavramı gelir..
 				Hedefler hakkında bilgi verir?
-				Konular (İçerik) öğrenilmiş mi?
+				Konular (İçerik) öğrenilmiş mi? içerik hakkında bilgi verir
 				Kullanılan model, strateji, yöntem, teknik verimli olmuş mu?
 				Bu bilgiler program geliştirme uzmanlarıına verilerek
-					programa dirik olma özelliği kazandırır.
+					programa dirik olma özelliği kazandırır. canlılık ve eksiklikleri gösterir giderir...
 	Ölçme değerlendirme yeterince başarılı öğrenciyi motive eder. Başarısızı motive etmez..
 	performansını gösterir..
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Temel Kavramlar (1q)
-Ölçme: 
+Ölçme: * * *
+	varlıkların özellikleri sayı ve sembollerle ifade etme
 	Varlıkların niteliklerini niceleştirme işlemi
 	Bir özelliğin kendi cinsinden veya kendi cinsinden olmayan bir araçla karşılaştırılıp kaç birim geldiğini belirlemek
-	Neden Ölçme işlemi yapılır...
-		Aslında Ölçme kavramı: varlıkların özellikleri arasındaki farkları ortaya çıkarmak..
-		İki özelliğin farkı söyleniyorsa bu ölçme işlemidir..
-		İki özelliğin farkının ne işe yaradığı söyleniyorsa bu değerlendirmedir...
+	Neden Ölçme işlemi yapılır... * * *
+		Aslında Ölçme kavramı:
+			varlıkların özellikleri arasındaki farkları ortaya çıkarmak..
+		* İki varlığın/özelliğin farkı söyleniyorsa bu ölçme işlemidir..
+		* İki özelliğin farkının ne işe yaradığı söyleniyorsa bu değerlendirmedir...
 		Ali uzun boylu: ölçme			farkları bildiriyor, farkı ortaya çıkarıyor
 		Ali basket takımında: değerlendirme	
-		
+			iki arabası var, 75 kilo, masanın uzunluğu 100cm
+
 		iki kalem kırmızı ve siyah: ölçme
 		kırmızıyla bunu siyahla bunu yapacağım: değerlendirme
 		eğer farkımız olmasaydı, ölçmeye gerek kalmazdı
 
-Ölçme kavramının aşamaları:
+		anlaşılamaz	anlaşılabilir		bu yüzden araç kullanımı var
+		betimsel	ölçümlü
+		araçsız		araçlı
+		niteliksel	niceliksel
+		---------------------------
+		uzun boylu	170cm
+		kilolu		90kilo
+
+
+Ölçme kavramının aşamaları/basamakları: 6 basamakla ölçme işlemi yapılır
 	Teori kısmı
-	1. Ölçülecek niteliğin belirlenmesi
-	2. Ölçme işleminin amacını belirlenmesi
-	3. Hangi araçla ölçme işlemini yapacaksın, araç oluşturulur
+	1. Ölçülecek niteliğin/özelliğin belirlenmesi
+	2. Ölçme işleminin amacını belirlenmesi/sayı sembol belirlenir		puanla mı notla mı harfle mi kilogramlamı ifade edeceğiz?
+	3. Hangi araçla ölçme işlemini yapacaksın, araç oluşturulur		ağırlığı neyle ölçeceksin?
 	4. Ölçme kuralı belirlenir
 	Pratik kısmı
-	5. Ölçülecek özellikle, ölçme aracı karşılatırılır
-	6. Ölçülen özelliğin sayı veya sembolle ifade edilmesi
-
+	5. Ölçülecek özellikle, ölçme aracı karşılaştırılır			araçla nitelik eşleştirilir.. araç kullanımı başlar..
+	6. Ölçülen özelliğin sayı veya sembolle ifade edilmesi			sınavdan 80 puan aldı..
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Ölçme işleminin türleri * * * 
 	Asıl soru burdan geliyor..
 	3 farklı tür vardır
 	Doğrudan/Temel Ölçme işlemi
-		Bir özelliğin kendi cinsinden bir araç yardımıyla ölçülmesi
+		Tanım: Bir özelliğin kendi cinsinden bir araç yardımıyla ölçülmesi..
 		aynı nitelikte iki şeyi karşılaştırma
-		Uzunluk -> metre kullanımı --> uzunluk yine bir uzunlukla karşılaştırılır
-		Eşit/Kefeli kollu terazi/Tataravalli - ağırlığı ağırlıkla karşılaştırma = aynı özellik
-		temel sayma işlemi ile elde edilen ölçümler
+		1. Uzunluk -> metre kullanımı --> uzunluk yine bir uzunlukla karşılaştırılır
+			Eşit/Kefeli kollu terazi/Tataravalli - ağırlığı ağırlıkla kütle karşılaştırma = aynı özellik
+			oturma aralığı iki metre olacak
+		2. temel sayma işlemi ile elde edilen ölçümler
 			sınıfta kaç öğrenci, 1 dakikada kaç kelime okudu, otoparkta kaç araba var
-		Duyu organlarıyla yapılan ölçme işlemleri
+			kişi sayısını belirlemek...
+		3. Duyu organlarıyla yapılan ölçme işlemleri
 			elmanın tadı tatlı, sınıf sıcak oldu, havuz soğuk = vücut sıcaklığı
-		bebeğin ateşi yükselmiş elimi alnıma koydum
+			bebeğin ateşi yükselmiş elimi alnıma koydum
 
-	Dolaylı/Göstergeyle ölçme işlemi
-		bir özelliğin kendi cinsinden olmayan ilişkili varsayılan başka bir araçla karşılaştırılması
-		uzunluk --> dürbünle, lazerle, telefonla kilometre, sinyal...
-		ağırlığık --> baskül/kantar yaylı teraziyle ölçülmesi --> ağırlığı ölçmez, basınç değişikliğiyle ölçer. yayıyın gerilmesile ölçülür
-		sıcaklığın termometre ile ölçülmesi: cıva ile sıcaklığı ilişkilendirmiş...
-		bebeğin yanağı kızarmış - ateşi olmalı ---> ilişkilendirme... 
-		saydı ama performansta bir form kullanarak ölçersek yani puan verirsek dolaylı ölçme işlemidir.. 
-		basketbol sınavında 8 basket atmış 8 puan almış.... dolaylı
-		6 soru çözdü 12 puan --> dolaylı
-		öğrencilerinin soyut özelliklerinin ölçülmesi: bilgi, zeka, tutum, önbilgi, hazırbulunuşluk, kişilik ölçülmesi
-		zeka nasıl bir ölçümdür: zeka doğrudan olmuyor.. ilişkili ölçümdür..
-		benim oğlan akıllı telefonu kullanıyor çok zeki: baba ilişkilendirmiş
-		iyi espri yapıyor, zeki biri diyorsun. mizahla ilişkilendirilmiş
-		puanlama kullanmak
+	Dolaylı/Göstergeyle ölçme işlemi - puanlı..
+		Tanım: bir özelliğin kendi cinsinden olmayan, ilişkili varsayılan, başka bir araçla karşılaştırılması. doğrudan ölçemiyorsun...
+		1. uzunluk --> dürbünle, lazerle, telefonla kilometre, sinyal...
+			ağırlığık --> baskül/kantar yaylı teraziyle ölçülmesi --> ağırlığı ölçmez, basınç değişikliğiyle ölçer. yayıyın gerilmesile ölçülür
+			sıcaklığın termometre ile ölçülmesi: cıva ile sıcaklığı ilişkilendirmiş...
+			bebeğin yanağı kızarmış - ateşi olmalı ---> ilişkilendirme... 
+		2. saydı ama performansta bir form kullanarak ölçersek yani puan verirsek dolaylı ölçme işlemidir.. 
+			basketbol sınavında 8 basket atmış 8 puan almış.... dolaylı
+					    6 soru çözdü 12 puan --> dolaylı
+			iki kademeli/aşamalı örneklerde son gelinen nokta alınır..
+		3. eğitimde öğrencilerinin soyut özelliklerinin ölçülmesi:
+			bilgi, zeka, tutum, önbilgi, hazırbulunuşluk, kişilik ölçülmesi
+			zeka nasıl bir ölçümdür: zeka doğrudan olmuyor.. ilişkili ölçümdür..
+			benim oğlan akıllı telefonu kullanıyor çok zeki: baba ilişkilendirmiş
+			iyi espri yapıyor, zeki biri diyorsun. mizahla ilişkilendirilmiş
+		4. puanlama kullanmak
 
 	Türetilmiş Ölçme işlemi
 		formül kullanmak
 		iki farklı ölçme işleminde formül kullanarak ölçme
-		alan hesaplama, yol/zaman=hız bulunması
+		iki ölçme işleminin birbirine oranlamanması
+		alan hesaplama, yol/zaman=hız bulunması, kişşi başı milli gelir, nüfus yoğunluğu, havadaki nem
+		vizenin %40, finalin %60, ortalama hız
 
 Örnek:
-		doğrudan ölçme	dolaylı	ölçme	türetilmiş ölçme
-sınavda 	70 doğru	88 puan aldım	67.5 netim var (düzeltme formülü)
-		10 yanlış	test vardır...
+		doğrudan ölçme		dolaylı	ölçme		türetilmiş ölçme
+sınavda 	70 doğru yaptım		88 puan aldım		67.5 netim var (düzeltme formülü:4yanlış 1doğru)
+		10 yanlış		test vardır...
 		var
 
 	Ölçme işlemi araçsız da yapılabilir.. kilolu, uzun, başarılı, hızlı dersin.. niceleştirme yok. herkes farklı anlar 100 kilo mu 90 kilo mu?
 	Niceleştirme için araç kullanılır: 100 kilo dediğindeki durum..
 	Özelliğin sayı veya sembolle ifade edilmesi için araç kullanılır.. ve daha anlaşılır ve doğru olur..
 
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Kavramlar
+# ÖLÇÜM: Ölçme işlemi sonucunda ortaya çıkan kavram: sayı/sembol
+	yani sonuç.. 	89 puan aldım		sayısal ölçüm
+			sınavdan AA aldı..	sembolik ölçüm
+
+	sınavda 40 soru var: ölçme kuralı
+	bb notu aldım: ölçme - öğrenci notunu söylüyorsa
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Kavramlar II
 - SIFIR
 	Ölçme işleminin başlangıç noktası
 		90 kilo, 0 kilodan başlamış..
-	Doğal Sıfır: Ölçme işleminin, Başlangıç noktası 'gerçek yokluğu' bildirir.
+	Doğal Sıfır: mutlak sıfır
+			Ölçme işleminin, Başlangıç noktası 'gerçek yokluğu' bildirir.
 			sınavda 80 doğru yaptı, 0 doğru var mı hiç yok
 			190cm boyunda --> boy ölçmek
 			bir şeyin uzunluğunu ölçerken yeri/zemini sıfır olarak kabul ediyoruz..
@@ -114,9 +127,13 @@ sınavda 	70 doğru	88 puan aldım	67.5 netim var (düzeltme formülü)
 			ÖSYM: temel sayma, süre soruları
 			elimde üç kalem, sınıfta 20 öğrenci var
 			hiç mi yok.. hiç
+			hiçlik bildiriyorsa doğal sıfır: 100 aşı yapıldı
+			otobüste 45 var..
+			evden çıkalı 20 dakika oldu... süre...
+			sınavda 70 soru cevaplamış
 
 	Yapay Sıfır: Özellik devam ederken, özelliğin bir kısmına sıfır denmiş..
-			yapay, keyfi, tanımlanmış, göreli, izafi sıfır - doğada yok yani
+			bağıl, yapay, keyfi, tanımlanmış, göreli, izafi sıfır - doğada yok yani
 			başlangıç noktası gerçek yokluğu bildirmez.
 			özellik gerçekten yok mu oluyor yoksa kendini devam mı ettiriyor.
 			rakım ölçümleri: ankaranın rakımı - deniz seviyesi sıfır olarak kabul edilmiş
@@ -127,7 +144,9 @@ sınavda 	70 doğru	88 puan aldım	67.5 netim var (düzeltme formülü)
 			bugünün tarihi... takvim ölçümü... herkesin takvim başlangıcı uzmanı başka
 			sınıf 18santigrat celsius dersek... -- termometre - 0 altında da sıcaklık söz konusu
 
-			
+			sınavdan 70 puan, otobüs 4:00 hareket eder zaman..., doğum tarihi
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - BİRİM
 	Sıfırın kardeşi
 	Ölçme işleminin en küçük parçasıdır
@@ -148,17 +167,20 @@ sınavda 	70 doğru	88 puan aldım	67.5 netim var (düzeltme formülü)
 			otoparkta 10 tane kitap var - her bir kitap bir birim
 			tane kelimesini koyduğunda anlam bozulmuyorsa doğal birimdir..
 			üç tane kardeşim var-- kardeş bir birimdir..
+			doğal birim: tane ile ifade edilir, bölünemezler, buçuklu değer alamazlar
 
 	Tanımlanmış Birim: uzmanlar tarafından belirlenmiştir... doğada yok
 			uzunluğun 1 metre olacağı, kilonunn 1 kilo olacağı tanımlanmış
 			indirgenebilir birim: km, cm, mm -- indirebiliyorsun
 			ton, kg, gr
 			saat, dakika, saniye, salise
-			tanımlanmış birimler buçuklu değer alabilir..
+			tanımlanmış birimler, buçuklu değer alabilir....
 			puan, ne kadarlık bir birimim kaç puan alacağını belirlenir..
 			sınavdan 80 doğru yaptım	80 tane doğru		olur
 			sınavdan 80 puan aldım		80 tane puan 		olmaz
 
+			tanımlanmış birim: boyu: 1.80cm, topun ağırlığı 350gram, sınav başlama saati: 10:30
+			tane ifadesi bu birimlere gelemez..
 
 	Birimlerin üç özelliği:
 		Eşitlik:	ölçme işlemi devam ederken birimler arasındaki mesafelerin eşit aynı olması: cm, m,kg, dakika
@@ -191,6 +213,7 @@ sınavda 	70 doğru	88 puan aldım	67.5 netim var (düzeltme formülü)
 	Ölçme işlemi yorumlanırken uyulması gereken kurallar...
 	ölçme işlemi yapıldı bitti
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Ölçekler
 	Eğer yapılan ölçme işlemi niteliksel ise. sıfır noktası yoksa
 		1- Sınıflama: en az bilgiyi veren ölçek. en basiti
@@ -209,7 +232,6 @@ sınavda 	70 doğru	88 puan aldım	67.5 netim var (düzeltme formülü)
 			- simetrik olma: iki tarafın da benzer olması: a=b	b=a
 			- geçişlilik: iki ayrı ölçme işleminden üçüncüsüne geçiş yapılması	a=b, b=c, a=b
 					ali betül ile kardeş, o zman mehmet ile de kardeş
-
 		2- Sıralama: varlıklarına bir özelliğe sahip olma düzeyine göre dizilmesi
 				çoktan az, en azdan en çoğa, düşükten yükseğe
 				enler önemli: en hızlı, iyi okuyan, en başarılı
@@ -225,6 +247,14 @@ sınavda 	70 doğru	88 puan aldım	67.5 netim var (düzeltme formülü)
 				ama geçişlilik var
 				a>b	b>c	olur..	üçüncü ölçmeye geçilebilir...
 				mode, frekans , yüzdelik, medyan (ortanca) işlemlerini yapabilir...
+			Özellikleri:
+				matematiksel işlem yapılamaz
+				başlangıç noktası vardır ve sabit değildir
+				ölçülecek değişken sadece kategorik bir değer alabilir
+				asimetrik ve geçişlilik özelliğine sahiptir
+				- sadece sıra bildirir. sayı kullansa bile
+				- en az en çok...
+
 	Eğer yapılan ölçme işlemi niceliksel ise. sıfır noktası varsa
 		3- Eşit Aralıklı
 			tanımlanmış sıfırın kullanıldığı ölçme işlemleridir	demek ki bir sıfır noktası var.. izafi..
@@ -233,13 +263,17 @@ sınavda 	70 doğru	88 puan aldım	67.5 netim var (düzeltme formülü)
 			a sınavdan 70 puan, b sınavdan 35 puan alıyor... puanların toplamı/farkı gibi sorular...
 				ama a b'den iki kat bilgiye sahiptir. denilemez... yarısı kadar bilgiye sahiptir diyemezsin
 				bingöl, eskişehire göre 3 kat daha soğuktur denilemez... cantigrat yapay sıfır..
+			Özellikleri
+			- sadece toplama - çıkarm işlemi yapılır.
+				neden tanımlanmış izafi sıfır var...
+
 		4- Eşit Oranlı: en fazla bilgi veren ölçek
-			doğal sıfırın kullanıldığı ölçme işlemleridir..
+			doğal sıfırın kullanıldığı ölçme işlemleridir..			170cm, 75kg
 			hiçliği bildirir, başlangıç noktası aynı yerden başlıyor..
 			toplama, çıkarma, çarpma, bölme işlemleri yapılabilir..
 			katlar, farklar, toplamlar,
 			a 70 puan b 35 puan aldı - iki katı ve yarısı
-			
+			thy host fiziki ölçüleri...
 
 
 Ölçekler
@@ -248,6 +282,8 @@ sınavda 	70 doğru	88 puan aldım	67.5 netim var (düzeltme formülü)
 
 	doğal birim	tanımlanmış birim
 	tane
+
+	sıralama: sıfır yok, birden başlar birinci 
 
 	Sınıflama	Sıralama	Eşit Aralıklı		Eşit Oranlı
 	gruplama	düzey, kalite	tanımlanmş sıfır	doğal sıfır
@@ -258,8 +294,11 @@ sınavda 	70 doğru	88 puan aldım	67.5 netim var (düzeltme formülü)
 	Tepe Değer	Tepe Değer
 			Medyan (Ortanca)
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Ölçeklerde dönüşüm: çok bilgi verenden az bilgi verene doğru gelir..
-	en çok bilgi verenden en az bilgi verene
+	eşit oranlı --> eşit aralıklı --> sıralama --> sınıflama
+	en çok bilgi verenden en az bilgi verene dönüşüm yapılır
+
 	4. sınavada 70 doğru yaptım	eşit oranlı
 	3. sınav puanım 89		eşit aralıklı
 	 	89 puan yaptıktan sonra kaç doğru yaptığının bir önemi yok
@@ -269,18 +308,6 @@ sınavda 	70 doğru	88 puan aldım	67.5 netim var (düzeltme formülü)
 		100 kişi alınacak ben 10.cuyum atanır mıyım evet...
 		kontenjana girdikten sonra ha birinci olmuşun ha 99uncu..
 	her dönüşüm yapıldığında ölçek bilgi kaybına uğrar..
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
