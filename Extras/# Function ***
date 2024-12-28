@@ -221,7 +221,7 @@ Population  |
 
 # Logistic Growth: Carrying capacity (K) of environment
             (restricted)
-            
+
 
 # Linear Growth:
 
@@ -236,7 +236,7 @@ f(x)=x^2
 # COORDINATE GRAPH
 
 
-			<-artar----------------azalır->0<-azalır----------------artar->
+			<-increase----------decrease-> 0 <-decrease----------increase->
 			negative correlation	 no correlation		positive correlation
 						     (π/2)
 						      90°
