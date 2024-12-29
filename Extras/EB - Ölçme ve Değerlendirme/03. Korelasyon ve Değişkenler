@@ -7,17 +7,23 @@
 
 Değişken
   - Yapılarına göre Değişken:
-      Nitel Değişken: Sıfatlar/Sembollerle ile
-      Nicel Değişken: Sayılar ile
+      Nitel Değişken: Sıfatlar/Sembollerle ile            cinsiyet, medeni durum, ev numarası
+      Nicel Değişken: Sayılar ile                         boy uzunluğu, sınav puanı
 
-  - Almış oldukları değerlere göre Değişken:
-      Süreksiz/Kesikli Değişken: iki değişken arasına başka bir değer alamayan
+  - Değerlerine göre Değişken: 
+        Almış oldukları değerlere göre Değişken:
+      Süreksiz/Kesikli Değişken: 
+          Tanım: iki değişken arasına başka bir değer alamayan ya da sınırlı sayıda alabilen
           doğal birim ile ifade edilebiliyorsa - doğal birim tane ile bulunur..
           yani buçuklu değer alamayan, virgülsüz ifade
           sınıfta 30 tane araba var demek
           bir yerde biteceği yani belli bir kesiği var
           bir kesik içinde ele alınan değişken
-      Sürekli/Kesiksiz Değişken: tanımlanmış birimler demek
+          sınava giren adayların cinsiyeti, öğrencilerin kardeş sayısı
+
+      Sürekli/Kesiksiz Değişken: 
+          A ile B arasına sonsuz değer girebilir...
+          tanımlanmış birimler demek
           buçuklu değer alabilir: virgüllü ifade
           sınav puanı, boy uzunluğu cm cinsinden
 
@@ -31,6 +37,7 @@ Değişken
       spor yapma neden --> Bağımsız
       sağlık sonuç --> Bağımlı
       bilgisayar programlarının öğrenci başarısı üzerindeki etkisi
+      sigara kullanımı - bağımsız (neden), ortalama yaşam süreci - bağımlı (sonuç)
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -72,6 +79,8 @@ Değişken
     Örnek: Spor yapmak ile sağlık arasındaki ilişki yukarıdaki grafikte verilmiştir gibi sorular...
 
 
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Korelasyon Tablosu
           x        y        z
@@ -106,11 +115,11 @@ neden: çünkü +0.60 --> doğru orantı
 neden: çünkü -0.70 --> ters orantı
 
 
-Korelasyon tablosuna bakılarak neden sonuç ilişkisi kurulamaz..
+Korelasyon tablosuna bakılarak neden sonuç ilişkisi kurulamaz.... * * *
   öğrenciler matematikte başarılı olduğu için türkçe de başarılıdır ifadesi doğru değil...
   korelasyon değerine bakılarak söylenemez
 
-korelasyon tek bir derse değişkene ait bilgi veremez...
+korelasyon tek bir derse değişkene ait bilgi veremez... * * *
   öğrenciler en fazla matematik dersinde başarı göstermiştir...
 
 korelasyona bakılarak değişkenlerin içeriğini gösterebilir... 
