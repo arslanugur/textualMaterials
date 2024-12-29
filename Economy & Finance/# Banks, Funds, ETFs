@@ -26,35 +26,35 @@ Ağırlıklı Özsermaye Maliyeti - WACC
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # ALL-TIME PERFORMANCE
-				1*	2*	3*	4	5
-yerli hisse yoğun * * * 	DAH	GAF	TI2	TYH	EC2	GL1	AK3	TKF	GHS	IHK	PPS	ACK	HGM	MAC	HVS
-bist30				YEF	GAE	HBU	TIE	AKU
-banka				TAU	ADP	YZH
-iştirak				TI3	SAS	YAS
-sürdürülebilirlik		BIO	GZR	IFN	YLE	HMS	DLD	
-bist100dışı* (büyüyenler - alt)	IDH	ZJV	ZJL	BDY	GOH	YHB	ZLH	BID	DTL	VAY	BUY
-teknoloji			TTE	YHZ	ICZ	DHJ
-altın (sıralama değişir. içi..)	YKT	DBA	TCA	GGK	OJK	FIB	TTA	TUA	NAU..	GTA	AFO	HBF	NAU - vadeli işlemler de yapıyor
-gümüş (sıralama değişir. içi..)	GTZ	DMG	GUM	GMC	YZG	MJG	KGM
-çeşitli diğer emtialar		KMF	KUT	OTJ	tge	zcn
-yabancı hisse yoğun		AFA	TMG	GBG	zsf	afv
-yabancı teknoloji * * *		TFF	AFT	ITP	IRT	YAY	HOA	GUH	OJT
-fintech blockchain * * *	GBV	YZC	IVY	ZFB	IJP
-metaverse			DVT	MTX	MET	ZMY	MTV
-çip teknolojileri		IJP	cpt
-sağlık				IKL	TBE	AFS	GZG	RPM	SOS
-eurobond			DBH
+				1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17
+yerli hisse yoğun * * * 	DAH*	GAF*	TI2	TYH	EC2	GL1	AK3	TKF	GHS	IHK	PPS	ACK	HGM*	MAC*	EID	TYH	HVS	
+BIST30				YEF	GAE	HBU	TIE	AKU	MMH
+Banka				TAU	ADP	YZH
+İştirak				TI3	SAS	YAS
+Sürdürülebilirlik * * *		BIO	GZR	IFN	YLE	HMS	DLD	ZHH
+BIST100 out * (büyüyen - alt)	IDH	ZJV	ZJL	BDY	GOH	YHB	ZLH	BID	DTL	VAY	BUY
+Techs - TR			TTE	YHZ	ICZ	DHJ 
+Gold (sıra değişir. içi..)	YKT	DBA	TCA	GGK	OJK	FIB	TTA*	TUA*	NAU..	GTA	AFO	HBF	NAU - vadeli işlemler de yapıyor
+Silver (sıra değişir. içi..)	GTZ*	DMG	GUM	GMC	YZG*	MJG	KGM
+çeşitli diğer emtialar		KMF*	KUT*	OTJ*	TGE*	zcn
+yabancı hisse yoğun		AFA*	TMG*	GBG	ZSF	AFV
+yabancı teknoloji * * *		TFF*	AFT*	ITP	IRT	YAY	HOA	GUH	OJT	RTD
+Fintech Blockchain * * *	GBV*	YZC*	IVY*	ZFB*	IJP*
+Metaverse			DVT*	MTX	MET	ZMY	MTV
+Chip Techs			IJP*	CPT
+Health				IKL*	TBE	AFS*	GZG	RPM	SOS
+Eurobond			DBH
 değişken (döviz)		KUB
 kira sertifikası (döviz)	TPI
-gıda				GIH
-enerji				URA
-petrol				AES
+gıda *				GIH
+Energy				URA
+Oil				AES
 				BIG
 
 # Advices and Hypes/Trends
 Eurobonda dah fazla yatır
 gümüşe gir
-
+RSI < 50 - alım seviyesinde
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 temettü veren %stopaj	temettü kendine		kar payı öder %10stopaj
 KPA			GTM			FBC
