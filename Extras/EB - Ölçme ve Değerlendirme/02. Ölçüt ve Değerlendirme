@@ -1,9 +1,12 @@
-# Konular:
+# Konular: 2 soru çıkar
     Ölçüt
     Geleneksel Değerlendirme
     Çağdaş Değerlendirme
 
-
+    Üçlü Sıralama:
+    ölçme:            sınavdan 90 aldı
+    ölçüt:            sınavda 75 üzeri alanlar başarılı
+    değerlendirme:    sınav sonucu ile başarılı olmuştur
 
 
 🔻 Ölçüt
@@ -15,9 +18,10 @@
                   sınıflama, sıralama, eşit aralıklı, eşit oranlı
                   ölçeğe bağlı bir yorumlama kuralı yaparız
     Ölçüt:        Değerlendirme kuralı
+                  değerlendirme ait referans noktası
 
     Ölçütün en önemli özelliği: Öğretmen en çok neye dikkat etmeli ve nasıl davranmalı
-        Ölçme işlemi ile aynı birimden olmalı
+        Ölçüt, Ölçme işlemi ile aynı birimden olmalı...
         ölçme işlemi: sınavdan 70 puan
         ölçüt:        sınavdan başarılı olmak için 20 net yapılmalı
               belirlenen ölçütte puan cinsinden olmalı. kıyaslamanın kolay yapılabilmesi
@@ -34,10 +38,10 @@
     Öğrenci bundan haberdar, hangi kriterlere göre değerlendirileceğini biliyor.
     Sınava kimliksiz girilmez, her drsten şu kadar net yapmalısın, 50 puanın altında alanlar tercih yapamaz.
     Belirlenen Mutlak Ölçütler: Bilinmesi gerekenler
-    1. öğretim programı (hedef davranışlar)
+    1. öğretim programı (hedef davranışlar)...
     2. Konular ve konulara bağlı olan özellikler, önbilgi, okuduğunu anlama, öğrenme eksiklikleri (içerik)
-    3. geçme puanı (baraj puanı, kesme puanı)
-    4. soru sayısı    testteki soruların %70ini cevaplamak mutlak ölçüt olarak kabul edilir.
+    3. geçme puanı (baraj puanı, kesme puanı)....
+    4. soru sayısı    testteki soruların %70ini cevaplamak mutlak ölçüt olarak kabul edilir....
     5. öğretmen Kanısı: öğretmenin kendi kriterleri.. hocanın kitabını göstermek.. onu yerine getiren başarılı olunur.
     Senin yapman gereken ölçüt
 
@@ -56,7 +60,7 @@
                   çünkü herkes mutlak üstüne çıkamaz..  kontenjanı bulamayabilirsin..
                   ya da tam tersi kontenjandan daha fazla kişi ortaya çıkabilir..
         kontenjanın dolması için sıralama ölçek kullanılır: en başarılı 10 kişi kontenjana hak kazandı
-        sıralama bağıl ölçüt olabilir..
+        sıralama bağıl ölçüt olabilir.. en fazla en az
         yeteneklerin belirlenmesi bağıl ölçüttür.. sen burda yeteneklisin
             senin çocuğun o grupta birinciydi, şimdi gerilemesinin sebebi bu grup biraz daha zeki...
             katılanlar arasında en yetenekli o belirlendi...
@@ -67,7 +71,7 @@
         bir kişi dahi alsa o sen olacaksın... çok çalışacaksın.. bağıl ölçüt. performansı maximum seviyede kullanacaksın
 
     yüzdelik: neye göre neyin yüzdeliği alınıyor.. sınıfın grubun mu    bağıl
-                                                   soruarın mı          mutlak
+                                                   soruların mı         mutlak
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔻 Değerlendirme Süreci
@@ -86,7 +90,7 @@ Değerlendirme Yaklaşımları:        (iki soru çıkar)
 - Çağdaş 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-🔻 Geleneksel Değerlendirme Yaklaşımı
+🔻 Geleneksel Değerlendirme Yaklaşımı    sonuç + ürün
     Daimicilik
     Esasicilik
     Öğretmen Merkezli yaklaşım:
@@ -96,7 +100,7 @@ Değerlendirme Yaklaşımları:        (iki soru çıkar)
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-🔻 Çağdaş Değerlendirme Yaklaşımı
+🔻 Çağdaş Değerlendirme Yaklaşımı    süreç + ürün
     İlerlemecilik
     Yeniden Kurmacılık
     Öğrenci Merkezli yaklaşım:
@@ -123,13 +127,15 @@ Değerlendirme Yaklaşımları:        (iki soru çıkar)
         Örnek: ali 100m 10 saniye takıma seçilmiştir. --> mutlak değerlendirme    
                100m 10 saniyede koşan seçilecektir.   --> mutlak ölçüt            daha birşey olmamıştır.
         Örnek: soruların %70ni yapan başarılı sayılacaktır  --> mutlak ölçüt
-      
-      Bağıl değerlendirme
+        Örnek: testte bulunan sorular, geçme puanı, öğretim programı    ---> mutlak ölçüt'e göre bir karar alınıyorsa mutlak değerlendirme'dir 
+
+    Bağıl değerlendirme
         Bağıl ölçütün temele alınarak karar alınması
         Örnek: ilk 10a giren takıma seçilecektir --> bağıl ölçüt
                ilk 10a giren seçilmiştir.        --> bağıl değerlendirme
+                en ifadesi varsa bu bağıl ölçüt ve değerlendirmedir.
 
-# Amaçlarına göre değerlendirme yapılır
+# Amaçlarına göre değerlendirme yapılır            HER YIL ÇIKAR
   Bir sınav yapıldı ama hangi amaçla yapıldı bu önemli... Soru bu şekil gelir...
 
   1. Diagnostik
@@ -144,14 +150,15 @@ Değerlendirme Yaklaşımları:        (iki soru çıkar)
   2. Formatif
         - izleme ve biçilendirmeye yönelik değerlendirme
         öğrencilerin her konu sonunda öğrenme eksikliklerini belirlemek ve gidermek amacıyla yapılır
-        amaç: öğrenme eksiklikleri, kavram yanılgıları, konunun aksayan yanları neler.. konu tekrarı belirleme
+        amaç: öğrenme eksiklikleri tespiti, kavram yanılgıları, konunun aksayan yanları neler.. konu tekrarı belirleme
+                ünite testleri, konu sonrası tarama
         * Not yoktur.
         * Ortada yapılır. Süreçte yapılır.
 
   3. Summatif
         - değer biçme, düzey belirlemeye yönelik değerlendirme
         öğrencilerin hedef davranışlara ulaşma düzeyini gösterir 
-        amaç: geçti kaldı kararı vermek için yapılan herşey summatif sistemlerdir. geçme notu...
+        amaç: geçti kaldı kararı vermek için yapılan herşey summatif sistemlerdir. geçme notu... geçti/kaldı
              belge, diploma, sertifika vermek için bu sınav sistemlerini kullanıyoruzz
         amaç: hedef davraşlarına ulaşma süreci belgeyi etkiliyorsa.... karar almak..
         * Not vardır..
@@ -161,28 +168,148 @@ Değerlendirme Yaklaşımları:        (iki soru çıkar)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔻 Çağdaş Değerlendirme Yaklaşımı
+    - Portfolio
+    - Performans
+
+# Portfolio Değerlendirme
+    * Öğrenci Dosyası, Ürün Dosyası, Seçki Dosyası, Gelişim Dosyası, Tümel Değerlendirme
+        Dosyalamak, Çocuğun gelişimi, hazırbulunuşluğu, süreç içinde yaptıkları...
+
+    Bireysel olarak hazırlanır.
+    Herkesin bireysel bir sistemi var. Dosyalrını barındıran
+    Öğrencinin ortaya çıkardığı ürünlerden oluşur..
+    Seçilmiş ürünlerden oluşur
+        neye göre seçiyoruz.. en iyi çalışma seçilir.. öğrenci bu noktaya kadar geldi gibi
+    öğrenci hakkında olumlu bilgileri içerir
+    Portfolio: Öğrencinin eğitim hayatı boyunca ortaya çıkardığı ürünlerden seçilerek öğrenci gelişimini gösteren dosyalama sistemi
+    tümel: süreç + ürün
+            ürünün nasıl ortaya çıktığı da önemli
+    portfolio içinde yarım çalışma olmaz..
+
+    1. portfolio; öğrencinin bilişsel, duyuşsal, psikomotor alanını değerlendirir.
+                    sadece tek bir alanı alsaydı geleneksel değerlendirme olur..
+    2. öğretmen, öğrenci, akran grupları, veliler, yöneticiler portfolioyu hazırlar.
+            öğrenci hakkında karar alma çoklu olur..
+    3. öğrenci hakkında gelecekteki öğretmen ve işverenlere bilgi sağlar.
+    4. kitabı, notu, gittiği gezi, spor aktiviteleri herşey hakkında bilgi verir.
+            ama portfolio içinde resmi evraklar olmaz: sınav kağıdı, yoklama fişi, sınıf defteri
+                rehberlik ve psikolojik danışma kayırları gizlilik esasına göre dayalı olduğu için portfolioda paylaşılmaz
+    5. portfolio çağdaş eğitim amaçları da kazandırabiliyor..
+            üst düzey düşünme, yaratıcı düşünme, özdeğerlendirme, akran değerlendirme, özdüzenleme, yansıtıcı düşünme gibi becerileri süreç içinde kazandırabiliyor.
 
 
+    # Portfolio'nun Sınırlılıkları var....
+    - kalabalık gruplara uygulama zorluğu
+    - puanlama ve değerlendirme subjektif
+    - ekonomik olmaması ve zmaan alması
+    - öğrenciye öğrenme eksiklikleri hakkında bilgi vermemesi
+
+        Öğrenciler arası standartlaşmayı sağlayamaz..
+        Öğrenme eksiklikleri hakkında bilgi veremez amacı bu değil... portfolio ne bildiğiyle ilgilenir, bilmediğiyle değil
+    * Öğrenciler arası karşılaştırma yapamaz, amacı bu değil...
+        en iyi dosya hangisi diyemezsin
+    - portfolioda öğrenciler çalışmaları kopya edebilir.. staj dosyası... kopyaya müsait
+    - portfolioda mutlak bir sistem yok
+        portfolio kişisel değerlendirme ölçütü oluşturamaz, bir karar alsan bu ne mutlak ne de bağıl gibi
+        portfolionun amacı karar almak değil
+        amacı: eğitim hayatı boyunca gelişimi izlemek
+    - portfolio öznel ve subjektiftir..
+        öğrencinin söz hakkı var
+    - portfolio ekonomik değildir. maliyetli bir sistem..
+        çağdaş olanlar ekonomik değildir.. sadece bireysel, zaman alıcı bu yüzden
 
 
+    
+# Performans Değerlendirme (süreç, zaman, ürün odaklı)
+    öğrencinin bir beceriyi gerçekleştirmesidir. gözlenebilir davranış..
+        ehliyet alırken mesela geçerli...
+    hedefler gözlenebilir davranışa dönüşmeli ki ölçülmeli
+    performans nerde var: deney, mikro öğretim (video kayıt), etkinlikler.. müzik, beden eğitimi, iş eğitimi
+    araç gereç kullanımı performanstır..
+    kalemi tutmak da performans, uçağı kullanmak da performans...
+    üst düzey ya da alt performans önemli değil...
+    öğrenci bir beceriyi yaparken aşama aşama izlenmesi... dönüp düzeltme sağlıyor..
+    performans değerlendirme: öğretmen, öğrenci, akran grupları - veli gibi diğerleri katılırsa portfolio olur...
+    performans, süreç + ürün değerlendirmedir
+
+    Performans değerlendirme önemli
+    süreçte izlenilen yol?
+    zaman kullanımı nasıl?    ne geniş anlatcan ne de çabuk bitircen, ödevi erken getirmek
+    ürünün kalitesi nasıl?
+
+    bu sistem kontrollü ortamlarda yapılır...    mülakat gibi
+    Otantik Değerlendirme: gerçek yaşam içerisinde değerlendirme yapmak, içiçe
+        performans değerlendirme: kontrollü ortam... eyliyet sınavı, staj ama kendi sınıfında müfettiş gilip değerlendirirse otantik..
+        otantik değerlendirme: ehliyeti aldın trafiğe çıktın polis seni değerlendiriyor.
+
+    * * * Portfolio ve Performans İlişkisi:
+    - Resim dersinde afiş, Türkçe dersinde Drama, Fen dersinde deney
+                     performans            performans          performans
+      bu performanslar içinde beğenilenler bir dosyanın içine koyarsan bu da portfolio olur..
+    Portfolio, öğrenci performanslarının bir araya gelen dosyadır..
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Çağdaş Değerlendirme Araçları
+    Portfolio ve Performansta kullanılan araçlar..
+    - Rubrik
+    - Kontrol Listesi
+    - Dereceleme Ölçeği
+
+    * Otantik Değerlendirme: gerçek dünya, aktif, problemleri çözmek
+
+    portfolio ve performans öznel bir yaklaşım. öğrenciye soruyorlar..
+    bu araçlar, çağdaşa değerlendirmeye nesnellik katar 
 
 
+# Rubrik Yönergesi (Puanlı)
+    Dereceli puanlama anahtarı
+    Öğrencileri performansın kritik alt başlaıkları yapınca "kaç puan alacağı" yönergelerdir..
+    öğrenciye kendi performansını düzenlemesi için yol gösterir.
+        bu konudan 10 soru soracağım demek...
+    rubrikler öğrenciye öğrenme sorumluluğu verir..
+
+    Rubrik Yönerge hazırlarken dikkat edilecek özellikler
+    - davranışın kritiik başlıklara dikkat edilir.
+    - uzaman görüşüne dikkat edilir. alan bilgisi
+    - rubrik hazırlanırken öğrenci gelişim özelliklerine dikkat edilir. * * * * * * lise ile ilkokul aynı değil..
+      ama kullanılırken öğrenci gelişim özelliklerine dikkat edilmez..
+
+    Rubrik Yönergesinin Türleri: (Hazırlanışı)
+    - Holistik Rubrik Yönergesi:    --> sonuç odaklı: çıktıya not verir, sonuca bakar...
+        davranışın genel hatlarıyla genel hatlarıyla ele alır - "bütüncül"
+        sonuç ve not vermek için var
+        daha az zamana ihtiyaç var: ekonomiktir..
+    - Analitik Rubrik Yönergesi:    --> süreç odaklı: öğrenme eksikliklerini ve kavram yanılgılarını söyler
+        bir bütünü parçalara ayırmak - holistik tersi  - "ayrıntılı"
+        davranışı en ince parçalarına kadar alt başlıkları değişkenlerini de ele alır
+        süreci açıklarken işe yarar. öğrenme eksiklikleri görmek için kullanılır.
+        OSYM holistik rubriği yayınlar, anlatan hocalar bunu analitiğe çevirip kaç tane soru nerden çıkacak diye yönlendirir.
+        hangi konudan kaç tane soru gelecek bunu bilerek çalışmak lazım
+        duyarlıdır.. ayrıntılıdır..
+        öğrenme eksikliklerini gösterir.
 
 
+# Kontrol Listesi    (Puansız)
+    Davranışın kritik alt başlıklarının sahip olunma "miktarı" hakkında bilgi verir.
+    iki kategorili puanlama yapmak demek
+        süreç + ürün ama daha çok süreç ağırlıklı çalışır
+        davranışı yaptı/yapmadı, 1/0, var/yok gibi
+
+    - davranışlar arası hiyerarşi vardır
+    - öğrencinin sergilemiş olduğu davranış düzeyi hakkında bilgi vermez. sadece sahip olup olmadığını gösterir.
+
+# Dereceleme Ölçeği    (Puansız)
+    Davranışın kritik alt başlıklarının "düzeyi ,kalitesi" hakkında bilgi sağlar
+    çok kategorili puanlama (3lü veya 5li ++) buna Likert Ölçekleri denir...
+    süreç + ürün var ama daha çok ürün yani çıktılara bakar...
+
+    Davranışı oluşturan kritik alt başlıklar yazılır...    çok kötü kötü orta iyi çok iyi gibi....
+    Anketler gibi...
 
 
-
-
-
-
-
-
-
-
-
-
+    Rubrik            Kontrol Listesi            Dereceleme ölçeği
+    sınav öncesi      cevap anahtarı kontrolü    denemem iyi/kötü geçti
 
 
 
