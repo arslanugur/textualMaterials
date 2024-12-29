@@ -32,10 +32,10 @@ Değişken
       sağlık sonuç --> Bağımlı
       bilgisayar programlarının öğrenci başarısı üzerindeki etkisi
 
-# Bu değişenler arasında bir ilişki vardır, bu ilişkiyi gösteren değere korelasyon diyoruz..
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Bu değişenler arasında bir ilişki vardır, bu ilişkiyi gösteren değere ve istatistiksel yönteme korelasyon diyoruz..
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Korelasyon Kat Sayısı * * *
     korelasyon kat sayısı -1 ile +1 arasındadır
     tam ortada 0 vardır.. korelasyon katsayısı 0'a doğru yaklaştıkça ilişki azalır...
