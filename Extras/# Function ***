@@ -243,7 +243,7 @@ f(x)=x^2
 						      90°
 						     (0,1)
 			                               y axis (dependent variable)
-			(inverse ratio)		       |		(direct ratio/proportion - doğru orantı) = /	formula: y=k.x	k=constant
+			(inverse ratio)		       |		(direct ratio/proportion - doğru orantı) = /	formula: y=k.x	k=constant		normal/positive sloped 
 			                    .(-2,5)  5 -
 			                               |
 	sin	+	             .(-3,4)         4 -                 .(3,4)			sin	+
@@ -254,7 +254,7 @@ f(x)=x^2
 	csc	+	                               |					csc	+
 			       .(-4,1)     (-1,1).  y1 -                       .(4,1)
 			        		       | 
-	180° (2π) (-1,0)-|-----|-----|-----|-----|---(0,0)---|-----|-----|-----|-----|-----> x axis (independent variable) (1,0) 0° / 360° (2π)
+	180° (2π) (-1,0)-|-----|-----|-----|-----|---(0,0)---|-----|-----|-----|-----|-----> x axis (independent variable) (1,0) 0° / 360° (2π)			flat curve
 			-5    -4    -3    -2    -1   Origin x1    x2     3     4     5
 			                               |
 			                             -1-           .(2,-1)
@@ -266,7 +266,7 @@ f(x)=x^2
 	sec	-	             .(-3,-4)        -4-                       .(4,-4)		sec	+
 	csc	-	                               |					csc	-
 			                             -5-
-			(direct ratio)                 |		(inverse ratio/proportion - ters orantı) = \	formula: y=k/x	k=constant
+			(direct ratio)                 |		(inverse ratio/proportion - ters orantı) = \	formula: y=k/x	k=constant		inverted/negative sloped
 						     (0,-1)
 						      270°
 						     (3/2π)
