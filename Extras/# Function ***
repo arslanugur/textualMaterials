@@ -243,30 +243,30 @@ f(x)=x^2
 						      90°
 						     (0,1)
 			                               y axis (dependent variable)
-			(inverse ratio)		       |		(direct ratio/proportion - doğru orantı) = /	formula: y=k.x	k=constant		normal/positive sloped 
-			                    .(-2,5)  5 -
-			                               |
-	sin	+	             .(-3,4)         4 -                 .(3,4)			sin	+
-	cos	-	                               |					cos	+
-	tan	-	    Quandrant II             3 -     .(1,3)      Quandrant I		tan	+
-	cot	-	                               |					cot	+
-	sec	-	                            y2 -           .(2,2)			sec	+
-	csc	+	                               |					csc	+
-			       .(-4,1)     (-1,1).  y1 -                       .(4,1)
-			        		       | 
-	180° (2π) (-1,0)-|-----|-----|-----|-----|---(0,0)---|-----|-----|-----|-----|-----> x axis (independent variable) (1,0) 0° / 360° (2π)			flat curve
+			(inverse ratio)		       |		     /		(direct ratio/proportion - doğru orantı) = /	formula: y=k.x	k=constant		normal/positive sloped 
+			                    .(-2,5)  5 -		   /		ƒ'(x)>0 = increasing = +
+			                               |		 /
+	sin	+	             .(-3,4)         4 -               / .(3,4)			sin	+
+	cos	-	                               |	     /				cos	+
+	tan	-	 Quandrant II		     3 -     .(1,3)/      Quandrant I		tan	+
+	cot	-	                               |	 /				cot	+
+	sec	-	                            y2 -       /   .(2,2)			sec	+
+	csc	+	                               |     /					csc	+
+			       .(-4,1)     (-1,1).  y1 -   /                   .(4,1)
+			        		       | /
+	180° (2π) (-1,0)-|-----|-----|-----|-----|---(0,0)---|-----|-----|-----|-----|-----> x axis (independent variable) (1,0) 0° / 360° (2π)					flat curve
 			-5    -4    -3    -2    -1   Origin x1    x2     3     4     5
 			                               |
 			                             -1-           .(2,-1)
-			                               |
-	sin	-	       .(-4,-2)              -2-					sin	-
-	cos	-	                               |					cos	+
-	tan	+	     Quandrant III .(-2,-3)  -3-     .(1,-3)     Quandrant IV		tan	-
-	cot	+	                               |					cot	-
-	sec	-	             .(-3,-4)        -4-                       .(4,-4)		sec	+
-	csc	-	                               |					csc	-
-			                             -5-
-			(direct ratio)                 |		(inverse ratio/proportion - ters orantı) = \	formula: y=k/x	k=constant		inverted/negative sloped
+			                               |					sin	-
+	sin	-	       .(-4,-2)              -2-					cos	+
+	cos	-	                               |					tan	-
+	tan	+	 Quandrant III .(-2,-3)	     -3-     .(1,-3)     Quandrant IV		cot	-
+	cot	+	                               |					sec	+
+	sec	-	             .(-3,-4)        -4-                       .(4,-4)		csc	-
+	csc	-	                               |
+					              -5-				ƒ'(x)<0 = decreasing = -
+			 (direct ratio)                |				(inverse ratio/proportion - ters orantı) = \	formula: y=k/x	k=constant		inverted/negative sloped
 						     (0,-1)
 						      270°
 						     (3/2π)
