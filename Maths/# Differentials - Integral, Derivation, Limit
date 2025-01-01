@@ -1,25 +1,139 @@
 # Differansiyel: Bir ya da birden fazla fonksiyonu ve bunların türevlerini ilişkilendiren denklemdir.
                  Olasılıklar
 
+# Analizin Temel Konuları
+- Derivative
+- Integral
+- Limit
+- Süreklilik
+Sonrasında
 # Differential Equations
 
-Derivative
-Integral
-Limit
-Süreklilik
+
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-🔻 Integral
+- Reel Sayılar
+- Fonksiyonlar
+    Transandant Fonksiyonlar
+- Trigonometri
 
+
+# Reel Sayılar
+  Ondalık sayı olarak ifade edilebilen sayılardır
+  5 = 5,0
+  1/4 = 0,25
+  √2 = 1,41
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+# Reel Sayıların Özellikleri
+  - Cebirsel Özellikler
+  - Sıralama Özellikler
+  - Tamlık Özelliği
+
+  - Cebirsel Özellikler
+        Reel sayılarla toplama, çıkarma, çarpma, bölme yapılır.
+        Rule #1: Birleşme Özelliği
+          a, b, c € R
+          Toplama: a + b + c = a + (b + c) = (a + b) + c ==> sonuç aynı kalır..
+          Çarpma:  a * b * c = a * (b * c) = (a * b) * c ==> sonuç aynı kalır..
+        Rule #2: Değişme Özelliği 
+          a, b € R
+          a + b = b + a
+          a * b = b * a
+        Rule #3: Çarpmanın Toplama üzerine dağılma Özelliği
+          a, b, c € R
+          a.(b+c) = a.b + a.c 
+          6.(3+2) = 6.3 + 6.2
+          6.5     = 18 + 12
+          30      = 30        
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+  - Sıralama Özellikleri
+        Reel sayılarda sıralama özellikleri, herhangi iki sayının büyüklüğünü karşılarmamızı sağlar.
+        a, b, c € R
+        Rule #1: Küçük eşit ise eşit.
+          a ≤ b ve b ≤ a ise a=b
+        Rule #2: Geçişme Kuralı
+          a ≤ b ve b ≤ c ise a=c
+          a=2, b=3, c=4
+          2≤3 ve 3≤4 ise 2≤4
+
+        Eşitsizlik Kuralı:
+        a < b --> a+c<b+c    toplama ve çıkarma işlemlerinde eşitsizliğin yönü aynı kalır.
+                  a-c<b-c
+        4 < 9 --> 4+3<9+3  = 7 < 12  eşitsizliğin yönü değişmez
+                  4-3<9-3  = 1 < 6   eşitsizliğin yönü yine aynı
+
+        Eşitsizliği bir reel sayı ile çarparsak    
+        a, b, c € R
+        çarptığımız sayı pozitif ise eşitsizliğin yönü değişmez
+        a<b ve c>0          a.c < b.c
+                   İşlem                Sonuç
+        17<31  --> 17.2 < 31.2     -->  34 <  62
+               --> 17.-2 < 31.-2   --> -34 > -62
+        çarptığımız sayı negatif ise eşitsizliğin yönü değişir
+        a<b ve c<0          a.c > b.c
+        
+----------------------------------------------------------------------------------------------------------------------------------------------------------      
+  - Tamlık Özelliği
+      Sayı doğrusu üzerindeki bütün noktalara hiç boşluk olmadan reel sayıların karşılık geldiğini söyler
+      Bu özellik Limit kavramı için gereklidir.
+
+      Doğal Sayılar
+        Tam Sayılar               (her tam sayı, paydasında gizli 1 olduğu için bir rasyonel sayıdır.)
+          Rasyonel Sayılar        iki tam sayının oranı olarak ifade edilebilir.. 1/4 ya da 4/1 gibi
+            İrrasyonel Sayılar    iki tam sayının oranına eşit olmayanlar ifade edilemiyorlar.. √2, π, e sayısı gibi..
+              Reel Sayılar
+
+      .    |  √2 |     | π   |     |     |     |     |     >
+      0    1     2     3     4     5     6     7     8
+            -----> arası boş, çünkü arada kalan sayılar tam sayı değiller.. boşluklarda rasyolnel sayılar var..
+                   hatta bütün rasyonel sayıları işaretlesek bile yine boşluklar kalır..
+                   örneğin √2ye ya da πye gelen nokta boş kalır...
+                   çünkü irrasyonel sayılar...
+                   yani bütün reel sayıları işaretlersek hiç boşluk kalmaz
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+      # Eşitsizlikler reel sayı doğru eğrisinde nasıl gösterilir?
+
+      .    |     |     |     |     |     |     |     |     >
+      0    1     2     3     4     5     6     7     8
+
+        Sonsuz Aralıklar
+            x>5    açık aralık    (5,∞)        alınabilen değerler...
+            x≥5    kapalı aralık  [5,∞)
+            x<5    açık aralık    (-∞,5)
+            x≤5    kapalı aralık  (-∞,5]
+
+        Sonlu Aralıklar
+            2<x<7  açık aralık    (2,7)
+            2≤x≤7  kapalı aralık  [2,7]
+            2≤x<7  yarı açık aralık  [2,7)
+            2<x≤7  yarı açık aralık  (2,7]
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+        Mutlak Değer
+            Mutlak değer, bir sayının reel sayı doğrusu üzerindeki sıfır'a olan uzaklığını belirtir.
+            Bir sayının mutlak değeri |x| ile gösterilir.
+
+            |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+           -9    -8    -7    -6    -5    -4    -3    -2    -1     0     1     2     3     4     5     6     7     8     9
+                  ------------------------------------------------ ------------------------------------------------
+                                    |-8|=8                                                |8|=8
+                                    ------------------------------ ------------------------------
+                                                  |-5|=5                        |5|=5
+
+            Yani bir sayının pozitifi de negatifi de sıfıra uzaklığı aynıdır..
+            ama |-3| =! -|3| eşit değildir...
+                |-3| = 3'e eşit
+                -|3| = -3'e eşit
+
+            Mutlak Değer Özellikleri
+              |x.y| = |x|.|y|
+              |x/y| = |x|/|y|
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-🔻 Derivation = Değişim Teorisi
-
-
-
-
-
+# Fonksiyonlar ve Grafikleri
+btk izle
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -120,6 +234,19 @@ Süreklilik
       S_10 = 1/2 + 1/4 + ... + 1/1024 ≈ 0.99902344
       Arttıkça toplam gittkçe 1'e yaklaşır... O zaman bu sayıların sonsuza kadar toplamı = 1
       başka bir deyişle, bu dizilerin toplamının limiti 1'dir      lim (n -> ∞) S_n = 1
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+🔻 Derivation = Değişim Teorisi
+Türev 
+Türev Uygulamaları
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+🔻 Integral
+Integral alma teknikleri
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
