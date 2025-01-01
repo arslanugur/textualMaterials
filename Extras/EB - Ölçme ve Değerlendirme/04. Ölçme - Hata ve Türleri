@@ -1,1 +1,71 @@
 # Ölçme'de Hata nedir ve Hata Türleri Neler?
+  Sorularda, Hata türünü bil ve "ölçme aracının hangi özelliğini" etkiliyor bilmen gerek.
+
+# Ölçmede Hata
+  Gerçek değer ile ölçülen değer arasındaki fark
+  Gerçek değerden pozitif ya da negatif sapma olduğu zaman hata ortaya çıkar
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Hata Kaynakları
+  1. Ölçmeyi yapan kişiden kaynaklanabilir: Yeterlilik, Psikolojik durum, Yanlı Davranış
+  2. Ölçmenin yapıldığı ortamdan kaynaklanabilir: ortamın niteliği, sınav sınıf çok sıcak/küçük..
+  3. Ölçme aracından kaynaklanbilir: saatin bozuk, tartı eksik tartıyor, kitapçık kontrolü
+  4. Öğrenciden kaynaklanabilir: göz ucuyla soru çözmek, kaygı düzeyinde artış, baş ağrıması, kaydırma
+  5. ölçülen özellikten kaynaklanabilir: zaman içinde değişkenlik gösteren şeyler, en az artı/eksi1 hata var..
+        Standart Hata: artı eksi 1 Hata
+            her ölçme işleminde artı eksi 1 hatannın karışmış olduğu sistemdir; 
+            sebebi, soyut özelliklerin ölçülmesinde... tam anlamıyla kontrol altına alınamamsı
+            
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Hata türleri
+- Sabit
+- Sistematik
+- Tesadüfi Hata 
+
+🔻 Sabit Hata
+    Hatanın yeri, yönü(+/-), miktarı, zamanı, kaynak bellidir.
+    ölçme işlemine alınan her öğrenciye aynı miktarda karışan hatadır....
+    Her öğrenciye karışması gerekiyor ve aynı miktar puan olması lazım...
+    Örnek: Ölçme işlemine alınan her öğrenciye +5 puan ilave edilmesi
+           Her öğrenciye aritmetik ortalamanın %10u kadar ilave edilmektedir. Miktar aynı. miktar değişiyorsa sistematik...
+
+🔻 Sistematik Hata
+    Hatanın yeri, yönü(+/-), miktarı, zamanı, kaynak bellidir.
+    Belli bir sistematiğe belli bir kurala bağlı olan hatadır.
+    * Ölçme işlemine alınan "bazı" öğrencilere pozitif/negatif olarak yanlı davranmak
+      Örnek: okul takımında oynayan her öğrenciye ekstra puan
+    * Ölçme işlemine alınan her öğrenciye "bir özelliği belli oranında" hatanın karışması
+      Örnek: herkese aldığı puanın %10u kadar ilave etmek. hata belli bir sistematiğe göre artıyor/azalıyor
+             yani öğrencinin puanı arttıkça/azaldıkça ölçme işlemine karışan hata da artıyor/azalıyor
+    * Sabit hatanın aynı ölçme içerisinde birden fazla "tekrarlanması"...
+        Örnek: başından kırık bir cetvel bir defaya mahsus kendinden kısa bir ölçüm yaparsa sabit hata...
+                                         kendisinden uzun bir ölçüm yaparsa sistematik hata... cetvel ne kadar kullanılırsa hata o kadar artar.
+                                         başından kopuk olduğunu bilmiyorsan bu da tesadüfü hata..
+                yazıcı her 5 sayfada 1 sayfa hatalı çıktı veriyor - sabit
+                      eğer 50 sayflık bir çıktı alınırsa... sistematik
+    
+    
+🔻 Tesadüfi Hata (Random)
+    Hatanın yeri, yönü(+/-), miktarı, zamanı, kaynak belli değildir.
+    * Kontrol edilemez.. Elektrik gitti, dış etkiler, psikolojik özellikler, dikkat dağınıklığı..
+      Hatanın kimi etkilediğğini bilinmediği için tesadüfü hata
+    * Düzeltilemez... miktarını bilmediğin için düzeltemezsin
+      öğretmen öğrencinin kopya çektiğini görüyor ama birşey yapmıyor                                 sistematik hata
+      öğretmen sınavları okuyor ve herkesin yüksek aldığını görüyor şaşırıyor, herkese -10 verdi      sabit hata
+        her çıkan kişi +2kg fazla tartılıyorsa  sabit hata
+        ilk çıkanı +2kg, ikinci çıkanı +4kb fazla tartıp böyle artış devam ediyorsa    sistematik hata - kullandıkça artıyor
+        ilk çıkanı +2kg, ikinci çıkanı doğru tartıyor üçüncü çıkan -4kg tartıyorsa     tesadüfi hata - ne yapacağı belli değil
+
+
+# HATA YOK
+Örnek: Bir tarih öğretmeni  sınav kağıdının üstüne sayfa düzenine güzel yazıya +5 puan vereceğini duyurdu.. sınav sonrası da puanları verdi...
+      Sistematik hata denilebilir ama burda hata yok çünkü sınav yönergesinde bunu söylemiş...
+
+
+# Sabit ve Sitematik ile ilgili önemli...
+  Bu hatalar ölçme aracının hangi özelliğini etkiler?
+    Sabit ve Sistematik hatalar ölçme işleminin GEÇERLİLİk düşürür...
+        Güvenilirlik etkilenmez... gerekçesi ise: sabit ve sistematik hata düzeltilebilir...
+    Tesadüfü hata önce güvenilirliği düşürür. dolaylı olarak geçerliliği düşürür. çünkü değiştirilemez
+
+
+
