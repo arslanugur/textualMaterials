@@ -1,0 +1,192 @@
+# Bir Ölçme Aracında bulunması gereken özellikler
+  1. Geçerlilik
+  2. Güvenilirlik
+  3. Kullanışlılık
+
+
+
+🔻 Güvenilirlik
+    Güvenilirlik, Geçerliliği dolaylı yoldan etkiler. Aslında önemli olan Geçerliliktir. 
+    Akademik Tanımı: Ölçme sonuçlarını hatalardan arınık olması...
+    Pratik Tanımı: Ölçme sonuçlarının tesadüfi hatalardan arınık olması...
+    Güvenilirlik: Ölçme sonuçlarının kararlı, tutarlı, duyarlı, objektif sonuçlar vermesi...
+
+    Güvenilirlik Alt başlıkları
+    - Kararlılık
+    - Tutarlılık
+        - iç tutarlılık
+    - Duyarlılık
+    - Objektiflik
+        - puanlama objektifliği
+        - puanlayıcı objektifliği
+
+    - Kararlılık
+      Tanım: Ölçme sonuçlarının geniş zaman diliminde benzerlik göstermesi.. (3-6 hafta)
+      aynı özelliğin aynı ölçme araçlarıyla ölçülmesi ve aynı/benzer sonuçlar vermesi        Test Tekrar Test Yöntemi
+        Test Tekrar Test - aynı ölçme aracı tekrarlanıyorsa, bu da sonuç olarak kararlılık kat sayısını verir..
+
+    - Tutarlılık
+      Tanım: Ölçme sonuçlarını yakın zaman diliminde benzerlik göstermesi.. (0-3 hafta)
+      aynı özelliğin farklı ölçme araçlarıyla ölçülmesi ve bunların benzer sonuçlar vermesi      Paralel Testler Yöntemi
+
+        # İç Tutarlılık
+          Ölçme aracındaki birimlerin uyumlu olması..
+          metre tamamen cmlerden oluşmalı..
+          genel kültür, genel yetenek sru ayrımı... uyumluluk...
+          soruların testteki sırasıyla uyumlu olması, aynı yerde olmalı
+          İç tutarlılık kat sayısını bulmak içik: Cronbach's Alpha, KR20, KR21, Testi yarılama yöntemi 
+
+    - Duyarlılık * soru gelir
+        Ölçme aracının hassasiyeti, hassas sonuçlar vermesi..
+        Duyarlılık: Birimler arası mesafenin küçülmesi: metre, dm, cm, mm gibi
+
+        m  ile ölçüldü  - 1m geldi    - 4 cm hata verdi
+        dm ile ölçüldü  - 9dm geldi   - 6cm hata verdi
+        cm ile ölçüldü  - 96cm geldi  - daha doğru ve hassas ölçüm yapıldı.
+        duyarlılık ne kadar artılırsa ölçme işleminde hata o kadar azalır..
+        Duyarlılık testlerde nasıl etkiliyor?
+          homojen sorular eklemek (aynı konudan/hedef davranıştan sorular)
+          bu duyarlılığı artırır. dip notlara kadar sorulabiliyor... bilgi derinleşir..
+          duyarlılık artığında güvenilirlik de artar
+
+    - Objektiflik * soru gelir
+        Tarafsız ve nesnel olmak
+        öğrencilere eşit davranmak
+                                        bu önlemler öğretmenin kendi puanlamasının nesnelliğini sağlar..
+           - Puanlama Objektifliği    : cevap anahtarı hazırlamak, öğrenci ismini kapatmak, aynı kağıdı bir kaç defa farklı zamanlarda puanlayıp ortalamasını almak
+           - Puanlayıcı Objektifliği  : farklı uzman veya öğretmenin devreye girmesi, çünkü puanlayıcılar değişti..
+                                            zümre de okuduğun sınav kağıtlarını okur... ütopya bu. bakalım uyuşuyor muyuz?
+
+    Bu noktadan soru gelirse bunu yöntemlerle ilişkindirerek sorar..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Güvenilirliği etkileyen faktörler
+  - İlk şart: soruların açık, net, anlaşılır olması * * * (güvenilirliği artırır.)
+  - Test sorularının hangi özelliği güvenilirliği artırır?
+    sorular orta güçlükte olması:         PJx = 0.50 olmalı
+    sorular kolaydan zora sıralanması     kaygı düzeyini dengelemek
+    sorular uyumlu olması: iç tutarlılık olmalı
+    sorular homojen olması: duyarlılık artar, bu şekilde de güvenilirlik artar...
+  - Grupla ilgili hangi özellikler olacak?
+    grubun heterojen olması  --> Standart Sapma, Range, Variance da yüksek... güvenilirlik artar...
+    yeterli sayıda aday sınava girmiştir...  kitle gelişmiş... heterojenlik arttıkça güvenilirlik artar...
+    sorular homojen, grup heterojen olmalı
+  - Sınav süresi
+    yeterince sınav süresi verilmeli. az ise güvenilirlik ve geçerlilik olumsuz etkilenir... tesadüfi hata meydana gelebilir..
+    süre çoksa, bütün soruları çözdüğü için kapsamla ilgili bir sıkıntısı kalmaz... başka şeye odaklanır bu da güvenilirliği olumsuz etkiler kopya gibi
+  - Sınav Yönergesi hazırlamak, duyurmak güvenilirlik artırır...  yönerge anayasadır...
+  - Şans başarısı ve kopya çekme güvenilirliği olumsuz etkiler. yapı geçerliliğini de olumsuz etkiler...
+  - Sabit ve Sistematik hata güvenilirliği etkilemiyor, tesadüfi hata güvenilirliği etkiler..
+    Genelde ortamdan kaynaklanır.. standart ortam oluşturma güvenilirliği artırır
+        
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Güvenilirlik Hesaplama Yöntemleri
+  - İki Uygulamalı Yöntem:  Test Tekrar Test, Paralel Testler
+      Güvenilirlik pratik anlamada hesaplarlar.. öğrenciyle iki defa muattap oluyorsun
+  - Tek Uygulamalı Yöntem: Testi yarılama, KR20-KR21, Cronbach Alpha 
+      Güvenilirlik teorik anlamda hesaplanır. öğrenciyle muattap olunmaz....
+
+    # İki uygulamalı yöntemler
+      * Test Tekrar Test
+          birinci uygulama  --->  ikinci uygulama
+                                  önemli olan bunun özellikleri.. 
+                                  hiç değiştirilmeden uygulanırsa..
+          amaç, iki uygulama arasındaki sonuçların benzerliğine bakmak demek.
+          amaç, kararlılık kat sayısını belirlemek, benzer olduğu için kararlılık yüksektir.
+          öğrenci ilk uygulama: 20 puan
+                  ikinci uygula: 50 puan      sonuçlar benzerse o da bir kararlılık vardır. kararlılık varsa güvenilirlik yüksektir..
+          ölçme ve değerlendirme de bunun yorumlanması: öğrenci başarısızlık konusunda kararlı demek
+          bu yöntemin dezvantajı nedir?
+          aradan geçen zaman, dezavanataj    zaman az olursa kararlılık yüksek
+                                             zaman fazla olursa kararlılık düşük çıkar olumlu ya da olumsuz
+
+          Kararlılık önemli
+
+      * Paralel Testler
+          birinci uygulama  ---> ikiinci uygulama
+                                 bu testin yapısal özelliği, farklı olması
+          soruların tipi, zorluğu, sayısı, sınav süresi aynı olmalıdır.. ikiz gibi - eşdeğer formlar yöntemi gibi
+          amacı: tutarlılık kat sayısını hesaplamak
+                 eşdeğerlilik katsayısı belirlemek
+          dezavantajı: ikinci testin kendisi...
+                       eşdeğer bir form hazırlamak zor...
+
+          Tutarlılık önemli
+
+    # Tek uygulamalı yöntemler
+      Amacı: İç Tutarlılık kat sayısını hesaplamak
+
+      * Testi Yarılama
+          testeki sorular iki eşit parçaya ayrılıyor, birinci yarı ve ikinci yarı
+          1 3 5 7 9   birinci yarı
+          2 4 6 8 10  ikinci yarı
+          en ideal yarılama; çünkü sorular kolaydan zora gitmesi gerek...
+
+          öğrenci testin tamamından 80 puan aldı...
+          80 puanı yarısını birinci yarıdan yarısını diğer yarıdan alması gerek
+          sorulr uygun çalışmıştır denilebilir.. dengeli çalışıyor..
+          birinci yarının ikinci yarıya olan korelasyonu ya da tam tersi 
+
+          dezavantajı: testin tamımı hakkında bilgi veremez sadece ilişisini verir.
+                       testin tamamının güvenilirliği için formül:
+                        2*Rx / 1+Rx
+
+          soru örneği: 80 soruluk 40 40 ayrıldı: parçalar arasındaki korelasyon katsayısı 0.60 bulunsun.
+                        rx = 0.60  --> 2*0.60 /1+0.60 = 1.2/1.6 = 3/4 = 0.75
+                                                        sadeleştir 4e böl
+                      Önemli:
+                      soru sayısını arttırmak güvenilirliği arttırır..
+                      testi yarılama bulunan güvenilirlik kat sayısı, testin yarısına aittir
+                            testin tamamını güvenilirliği hesaplamak için formül kullanılır
+                            ve testin tamamının güvenilirliği her zaman kesinlikle testin yarısından daha yüksektir.... * * * * *  
+
+
+      * KR20-KR21
+            aslında iki formül
+            bu ikisinin ortak özellikleri: bu koşullar sağlanmalı..
+             - nesnel sınavlar      tek doğru cevabı olan sınavlar       çoktan seçmeli...
+                                    her soru aynı puan olmalı..          kpssde türkçe sorusu ile matematik sorusu aynı puana sahip...
+                                    doğrular 1 puan yanlış veya boş sıfır puan olarak uygulanabilsin
+                                    Bu konu madde istatistiklerinde işleniyor... 
+            ne zaman kr20, kr 21 kullanılmalı
+            KR20 - Madde İstatistiklerinin bilindiği durumlarda..
+                   yani KR20 katsayısı testeki her sorunun güçlülük indekslerinin hesaplandığı durumlarda kullanılır.
+                   Madde güçlük İndeksi
+
+                   Madde güçlük indeksi (Pj) (0,1): 
+                   Bir soruyu doğru cevaplayan öğrenci sayısının, tüm öğrenci sayısına oranıdır. 
+                   Madde güçlüğü, sorunun zorluk düzeyi olarak değerlendirilir. 
+                   0 ile 1 arasında değer alır 1'e yaklaştıkça soru kolaylaşır. 0'a yaklaştıkça zorlaşır.
+
+            KR21 - Test istatistikleri
+                   Aritmetik ortalama
+                   testin tamamından alınan puanların aritmetik ortalamasına bakılarak hesaplanan bir katsayı
+                    
+
+            her soruya verilen cevaplara (madde istatistiği) bakarak güvenilirlik hesaplanıyorsa KR20 - demek ki tek tek çalışma yapıyor
+            testin tamamından alınan puanlara bakılarak güvenilirlik hesaplanıyorsa KR21 - aritmetik ortalama
+            öğrencilerin sınav not çizelgesi için KR21, ama öğrencilerin kağıtları varsa KR20 kullanabilir...
+
+            Not:
+            KR20 - Madde Madde                Duyarlılık daha fazla  Duyarlı olan güvenirlik daha yüksek
+            KR21 - Testin genelini kapsar
+            İdeal olan testlerde KR20 daha uygun... KR21 tembel adamların işi...
+
+            * * *
+            İstisna: 2024de soruldu.
+            Sınavda soruların güçlük indeksleri eşitse KR20 = KR21 olarak hesaplanır...  birbirine eşit..
+            Neden: Madde Güçlüklerin ortalamaları, Aritmetik Ortalamayı veriyor..  Güçlükler eşitse Aritmetik ortalamada eşit çıkıyor..
+
+
+      * Cronbach's Alpha
+          Neden Var?
+          Bütün testler nesnel değildir. Nesnel olmayan subjektif testlerde Alpha devreye girer..
+          Her sorunun puan getirisinin aynı olmadığı testler yani Likert tipi testler...
+          Likert ölçekli testler, dereceleme ölçekleridir: yazılı yoklama, sözlü yoklama..
+          verdiğin cevaba göre bazen 5 bazen 6 puan alıyorsun. kompozisyon gibi sınavlar...
+
+          
+
+
+
+Eğitim Bilimleri yorumlanmaz.. Sen kimsin? Uzmanlara ve Akademiye göre düşüneceksin...
