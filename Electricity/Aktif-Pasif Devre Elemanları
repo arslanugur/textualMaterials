@@ -1,3 +1,43 @@
+# Components / Devre Elemanlar
+  res - direnç:      devreyi ve devre elemanlarını yüksek akımdan koruyan devre elemanı. her devrede rastlanır
+  cap - kapasitör:   voltaj kaynağı/depolar. devrede güç varken, üzerinde voltaj depolayan bir devre elemanı 
+                     sonrasında devreden güç kesildiğinde ya da voltaj veya akım kaynağı kaldırıldığında kapasitör depolamış olduğu voltajı güç kaynağı gibi devreye sağlar
+                     bu sayede devre belli bir süre daha aktif kalır.. çalışır..
+                     iki iletken levha üzerlerinde + ve - vardır.. bu şekilde bir yük depolaması gerçekleşir.
+                     Birimi: F
+  ind - indüktör:    devre çalışıyorken üzerinde akım depolar..  
+                     cap ve ind --> ikisinin de görevi içerlerinde güç depolayıp bunu sonrasında devreye sunmak
+                     Birimi: H
+  diode - diyot:     akımın tek yönlü akmasını sağlar. akımın bir yerden bir yere ya da tam tersi yönde akmasını istemiyorsak diode gerekli
+                     ters yönde akan akımları engelleyen devre elemanı.. ters akım devre elemanlarına zarar verir.. 
+  transistor         BC237 - sıklıkla kullanılan transistör
+                     devrelerde anahtarlama aracı olarak kullanılır..
+                     anahtarlamadan kasıt, geçişleri kontrol eden devre elemanları
+                     aynı zamanda yükselteç olarak da kullanılırlar. kazanç sağlayan devre elemanı
+  switch - anahtar:  açtığımızda akımın üzerinden geçmesini engelleyen devre elemanı
+                     kapattığımızda akımı üzerinden geçiren bir devre elemanı
+  button -           anahtara benzer
+                     bas çalışsın, bırak dursun devre elemanı
+
+  Kaynaklar
+  dc sources         doğru akım kaynakları
+                     akım kaynağı - birimi: amper
+                     voltaj kaynağı - birimi: voltaj      bunların bağlanma yönleri önemli...
+                     akım her zaman eksiden artı yönde gidecek...
+
+  entegre devreler   entegreler, devrede belirli işleri yapmak üzere özelleştirilmiş devre elemanları...
+                     ana devrenein üzerine entegre edilirler... küçüktürler.. ama içinde yüzlerce devre elemanını barındırabilirler...
+                     entegrelerin ucu bucağı yok...
+                     entegreler belirli görevleri yapmak için oluşturulmuştur......
+                     kendin de devreni yapabilirsin ama ana devrede çok yer kaplar..
+                     hazır entegreler kolaylık açısından ideal....
+
+                     çeşitleri
+                     4017 entegre - sıralı olarak çıkış bacaklarına sinyal göndermek 
+                                     GİRİŞİNDEN ALMIŞ OLDUĞU SİNYALİ SIRALI OLARAK bütün bacaklarına atamak
+                                     bu da sıralı olarak çeşitli işlemleri yapmamızı sağlar,  mesela çıkış bacaklarını ledlere tek tek bağlarsak yan sön yan sön yapar...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 1. Devreye enerji sağlayan elemanlar
   Enerji üretebilen eleman aktiftir.
   Aktif Elemanlar: Gerilim kaynakları, bataryalr, piller, jeneratörler, transistörler
