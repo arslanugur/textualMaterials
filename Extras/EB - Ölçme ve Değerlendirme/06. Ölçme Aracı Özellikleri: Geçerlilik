@@ -20,12 +20,10 @@
     - Görünüş Geçerliliği
     - Ölçüt Geçerliliği
     - Yapı Geçerliliği
-    -
-    -
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     - Kapsam Geçerliliği
-        Kapsam, testteki soruların konuları ve hedef davranışları temsil edebilme gücüdür.
+        Kapsam, testteki soruların konuları ve hedef davranışları temsil edebilme gücüdür. * * * * * örneklendirmesi
         İşlenen Konular, Hedef davranışlar neler.. bunlar sorularla temsil edilebiliyorsa, işlediğin konudan soru sorabiliyorsan testin kapsam geçerliliği yüksek..
 
         Kapsam Geçerliliği arttırmak için öğretmenin ilk olarak yapması gereken BELİRTKE TABLOSU hazırlanması
@@ -83,31 +81,63 @@
       - Yordama Geçerliliği * * * *        her yıl soruluyor adamlar bu konuya takmış....
 
 
+      - Uygunluk Geçerliliği
+            Sınav Öncesi Süreç = Geçmiş = Önce
+            sınavdan önceki bir süreci temel almak
+            tr birincisi oldu. şaşırmadık geriye dönük bakarsak yaptı...
+            
+      - Yordama Geçerliliği ...
+            Sınav Sonrası Süreç = Gelecek = Sonra
+            sınav sonuçları ile sınavdan sonraki bir sürecin karşılaştırılması
+
+        Örnek: sınav değişince öğrencilerin öncelik ve sonraları da değişir..
+        Uygunluk geçerliliği - öğrencilerin lgs sınavı ile ortaokul becerileri karşılaştırılması                    LGS öncesi
+        Yordama geçerliliği - öğrencilerin lgs sınavı sonucu ile lise performansları karşılaştırılması              LGS sonrası
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    - Yapı Geçerliliği * * * 
+        bir testin teorik psikolojik iç dünyasıdır...
+        testleri/araçları, görünüş geçerliliği ile karşılanır, yapı geçerliliği ile uğurlanır
 
+        Amacı: bir testin bilenle bilmeyeni ayırt etmesidir...    
+                sınavda bildiğin yerleri çözemiyorsan o noktada yapı geçerliliği düşüktür...
+                sınavda bilmediği yerleri çözmek... yapı geçerliliği yine düşük..
+
+        # Bilenle bilmeyeni ayırt etmeyi bozan faktörler...
+          - kopya çekmek yapı geçerliliğini düşürür.
+          - şans başarısı: salladım tuttu...
+          - cevaplar arası kombinasyon.. uyugulanan testte ipucu var...
+
+        # bunlar nasıl azaltılır...
+          - öğrencilerden cevaba ilişkin ispat istemek yapı geçerliliğini artırır...
+                beşinci soruyu nasıl çözdüğünü bana anlat sözlü sınava almak...
+                kitapçığa ispat bırakmak...
+          - öğrencide var olduğunu bildiğimiz bir özellik gruba uygulanır..
+                öğrenci farklarını ortaya çıkarma - bilinen özellikleri ortaya çıkarmak...
+                müzik öğrenicisi ritmik zekası iyi çıkması..
+                bilinen bir şeyi ortaya çıkarmak yapı geçerliliği yüksektir...
+          - FAKTÖR ANALİZİ * * * 
+                bir özelliğin testteki alt özelliklerle olan uyumu..
+                her sorunun diğer sorularla ilişkisi
+                Yapı geçerliliği bu noktada İç Tutarlılık ile ilişkilidir...
+                
+
+
+
+Eğer uygulanacak test     formatif yapıda bir test ise    kapsam geçerliliği yüksek olmak zorunda
+Eğer uygulanacak test     seçme amaçlı bir test ise       yordama geçerliliği yüksek olmak zorunda
+Eğer uygulanacak test     psikolojik bir test ise         yapı geçerliliği yüksek olmak zorunda            görünüş geçerliliği bu testlerde olmaz...
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Geçerliliği Etkileyen Faktörler
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    - testteki soru sayısını artırmak                      geçerlilik artar
+    - testing bilgisayar ortamında çoğaltılması            geçerlilik artar        yazdırarak olmaz..
+    - soruların yıllara göre değiştirilmesi                geçerlilik artar        ehliyet sınavı, ikinci öğretimde sorulan sorular olmaz..
+    - doğru cevabın seçeneklere dengeli dağıtılması        geçerlilik artar        15 a 14 b 16 c var gibi...
+    - aynı seçeneğin üstüste doğru cevap olarak verilmesi  geçerlilik düşer..      üstüste 4 a olabilir....
+    - kaynak kitaplar açık sınav yapmak                    geçerlilik düşer..      sınavda formül verilmesi..
+    - güvenilirliği etkileyen herşey geçerliliği dolaylı olarak etkiler.... ama soru çözerken bunu kullanma doğrudan etkileyenleri sorarlar...
+    
 
