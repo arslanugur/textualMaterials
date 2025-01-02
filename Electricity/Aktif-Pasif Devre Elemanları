@@ -1,24 +1,114 @@
 # Components / Devre Elemanlar
   res - direnç:      devreyi ve devre elemanlarını yüksek akımdan koruyan devre elemanı. her devrede rastlanır
+
+                     to protect things like LED's and thats because a battery pushes a lot of electrons around a circuit (too much charge!)
+                     when we add a resistor, less electrons can flow around the circuit
+
+                    the electrons collide with atoms inside the resistor, and these collisions generate heat. (electron collision vs heat)
+                    inside the resistor is a carbon film layer, electrons can flow through this just fine
+                    but we cut a helical grove into this, and this creates a narrow path, that makes it very hard for electrons to flow through without colliding  (helical grove cut)
+
+                    flow with resistance    hard      the longer cut, high resistance  for an electron to flow through
+                    flow without resistance  easy     the shorter cut, low resistance
+
+                    we calculate the voltage drop require and also, how much energy the resistor needs to remove from the circuit.
+                    LED Voltage drop = 2V
+                    Current = 20mA  (According to LED Manifacturer)
+                    Resistor Voltage Drop:  9V-2V=7V
+                    Resistor Value: 7V:0.02A = 350Ω
+                    Energy removed (from circuit(P=I^2*R)): (0.02)^2 * 350Ω = 0.14W
+                    Min Power rating of resistor: 1/4W (0.25W)
+
+                    and then we select the appropriate size resistor.. otherwise, it can burst into flames
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
   cap - kapasitör:   voltaj kaynağı/depolar. devrede güç varken, üzerinde voltaj depolayan bir devre elemanı 
                      sonrasında devreden güç kesildiğinde ya da voltaj veya akım kaynağı kaldırıldığında kapasitör depolamış olduğu voltajı güç kaynağı gibi devreye sağlar
                      bu sayede devre belli bir süre daha aktif kalır.. çalışır..
                      iki iletken levha üzerlerinde + ve - vardır.. bu şekilde bir yük depolaması gerçekleşir.
                      Birimi: F
+
+                    an electronic component that acts like a storage tank.
+                    it fills up with electrons when when energised (charging) 
+                        and it will release them when the supply (battery) stops. (discharging) or if the voltage level drops. 
+                    we can use them to smooth out interruptions or fluctuatons in the power supply 
+                        and we can filter out unwanted frequencies. (noise and high frequency - clean smmoth output)
+
+                    imagine water flowing through a pipe. the water stops when we shut the valve.
+                    but if we let the water first flow into a storage tank, then we have a reserve. 
+                    so now when the valve shuts, we still get a flow of water out of the pipe for a short duration.
+                    this is what the capacitor is doing, it stores electrons and the releases them when needed.
+                    but capacitors have a maximum voltage and some are polarised (polarized/non-polarized)
+                    so if we exceed this... they will burst.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
   ind - indüktör:    devre çalışıyorken üzerinde akım depolar..  
                      cap ve ind --> ikisinin de görevi içerlerinde güç depolayıp bunu sonrasında devreye sunmak
                      Birimi: H
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
   diode - diyot:     akımın tek yönlü akmasını sağlar. akımın bir yerden bir yere ya da tam tersi yönde akmasını istemiyorsak diode gerekli
                      ters yönde akan akımları engelleyen devre elemanı.. ters akım devre elemanlarına zarar verir.. 
+
+                      an electronic component that acts as an one way valve.
+                      it allows current to flow in one direction but it blocks it in the other direction.
+                      we use them to protect our electronic circuits.
+                      we can also use it to convert alternating current into direct current. this is called a rectifier.
+
+                      imagine water flowing through a pipe. the pipe has a swing valve installed.
+                      as water flows it opens the swing valve.
+                      but if the water changes direction, then the swing gate will shut and block the flow of water.
+                      thats what the diode is doing to electricity. it only allows current to flow in one direction.
+                      but it will break if we exceed its limits..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LED - Light Emitting Diode
+when we energise it, it produces light.
+we get them in many different colors.
+inside is a tiny piece of semiconductor material.
+the semi conductor is just two special materials joined together. (p-type layer, N-type layer)
+and this emits light as photons.
+a battery pushes electrons around the circuit. and insidde the semiconductor electrons are jumping from one layer to another.
+as they make the jump, they will release a photon particle. 
+
+IF  Visible  UV
+   |        |
+   700nm    400nm
+    red      purple        475nm - blue, 580nm-green
+
+the photon travels in a wave like pattern
+different materials produce shorter or longer photon waves.
+  GaAsP    Gallium Arsenide Phosphide
+  GaAsP:N  Gallium Arsenide Phosphide Nitride
+The length of the wave determines the color. the color is not because of the case. 
+even this transparent LED, produces a coloured light.
+if we apply too much voltage, they will be destroyed.
+so we use a resistor to protect the LED.  * * *
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
   transistor         BC237 - sıklıkla kullanılan transistör
                      devrelerde anahtarlama aracı olarak kullanılır..
                      anahtarlamadan kasıt, geçişleri kontrol eden devre elemanları
                      aynı zamanda yükselteç olarak da kullanılırlar. kazanç sağlayan devre elemanı
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
   switch - anahtar:  açtığımızda akımın üzerinden geçmesini engelleyen devre elemanı
                      kapattığımızda akımı üzerinden geçiren bir devre elemanı
   button -           anahtara benzer
                      bas çalışsın, bırak dursun devre elemanı
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  mos mosfet          it prevents the electricity from following until it receives a signal 
+                     imagine water following through a pipe, we can block the flow with a disc
+                      there is a hole in one side of the disc and it is spring loaded.....
+                      another pipe connects to this disc with enough pressure or voltage, we can move the disc, allowing the water to flow again (branch pipe)
+                      the more pressure we apply, the more water can flow
+                      thats what happening inside of a mosfet. there's a metal oxide (gate, drain, source) semiconductor inside
+                      with enough pressure on the gate pin, a channel forms that allows electrons to flow from one side to the other.
+                      two types of mosfet..
+                      - enhancement type mosfet: if we apply pressure to make it work (broken line)
+                      - depletion type mosfet:   if we apply pressure to stop the circuit (straight line)
+                      this pressure can be negative or positive (N-Channel <G, P-Channel >R)
+                        it can be confusing, so check the datasheet, using the number (the part number) on the front. otherwise it can be destroyed
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+potentiometer..
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
   Kaynaklar
   dc sources         doğru akım kaynakları
                      akım kaynağı - birimi: amper
