@@ -1,5 +1,129 @@
 # Bir Ölçme Aracında bulunması gereken özellikler
-  - Güvenilirlik
-  - Geçerlilik
-  - Kullanışlılık
+  1. Geçerlilik
+  2. Güvenilirlik
+  3. Kullanışlılık
+
+
+
+🔻 Güvenilirlik
+    Güvenilirlik, Geçerliliği dolaylı yoldan etkiler. Aslında önemli olan Geçerliliktir. 
+    Akademik Tanımı: Ölçme sonuçlarını hatalardan arınık olması...
+    Pratik Tanımı: Ölçme sonuçlarının tesadüfi hatalardan arınık olması...
+    Güvenilirlik: Ölçme sonuçlarının kararlı, tutarlı, duyarlı, objektif sonuçlar vermesi...
+
+    Güvenilirlik Alt başlıkları
+    - Kararlılık
+    - Tutarlılık
+        - iç tutarlılık
+    - Duyarlılık
+    - Objektiflik
+        - puanlama objektifliği
+        - puanlayıcı objektifliği
+
+    - Kararlılık
+      Tanım: Ölçme sonuçlarının geniş zaman diliminde benzerlik göstermesi.. (3-6 hafta)
+      aynı özelliğin aynı ölçme araçlarıyla ölçülmesi ve aynı/benzer sonuçlar vermesi        Test Tekrar Test Yöntemi
+        Test Tekrar Test - aynı ölçme aracı tekrarlanıyorsa, bu da sonuç olarak kararlılık kat sayısını verir..
+
+    - Tutarlılık
+      Tanım: Ölçme sonuçlarını yakın zaman diliminde benzerlik göstermesi.. (0-3 hafta)
+      aynı özelliğin farklı ölçme araçlarıyla ölçülmesi ve bunların benzer sonuçlar vermesi      Paralel Testler Yöntemi
+
+        # İç Tutarlılık
+          Ölçme aracındaki birimlerin uyumlu olması..
+          metre tamamen cmlerden oluşmalı..
+          genel kültür, genel yetenek sru ayrımı... uyumluluk...
+          soruların testteki sırasıyla uyumlu olması, aynı yerde olmalı
+          İç tutarlılık kat sayısını bulmak içik: Alpha, KR2021, Testi yarılama yöntemi 
+
+    - Duyarlılık * soru gelir
+        Ölçme aracının hassasiyeti, hassas sonuçlar vermesi..
+        Duyarlılık: Birimler arası mesafenin küçülmesi: metre, dm, cm, mm gibi
+
+        m  ile ölçüldü  - 1m geldi    - 4 cm hata verdi
+        dm ile ölçüldü  - 9dm geldi   - 6cm hata verdi
+        cm ile ölçüldü  - 96cm geldi  - daha doğru ve hassas ölçüm yapıldı.
+        duyarlılık ne kadar artılırsa ölçme işleminde hata o kadar azalır..
+        Duyarlılık testlerde nasıl etkiliyor?
+          homojen sorular eklemek (aynı konudan/hedef davranıştan sorular)
+          bu duyarlılığı artırır. dip notlara kadar sorulabiliyor... bilgi derinleşir..
+          duyarlılık artığında güvenilirlik de artar
+
+    - Objektiflik * soru gelir
+        Tarafsız ve nesnel olmak
+        öğrencilere eşit davranmak
+                                        bu önlemler öğretmenin kendi puanlamasının nesnelliğini sağlar..
+           - Puanlama Objektifliği    : cevap anahtarı hazırlamak, öğrenci ismini kapatmak, aynı kağıdı bir kaç defa farklı zamanlarda puanlayıp ortalamasını almak
+           - Puanlayıcı Objektifliği  : farklı uzman veya öğretmenin devreye girmesi, çünkü puanlayıcılar değişti..
+                                            zümre de okuduğun sınav kağıtlarını okur... ütopya bu. bakalım uyuşuyor muyuz?
+
+    Bu noktadan soru gelirse bunu yöntemlerle ilişkindirerek sorar..
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Güvenilirliği etkileyen faktörler
+  - İlk şart: soruların açık, net, anlaşılır olması * * * (güvenilirliği artırır.)
+  - Test sorularının hangi özelliği güvenilirliği artırır?
+    sorular orta güçlükte olması:         PJx = 0.50 olmalı
+    sorular kolaydan zora sıralanması     kaygı düzeyini dengelemek
+    sorular uyumlu olması: iç tutarlılık olmalı
+    sorular homojen olması: duyarlılık artar, bu şekilde de güvenilirlik artar...
+  - Grupla ilgili hangi özellikler olacak?
+    grubun heterojen olması  --> Standart Sapma, Range, Variance da yüksek... güvenilirlik artar...
+    yeterli sayıda aday sınava girmiştir...  kitle gelişmiş... heterojenlik arttıkça güvenilirlik artar...
+    sorular homojen, grup heterojen olmalı
+  - Sınav süresi
+    yeterince sınav süresi verilmeli. az ise güvenilirlik ve geçerlilik olumsuz etkilenir... tesadüfi hata meydana gelebilir..
+    süre çoksa, bütün soruları çözdüğü için kapsamla ilgili bir sıkıntısı kalmaz... başka şeye odaklanır bu da güvenilirliği olumsuz etkiler kopya gibi
+  - Sınav Yönergesi hazırlamak, duyurmak güvenilirlik artırır...  yönerge anayasadır...
+  - Şans başarısı ve kopya çekme güvenilirliği olumsuz etkiler. yapı geçerliliğini de olumsuz etkiler...
+  - Sabit ve Sistematik hata güvenilirliği etkilemiyor, tesadüfi hata güvenilirliği etkiler..
+    Genelde ortamdan kaynaklanır.. standart ortam oluşturma güvenilirliği artırır
+        
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Güvenilirlik Hesaplama Yöntemleri
+  - İki Uygulamalı Yöntem:  Test Tekrar Test, Paralel Testler
+      Güvenilirlik pratik anlamada hesaplarlar.. öğrenciyle iki defa muattap oluyorsun
+  - Tek Uygulamalı Yöntem: Testi yarılama, KR20-KR21, Cronbach Alpha 
+      Güvenilirlik teorik anlamda hesaplanır. öğrenciyle muattap olunmaz....
+
+      * Test Tekrar Test
+      * Paralel Testler
+
+      * Testi Yarılama
+      * KR20-KR21
+      * Cronbach Alpha
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+🔻 Geçerlilik
+
+
+
+
+
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+🔻 Kullanışlılık
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eğitim Bilimleri yorumlanmaz.. Sen kimsin? Uzmanlara ve Akademiye göre düşüneceksin...
+
+
+
 
