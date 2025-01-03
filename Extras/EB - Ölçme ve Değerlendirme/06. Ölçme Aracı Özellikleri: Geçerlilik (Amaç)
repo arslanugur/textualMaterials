@@ -141,3 +141,42 @@ Eğer uygulanacak test     psikolojik bir test ise         yapı geçerliliği y
     - güvenilirliği etkileyen herşey geçerliliği dolaylı olarak etkiler.... ama soru çözerken bunu kullanma doğrudan etkileyenleri sorarlar...
     
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Güvenilirlik ve Geçerlilik arasındaki ilişki
+
+
+     --------------             --------------             --------------
+    |  .     .     |           | ..           |           |              |
+    |              |           | ..           |           |      . .     |
+    |      x       |           |      x       |           |      .x.     |
+    |           .  |           |              |           |              |
+    |  .           |           |              |           |              |
+     --------------             --------------             --------------
+    kararlılık yok              kararlılık var             kararlılık var            
+    duyarlılık yok                                         duyarlılık var
+    tutarlılık yok              tutarlılık var             tutarlılık var
+    yakın sonuçlar yok          benzer sonuçlar var    ve  aynı noktada toplanma var
+    hedef vuruşu yok            hedef vuruşu yok           hedef vuruşu var
+
+    Güvenilirlik yok            Güvenilirlik var           Güvenilirlik var
+    Geçerlilik yok              Geçerlilik yok             Geçerlilik var
+
+
+    1. Bir ölçme aracı güvenilir değilse, geçerli de değildir..
+    2. Bir ölçme aracı güvenilir olabilir, her zaman geçerli olacağı anlamına gelmez
+          çoktan seçmeli güvenilir ama sentez becerisini ölçmede geçerli değil...
+    3. Güvenilirlik, Geçerliliğin ön koşuludur.. ancak yeterli değildir...
+        Önce Güvenilirlik sağlanır.. tekbaşına güvenilirlik önemli değil...
+    4. Bir ölçme aracı geçerli ise, güvenilir kabul edilir...
+
+
+    * Ölçme aracının güvenilirlik kat sayısı, geçerlilik kat sayısnı sınırlandırır...
+
+        Formül: Geçerlilik kat sayısı ≤ √ Güvenilirlik kat sayısı
+                                    ? ≤  0.81                        en fazla 0.90 olmalı, daha yüksek çıkarsa geçerlilik hesaplanırken bir hata yapılmıştır
+                                    ? ≤  0.49                        en fazla 0.70 olmalı
+                                    ? ≤  0.36                        en fazla 0.60 olmalı
+
+
+
+
