@@ -36,7 +36,7 @@ BIST100 out * (büyüyen - alt)	IDH	ZJV	ZJL	BDY	GOH	YHB	ZLH	BID	DTL	VAY	BUY
 Techs - TR			TTE	YHZ	ICZ	DHJ 
 Gold (sıra değişir. içi..)	YKT	DBA	TCA	GGK	OJK	FIB	TTA*	TUA*	NAU..	GTA	AFO	HBF	NAU - vadeli işlemler de yapıyor
 Silver (sıra değişir. içi..)	GTZ*	DMG	GUM	GMC	YZG*	MJG	KGM
-çeşitli diğer emtialar		KMF*	KUT*	OTJ*	TGE*	zcn
+çeşitli diğer emtialar		KMF*	KUT*	OTJ*	TGE*	ZCN
 yabancı hisse yoğun		AFA*	TMG*	GBG	ZSF	AFV
 yabancı teknoloji * * *		TFF*	AFT*	ITP	IRT	YAY	HOA	GUH	OJT	RTD
 Fintech Blockchain * * *	GBV*	YZC*	IVY*	ZFB*	IJP*
@@ -50,11 +50,14 @@ gıda *				GIH
 Energy				URA
 Oil				AES
 				BIG
+Borçlanma			TBT	YOT	GUV	TZT	AK2	DBB	GTF	HST	RBF
 
 # Advices and Hypes/Trends
 Eurobonda dah fazla yatır
 gümüşe gir
 RSI < 50 - alım seviyesinde
+tahvil fonları - tahvil düştükçe fonları yükselir... borçlanma fonları - yüksek enflasyon tahvil fonlarını indirir..
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 temettü veren %stopaj	temettü kendine		kar payı öder %10stopaj
 KPA			GTM			FBC
