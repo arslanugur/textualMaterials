@@ -3,15 +3,16 @@
 # Definition of Money
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Roll Over Strategy
-                               No Interest Period
-                               -------------------------------------
-Credit Card Payment            hesap kesim (ekstre)                son ödeme tarihi
-                               |                                   |        
-- QNB Credit ?                 31                                  10
-- QNB Trendyol                 03                                  13
-- Garanti Bonus                11                                  21
-- Halk Paraf                   13                                  23
-- DenizBank Gold               17                                  27
+                        No Interest Period
+                         -----------------------
+Credit Card Payment	hesap kesim (ekstre)	son ödeme tarihi
+			|			|        
+- QNBC ?		31			10
+- QNBT			03			13
+- GBB			11			21
+- HBP			13			23
+- DBG			17			27
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Investment Types
