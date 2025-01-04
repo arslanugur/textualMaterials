@@ -16,7 +16,7 @@
     - Tutarlılık
         - iç tutarlılık
     - Duyarlılık
-    - Objektiflik
+    - Objektiflik  * * *
         - puanlama objektifliği
         - puanlayıcı objektifliği
 
@@ -96,10 +96,11 @@
           öğrenci ilk uygulama: 20 puan
                   ikinci uygula: 50 puan      sonuçlar benzerse o da bir kararlılık vardır. kararlılık varsa güvenilirlik yüksektir..
           ölçme ve değerlendirme de bunun yorumlanması: öğrenci başarısızlık konusunda kararlı demek
-          bu yöntemin dezvantajı nedir?
-          aradan geçen zaman, dezavanataj    zaman az olursa kararlılık yüksek
-                                             zaman fazla olursa kararlılık düşük çıkar olumlu ya da olumsuz
 
+          bu yöntemin dezvantajı nedir? * * * * 
+          aradan geçen zaman, dezavanataj    zaman az olursa kararlılık yüksek - ilişki yüksek
+                                             zaman fazla olursa kararlılık düşük çıkar olumlu ya da olumsuz- iki test arasındaki ilişki düşük çıkma olasılığı var...
+                                             zaman derse göre 3-6 hafta olmalı
           Kararlılık önemli
 
       * Paralel Testler
@@ -128,11 +129,12 @@
           birinci yarının ikinci yarıya olan korelasyonu ya da tam tersi 
 
           dezavantajı: testin tamımı hakkında bilgi veremez sadece ilişisini verir.
-                       testin tamamının güvenilirliği için formül:
+                       testin tamamının güvenilirliği için formül: güvenilirlik kat sayısı
                         2*Rx / 1+Rx
 
+
           soru örneği: 80 soruluk 40 40 ayrıldı: parçalar arasındaki korelasyon katsayısı 0.60 bulunsun.
-                        rx = 0.60  --> 2*0.60 /1+0.60 = 1.2/1.6 = 3/4 = 0.75
+                        rx = 0.60  --> 2*0.60 /1+0.60 = 1.2/1.6 = 3/4 = 0.75 ---> testin güvenilirlik kat sayısı
                                                         sadeleştir 4e böl
                       Önemli:
                       soru sayısını arttırmak güvenilirliği arttırır..
@@ -140,6 +142,7 @@
                             testin tamamını güvenilirliği hesaplamak için formül kullanılır
                             ve testin tamamının güvenilirliği her zaman kesinlikle testin yarısından daha yüksektir.... * * * * *  
 
+          soru örneği: 
 
       * KR20-KR21
             aslında iki formül
@@ -168,7 +171,7 @@
             öğrencilerin sınav not çizelgesi için KR21, ama öğrencilerin kağıtları varsa KR20 kullanabilir...
 
             Not:
-            KR20 - Madde Madde                Duyarlılık daha fazla  Duyarlı olan güvenirlik daha yüksek
+            KR20 - Madde Madde                Duyarlılık daha fazla  Duyarlı olan güvenirlik daha yüksek * * * * * * 
             KR21 - Testin genelini kapsar
             İdeal olan testlerde KR20 daha uygun... KR21 tembel adamların işi...
 
@@ -177,6 +180,10 @@
             Sınavda soruların güçlük indeksleri eşitse KR20 = KR21 olarak hesaplanır...  birbirine eşit..
             Neden: Madde Güçlüklerin ortalamaları, Aritmetik Ortalamayı veriyor..  Güçlükler eşitse Aritmetik ortalamada eşit çıkıyor..
 
+            KR20-KR21 güvenilirlik katsayıları yüksek çıktığında
+            - testin iç tutarlılığı yüksek
+            - testteki sorular birbiriyle uyumludur  iç tutatlılık demek
+            - testeki sorular homojendir, grup heterojendir...
 
       * Cronbach's Alpha
           Neden Var?
@@ -210,6 +217,13 @@
     - Ölçüt Geçerliliği
     - Yapı Geçerliliği
 
+    geçerlilik artıran faktörler
+      bir sorunun bilenle bilmeyeni ayırt etmesi
+      testte yer alan soruların yıllara göre değiştirilmesi
+      doğru cevabın seçeneklere dengeli dağılması 
+      soruların belirli bir sayıya kadar artırılması 
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     - Kapsam Geçerliliği
         Kapsam, testteki soruların konuları ve hedef davranışları temsil edebilme gücüdür. * * * * * örneklendirmesi
@@ -217,7 +231,14 @@
 
         Kapsam Geçerliliği arttırmak için öğretmenin ilk olarak yapması gereken BELİRTKE TABLOSU hazırlanması
         Belirtke Tablosu - kapsam geçerliliği için en önemli işlem...
-        Belirtke tablosunu hazırlayan öğretmenin temel aması kapsam geçerliliğini sağlamak
+                         - soru dağılımını konulara düzgün şekilde yapmak...
+
+        Belirtke Tablosu Özellikleri:
+              ünitelerin içeriğinin hedef davranışlarla nasıl ilişkilendirileceğini gösterir
+              kazanım ile içerik arasındaki bağlantıyı gösterir
+              hedeflerin niteliksel ve niceliksel boyutu ile ilgili bilgi verir...
+
+        Belirtke tablosunu hazırlayan öğretmenin temel amacı kapsam geçerliliğini sağlamak * * * * * 
           Dikey boyutta üniteler ve konular sıralanmış olarak yer alır.. 
           Yatay boyutta dersin hedef davranışları yer alır
           Bloom Taksonomisinin hiyerarşik olarak hedef davranışları yazılır.
@@ -275,7 +296,7 @@
             sınavdan önceki bir süreci temel almak
             tr birincisi oldu. şaşırmadık geriye dönük bakarsak yaptı...
             
-      - Yordama Geçerliliği ...
+      - Yordama Geçerliliği  * * * *
             Sınav Sonrası Süreç = Gelecek = Sonra
             sınav sonuçları ile sınavdan sonraki bir sürecin karşılaştırılması
 
@@ -289,7 +310,7 @@
         bir testin teorik psikolojik iç dünyasıdır...
         testleri/araçları, görünüş geçerliliği ile karşılanır, yapı geçerliliği ile uğurlanır
 
-        Amacı: bir testin bilenle bilmeyeni ayırt etmesidir...    
+        Amacı: bir testin bilenle bilmeyeni ayırt etmesidir...  * * * *   
                 sınavda bildiğin yerleri çözemiyorsan o noktada yapı geçerliliği düşüktür...
                 sınavda bilmediği yerleri çözmek... yapı geçerliliği yine düşük..
 
@@ -320,7 +341,7 @@ Eğer uygulanacak test     psikolojik bir test ise         yapı geçerliliği y
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Geçerliliği Etkileyen Faktörler
+# Geçerliliği Etkileyen Faktörler * * * * * 
     - testteki soru sayısını artırmak                      geçerlilik artar
     - testing bilgisayar ortamında çoğaltılması            geçerlilik artar        yazdırarak olmaz..
     - soruların yıllara göre değiştirilmesi                geçerlilik artar        ehliyet sınavı, ikinci öğretimde sorulan sorular olmaz..
@@ -328,7 +349,11 @@ Eğer uygulanacak test     psikolojik bir test ise         yapı geçerliliği y
     - aynı seçeneğin üstüste doğru cevap olarak verilmesi  geçerlilik düşer..      üstüste 4 a olabilir....
     - kaynak kitaplar açık sınav yapmak                    geçerlilik düşer..      sınavda formül verilmesi..
     - güvenilirliği etkileyen herşey geçerliliği dolaylı olarak etkiler.... ama soru çözerken bunu kullanma doğrudan etkileyenleri sorarlar...
-    
+    - bilenle bilmeyeni ayırt etmesi                       geçerlilik artar
+
+    - şans başarısı v ekopya geçmek, hem güvenilirliği hem de geçerliliği doğrudan olumsuz etkileyen faktörler..
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -342,6 +367,9 @@ Eğer uygulanacak test     psikolojik bir test ise         yapı geçerliliği y
   Kullanışlılık - zaman, emek, maliyet bakımından fayda sağlamak.  --> Ekonomiklik
   * Kullanışlılık olmasa da olur, geçerlilik (Amaç) doğrultusunda göz ardı edilebilir.
     hedef davranış doğrultusunda geçerli olanı yapman gerekli, kolay olanı değil
+  Güvenilirlik ve geçerlilik tersi hareket eder...
+  soru sayısı artıyorsa güvenilirlik ve geçerlilik olumlu etkilenir.... ama kullanışlılık...
+
 
 
 
@@ -367,6 +395,7 @@ Eğer uygulanacak test     psikolojik bir test ise         yapı geçerliliği y
     Geçerlilik yok              Geçerlilik yok             Geçerlilik var
 
 
+  * * * 
     1. Bir ölçme aracı güvenilir değilse, geçerli de değildir..
     2. Bir ölçme aracı güvenilir olabilir, her zaman geçerli olacağı anlamına gelmez
           çoktan seçmeli güvenilir ama sentez becerisini ölçmede geçerli değil...
@@ -375,12 +404,48 @@ Eğer uygulanacak test     psikolojik bir test ise         yapı geçerliliği y
     4. Bir ölçme aracı geçerli ise, güvenilir kabul edilir...
 
 
-    * Ölçme aracının güvenilirlik kat sayısı, geçerlilik kat sayısnı sınırlandırır...
+    * Ölçme aracının güvenilirlik kat sayısı, geçerlilik kat sayısını sınırlandırır... * * * 
+              ne kadar güvenilirse o derece geçerli olunabilir..
 
         Formül: Geçerlilik kat sayısı ≤ √ Güvenilirlik kat sayısı
                                     ? ≤  0.81                        en fazla 0.90 olmalı, daha yüksek çıkarsa geçerlilik hesaplanırken bir hata yapılmıştır
                                     ? ≤  0.49                        en fazla 0.70 olmalı
                                     ? ≤  0.36                        en fazla 0.60 olmalı
+
+
+
+
+SORULAR:
+her öğrencinin notuna 5 puan vermiştir
+-----------           ------  sabit hata  --> her öğrenci için herkese aynı miktara
+
+
+sistematik hatalar istatistiksel işlemlerden arındırılabilir.
+sabit ve sistematik hata gçerliliği etkiler ama güvenilirliği etkilemez..
+
+bazı öğrencilere %10 puan ilave..  --> sistematik
+
+tesadüfi hata özellikleri
+- istatistisel işlemlerle düzeltilemez
+- ölçmeyi yapan hatanın farkında değildir.
+- hatanın yer, yön, zaman ve kaynak gibi özellikleri belli değildir.
+- ölçme işlemine karışması kontrol altına alınamaz.
+
+aynı konudan 50 soruluk bir sınav, 20 soruluk bir sınavdan daha duyarlıdır..
+  ama farklı konular deseydi 50 soruluk için duyarlı diyemezdik...
+
+Güvenirliği düşüren faktörler
+- tesadüfi hatalar: düzeltilemediği için 
+- şans başarısı - geçerliliği de düşürür
+- kopya çekmek - geçerliliği de düşürür
+
+
+
+
+
+
+
+
 
 
 
