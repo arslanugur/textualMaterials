@@ -2,6 +2,18 @@
 # Investment Strategies
 # Definition of Money
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Roll Over Strategy
+                               No Interest Period
+                               -------------------------------------
+Credit Card Payment            hesap kesim (ekstre)                son ödeme tarihi
+                               |                                   |        
+- QNB Credit ?                 31                                  10
+- QNB Trendyol                 03                                  13
+- Garanti Bonus                11                                  21
+- Halk Paraf                   13                                  23
+- DenizBank Gold               17                                  27
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Investment Types
 	short-term cash investment	--> interest, money market fund
 	middle-term cash investment	--> carry trade, bonds, treasures
