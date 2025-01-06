@@ -14,6 +14,10 @@ Credit Card Payment	hesap kesim (ekstre)	son ödeme tarihi
 - DBG			17			27
 
 
+
+
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Investment Types
 	short-term cash investment	--> interest, money market fund
@@ -1084,5 +1088,52 @@ Cashless Abroad - Dünya para kullanmıyor artık dijitale geçiyor
 Götürü Usulü: muhasebe
    Türkiye genelde götürü usulü yasıyor.
    Simitçi ne kadara aldı simiti sana satoyor belli değil fırına sormak lazım fırın da götürü usulü o da belli değil
+
+
+
+
+
+
+
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Investment Example
+	buy		sell		₺	$
+	2 Jan
+GUBRF	156₺		287₺		%84	%54		Nasdaq'dan daha fazla kazandırdı...
+	10 Jan
+COIN	151$		250$			%66		BTC ve ETF onayı		Nasdaq x2
+	12 Jan		2 week
+VAKFN	4.75₺		6.1₺		%28	%27		Trade			Nasdaq yıllık getirisi 2 hafta çıktı
+	24 Jan
+FCX	40$					-%4		elektrikli araçlar bakır talebi - çin ekonomisi beklenti gerçekleşmedi
+THYAO	266₺							enflayon muhasebesi, vergi geliri sağladı, yolcu sayısı gerileme. halen ucuz
+LIDFA			8.8₺		%190	%164
+	30 jan
+PFE	274$		26.5$		kar/zarar aynı		al unut hissesi - hisse başı 1$ temettü verdi	yıllık temettü: %6
+KARYE	17.3₺		40₺		%130	%39		16 ay elinde tuttu	şu an 27₺
+REAL	2.35$		1.95$			-%17		sonrasında 11$ ile kapatmış %375 kaçmış elden		doğru pozisyon, yanlış zamanlama	kaçan balık
+
+COF	91$		9 ay	136$		%50
+DFS	122$		10 ay	174$		%43
+
+BIST BOŞALTMA
+ENJSA	32₺		13 ay	61₺	%92	%15		şu an 62₺
+VESTL	23₺			86₺	%245			şu an 70₺
+TEZOl	4₺			25₺	%510			şu an 15₺
+SAHOL	8₺			77₺	%880	%150
+TUPRS	35₺		11 ay	175₺	%430	%184		şu an 150₺
+LKMNH	17₺		11 ay	81₺	%360	%175		bedelsiz sermeye artışıyla maliyeti 2.97₺ geriledi. şu an 18₺
+GENTS	4.6₺			8.8₺	%93	%13
+BIGCH	22₺		5 ay	33₺	%53	%37
+ALFAS	146₺							karlı şirket...
+
+
+satıştan gelen para para piyasalarına geçti... önceden yatırdığı için vergiden muaf...
+
 
 
