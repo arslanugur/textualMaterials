@@ -1,3 +1,4 @@
+en az iki soru geliyor...
 
 # Test hazırlama sürecindeki 9 Temel Basamaklar
   01. Testin amacı belirlenir:  
@@ -33,20 +34,27 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Eğitimde kullanılan ölçme araçları (1q)
 
-- Yazılı Yoklama              seçenek/şans yok, sentezi ölçer, yorum ister
-- Sözlü Yoklama               seçenek/şans yok, sentezi ölçer, yorum ister
-- Kısa Cevaplı                seçenek/şans yok, bilgi ve kavrama: tanım ister, netlik ister
-- Boşluk Doldurma             az da olsa şans var..
+- Yazılı Yoklama              seçenek/şans yok, sentezi ölçer, yorum ister                        geleneksel
+- Sözlü Yoklama               seçenek/şans yok, sentezi ölçer, yorum ister                        geleneksel
+- Kısa Cevaplı                seçenek/şans yok, bilgi ve kavrama: tanım ister, netlik ister       geleneksel
+- Boşluk Doldurma             az da olsa şans var..                                               geleneksel
 
 # Şans Başarısının Olduğu Testler
-- Doğru/Yanlış                şans var
-- Çoktan Seçmeli              şans var
+- Doğru/Yanlış                şans var        geleneksel
+- Çoktan Seçmeli              şans var        geleneksel
 
 # Şekilli Sınavlar
-- Eşleştirme Testi            şans var
-- Yapılandırılmış Grid
-- Tanılayıcı Dallanmış Ağaç
-- Kelime ilişkilendirme
+- Eşleştirme Testi            şans var        geleneksel
+- Yapılandırılmış Grid                        çağdaş
+- Tanılayıcı Dallanmış Ağaç                   çağdaş
+- Kelime ilişkilendirme                       çağdaş
+
+# Diğerleri
+- Kavram Haritaları
+- Zihin Haritaları
+- Kavram Karikatürü
+- V Diagramı
+- Anlam Çözümleme Tablosu
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - Yazılı Yoklama
@@ -197,18 +205,86 @@
 
 
 # Şekilli Sınavlar
+      Sınav yönergesi önemli, kurallar değişebilir...
+
 - Eşleştirme Testi
-- Yapılandırılmış Grid
+    bu şekil soruluyor...
+
+          1.sütun        2.sütun/bölüm
+
+          sorular        seçenekler
+          öncüller       eşleştirmeler
+          -------------|------------
+          1              A          
+          2              B
+          3              C
+          4              D
+
+    - akademik olarak bir sorunun bir cevabı vardır... yönergeye göre iki cevabı da olabilir
+    - bir eşleştirme bir soruda kullanılır. (sadece ilk öğretim birinci kademe ve ya öğretim amaçlı uygulamalarda (ünite sonu testler gibi) eşit olabilir..)
+      ama eşleştirme testlerinde sorulan: eşleştirme kısmı sorular kısmından en az bir fazla olmalı ki bilmeden cevap verilmesin...
+    
+
+
 - Tanılayıcı Dallanmış Ağaç
-- Kelime ilişkilendirme
+      Doğru Yanlış testinin çağdaşa yaklaşımdaki adı Tanılayıcı Dallanmış Ağaç...
 
+      Diagram
+        paralel olan yerlerde sorular var
+        dallarda olan yerlerde doğru yanlış
+        uçlar: birinci çıkış, ikinci çıkış...  en az 8 çıkışlı olması gerek.... * * * 
 
+      - öğrenci gidiş yoluna göre karşısına çıkan soruları cevaplar... labirent gibi
+      - puanlama, öğrenci çıkış noktasına göre yapılır...
+      - multi disipliner sorular sorulabilir...
+      - bilgisayar ortamında kullanılır..
 
+- Yapılandırılmış Grid (Izgara)
 
+        |-----|-----|-----|-----|
+        |1    |2    |3    |4    |
+        |     |     |     |     |
+        |-----|-----|-----|-----|
+        |5    |6    |7    |8    |
+        |     |     |     |     |
+        |-----|-----|-----|-----|
 
+        soru 1:
+        soru 2:
+        ....
 
+        - sorular yazılır, cevap rasgele kutucuklara yerleştirilir...
+            kutucukların içinde kavramlar, fotoraflar, bilgiler olabilir.. 
+        - bir sorunun birden fazla cevabı vardır...
+            bir kutucuk birden fazla soruda doğru cevap olabilir...
+            8 kutucuğun bile olsa altına 30 tane soru sorabilirsin...
+        - görsel, analitik, mantıksal zekayı geliştirebilir
+        - öğrencinin verdiği her yanlış kutu sayısı, diğer tarafta doğru verdiği kutucuk sayısını etkileyebiliyor, silebiliyor.. düzeltme formülü...
+        
 
+- Kelime ilişkilendirme Testi
 
+        sayfa 1        sayfa 2       sayfa 3       sayfa 4
+         ------        ------        ------        ------
+        |      |      |      |      |      |      |      |
+        |      |      |      |      |      |      |      |
+        |      |      |      |      |      |      |      |
+        |      |      |      |      |      |      |      |
+         ------        ------        ------        ------
+
+        Sayfa 1: örnek uygula olmalı...
+        Sayfa 2:
+        Sayfa 3:
+        Sayfa 4:
+
+        Dersin ana kavramlarından 4-6 kavram seçilir...
+        Kavramı duyduğun anda aklına ne geliyor... çağrışımı yazarsın
+        Öğrenciler kısa süre içerisinde kavramlarla ilgili çağrışımlarını yazarlar...
+          sende bu çağrışımlara bakar öğrencinin ne bildiğini görmeye çalışırsın
+
+        eğer çağrışımlar üzerinden sınav yapılıyorsa bu kelime ilişkilendirme
+        eğer rasgele kutucuklar içerinde ssınav yapılıyorsa yapılandırılmış grid
+        eğer gidiş yoluna göre diagrama göre soruları çözüyorsa Tanılayıcı dallanmış ağaç
 
 
 
