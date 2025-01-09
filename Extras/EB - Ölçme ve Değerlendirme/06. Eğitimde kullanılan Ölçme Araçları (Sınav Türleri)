@@ -1,6 +1,6 @@
 en az iki soru geliyor...
 
-# Test hazırlama sürecindeki 9 Temel Basamaklar
+# Test hazırlama/geliştirme sürecindeki 9 temel basamağı...
   01. Testin amacı belirlenir:  
         3 Amaç;
           Diagnostik: öğrenciyi tanımak
@@ -12,9 +12,12 @@ en az iki soru geliyor...
 
   03. Belirtke Tablosu Hazırlanır.   * * * soru olarak gelebilir...
         En önemli işlevi: Kapsam Geçerliliğini belirlemek
+          İşlenilen kritik davranışların dersin kapsamı ile nasıl ilişkilendirileceğini gösterir.
         Testteki soru sayısını belirlemek
         Testte ölçülecek davranışını belirlemek
-        Sorular, davranışlarla uyumlu mu
+        Sorular, davranışlarla uyumlu mu, hedefler ve konularla ilişkili olmayan sorular çıkarılır
+        tablo, sınav hazırlamada ana kılavuz
+
 
   04. Soru Sayısı ve Soru tipini belirlemek
         İki tür soru var..
@@ -25,19 +28,20 @@ en az iki soru geliyor...
   05. Deneme sorularının yazımı (Asıl soru sayısının 3 katı kadar soru yazılmalı..)
   06. Deneme grubu belirlenir ve sınav uygulanır.. (sınavı uygulayacağın gruba benzer bir grup oluşturmak)
   07. Madde istatistik çalışmalarının yapımı
-        Madde istatisliği belirlemek: Madde Redaksiyon ççalışması - Uzman kişilerden yardım alınması
+        Madde istatisliği belirlemek: Madde Redaksiyon çalışması - Uzman kişilerden yardım alınması      * * * 
             Ayırt ediciliği yüksek
             güçlülük indeksini kendi amaçlarım doğrultusunda belirliyorum
   08. Asıl maddelerin seçimi
+        deneme grubu belirlendi, deneme uygulandı, redaksiyon yapıldı... artık son hali verilir...
   09. Teste son halini verme
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Eğitimde kullanılan ölçme araçları (1q)
 
-- Yazılı Yoklama              seçenek/şans yok, sentezi ölçer, yorum ister                        geleneksel
-- Sözlü Yoklama               seçenek/şans yok, sentezi ölçer, yorum ister                        geleneksel
-- Kısa Cevaplı                seçenek/şans yok, bilgi ve kavrama: tanım ister, netlik ister       geleneksel
-- Boşluk Doldurma             az da olsa şans var..                                               geleneksel
+- Yazılı Yoklama              seçenek/cevap/şans yok, sentezi ölçer, yorum ister                        geleneksel          kapsam geçerliliği düşük
+- Sözlü Yoklama               seçenek/cevap/şans yok, sentezi ölçer, yorum ister                        geleneksel          kapsam geçerliliği düşük
+- Kısa Cevaplı                seçenek/cevap/şans yok, bilgi ve kavrama: tanım ister, netlik ister       geleneksel          soru sayısı fazla: kapsam geçerliliği yüksek
+- Boşluk Doldurma             az da olsa şans var..                                                     geleneksel
 
 # Şans Başarısının Olduğu Testler
 - Doğru/Yanlış                şans var        geleneksel
@@ -56,14 +60,18 @@ en az iki soru geliyor...
 - V Diagramı
 - Anlam Çözümleme Tablosu
 
+    Şans başarısını azaltmak için soruların seçenek sayısını artırarak en önemli şans başarısı azaltma yöntemi kullanılır  seçenek sayısı artırmak ve şans başarısı - negatif korelasyon
+    Şans başarısı olmayan sınavlarda seçenek yoktur..
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - Yazılı Yoklama
-    - Öğrencilerin üstdüzey becerilerini ölçen sınavdır..  Analiz, Sentez, Değerlendirme 
-    Sentez özel... her sınav sentez ölçemez... yaratma beceresi, yeni birşeyler ortaya çıkarmak
+    - Öğrencilerin üstdüzey becerilerini ölçen sınavdır..  Analiz, Sentez, Değerlendirme     * * *
+        Sentez özel... her sınav sentez ölçemez... yaratma beceresi, yeni birşeyler ortaya çıkarmak
     - Sentezi ölçen en ideal sınav - yazılı yoklama
-    - Öğrencilere cevaplama özgürlüğü verilir - istediği kadar yazar.. herkeste özgünlük farklıdır..
-    - Çok sayıda soru sorulamaz (kompozisyon)- bu nedenle kapsam geçerliliği düşüktür..
-    - Puanlama objektifliği düşüktür... çünkü kesin bir cevap yok.. sentez/özgünlük ile ilgili sonuçta..
+    - Öğrencilere cevaplama özgürlüğü verilir - istediği kadar yazar.. herkeste özgünlük farklıdır.. bu da objektifliği düşürür...
+    - Çok sayıda soru sorulamaz (kompozisyon)- bu nedenle kapsam geçerliliği düşüktür.. soru sayısı az...
+    - Puanlama objektifliği düşüktür... çünkü kesin bir cevap yok.. sentez/özgünlük ile ilgili sonuçta..  * * * 
         Öğrencinin isimlerini kapacaksın,
         öğrencinin farklı zamanlarda puanlamasını yapıp ortalamasını alacaksın
         cevap anahtarı hazırlamalısın
@@ -72,13 +80,13 @@ en az iki soru geliyor...
     - Soru sayısı az olduğu için hazırlaması kolay ama sonraki süreçler: uygulama, değerlendirme, puanlama, istatistik vs zor
     - düşünceyi organize etme becerisi, akışı belirlemek - öğrenciler sınav süresinin büyük bir kısmını cevabı düşünerek geçirir..
 
-    # Yazılı Yoklamanın 4 Puanlama Yöntemi
-      - genel izlenimle puanlama:     genel kağıt okuma                                            güvenilirlik en düşük
-      - sınıflama yoluyla puanlama:   iyi/orta/kötü olan kağıtlar, 3lü veya 5li..
-      - sıralama yoluyla puanlama:    en iyi kağıttan en kötü kağıttan sıralamaya göre puanlama
-      - cevap anahtarı ile puanlama:  en ideal puanlama yöntemi                                    güvenilirlik en yüksek
+    # Yazılı Yoklamanın 4 Puanlama Yöntemi * * * * * * * 
+      - Genel izlenimle puanlama    :   genel kağıt okuma                                            güvenilirlik en düşük  geçerlilik düşük
+      - Sınıflama yoluyla puanlama  :   iyi/orta/kötü olan kağıtlar, 3lü veya 5li..
+      - Sıralama yoluyla puanlama   :   en iyi kağıttan en kötü kağıttan sıralamaya göre puanlama
+      - Cevap anahtarı ile puanlama :   en ideal puanlama yöntemi                                    güvenilirlik en yüksek  geçerlilik yüksek.... * * * * 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - Sözlü Yoklama * * * 
     Sözlü yoklama diye birşey yok ama performans notu...
     Öğrencilerin üst düzey becelerini ölçer...  analiz, sentez, değerlendirme
@@ -89,28 +97,30 @@ en az iki soru geliyor...
     Sözlü yoklamalar bireysel uygulanan tek sınavdır..  *  *  *
         Bireysel uygulanan sınav: her öğrenciye farklı sorulan sorular.. (referansın vardır, tipin vardır.. kolay sorular sorarlar..)
         Grupsal uygulanan sınav: her öğrenciye aynı sorular sorulur...
-    Güvenilirliği en düşük olan sınav: çünkü her öğrenciye sorular farklı * * *
+    Bireysel uygulanan tek sınav...
+
+    Güvenilirliği ve Geçerliliği en düşük olan sınav: çünkü her öğrenciye sorular farklı           * * *
     En fazla zaman alan sınavdır. Ekonomikliği düşüktür...
     Sorular random, önceden hazırlanır ve kura yoluyla kullanılmalı...
     Görüntü ve ses kaydı alınarak güvenilirlik artırılmaya çalışılır... * * *
 
   
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - Kısa Cevaplı Test
     Alt düzey becelerilerin ölçümünde kullanılır..
         Bilgi, Kavrama düzeyi hedeflerin ölçümünde kullanılır.
         bir cümleyle sorunun cevabını açıklamak, tanım vesaire..
         Çok sayıda soru sorulabilir.. 15-20 tane soru sorabilirsin
-            buna göre yazılıyı yoklamaya kıyasla kapsam geçerliliği yüksek... soru sayısı fazla
+            buna göre yazılıyı yoklamaya kıyasla kapsam geçerliliği yüksek... soru sayısı fazla      * * * * 
         Kesin tanım ister, puanlama objektifliği yazılı yoklamaya kıyasla daha yüksektir..
     ÖSYM sorularda "Nispeten Objektif" olarak tanımlar bu sınav türünü... * * * 
-    Sorular ve İfadeler kaynaktan olduğu gibi alınmaması lazım. yoksa sıkıntı çıkar. öğrenciyi ezbere yönlendirir...
+    Sorular ve İfadeler kaynaktan olduğu gibi alınmaması lazım. yoksa sıkıntı çıkar. öğrenciyi ezbere yönlendirir... * * * * * * * * 
     En önemli sınırlılığı öğrencileri ezbere yönlendirir... Nispeten Objektif..
     Kullanım Alanı: İlköğretim birinci kademede yazılı yoklamanın alternatifi olarak kullanır... * * *
         çocuklar henüz soyut düşünemiyor... düşündüğünü kolayca yazamazlar...
     Seçenek yok, şans başarısı yoktur.. sallayarak bulamazlar...
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 - Boşluk Doldurma Test
     Kısa cevaplı sınav türüne benzerdir ama biçimsel bir farkı vardır...
@@ -128,6 +138,7 @@ en az iki soru geliyor...
         boşluk, hedef davranışlar istemeli, saçma bir kelime değil... 
         tarih sınavının boşluğu "veya" olamaz. türkçe sınavı değil sonuçta..
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Şans Başarısının Olduğu Testler
 - Doğru/Yanlış
     Alt düzey davranışları ölçer (bilgi, kavrama)
@@ -154,12 +165,13 @@ en az iki soru geliyor...
           çocuk sallayarak mı bulmuş bilmiş mi ispat istiyorsun...
           doğru yanlışın yanına bir seçenek daha eklenebilir...  fikrim yok gibi
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - Çoktan Seçmeli      * * * * * * * * * * SORU GELECEK
     En geniş hedef davranışı ölçen sınavdır: bilgi, kavrama, uygulama, analiz, değerlendirme....
         sentez hariç bütün basamakları ölçen sınav türü... üst düzey beceri ölçmez çünkü sentez yok
-        alt düzey beceleri ölçtüğü kabul edilir...
+        alt düzey becerileri ölçtüğü kabul edilir...
     Nesneldir. Puanlama objektifliği yüksek olan sınav
+    puanlaması kolay ve objektif
     Çok sayıda soru sorulablir. Kapsam Geçerliliği yüksek
 
     Güvenilirlik ve geçerlilik en yüksek sınav....
@@ -203,7 +215,7 @@ en az iki soru geliyor...
                           çünkü şans başarısı seçenek sayısıyla ilgilidir... azalmaz...
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Şekilli Sınavlar
       Sınav yönergesi önemli, kurallar değişebilir...
 
@@ -223,11 +235,15 @@ en az iki soru geliyor...
     - akademik olarak bir sorunun bir cevabı vardır... yönergeye göre iki cevabı da olabilir
     - bir eşleştirme bir soruda kullanılır. (sadece ilk öğretim birinci kademe ve ya öğretim amaçlı uygulamalarda (ünite sonu testler gibi) eşit olabilir..)
       ama eşleştirme testlerinde sorulan: eşleştirme kısmı sorular kısmından en az bir fazla olmalı ki bilmeden cevap verilmesin...
-    
+    - analiz, değerlendirme ölçmez... kim nerede, ne zman tarzı sorular yani alt düzey bilgi ve kavrama düzeyi soruları
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - Tanılayıcı Dallanmış Ağaç
-      Doğru Yanlış testinin çağdaşa yaklaşımdaki adı Tanılayıcı Dallanmış Ağaç...
+      Doğru Yanlış testinin çağdaşa yaklaşımdaki adı Tanılayıcı Dallanmış Ağaç...  Alternatif
+      hazırlaması zor
+      öğrencilerin vermiş olduğu cevap, testte çözeceği diğer soruları belirler..
+      üst düzey beceleri ölçmede yetersiz
 
       Diagram
         paralel olan yerlerde sorular var
@@ -239,6 +255,7 @@ en az iki soru geliyor...
       - multi disipliner sorular sorulabilir...
       - bilgisayar ortamında kullanılır..
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - Yapılandırılmış Grid (Izgara)
 
         |-----|-----|-----|-----|
@@ -253,15 +270,16 @@ en az iki soru geliyor...
         soru 2:
         ....
 
-        - sorular yazılır, cevap rasgele kutucuklara yerleştirilir...
+        - sorular yazılır, cevap rastgele kutucuklara yerleştirilir...
             kutucukların içinde kavramlar, fotoraflar, bilgiler olabilir.. 
         - bir sorunun birden fazla cevabı vardır...
-            bir kutucuk birden fazla soruda doğru cevap olabilir...
+            bir kutucuk birden fazla soruda doğru cevap olabilir...       * * * * * * * * 
             8 kutucuğun bile olsa altına 30 tane soru sorabilirsin...
         - görsel, analitik, mantıksal zekayı geliştirebilir
         - öğrencinin verdiği her yanlış kutu sayısı, diğer tarafta doğru verdiği kutucuk sayısını etkileyebiliyor, silebiliyor.. düzeltme formülü...
-        
+        - puanlaması yapılırken öğrenci verdiği her doğru cevap için puan alır.
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - Kelime ilişkilendirme Testi
 
         sayfa 1        sayfa 2       sayfa 3       sayfa 4
@@ -278,7 +296,7 @@ en az iki soru geliyor...
         Sayfa 4:
 
         Dersin ana kavramlarından 4-6 kavram seçilir...
-        Kavramı duyduğun anda aklına ne geliyor... çağrışımı yazarsın
+        Kavramı duyduğun anda aklına ne geliyor... çağrışımı yazarsın * * * *
         Öğrenciler kısa süre içerisinde kavramlarla ilgili çağrışımlarını yazarlar...
           sende bu çağrışımlara bakar öğrencinin ne bildiğini görmeye çalışırsın
 
