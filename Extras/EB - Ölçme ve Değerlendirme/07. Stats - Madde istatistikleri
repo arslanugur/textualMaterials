@@ -1,0 +1,163 @@
+İstatistikte 4 soru çıkıyor... 1i işlem ister 3ü yorum ister...
+
+# Statistics
+    1. Madde İstatistikleri
+    2. Test İstatistikleri
+    3. Standart Puanlar (Birey İstatistikleri)
+
+
+    1. Madde İstatistikleri:      1 soru
+          - Madde Güçlük İndeksi      * * * 
+          - Madde Ayırt etme İndeksi  * * *
+          - Madde Varyansı            * * *
+          - Madde Standart Sapması
+          - Madde Güvenilirliği
+
+          Testteki her madde için ayrı ayrı çalışma yapmak..
+
+    2. Test İstatistikleri:         1/2 soru
+          Yığılma Ölçümleri                          Yayılma Ölçümleri
+          - Arithmetic Mean (Aritmetik Ortalama)     - Range (Dizi Genişliği)          * * * 
+          - Mode (Tepe Değer)                        - Variance
+          - Median (Ortanca)                         - Standard Deviation              * * *        düşük/yüksek lduğunda hengi yorumlar yapılır?
+          - Çarpıklık Dağılımları                    - Bağıl değişiklik katsayısı
+                                                    - Çeyrek Sapma
+
+
+          Öğrencilerin test sonuçlarına bakarak, grubun/sınıfın nerede toplandığı... ya da bir başarı yorumlaması, farklılaşma yorumlanması    
+          
+
+    3. Standart Puanlar:           1 Soru
+          - Z puanı
+          - T Puanı
+          - Normal Dağılım Eğrisi
+
+          Bireysel bir soru dağılımı gelirse, bireyin başarısıyla ilgili yorum istenirse...
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Stats: Madde istatistikleri
+    Testeki her soru için ayrı ayrı çalışma yapmak...
+
+    # Madde Analiz Tablosu
+                A      B      C      D      E      Boş      Toplam
+    Üst Grup
+    Alt Grup
+
+      Bağıl Sistem: öğretmen sınavı yapar, sonrasında öğrencileri en yüksek puandan en düşük puan alana doğru sıralar...
+      Üst Grup: grubun ilk %27lik dilimi        konuyu bilen başarılı öğrenciler
+      Alt Grup: grubun son %27lik dilimi        konuyu bilmeyen başarısız öğrenciler
+      %46lik dilim ortada olanlar.. İstatistik orta ile uğraşmıyor.. uçlar ile uğraşıyor..
+
+      Hesaplama, doğru seçenek verileri üzerinden yapılır...
+        Soruda sana doğru cevap verilir.. bu şekilde hesaplanacak
+
+      # Madde Güçlük İndeksi (Pjx)
+        Bir sorunun doğru cevaplanma oranı
+        Doğru cevaplayan kişi sayısının, toplam kişi sayısına oranı
+
+        Pjx = Doğru cevaplayan kişi sayısı (üst+Alt) / Toplam Kişi        * * * * * * * * 
+
+        # Örnek:
+                A      B      C      D      E      Boş      Toplam
+    Üst Grup    18     30     10     10     10     22       100
+    Alt Grup    2      26     15     14     10     33       100
+
+          Sınava 200 kişi katılmış, Doğru cevap:B, 56 kişi doğru cevaplamış. Bu sorunun güçlülük indeksi (Pjx) kaç?
+          56/200 = 0.28
+
+        Madde Güçlük İndeksi Yorumu:
+        - güçlük indeksi 0 ile +1 arasında bir değerdir..
+            hiç bir zaman eksi çıkmaz, çünkü formülde toplama var... ve doğal birim
+            +1e yaklaştıkça sorunun kolaylığı artar, 0'a yaklaştıkça soru zorlaşır... * * * 
+        - Güçlük indeksi, bir sorunun kolay orta zor olduğunu gösteren veridir...
+
+                  hiç kimse                                 herkes
+                  |-------------|-------------|-------------|
+                  0             0.40          0.60          1
+                        zor        orta/vasat       kolay            çünkü doğru cevap veren kişi sayısı 1'e doğru artıyor, 0'a doğru azalıyor...
+                                                                     en ideal olan güçlük indeksi 0.50...
+
+
+            # Örnek:
+                10 kişilik bir sınav 5 soru var..
+                1. 0     -> 0/10 = 0                                   0 kişi doğru yapmış, yani hiç kimse
+                2. 3     -> 3/10 = 0.3
+                3. 5     -> 5/10 = 0.5                                 en ideal güçlük indeksi... 3 numaralı madde...
+                4. 7     -> 7/10 = 0.7
+                5. 10    -> 10/10 = 1                                  1 yani herkes doğru yapmış...
+
+                Bu 5 sorudan hangisi en zor olan madde: birinci madde/soru
+                                     en kolay olan madde: beşinci madde/soru
+
+  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      # Madde Ayırt Etme İndeksi (Rjx)
+        Bilenle bilmeyeni ayırt etmek...
+        yani üst grup ile alt grubun ayırt edilmesi...  yani çıkarılması....
+
+        Rjx = (üst - alt) / toplam üst grup            (toplam bu indeksde üst veya alttan bir tanesi seçilerek yapılabilir.. çünkü ikisi de eşit zaten... burda üst grup toplamı seçildi...)
+
+
+        # Yorumu:
+          Soruyu bazen üstten 5 alttan 8 kişi cevaplamış olabilir...      -3 
+          yani ayırt edicilik indeksi negatif değer alır...  * * * 
+
+                  |---------------------|------|------|------|------|
+                 -1                     0      0.20   0.30   0.40   +1
+                   - - - - - - - - - - - 
+                   negatif ayırt edicilik
+                   - - - - - - - - - - - - - - -
+                   soru testten atılmalı
+                                               --------- soru düzeltilmeli
+                                                        ------- soru iyidir...
+                                                              -------- soru mükemmel bir ayırt ediciliğe sahip demek...
+  
+            - Negative Ayırt edicilik sınavda soruluyor... * * *
+                Alt gruptaki öğrenci sayısı, üst gruptaki öğrenci sayısından fazladır...
+                ve konuyu bilmeyenler soruyu daha çok doğru yapmıştır......
+                alt grupta soruyu doğru yapanlar daha fazladır..
+                bilmeyen adam nasıl doğru yapar: kopya, şans, soru hatalı, bilen öğrenciler uzaklaşabilir.., hatalı soru bileni kaçırtır...
+                                                                            uzaklaşmayacaksın çünkü hatalı olduğu anlaşıldığında boş bırakana katsayı verilmiyor.. işaretleyene verilir..
+
+
+            Ayırt edicilik - Yapı geçerliliği demek...
+              Sorunun ayırt ediciliğine bakılarak soru hakkında geçerlilik yorumu yapılabilir..
+              bir sorunun Geçerlilik, Kalitesi, Amaca hizmet etmesi hakkında yarum yaparken kullanılır..
+
+            Madde güçlüğüne bakılarak güvenilirliği etkileyen faktörler...
+              Sorular orta güçlükte olmalı. yani Pjx --> 0.50 olmalı        güvenilirlik....
+              bir sorunun güvenilirliği hakkında yorum yaparken de madde güçlük indeksine bakılır
+
+
+31:50
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        # Madde Variance ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+coefficient (katsayı) ne demek araştır
+
+
+
+
+
+
