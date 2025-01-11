@@ -1,3 +1,35 @@
+# Real Estate Brokerage
+# Mortgage Rate %7
+#
+# 
+# Arsa genişliği
+# Environment Buy/Rent Prices
+# Wholesale, Off-Market
+
+# Websites in USA
+https://www.mls.com/
+https://www.zillow.com/
+https://www.homes.com/
+https://www.realtor.com/
+https://www.rightmove.co.uk/overseas-property/in-usa.html
+https://www.redfin.com/
+
+
+buy ---> internet ---> realestate agengy
+ 		  ---> landlord * * *	---> should be renovated
+
+
+# Renovation (Expenses)
+	boya işleri
+	halı varsa yenilenmeli ya da değiştirilmeli
+	su pompoları var mı yoksa su basar.. basement yani bodrumda bu var mı
+	sıva işleri
+
+
+# elektrikli ısıtma sistemi
+# gazlı ısıtma sistemi
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 3+1	tekirdağ	2018	266bintl
 3+1	tekirdağ	2019	285bintl
 3+1	tekirdağ	2024	3.5mtl
@@ -1201,6 +1233,93 @@ Grant Cardone
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Amerikada arsadan eve geçiş süreci
+Arsa fiyatları - Land Price
+	regional average price
+Temel - Foundation
+	bu arsaya nasıl bir ev yapabiliriz?	m^2 hesabı
+İzinler - Permits
+Mimarlık - architecture
+
+
+Süreçler:
+1. arsa satın almak: bölgesine göre ortalama 40.000$ - iki hafta sürer...
+	closing (tapu masrafları): ev için de geçerli...
+2. mimarla konuşup amlaşmak: nasıl bir ev: oda, garaj, banyo - plan çizdirmek
+	2000square feetlik bir ev için 4000$ alır..
+	elbise dolabı yoksa odadan sayılmıyor..
+	jack and jill bathroom: ortak paylaşımlı
+3. müteahhite sunmak
+4. plana/projeye karar vermek: ortalama 4000$ tutar in OCALA
+5. belediyeye projeyi sunup onaylatmak: county-belediye
+	işlemler: 3-6 hafta arasında sürebilir..
+6. arsayı temizlemek düzenlemek ağaçların kesilip açılması.. 5000$ bulur.
+	mevcut ev varsa ya yıkılır ya da renovate edilir...
+7. temeli: tesisat işi --< su, elektrik --> 30000$ civarı to start up
+	srf başına 150$ --> 2000srf --> 30000$
+	tahta kurusu için denetim by county
+8. denetimden sonrası bloklar gelir ve çevrelenir... ağaçla frame yapıp çerçeveletmek
+	8inchlik bloklar gelip evin etrafı ve dış yüzeyi çerçevelenir..
+	kolonlar beton ve üzerine çatı
+	evin içerisi de adalara ayrılır...
+9. denetim tekrar gelir..
+	each phase in inspection by county
+	bazı evler betonarme bazıları ağaçtan ---> ama ağaç olursa tahta kurusu sorunu çok
+	çok üniteli olunca ağaçtan yapılıyor.. kibrit kutusu gibi amerikada
+10. inşaat aşaması
+11. bitmiş hali: 1600srf 270k/280k$ anahtar teslim, piyasası ne kadar
+
+metrekare bazında maliyetler
+mütahhit square foot başına: 200$ ya da 130$ anlaşmana bağlı
+iyi bir müteahhit bulmalısın...
+piyasa: 1600sqf için 275k$
+	1600sqf --> 130$ square foot = 208k$
+ev: arsa dahil 208k$ mal oldu
+	artı masraflar: satış masrafları, emlak ücretleri: 15k/20k$
+total: 228k$
+satmaya kalktığında piyasası 270k$ dersek, ortalama kar: 40k-50k$
+yıl boyunca da üstüne yüzdelik kar koyabilir...
+
+
+
+arsaya yapılacak ev türü: dubblex, apartman vs olabilir.....
+Bölge: şehirde, şehirden uzak ama gelişen bir bölge mi önemli
+Hedef kitle: çift, çocuklu çift, tek kişi
+
+
+# İç Tasarım için Standartlar: UPGRADE olabilir.... sonsuza gider...
+taban	: ağaç görünümlü laminant yer kaplama...
+tavan	: her oda için farklı şekilli olabilir..
+banyo	: standart porselen fayanslar
+mutfak	: tezgah
+salon	:
+oda	: misafir
+oda	: ebeveyn
+oda	: çocuk
+boşluk	: dolap ve çekmeceler
+bahçe	: çardak, havuz
+
+
+# Tesisat
+	Isıtma sistemi
+	Elektrik sistemi
+	Doğal Gaz sistemi
+	Boru sistemi
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+land - arsa, arazi
+property - mülk
+inspection - denetim
+
+
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔻 Almanyada ev satın almak:
 	https://youtu.be/Cq8NlqJQ3TQ?si=SDFLvAzeR9TsZCn2
@@ -1224,7 +1343,12 @@ Grant Cardone
 
 BenYüksel - Gayrimenkul Oturum İzni yok: https://youtu.be/81lqAJ8GaGE?si=iBaiwhYJgjCr-XL1
 aus klein mach fein - küçüğü küçük yapın
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+
+
 
 
 
