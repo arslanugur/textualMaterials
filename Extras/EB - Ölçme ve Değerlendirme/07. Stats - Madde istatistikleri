@@ -39,7 +39,7 @@
 # Stats: Madde istatistikleri
     Testeki her soru için ayrı ayrı çalışma yapmak...
 
-    # Madde Analiz Tablosu
+    # Madde Analiz Tablosu            * * * 
                 A      B      C      D      E      Boş      Toplam
     Üst Grup
     Alt Grup
@@ -52,7 +52,7 @@
       Hesaplama, doğru seçenek verileri üzerinden yapılır...
         Soruda sana doğru cevap verilir.. bu şekilde hesaplanacak
 
-      # Madde Güçlük İndeksi (Pjx)
+      # Madde Güçlük İndeksi (Pjx)        * * *
         Bir sorunun doğru cevaplanma oranı
         Doğru cevaplayan kişi sayısının, toplam kişi sayısına oranı
 
@@ -92,7 +92,8 @@
 
   
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-      # Madde Ayırt Etme İndeksi (Rjx)
+
+      # Madde Ayırt Etme İndeksi (Rjx) * * *
         Bilenle bilmeyeni ayırt etmek...
         yani üst grup ile alt grubun ayırt edilmesi...  yani çıkarılması....
 
@@ -130,9 +131,144 @@
               bir sorunun güvenilirliği hakkında yorum yaparken de madde güçlük indeksine bakılır
 
 
-31:50
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+            9 farklı soru sadece bu örnek tablodan gelebilir...
+
+            # Örnek: Pjx ve Rjx Kaç?
+                a     b     c     d     e     boş   toplam
+                18    30    10    10    10    22    100
+                2     26    15    14    10    33    100
+                Pjx = 30+26/200 = 56/200 = 28/100 = 0.28
+                güçlük indeksine bakarak soru düzeltilmez.. Sonuç olarak bu soru zor bir sorudur <0.40
+
+                Rjx = 30-26/100 = 4/100 = 0.04
+                ayırt etme indeksine bakılarak sorunun zorluğu belirlenmez....
+                0.20den küçük olduğu için soru testten atılmalı... bu maddenin geçerliliği düzüş amaca hizmet etmiyor...
+
+                # ÇELDİRİCİ    * * * * * 
+                    Doğru cevabın dışında kalan seçenekler...
+                    Çeldiriciler: ACDE
+                    - bu soruları sorarlar...
+                        01. ideal çeldirici: doğru yönde çalışna çeldirici: Alt grup fazla olan çeldirici                        C, D
+                        02. ters yönde çalışan çeldirici: görevini doğru yapmayan çeldirici: üst grubun fazla olduğu çeldirici   A
+                        03. en iyi çeldirici: (alt grup-üstgrup) değerinin en fazla olanı        -16,B,5,4,0                     C            altgrubu en fazla çekecek, üst grubu ters yönde az çekmeli
+                        04. en güçlü çeldirici: en fazla kişiyi çeken çeldirici    (alt+üst)     20,B,25,24,20                   C            en iyi ile en güçlü olan hep aynı olmaz sonuç denkgelmiş
+
+                # BOŞ Bırakanlar....
+                    verilen tabloda üst gruptan ve alt gruptan sınava katılan kişi sayısı herzman eşittir
+                    üst ile alt gruplarda soruya cevap veren kişi sayısı eşit değildir... aslında cevap veren kişi sayısını burdan anlarız..
+                    boş bırakılıyorsa sınavda "düzeltme formülü" var demektir... yani şans başarısı azaltılmıştır
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+            # Örnek Soru kalıbı.... 5 farklı soru kalıbı da burda olacak...
+
+            # Madde Matriksi
+            Madde    Pjx    Rjx                      Pjx'e bakılır...
+                1    0.10    0.20                    Zor olan madde?: 1,2
+                2    0.20    0.60                    Orta güçlükte olan?=3
+                3    0.50    0.70                    Kolay olan madde?= 4,5
+                4    0.80    0.50
+                5    0.90    0.25
+
+                Rjx'e bakılarak yorum ise...
+                1. düzeltilmesi lazım
+                2. mükemmel
+                3. mükemmel
+                4. mükemmel
+                5. düzeltilmesi gerekiyor.. 0.20 ve 0.30 arasında çünkü
+
+            # 3 temel amaç var....
+            Soru 1: en güvenilir test
+                güvenilir bir test
+                * orta güçlükte ve ayırt edici olanı bulacaksın
+                3.madde orta güçlükte: 0.50    --> en güvenilir madde...
+            Soru 2: seçme amaçlı
+                başvuran fazla, alınacak kontenjan az
+                kalabalık bir kitlenin içinden az kişiyi seçeceksin
+                * zor ayırt edici olacak bunu bulacaksın
+                1,2 - zor ama en zor olan 1...
+                1'in ise ayırt edici indiksi 0.20 kabul edilmez... iyi madde değil düzeltilmeli
+                2.madde seçilmeli... hem zor hem de ayırt ediciliği yüksek... mükkk
+            Soru 3: Formativ testler
+                Öğrenme eksikliklerini ölçen testler
+                tam öğrenme modelinin kullanıldığı sınıf ortamı: formatif testler
+                * kolay ve ayırt ediciler bulunmalı
+                4 ve 5 ama 5i kullanamazsın. 4. madde seçilir
+
+                Bu noktaya kadar güçlük için değişkenlik yapıldı ama ayırt edicilikte ypılmadı
+                çünkü ayırt edicilik geçerlilik olarak görülür.. sorunun kalitesidir... kaliteden ödün verilmez....
+                kaliteli madde kullanılmalı
+
+            Soru 4: 5 sorudan/maddeden oluşan bir testin aritmetik ortalaması kaçtır?        Arithmetic Mean = x̄
+                bir testin aritmetik ortalaması = toplam Pjx
+                aritmetik ortalama güçlük indeksinin toplamına eşittir...            BU SORU 4 5 KERE SORULDU
+                x̄ = ∑ Pjx            10+20+50+80+90 = 250 = 2.50 = 2.5 ....
+
+                sadece topla, toplayıp 5'e bölme.... bu "testin ortalama güçlüğü" demek... sana o sorulmadıı
+                sana sorulanı yap sadece.... pjx topla bitti...
+
+            Soru 5: 5 soruyu da kullanacak olursan en fazla/köklü değişiklik, Rjx indeksi -1'e en yakın olanın da yapılır..
+                Rjx -1'e ne kadar çok yaklaşırsa sorunun kalitesi o kadar düşer...
+                Rjx +1'e ne kadar çok yaklaşırsa sorunun kalitesi o kadar artar...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        # 1 ve 0lı Tablo
+            Uzun zamandur sorulmaı
+
+            *   M1    M2   M3   M4   M5            * madde öğrenciler... birinci, ikinci  öğrenci puanı...
+            1    1    0    1    1    0
+            2    0    0    0    1    0
+            3    1    0    1    1    1
+            4    1    0    0    1    0
+            5    0    0    1    1    1
+            6    0    0    0    1    0
+            7    0    0    1    1    0
+            8    0    0    0    1    1
+            9    0    0    1    1    1
+           10    0    0    0    1    1
+
+            Madde istatiği için aşağı doğru sayım yapılır m1 ve diğer maddeler ayrı ayrı aşağıya doğru sayılır      pjx, madde variance, madde standart sapması bulunur
+            Test İstatistikler için öğrencilerin aldığı puanlar yana doğru sayılır..                                medyan, mod, standard, ranj bulunur
+            doğru cevap verenler 1
+            yanlış ve boş 0
+
+            M1: 3 kişi doğru cevaplamış
+            M2: 0 kişi cevap vermiş
+            M3: 5 kişi
+            M4: 10 kişi
+            M5: 6 kişi
+
+            Peki ne sorar...
+            Soru 1: En zor madde hangisi?
+                doğru yapna ne kadar az ise madde o kadar zor...        M2
+            Soru 2: En kolay madde hangisi?
+                doğru yapan ne kadar fazlaysa o madde kolay...          M4
+            Soru 3: Güvenilirliğie katkısı en fazla olan hangi...
+                yani orta güçlükte madde                                M3        yarısı doğru yarısı yanlış/boş
+            Soru 4: aritmetik ortalma kaçtır...
+                x̄ = ∑ Pjx ...
+                      M1    M2    M3    M4    M5        Total
+                pjx = 3/10  0/10  5/10  10/10 6/10      24/10  
+                      0.3   0.0   0.5   1.0   0.6       2.4 = aritmetik ortalama....
+
+
+buraya kadar 16 farklı soru tarzı sorulabilir...
+
+
+
+
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
         # Madde Variance ...
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        # Madde Standart Sapması
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        # Madde Güvenilirlik
 
 
 
