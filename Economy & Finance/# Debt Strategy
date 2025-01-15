@@ -8,12 +8,16 @@ sıkılaşmak - money supply: decrease, interest rate: increase
 genişlemek - money supply: increase, interest rate: decrese 
 
 
+	5														  10
+	buy asset -----------------------------------------------------------------------------------------------> buy asset
+	pre-inflation             		inflation                       	post-inflation
+	----------------------------------->	----------------------------------->	----------------------------------->
+	fixed interest (asset)								variable interest (credit)
+	interest rate will be increased		political interest will be increased	interest rate will be decreased
+	money supply will be decreased							money supply will be increased
 
-      pre-inflation             inflation                       post-inflation
-      --------------------      --------------------            --------------------
-      fixed interest (asset)                                    variable interest (credit)
-      interest rate: increase   political interest: increase    interest rate: decrease
-      money supply: decrease                                    money supply: increase
+
+
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -35,6 +39,28 @@ paraya ulaşılamıyorsa faiz yüksek
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
+# Inflation vs.	Interest Rates (10Y Treasures)
+
+Low Interesy Rates		High Interest Rates
+------------------		-------------------
+Borrow More, Save Less		Borrow Less, Save More
+Spend More			Spend Less
+Demand > Supply			Demand < Supply
+Prices Increase			Prices Decrease
+Inflation Increases		Inflation Decreases
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+enflasyon kalıcı - diğer herşey gidici
+enflasyon parası olanı daha da zengin eder her zaman - faiz oranları....
+	enflasyon - birinci anlam:	para basımı(devlet borcunu eritmek için yapar)
+	enflasyon - ikinci anlam:	fiyatlara zam gelişi
+Faiz, paranın maliyetidir. faiz'in ana foksiyonu geciktirmektir...
+faiz - kayıptan korunma -- latince
+
+en yüksek enf - borçlanmak için en iyi dönem 		değişken faiz ile borç
+en düşük enf - borçlanmak için en rezil dönem		sabit faiz ile borç
+daha düşük maaş vermek için biraz daha enflasoyn yaparlar..
 
 
 
