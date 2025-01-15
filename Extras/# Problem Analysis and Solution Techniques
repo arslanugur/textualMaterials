@@ -17,7 +17,7 @@ Risk Severity                 Low          Medium          High
 
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Problem Degrees (Complexity Thinking / Agreement & Certainty Model)
       Simple                   < Complicated       < Complex                   < Chaotic
       ------------------------------------------------------------------------------------------
@@ -26,30 +26,34 @@ Risk Severity                 Low          Medium          High
       Best Practice              Good Practice       Emergent Practice           Novel Practice      Dave Snowden
 
 
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -    
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Seven Problem Solving Models
 
-- Scientific Method
-        Ask a Question -> Do Background Research -> Construct and Test and Hypothesis --> YES/NO -> Analyse data and Draw Conclusions --> Result Align or not? -> Communicate results
+- Scientific Method															 ------------> Results align?	-------|			
+			Ask a question ---> Do background research ---> Construct & Test a Hypothesis ---> Procedure Working?		|				       |
+				|							|			Yes --------------> Analyse Data			       | Communicate Results
+				|							<---------------------- No			|				       |
+				|													 ------------> Results dont Align? ----|
+				|															      |
+				 <----------------------------------------------------------------------------------------------------------------------------|
 
 - Problem Solving Model
-        Define the problem -> Determine Boot Cause/s -> Develop Alternative Solutions -> Select a Solution -> Implement Solution -> Evaluate Outcome
+			Define the problem ---> Determine Root Cause/s ---> Develop Alternative Solutions ---> Select Solution ---> Implement Solution ---> Evaluate Outcome / Start Over 
 
 - Board Strategy Process
-        Scan Environment -> Analyse Issues -> Identify Business Needs -> Set Strategy -> Oversee Execution
+			Scan Environment ---> Analyse Issues ---> Identify Business Needs ---> See Strategy ---> Oversee Execution ---> Report and Review / Start Over
 
 - Risk Management Process
-        Identify Issue -> Analyse/Assess -> Identify Best Controls -> Assess Responsibility -> Monitor -> Assess Outcomes
+			Identify Issue ---> Risk Analyse / Assess ---> Identify Best Controls ---> Assign Responsibility ---> Monitor ---> Assess Outcomes / Start Over
 
 - Management Decision Process
-        Identify Issue -> Analyse Factors/Causes -> Diagnose Key/Problem/Opportunity -> Scope and Assign ... -> Supervise Execution -> Review Outcomes
+			Identify Issue ---> Analyse Factors/Causes ---> "Diagnose" Key Probs./Opp'y ---> Scope & Assign Task ---> Supervise Execute ---> Review Outcomes / Start Over
 
 - Health Treatment Process
-       Take Patient History -> Examine Patient -> Diagnose Treatment -> Treat -> Review Outcomes
+			Take Patient History ---> Examine Patient ---> Diagnose ---> Plan Treatment ---> Treat ---> Review Outcomes / Start Over
 
 - Design Process
-        Identify Problem -> Brainstorm -> Design -> build... -> Share Solution 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -    
+			Identify Problem ---> Brainstorm ---> Design ---> Circle (Build --> Test & Evaluate --> Redesign) ---> Share Solution / Start Over
+
+https://polgovpro.blog/2021/06/18/problems-for-and-of-governance/
 
