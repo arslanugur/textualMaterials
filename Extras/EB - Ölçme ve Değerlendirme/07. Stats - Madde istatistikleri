@@ -258,18 +258,75 @@ buraya kadar 16 farklı soru tarzı sorulabilir...
 
 
 
-
+burdan sonra 1 tane soru gelebilir..
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-        # Madde Variance ...
+        # Madde Variance
+            bir sorunun doğru ceveplanma oranı ile yanlış cevaplanma oranının çarpımı ile bulunan bir kat sayı.
+            Pjx * Qjx = Variance
+
+            Bir maddenin güçlük indeksi    0 -------> 1    arasındadır.. Yani doğru cevaplanma oranı diyebiliriz..
+                sınava katılanların tamamı doğru cevaplarsa +1 olur 
+                                           yanlış cevaplarsa 0 olur
+                diyelim ki 0.60 bir sınavın doğru cevaplanma oranı o noktaya kadar cevaplanmış, peki geri kalan 0.40 yanlış cevaplanma oranı... sınava katılan 10 kişi ise 6sı doğru cevaplamış
+                yani Qjx = 1-Pjx olarak tanımlanır...
+
+            0.20 = güçlük indeksi
+            0.80 = Qjx    --> yanlış cevaplanma oranı
 
 
+            yani hep 1'e tamamlayan değer olmalı
+            Pjx      Qjx    Variance
+            0.20  *  0.80    0.16
+            0.30  *  0.70    0.21
+            0.40  *  0.60    0.24
+            0.50  *  0.50    0.25                ayırt ediccilik en fazla olduğu nokta...
+            0.60  *  0.40    0.24
+            ....  *  ....    ....
 
+            Variance: matematiksel değer anlamına gelir...
+            Variance: 0 ile 0.25 aralığında olabiliyor... Max: 0.25
+            0.25'e kadar gittikçe farklılaşma artar...
+            0'a doğru yaklaştıkça farklılaşma azalır...
+            σ² = s² = Variance = Farklılaşma
+
+            Bir maddenin en heterojen olması, farklılaşmaya katkıda bulunması
+                0.25 değeri en heterojen değer...
+
+            Bir sorunun doğru cevaplanma oranı +1        herkes doğru yapmış...
+            Pjx=1    Qjx=0 olur o zaman    Variance: 0.00 olur bunun anlamı homojen bir madde, farklılık yok
+            tam tersi durum da söz konusu kimse doğru yapamamışsa
+            Pjx=0    Qjx=1        Variance: 0.00 yine homojen bir madde olduğu ortaya çıkıyor.
+            tam 0 sıfır ya da 1 noktasında olan maddelerde farklılaşma yoktur... ayırtedicilik yoktur. ayırt ediciliğe katkısı en azdır ya da yoktur..
+            çünkü variance = 0 (sıfır)
+
+                
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
         # Madde Standart Sapması
+            Variance kök içine alınması...    variance: σ²=s²
+            √varyans = σ = standard sapma
+
+            
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
         # Madde Güvenilirlik
+            Formül: 
+            Madde standart sapma * Madde ayırt etme indeksi = Madde Güvenilirlik
 
+
+Örnek: Yapılan bir sınavda 5 maddenin güçlük indeksi 0.20
+                                      ayırt etme indeksi 0.70 olarak hesaplanmıştır.
+       Maddenin güvenilirlik katkasayı kaçtır?
+
+    
+        Pjx     Rjx      Qjx       σ²       σ        Madde güvenilirlik katsayısı
+        0.20    0.70     0.80      0.16     0.40     0.40 * 0.70 = 0.28 ---> maddenin güveniliği...
+
+
+tüm bu konulardan çıkabilecek sorular:
+madde güçlük indeksi kaç?
+madde ayırt edicilik indeksi kaç?
+bu ikisinin yorumlanması nasıl?
+madde varyansını bil... farklılaşma yorumunu bil..
 
 
 
