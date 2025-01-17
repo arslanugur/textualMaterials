@@ -7,9 +7,9 @@
 
 
     1. Madde İstatistikleri:      1 soru
-          - Madde Güçlük İndeksi      * * * 
-          - Madde Ayırt etme İndeksi  * * *
-          - Madde Varyansı            * * *
+          - Madde Güçlük İndeksi      * * *                 Madde güçlük indeksi          pjx :0, 1
+          - Madde Ayırt etme İndeksi  * * *                 Madde ayırt edicilik indeksi  rjx : -1, +1
+          - Madde Varyansı            * * *                 Madde Varyansı                var : 0, 0,25
           - Madde Standart Sapması
           - Madde Güvenilirliği
 
@@ -90,7 +90,11 @@
                 Bu 5 sorudan hangisi en zor olan madde: birinci madde/soru
                                      en kolay olan madde: beşinci madde/soru
 
-  
+        madde istatistikleri hesaplanarak elde edilenler:
+            testte yer alan zor veya kolay madderi belirlemek
+            bilenle bilmeyeni ayırt edebilen maddeleri belirlemek
+            maddede yer alan çeldiricilerin görevini yapıp yapmadığını belirlemek
+            özelliği, kalitesiyle ilgili bilgileri elde etmek
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
       # Madde Ayırt Etme İndeksi (Rjx) * * *
@@ -330,21 +334,141 @@ madde varyansını bil... farklılaşma yorumunu bil..
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Sorular:
+    300 kişinin katıldığı bir sınavda 84 kişinin doğru cevapladığı bir maddenin güçlük indeksi 0.28
+        84/300 = her iki tarafı da 3e böl = 28/100 = 0.28
+    100 kişinin katıldığı bir sınavda 64 kişinin doğru cevapladığı bir maddenin güçlük indeksi 0.64
+        64/100 = 0.64
 
 
 
+    madde güçlük indeksinin bire yaklaşması maddenin kolaylaştığını,                            soruyu doğru cevaplayan kişi sayısı artıyor
+                            sıfıra doğru yaklaşması maddenin zorlaştığı anlamına gelir.                                             azalıyor
+
+    Aşağıdaki öncüller madde ayırt etme indeksinin özellikleridir..
+        Madde istatislerinden negatif değer alabilen tek hesaplamadır.
+        -1 ve +1 arasında yer alır
+        maddenin kalitesi hakkında bilgi verir.
+
+    alt grupta doğru yapan öğrenci sayısının üst grupta doğru yapan öğrenci sayısından az olmasına negatif ayırt edicilik denmektedir.
+            üst: 5    /  alt: 3    = 2    --> pozitif olur, negatif değil                
+    
+    madde ayırt etme indeksi -1 ile 0.19 arasıdaki maddeler atılmaktadır. 0.20 ile 0.29 arasındaki maddeler düzeltilmelidir.
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    # Örnek:
+                       *
+                A      B      C      D      E      Boş      Toplam
+    Üst Grup    16     32     8      12     10     22       100
+    Alt Grup    4      24     16     13     10     33       100
+
+    zor ve ayırt edicilik nasıl hesaplanır...
+        Pjx: 32+24/200 = 54/200 = 0.27       <0.40--> madde zor
+        Rjx: 32-24/100 = 8/100 = 0.08        testten atılması gerekiyor
+        Madde, zor ama ayırt edici değil
+
+    madde analiz tablosuna göre a çeldiricisi ters yönde çalıştırılmıştır..
+        çeldirici doğru yönde çalışması için alt grup fazla, üst grup az olması lazım...    a çeldiricisi ters yönde çalışmış
+    madde analiz tablosuna göre en güçlü çeldirici d seçeneği
+        cevap veren kişiler toplanır...
+                20            24    25    20        d en iyi çeldirici - en fazla kişiyi d çekmiş...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    # Örnek:
+                              *
+                A      B      C      D      E     Boş      Toplam
+    Üst Grup    22     10     28     12     8     20       100
+    Alt Grup    4      15     24     16     8     33       100
+
+    Madde güçlük indeksi: 28+24/200 = 14+12/100 = 26/100 = 0.26
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    Örnek:
+
+            Madde    Pjx    Rjx                      Pjx'e bakılır...
+                1    0.05    -0.25                   Zor olan madde?:1 Pjx
+                2    0.20    0.75                    Orta güçlükte olan?=3 Pjx                            güveniliğe katkısı fazla, ayırt edicilik indeksi kabul edilebilirliğin üstünde - 0.40ın üzerinde 
+                3    0.45    0.60                    Kolay olan madde?= Pjx
+                4    0.80    0.40                    güvenilirliğe katkısı en fazla olan madde?=3
+                5    0.90    0.5                     sınavın aritmetik ortalaması= toplamPjx = 2.4     
+                                                     ayırt edici madde?= Rjx
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Örnek:
+
+            Madde    Pjx    Rjx                      Pjx'e bakılır...
+                1    0.05    -0.25                   (Pjx) Zor olan madde?:
+                2    0.15    0.70                    (Pjx) Orta güçlükte olan?=                            güveniliğe katkısı fazla, ayırt edicilik indeksi kabul edilebilirliğin üstünde - 0.40ın üzerinde 
+                3    0.40    0.60                    (Pjx) Kolay olan madde?= 
+                4    0.70    0.35                    güvenilirliğe katkısı en fazla olan madde?=
+                5    0.85    0.10                    (Pjx) sınavın aritmetik ortalaması= toplamPjx = 2.15   
+                                                     (Rjx) ayırt edici madde?= 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    Örnek:
+        375 kişi başvurmuş 100 kişilik kontenjan...
+        zor madde kullanılmalı, ayırt edici madde kullanılmalı
+        1, 2                    2                                    1 numara ayırt edici değil...
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    Örnek:
+            *   M1    M2   M3   M4   M5            * madde öğrenciler... birinci, ikinci  öğrenci puanı...
+            1    0    0    1    0    0
+            2    0    1    1    1    0
+            3    0    0    1    1    1
+            4    0    1    1    0    1
+            5    0    0    1    1    0
+
+            Aşağı doğru sayarsan madde istatistikleri hesaplar
+            Yana doğru sayarsan testin istatistiklerini hesaplar
+
+            Öğrencilere en zor gelen, en az kişinin doğru cevapladığı: toplamlarına göre M1 ....
+                        en kolay madde, herkesin doğru cevapladığı: M3
+            M2 maddesinin güçlük indeksi: 2/5 = * 20 = 40/100 = 0.4
+            5 maddeden oluşan bu testin aritmetik ortalaması: 0/5, 2/5, 5/5, 3/5, 2/5 = 12/5 = * 20 = 240/100= 2.4
 
 
+            bir maddenin güçlük indeksi 0.20 olarak hesaplandığına göre maddenin standart sapması 0.40
+                önce madde varyansı bulunur..
+                Pjx = 0.20    Qjx = 0.80    == 0.16 varyans = 0.40
 
+            madde güçlük indeksi 0.30 olarak hesaplanan bir maddenin madde varyansı 0.21
+                pjx: 0.30    Qjx: 0.70    == 0.21
 
+            güçlük indeksi 0.20 ve ayırt etme indeksi 0.50 olan bir maddenin madde güvenilirlik katsayısı 0.20..
+                pjx:0.20        rjx:0.50    
+                qjx:0.80
+                variance:0.16   ---->   standart sapma:0.40 ----> 0.40 * 0.50 = 0.20
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
+    Örnek:
+            *   M1    M2   M3   M4   M5            * madde öğrenciler... birinci, ikinci  öğrenci puanı...
+            1    0    0    1    0    0
+            2    0    1    1    0    1
+            3    1    0    1    1    0
+            4    1    1    1    0    0
+            5    0    1    1    1    0
+            6    0    1    1    1    0
+                 2    4    6    3    1
 
+            M4 güçlük indeksi = 3 / 6 = 1/2 = 0.5
+            öğrencilere en zor gelen madde: en az kişinin yaptığı madde: M5
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Madde güçlük indeksi          pjx :0, 1
+Madde ayırt edicilik indeksi  rjx : -1, +1
+Madde Varyansı                var : 0, 0,25
 
 
 coefficient (katsayı) ne demek araştır
