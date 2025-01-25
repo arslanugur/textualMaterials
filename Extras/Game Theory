@@ -1,8 +1,21 @@
 https://ncase.me/trust/
 hayatın rasgeliliğine gölge düşüren teori
 bu stratejiler, emlak sektöründen zengin olmak için ideal
+sun tzu - savaş sanatı
+john von neumann
+john forbes nash
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Nash Dengesi (Nash Equilibrium)
+    pişmanlığın olmadığı stratejiler kümesi
+    diğer oyuncuların seçimleri verildiğinde senin pişmanlık yaşamadığın seçimler
+    Sisteme göre var olan her oyun teorisinin bir eşitlik dengesi olan durum.
+  Uzun uğraşlar sonucunda (a,a,a) konumuna geldiniz, 
+  Eğer bütün oyuncular bulundukları yerden memnun iseler
+  Oyun burada bir dengeye gelmiş demektir.
+  one fcx with the ugly, will fcx with lots
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Strategies and Theories
 Game theory - stratejik etkileşmeleri matematikselleştirme...
 Opportunity Cost
 Trade Off
@@ -15,7 +28,7 @@ Risk Analysis
 Risk Management
 Correlated Actions
   the devil plays to win
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Framework
 
                                 |
@@ -35,10 +48,9 @@ Correlated Actions
 
 Cooperate, Rebel, Neutral
 oyun kuramı, her bir seçimin kar ve maliyetinin diğer oyuncuların kararına bağlı olduğu oyunlarda en doğru davranışın tercih edilmesi durumunu konu edinir. 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-
-
-# Deal 1: Prisoner's Dilemma (No Communication)
+# Deal 1: Prisoner's Dilemma (No Communication)    Merrill Flood, Melvin Dresher, Albert W. Tucker
                          Person A
                          -----------------------------------------
                          Betray                 Silence
@@ -46,29 +58,64 @@ oyun kuramı, her bir seçimin kar ve maliyetinin diğer oyuncuların kararına 
 Person B | Betray        each serves 2 years    A=free, B=3 years
          | Silence       A=3 years, B=free      Each serves 1 year
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
+                                /|\
+                               / |  \
+                             /   |    \
+                           /     |      \
+               cooperate /       |        \ cooperate
+                       /         |          \
+                     /           |            \
+                   /      +2     |    +2        \
+                 /               |                \
+               /|\               |                /|\
+             /  |  \             |              /  |  \ 
+           /    |    \           |            /    |    \ 
+         /      |      \         |          /      |      \ 
+cheat  /        |        \       |        /        |        \ cheat
+     /          |          \     |      /          |          \
+   /            |            \   |    /            |            \ 
+ /              |              \ |  /              |             \
+/      +3       |      -1       \|/        -1      |      -3      \ 
+ \              |               /|\                |              /
+   \            |             /  |  \              |            /
+     \          |           /    |    \            |          /
+       \        |         /      |      \          |        /
+         \      |       /        |        \        |      /
+           \    |     /          |          \      |    /
+             \  |   /            |            \    |  /
+               \| /              |              \ | /             
+                 \         0     |    0           /
+                   \             |              /
+                     \           |            /
+                       \         |          /
+                         \       |        /
+                           \     |      /
+                             \   |    /
+                               \ |  /
+         A Person <------       \|/        ------> B Person
+                                 
+
+
+            
+Person A
+Person B 
+
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Deal 2: Monty Hall Problem:
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Stone, Paper, Scissors
 
-# Nash Dengesi (Nash Equilibrium)
-  Sisteme göre var olan her oyun teorisinin bir eşitlik dengesi olan durum.
-  Uzun uğraşlar sonucunda (a,a,a) konumuna geldiniz, 
-  Eğer bütün oyuncular bulundukları yerden memnun iseler
-  Oyun burada bir dengeye gelmiş demektir.
-  one fcx with the ugly, will fcx with lots
 
-
-
-# Extras
-Assymetric = Disadvantageous
-Problem Solving: regulation # deregulation
-    Cobra Effect in India
-      money supply...
-
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 bir rakiple veya düşmanla karşılaşıldığında karar alma sürecini matematiksel bir süreçle değerlendiren yaklaşımdır. katılımcı sayısına ve ödülün/cezanın toplamına göre oyunlar sınıflandırılır.
 bu oyunları incelemek gerekirse;
 1) cebirsel toplam sıfır olan oyun
@@ -141,53 +188,11 @@ https://eksiseyler.com/hayatin-vazgecilmez-kurali-olan-oyun-teorisini-new-york-m
 
 payoff - odul, para, kazanilan herhangi bir sey.
 
-
-
-                                /|\
-                               / |  \
-                             /   |    \
-                           /     |      \
-               cooperate /       |        \ cooperate
-                       /         |          \
-                     /           |            \
-                   /      +2     |    +2        \
-                 /               |                \
-               /|\               |                /|\
-             /  |  \             |              /  |  \ 
-           /    |    \           |            /    |    \ 
-         /      |      \         |          /      |      \ 
-cheat  /        |        \       |        /        |        \ cheat
-     /          |          \     |      /          |          \
-   /            |            \   |    /            |            \ 
- /              |              \ |  /              |             \
-/      +3       |      -1       \|/        -1      |      -3      \ 
- \              |               /|\                |              /
-   \            |             /  |  \              |            /
-     \          |           /    |    \            |          /
-       \        |         /      |      \          |        /
-         \      |       /        |        \        |      /
-           \    |     /          |          \      |    /
-             \  |   /            |            \    |  /
-               \| /              |              \ | /             
-                 \         0     |    0           /
-                   \             |              /
-                     \           |            /
-                       \         |          /
-                         \       |        /
-                           \     |      /
-                             \   |    /
-                               \ |  /
-         A Person <------       \|/        ------> B Person
-                                 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 
 
-
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 usde faizin düşük olması lazım ki rent az olmalı..
 
 merkez bankasının amacı fiyat istikrarını sağlamak: düşük enflasyon kaygısı kastedilmektir.
@@ -197,7 +202,7 @@ amerika basılan parayı diğer ülkelere borç verirse ne olur?
 
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Photo Session
                       total  standard  family  triple  beds
 green nature resont    630    220       30      15      1419
@@ -208,4 +213,16 @@ green nature resont    630    220       30      15      1419
 müşterinin verebileceği rakam:  
 günde kaç çekim: en az 4 çekim
 cirodan prim: %6
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Extras
+Assymetric = Disadvantageous
+Problem Solving: regulation # deregulation
+    Cobra Effect in India
+      money supply...
+
+
 
