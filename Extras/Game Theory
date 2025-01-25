@@ -1,13 +1,16 @@
 https://ncase.me/trust/
 hayatın rasgeliliğine gölge düşüren teori
+bu stratejiler, emlak sektöründen zengin olmak için ideal
 
-Game theory
+
+Game theory - stratejik etkileşmeleri matematikselleştirme...
 Opportunity Cost
 Trade Off
 Futures
-Assymetric Information
-Adverse Selection
+    location, meadian house prices
 Competitive Advantage
+Assymetric Information      alıcı, satıcının karını ve maliyetini bilmiyor
+Adverse Selection           satıcı, alıcının satıcı maliyetini ve karını bilmediğini biliyor...
 Risk Analysis
 Risk Management
 Correlated Actions
@@ -63,17 +66,7 @@ Person B | Betray        each serves 2 years    A=free, B=3 years
 Assymetric = Disadvantageous
 Problem Solving: regulation # deregulation
     Cobra Effect in India
-
-
-usde faizin düşük olması lazım ki rent az olmalı..
-
-merkez bankasının amacı fiyat istikrarını sağlamak: düşük enflasyon kaygısı kastedilmektir.
-sen para basıyorsun hatta ondan fazla basıyorsun o da para basıyor haliyle senin paran düşecek
-
-
-
-
-
+      money supply...
 
 
 bir rakiple veya düşmanla karşılaşıldığında karar alma sürecini matematiksel bir süreçle değerlendiren yaklaşımdır. katılımcı sayısına ve ödülün/cezanın toplamına göre oyunlar sınıflandırılır.
@@ -150,6 +143,42 @@ payoff - odul, para, kazanilan herhangi bir sey.
 
 
 
+                                /|\
+                               / |  \
+                             /   |    \
+                           /     |      \
+               cooperate /       |        \ cooperate
+                       /         |          \
+                     /           |            \
+                   /      +2     |    +2        \
+                 /               |                \
+               /|\               |                /|\
+             /  |  \             |              /  |  \ 
+           /    |    \           |            /    |    \ 
+         /      |      \         |          /      |      \ 
+cheat  /        |        \       |        /        |        \ cheat
+     /          |          \     |      /          |          \
+   /            |            \   |    /            |            \ 
+ /              |              \ |  /              |             \
+/      +3       |      -1       \|/        -1      |      -3      \ 
+ \              |               /|\                |              /
+   \            |             /  |  \              |            /
+     \          |           /    |    \            |          /
+       \        |         /      |      \          |        /
+         \      |       /        |        \        |      /
+           \    |     /          |          \      |    /
+             \  |   /            |            \    |  /
+               \| /              |              \ | /             
+                 \         0     |    0           /
+                   \             |              /
+                     \           |            /
+                       \         |          /
+                         \       |        /
+                           \     |      /
+                             \   |    /
+                               \ |  /
+         A Person <------       \|/        ------> B Person
+                                 
 
 
 
@@ -158,7 +187,25 @@ payoff - odul, para, kazanilan herhangi bir sey.
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+usde faizin düşük olması lazım ki rent az olmalı..
+
+merkez bankasının amacı fiyat istikrarını sağlamak: düşük enflasyon kaygısı kastedilmektir.
+sen para basıyorsun hatta ondan fazla basıyorsun o da para basıyor haliyle senin paran düşecek
+
+amerika basılan parayı diğer ülkelere borç verirse ne olur?
 
 
 
+
+# Photo Session
+                      total  standard  family  triple  beds
+green nature resont    630    220       30      15      1419
+
+30000/d    700£/d      4ppl            1.8k/%6
+900000/m   21000/d     120ppl          50k/%6        
+
+müşterinin verebileceği rakam:  
+günde kaç çekim: en az 4 çekim
+cirodan prim: %6
 
