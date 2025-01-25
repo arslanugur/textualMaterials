@@ -1,0 +1,161 @@
+https://ncase.me/trust/
+hayatın rasgeliliğine gölge düşüren teori
+
+Game theory
+Opportunity Cost
+Trade Off
+Futures
+Assymetric Information
+Adverse Selection
+Competitive Advantage
+Risk Analysis
+Risk Management
+Correlated Actions
+  the devil plays to win
+
+# Framework
+
+                                |
+                                |
+                                |
+                                |
+                                |
+                                |
+            --------------------|--------------------
+                                |
+                                |
+                                |
+                                |
+                                |
+                                |
+
+
+Cooperate, Rebel, Neutral
+oyun kuramı, her bir seçimin kar ve maliyetinin diğer oyuncuların kararına bağlı olduğu oyunlarda en doğru davranışın tercih edilmesi durumunu konu edinir. 
+
+
+
+# Deal 1: Prisoner's Dilemma (No Communication)
+                         Person A
+                         -----------------------------------------
+                         Betray                 Silence
+                         -----------------------------------------
+Person B | Betray        each serves 2 years    A=free, B=3 years
+         | Silence       A=3 years, B=free      Each serves 1 year
+
+
+# Deal 2: Monty Hall Problem:
+
+
+
+# Stone, Paper, Scissors
+
+# Nash Dengesi (Nash Equilibrium)
+  Sisteme göre var olan her oyun teorisinin bir eşitlik dengesi olan durum.
+  Uzun uğraşlar sonucunda (a,a,a) konumuna geldiniz, 
+  Eğer bütün oyuncular bulundukları yerden memnun iseler
+  Oyun burada bir dengeye gelmiş demektir.
+  one fcx with the ugly, will fcx with lots
+
+
+
+# Extras
+Assymetric = Disadvantageous
+Problem Solving: regulation # deregulation
+    Cobra Effect in India
+
+
+usde faizin düşük olması lazım ki rent az olmalı..
+
+
+
+
+
+
+
+bir rakiple veya düşmanla karşılaşıldığında karar alma sürecini matematiksel bir süreçle değerlendiren yaklaşımdır. katılımcı sayısına ve ödülün/cezanın toplamına göre oyunlar sınıflandırılır.
+bu oyunları incelemek gerekirse;
+1) cebirsel toplam sıfır olan oyun
+iki kişilik oyunda kazanan kişi ödülü kaybedenden alıyorsa cebirsel toplam sıfırdır (bu önemli). iki tarafın da kar elde etmesi mümkünse bu oyun pozitif toplamlı oyundur.
+2) işbirlikçi oyun
+tarafların stratejilerini belirlemeden önce kendi aralarında müzakere etmesine izin verilen yaklaşımdır. bu oyunlarda ödül toplamı sıfıra eşit değildir.
+3) tutsağın ikilemi oyunu
+bu oyunda biri tarafın bir stratejisi, diğer tüm stratejilere göre daha ağır basar ve rekabetçi bir oyunun sonucudur. burada şu şekilde bir handikap vardır; şayet iki taraf da kendisinin en ağır basan stratejisi seçerse, diğer kombinasyonlardan elde edeceğinden daha az bir kar el ederler.
+4) doğaya karşı oyun
+bir tarafın bir strateji seçtiği problemlere yönelik formülasyonlardır. burada önemli olan nokta, sonuçlar e ödüllerin bu seçimden etkilenmemesidir.
+
+
+
+
+mütevazi megolaman arkadaşımınızın (bkz: #132653497) nolu entrisine katkı olmak adına oyunlarla ilgili bazı terim ve sınıflamaları vereyim.
+1) oyun sınıflandırmaları
+oyunun oynanma sayısına ve/veya tekrarına göre
+- statik oyunlar : iki veya daha çok tarafın aynı anda hamle yaptığı ve bir seferde oyunun bittiği durumlar. para eşleştirme oyunu gibi.
+- dinamik oyunlar : oyunun tek seferde oynanmadığı durumlar. bunlar da kendi arasında gruplanabilir örneğin
+a) tekrarlı oyunlar (bkz: repated games) : aynı statik oyunun, aynı oyuncular tarafından tekrar tekrar oynanması
+b) ardışık oyunlar (bkz: sequential game) : herkesin sıra ile hamle yaptığı ve bir önceki hamlenin sonucunu görebildiği (bkz: complete information) oyun. örneğin satranç
+c) çok perdeli oyunlar (multi stage game) : aslında tekrarlı oyunlar bu gruba girer. farklı olarak her perdede başka bir statik oyun oynayabilirsiniz. ilk el para eşleştirme, ikinci el geyik avı gibi.
+oyuncuların kazanç(payoff) durumlarına göre
+- sıfır toplamlı oyunlar : bir oyuncunun kazancının diğer oyuncunun kaybı gibi olduğu (örneğin a oyuncusu 1 puan, b oyuncusu -1 puan) ve total puanın 0 olduğu oyunlardır.
+- sabit toplamlı oyunlar: her bir kutudaki toplam kazancın eşit olduğu fakat farklı dağıtıldığı oyunlardır. örneğin x kutusunda kazanç (10,80), y kutusunda (20,70) gibi dağıtılmıştır ama ikisinde de total kazanç 90 birimdir
+- asimetrik toplamlı oyunlar : her bir oyuncunun kazanç veya kayıplarının birbirinden ayrıldığı oyunlardır. bir çok oyun bu kapsamdadır ve bir çok çözüm (eşitlikler ve dengeler, ceza stratejileri, geriye tümevarım gibi) bu oyunlar için geliştirilmiştir.
+2) çözümler, eşitlikler ve dengeler, stratejiler
+- minimaks ve maksimin : satırdaki maksimumu bulup en küçüğünü, sütündaki minimumu bulup en büyüğünü işaratleyip eğer noktası bulmak üzerine bir stratejidir.
+- dominant strategy equilibrium : her iki oyuncunun kazançlarını maksimumlarının birleştiği stratejik eşitilk
+- nash equlibrium : her oyuncunun bulundukları konumu değiştirmediği eşitlik.
+- mixed strategy : her oyuncunun kendi hamlelerini belli ihtimallerle oynaması
+- subgame perfect equilibrium: ardışık oyunlarda her bir alt oyunun denge noktası
+- backward induction : oyunun en son karar noktasındaki en iyi sonucu (best response) bularak geriye gide gide en ideal sonuca ulaşmaya çalışan alt oyun tekniği
+- cezalandırma stratejileri : rakibin işbirliğini bozması sonucu bir sonraki elde uygulanan stratejiler. en bilineni grim trigger ve tit-for-tat-
+3) oyun gösterimleri
+- statik oyunlar için matris gösterim
+- dinamik oyunlar için ise extensive-form game. bu bir çeşit karar ağacına benzer.
+not : litaratürde daha çok farklı gruplamalar, sınıflamalar, teknikler vesaire bulunur. hepsini buraya yazmadım (bayesyan gibi). umarım faydalı olmuştur.
+
+
+
+"oyunun kazananı, sondan bir önceki hatayı yapan olur. 
+sen bu rakipten istediklerini aldıysan şimdi iki kere düşüneceksin. 
+oyunu mu kaybetti, taş mı verdi?"
+
+oligopolistik bağımlılık
+uyumlu eylemler
+stratejik karşılaşmalar - oyuncuların getirilerinin birbirlerinin hareketlerinden karsilikli olarak etkilendigi cekisme ya da catismalar silsilesi.
+
+
+
+
+oyunlarda kazanç(payoff) temelde iki şekilde belirlenir
+- yapay oyunlarda (futbol, satranç, yazı tura ...) hem oyunun tamamı (galibiyete 3 puan) hem de alt oyunların her bir parçası için (fileyi geçen top bir gol) kural koyucu tarafından belirlenir. hatta bir takım düzenlemeler ile alt kazançların teşviki (ofsayt) veya yasaklanması (negatif teşvik) düzenlenebilir (bkz: mechanism design)
+- doğanın kendisinde yer alan (hayvanlar için avlanma), veya çok geniş bir alana yayılmış oyunlarda (iktisatta yatırım yapma, girişim kurma) önceden ödülü koyan olmadığı için tahmin yöntemlerine başvurulur. bu yüzden olasılık hesabının (özellikle bayesian yaklaşım) oyun teorisine temel oluşturmak için bilinmesi istenir.
+
+
+bu teoride information kavramı ile ilgili iki şey birbirine karıştırılır.
+- perfect/imperfect information
+- complete/incomplete information
+- perfect information oyunculardan her hangi birinin diğer oyuncunun hamlesini görebildiği ve kararını buna göre verdiği durumdur. sürekli oyunlar bu kavrama dayanır. eğer oyuncu karşı tarafın hamlesini göremiyor ise bu oyunu eş zamanlı (simultaneous) yapar.
+- complete information ise oyuncunun karşı tarafın olası hamleleri ile ilgili niyetleri hakkındaki bilgimiz veya tahminimiz anlamına gelir. örneğin buluştuğumuz hatun ile maç muhabbeti yapacağız. onun kesin olarak futboldan hoşlanmadığını biliyor isek bu bizim için complete information demektir. yok eğer örneğin %70 civarı seviyor diyorsak bu durumda incomplete information vardır ki bu da bizi bayesian games'e götürüyor. malum bayesçilik büyük ölçüde istatistiki olasılıktan beslenir.
+
+
+https://eksisozluk.com/bayes-oyunlari--1887657?nr=true&rf=bayes%20oyunlari
+https://eksisozluk.com/taklit-oyunu--2222123
+https://eksisozluk.com/newcomb-paradoksu--425966
+https://eksiseyler.com/hayatin-vazgecilmez-kurali-olan-oyun-teorisini-new-york-mafyasi-uzerinden-anlatan-harika-bir-yazi
+
+
+payoff - odul, para, kazanilan herhangi bir sey.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
