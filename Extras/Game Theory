@@ -5,6 +5,15 @@ sun tzu - savaş sanatı
 john von neumann
 john forbes nash
 
+Zero Sum game için iki tarafında karlı çıkacağı bir çözüm bulmak.
+Denge noktası susmaktır...
+
+Games:
+    Volunteer's Dilemma
+    Stig Hunt
+    Chicken Game
+    Free Rider Problem
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Nash Dengesi (Nash Equilibrium)
     pişmanlığın olmadığı stratejiler kümesi
@@ -14,6 +23,7 @@ john forbes nash
   Eğer bütün oyuncular bulundukları yerden memnun iseler
   Oyun burada bir dengeye gelmiş demektir.
   one fcx with the ugly, will fcx with lots
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Strategies and Theories
 Game theory - stratejik etkileşmeleri matematikselleştirme...
@@ -57,6 +67,8 @@ oyun kuramı, her bir seçimin kar ve maliyetinin diğer oyuncuların kararına 
                          -----------------------------------------
 Person B | Betray        each serves 2 years    A=free, B=3 years
          | Silence       A=3 years, B=free      Each serves 1 year
+
+Nash Equilibrium: Silence (Denge Noktası)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -103,9 +115,58 @@ Person A
 Person B 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Deal: Friendzone / Date
+                        Girl
+                        -----------------------------------------
+                        Date                 Friend
+                        -----------------------------------------
+Boy     | Date          (6,6)                (0,10) alıcı taraf sen oluyorsun.kıynetin düşer..
+        | Friend        (10,0)               (3,3) kayıp yok ama kazanç düşük
 
+Nash Equilibrium / Denge Noktası / Pişmanlık içermeyen durum: (friend,friend)
+Best situation: (date, date)
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Deal/Matrix: Ultimatom Oyunu (Adil pay)
+                        Person B
+                        -----------------------------------------
+                        Teklif Kabul        Teklif Ret
+                        -----------------------------------------
+Person A    | Offer     (3,1)                (4,0)                        kabule etmesi en iyi teklif...
 
+Nash Equilibrium / Denge Noktası / Pişmanlık içermeyen durum: (,)
+Best situation: (, )
+
+adil olmayan teklif..
+teklif yok, şantaj yok
+bu tarz bir durumda karşıdakinin devam etmesini istiyorsan
+    minimum %30-%40 teklif verilmeli ki karşıdaki kişi buna tamam desin..
+(3,1) = %25 teklife denk geliyor
+ama kazancı sen yaratıyorsan, işin başında sen varsan %50 olmaz...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Deal/Matrix: Beleşçi/free rider Problemi
+                        Diğer Haneler
+                        -----------------------------------------
+                        Yeterli bağış toplanır        Yeterli bağış toplanmaz
+                        -----------------------------------------
+Hane A  | Bağış yap     (-100,Fayda)                  (-100, 0) belki paranın üzerine yatacaklar..
+        | Bağış Yapma   (0,Fayda)                     (0,0)
+
+Hane, 100 lira bağışlamalı mı?
+En iyi strateji: bağış vermemek..
+free ride problemler: 
+    toplu taşıma araçlarına kaçak binmek
+    stadyumda ayağa kalktın - arkadaki de mecbur ayağa kalkar...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Deal: Chicken Game
+    Asi Gençlik Filmi
+    Cuba Rocket Crisis (1962)
+    Türkiyedeki dönel kavşaklardaki geçiş
+
+https://www.youtube.com/watch?v=ax28BuL2hgQ
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Deal 2: Monty Hall Problem:
