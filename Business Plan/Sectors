@@ -11,7 +11,9 @@ Crowd out
 
 # Sektörler
 İletişim Sektörü
-Banka Sektörü
+Finans Sektörü
+    Banka Sektörü
+    Aracı Kurumlar Sektörü
 Orman Kağıt Sektörü
 Mali Sektörü
 Elektrik Sektörü
@@ -35,7 +37,6 @@ Sınai Sektörü
 Bilişim Sektörü
 Menkul Kıymetler Sektörü
 Madencilik Sektörü
-Aracı Kurumlar Sektörü
 İmalat Sektörü
 Gıda İçecek Sektörü
 Sigorta Sektörü
