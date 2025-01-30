@@ -15,10 +15,104 @@ Craigslist - car
 
 	Aylık 100$	--> sigorta şirketleri sürrücü geçmişini göremediği için yüksekten prim ister.. daha düşük bulunabilir.. ama en düşük 100$...
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Rod Balans (Tekerlek Balansı)
+	Rod balans, araç tekerleklerinin dönüş sırasında dengeli olmasını sağlayan bir işlemdir. 
+	Tekerleklerdeki dengesizlikler, sürüş konforunu bozar ve araçta titreşimlere neden olur.
+	Bu işlem, jant ve lastiklerin belirli noktalarına balans ağırlıkları eklenerek yapılır.
 
-# Rod Balans
+# Rot Balans (Rot Ayarı): 
+	Direksiyon geometrisinin ayarlanması işlemidir. 
+	Rot ayarı, araç düz bir yolda giderken direksiyonun düz olmasını ve lastiklerin düzgün temas etmesini sağlar.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Buji değişimi
-# Akü bitişi
+	Bujiler, içten yanmalı motorlarda yakıtın ateşlenmesini sağlayan parçalardır. 
+	Motorun her silindirinde bulunan bujiler, yakıt-hava karışımını ateşleyerek motorun çalışmasını mümkün kılar. 
+	Zamanla bujiler aşınır ve verimli çalışmayı bırakır, bu da motorun güç kaybetmesine, yakıt tüketiminin artmasına veya zor çalışmasına neden olabilir.
+
+	Bu işlemi belirli aralıklarla yapmanız gerekebilir, genellikle aracın kullanım kılavuzunda önerilen bir değişim süresi veya kilometre aralığı bulunur. 
+	Bujiler değiştirilmeden uzun süre kullanılırsa, motorun verimli çalışması zorlaşabilir.
+
+	Bujilerin değiştirilme aralığı, aracın marka ve modeline, motor tipine ve kullanılan buji türüne bağlı olarak değişebilir.
+	Ancak genel bir kılavuz olarak şu aralıklar önerilebilir:
+		Klasik bujiler (Platin olmayan): Genellikle 15,000-30,000 km aralığında değiştirilmesi tavsiye edilir.
+		Platin veya iridyum bujiler: Bu tür bujiler daha dayanıklıdır ve genellikle 60,000-100,000 km aralığında değiştirilmesi yeterlidir. Bazı modern araçlarda bu bujiler 100,000 km'ye kadar dayanabiliyor.
+		Yüksek performans bujileri: Bu tür bujiler, performanslı araçlarda kullanılabilir ve bazen 100,000 km'den fazla dayanabilir.
+
+	Bujilerin erken değiştirilmesi gerekmedikçe tavsiye edilmez, çünkü düzgün çalıştıkları sürece değiştirilmesi gereksiz maliyet yaratabilir.
+	Ancak, eğer aracınızda motor performansı düşüşü, zor çalışma, tekleme gibi belirtiler varsa, bujileri kontrol ettirmeniz iyi bir fikir olabilir.
+
+	Toyota Prius
+		Toyota Prius için buji değişim aralıkları şu şekildedir:
+		İlk nesil (2001-2009):	Bujiler genellikle 100,000 km civarında değiştirilmelidir.
+		İkinci nesil (2010-2015):	Bujilerin 100,000 km veya biraz daha fazla dayanması beklenir.
+						Ancak bazı kullanıcılar, 120,000 km civarına kadar değiştirme gereksinimi hissetmeyebilir.
+		Üçüncü ve dördüncü nesil (2016 ve sonrası):
+						Toyota genellikle 100,000 km veya 120,000 km aralığında buji değişimini önerir.
+						Modern Prius'larda buji teknolojisi daha uzun ömürlü olduğu için bu aralık uzun tutulmuş.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Akü Kontrolü
+	Akü bitişi
+		Aracın Uzun Süre Çalıştırılmaması:
+			Araç uzun süre kullanılmadığında akü kendi kendine deşarj olabilir. Özellikle modern araçlarda, alarm, radyo hafızası gibi sistemler az da olsa aküden enerji çeker.
+		*Akünün Yaşlanması:
+			Akülerin belirli bir ömrü vardır (genellikle 3-5 yıl). Zamanla akünün şarj tutma kapasitesi azalır ve bitme süresi kısalır.
+		Marş Basma Sorunları:
+			Sık sık marş basmak veya marş süresinin uzun olması aküyü hızlıca tüketebilir.
+		Elektrik Tüketen Sistemlerin Açık Unutulması:
+			Far, iç aydınlatma, radyo gibi elektrikli cihazlar aracın motoru kapalıyken açık unutulursa aküyü hızla tüketir.
+		*Alternatör Arızası:
+			Alternatör, aküyü şarj eden parçadır. Alternatör arızalandığında akü şarj olmaz ve zamanla biter.
+		Aşırı Soğuk veya Sıcak Hava:
+			Aşırı soğuk hava akünün performansını düşürürken, sıcak hava akünün ömrünü kısaltabilir.
+		*Akü Bağlantılarının Gevşek veya Paslı Olması:
+			Akü kutup başları gevşek veya paslıysa akü düzgün şarj olmayabilir.
+		Araçta Fazla Elektrik Yükü:
+			Araçta orijinal olmayan yüksek güçlü cihazlar (ses sistemi, ekstra aydınlatma vb.) kullanılıyorsa akü daha hızlı tükenebilir.
+		Akünün Sülfatlanması:
+			Akü uzun süre şarjsız kalırsa veya düşük şarjda bırakılırsa sülfatlanma meydana gelir ve akü kapasitesi düşer.
+		Kısa Devre veya Kaçak Akım:
+			Araçta elektrik sisteminde kısa devre veya kaçak akım varsa akü sürekli boşalabilir.
+
+	Akü takviye kablosu
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Alternatör Kontrolü
+	Gösterge Paneli Uyarı Işığı: Araçlarda genellikle "akü" veya "şarj" uyarı ışığı yanar.
+	Alternatör, aracın elektrik sisteminin kalbidir. 
+
+	Alternatör, araçlarda aküyü şarj eden ve araç elektrik sistemine gerekli enerjiyi sağlayan bir parçadır. 
+	Motor çalıştığı sürece alternatör, mekanik enerjiyi elektrik enerjisine dönüştürerek aküyü şarj eder ve aracın elektrikli sistemlerini (far, klima, radyo, aydınlatma vb.) çalıştırır.
+
+	Doğru Akıma Çevirme:
+			Alternatörün ürettiği elektrik, alternatif akımdır (AC). 
+			Ancak araçlarda doğru akım (DC) kullanıldığı için alternatörde bulunan diyotlar AC'yi DC'ye çevirir.
+
+	Alternatör Bakımı:
+	Alternatör kayışının gerginliğini ve durumunu düzenli kontrol edin.
+	Elektrik bağlantılarının temiz ve sıkı olduğundan emin olun.
+	Akü ve alternatör performansını periyodik olarak test ettirin.
+
+	1. Akü Uyarı Işığı Yanar
+	2. Akü Sürekli Boşalır
+	3. Farların Zayıf Yanması veya Titremesi
+	4. Elektrikli Sistemlerin Çalışmaması
+	Voltmetre ile Ölçüm Yap: Akü voltajını motor çalışırken ölç. Voltaj düşükse alternatör arızalıdır.
+	Alternatörün sağlıklı çalışıp çalışmadığını anlamak için bir voltmetre ile akü voltajını ölçebilirsiniz:
+		Motor kapalıyken akü voltajı 12,4 - 12,7 V civarında olmalıdır.
+		Motor çalışırken voltaj 13,5 - 14,5 V arasında olmalıdır.
+			Eğer voltaj bu aralığın altındaysa, alternatör arızalı olabilir.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Araç Şarj Aleti: Mcdodo
+
+Inverter: enerji sektöründe dc akımı ac akıma çeviren sistem. DC to AC
+	Slimline Plus 1250
+konvertör: ac akımını dc akımına çeviren sistem. AC to DC
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 # Mil Hesabı
 
@@ -30,13 +124,9 @@ Craigslist - car
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Radyatör:
 
-Alternatör:
 
-Araç Şarj Aleti: Mcdodo
 
-Inverter: enerji sektöründe dc akımı ac akıma çeviren sistem. DC to AC
-	Slimline Plus 1250
-konvertör: ac akımını dc akımına çeviren sistem. AC to DC
+
 
 
 
