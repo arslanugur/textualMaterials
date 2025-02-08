@@ -3,28 +3,30 @@
 (P) Population, (U) University, (W) Workdays to afford Mortgage
 
 District of Columbia
-	Washington, DC - Tourism
+	Washington, DC - Tourism (678k)
 
-Low: 01<10			MidLow: 11<20			Average: 21<30				MidHigh: 31<40			High: 41<50
+Low: 01<10 (AL)			MidLow: 11<20 (OH)		Average: 21<30 (PA,NC,GA,MI)		MidHigh: 31<40 (TX,FL,IL)	High: 41<50 (CA,NY)
 ---------------			---------------			---------------				---------------			---------------
 01. MS Mississippi (3M,U8)	11. KS Kansas (3M,U6)		21. SC South Carolina (5M,U10)		31. VT Vermont (650K)		41. OR Oregon (4M,U8)
 	Jackson				Wichita				Charleston				Burlington			Portland
 02. AL Alabama (5M,11U,10W)	12. ND North Dakota (800K,U1)	22. ID Idaho (2M,U5)			32. AZ Arizona (7.5M, 1U)	42. CT Connecticut (3.6M, 3U)
 	Huntsville			Fargo									Phoenix
 03. AR Arkansas (3M,5U)		13. MO Missouri (6.2M,U10)	23. NC North Carolina (11M,U..) * *	33. TX Texas (31M,U...) * * *	43. CO Colorado (6M,9U,20W)
-	Little Rock			St. Louis			Charlotte				Houston - Tourism		Denver
-	Fayetteville - Students						Rayleigh				San Antonio
-														bankaların eyaleti
+	Little Rock			St. Louis			Charlotte (911k)			Houston - Tourism		Denver
+	Fayetteville - Students						Rayleigh (482k)				San Antonio
+									Wilmington (122k)			bankaların eyaleti
 														Dallas
 														Frisco - Universal
 														Austin
+														No Income Tax
 04. KY Kentucky (4.5M,U8,10W)	14. TN Tennessee (7.2M,U7)	24. MI Michigan (10M,U15)		34. NV Nevada (3M,U1)		44. MD Maryland (6.3M,U3)
 	Louisville			Memphis				Detroit					Las Vegas - Tourism		Baltimore
+					No Income Tax								No Income Tax
 05. WV West Virginia 		15. IN Indiana (6.9M,U6,10W)	25. GA Georgia (11M,U9)			35. IL Illinois (13M,U9) * * *	45. MA Massachusetts (7M,U2,19W)
 	(2M,U11,10W)			Indianapolis			Atlanta - Tourism			Chicago - Tourism		Boston - Tourism
 									Trade/Logistics/Storage
 									Low Employment
-06. IA Iowa (3M,3U)		16. OH Ohio (12M,U2..,10W)	26. ME Maine (1M,U2)			36. New Hampshire (1M,U1)	46. WA Washington (8M,U6,21W)
+06. IA Iowa (3M,3U)		16. OH Ohio (12M,U2..,10W)	26. ME Maine (1M,U2)			36. NH New Hampshire (1M,U1)	46. WA Washington (8M,U6,21W)
 					Columbus			Portland				Manchester			Seattle
 					Cleveland			
 07. OK Oklahama (4M,U13)	17. NE Nebraska (2M,U2)		27. PA Pennsylvania(13M,U..)		37. RI Rhode Island (1M)	47. NY "New York" (19M,U..)
@@ -32,17 +34,18 @@ Low: 01<10			MidLow: 11<20			Average: 21<30				MidHigh: 31<40			High: 41<50
 					Lincoln													Brooklyn
 08. SD South Dakota (1M,U6)	18. WY Wyoming (500K,U1)	28. UT Utah (3.5M,1U)			38. FL Florida (23M,U3) * * *	48. NJ New Jersey(9.5M,U11)
 	Sioux Falls							Salt Lake City				Jacksonville			Newark
-														Miami - Tourism 1 yaz kış	Camden
+	No Income Tax												Miami - Tourism 1 yaz kış	Camden
 														Orlando - Disney, Uni. ölü kış	Paterson - Türk
 														Tampa				Terkedilecek eyalet...
 														COLLEGE STATE
 														CONSULATE
+														No Income Tax
 09. LA Louisiana (4.5M,U3)	19. MT Montana (1M,U2)		29. MT Minnesota (5.7M,U2)		39. VA Virginia (9M,U16)	49. HI Hawaii (1M,33W)
 	New Orleans							Minneapolis				Virginia Beach (453k)
 														Williamsburg (16k)
 															ölü uber
 10. NM New Mexico (2M,U7)	20. WI Wisconsin (6M,U1)	30. DE Delaware (1M,2U)			40. AK Alaska (750K)		50. CA California (39M,U1,25W)* *
-									Wilmington								Los Angeles - Tourism
+																		Los Angeles - Tourism
 																		San Diego
 																		San Francisco - Tourism
 																		San Jose - Tourism
@@ -53,6 +56,9 @@ https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_educational
 https://en.wikipedia.org/wiki/List_of_largest_cities_of_U.S._states_and_territories_by_population
 https://en.wikipedia.org/wiki/List_of_state_and_territorial_universities_in_the_United_States
 https://www.visualcapitalist.com/mapped-days-of-work-to-afford-a-monthly-mortgage-by-state/
+https://www.census.gov/programs-surveys/popest.html
+https://www.census.gov/housing/hvs/data/rates.html
+https://www.investopedia.com/financial-edge/0210/7-states-with-no-income-tax.aspx
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Most Colleges in US
