@@ -59,39 +59,62 @@ Low: 01<10 (AL)			MidLow: 11<20 (OH)		Average: 21<30 (PA,NC,GA,MI)		MidHigh: 31<
 																			San Jose (1M)- Tourism
 																			San Francisco (800k)- Tourism
 
-Massachusetts	18	$28	$591,000	$3,957
-Rhode Island	16	$23	$437,000	$2,904
-Maryland	15	$23	$406,000	$2,705
-North Carolina	15	$18	$322,000	$2,167
-Maine	15	$21	$365,000	$2,443
-Georgia	15	$18	$319,000	$2,185
-Vermont	14	$23	$356,000	$2,427
-Tennessee	14	$18	$303,000	$2,045
-South Dakota	14	$18	$294,000	$1,998
-South Carolina	14	$18	$295,000	$1,994
-Connecticut	13	$23	$361,000	$2,459
-Wyoming	12	$22	$323,000	$2,174
-Minnesota	12	$23	$334,000	$2,244
-Alaska	12	$23	$328,000	$2,244
-Louisiana	11	$18	$215,000	$1,507
-Indiana	11	$18	$221,000	$1,546
-Wisconsin	11	$22	$265,000	$1,833
-Pennsylvania	11	$22	$266,000	$1,840
-Nebraska	11	$19	$240,000	$1,642
-Missouri	11	$18	$231,000	$1,611
-Ohio	10	$19	$212,000	$1,503
-North Dakota	10	$23	$277,000	$1,879
-Michigan	10	$22	$237,000	$1,651
-Kentucky	10	$18	$198,000	$1,411
-Kansas	10	$18	$207,000	$1,470
-Alabama	10	$18	$207,000	$1,431
-Oklahoma	9	$18	$182,000	$1,306
-Mississippi	9	$17	$166,000	$1,200
-Iowa	9	$19	$192,000	$1,372
-Arkansas	9	$18	$179,000	$1,295
-West Virginia	7	$18	$139,000	$1,028
-National Average	14	$22	$355,852	$2,431
 
+
+State			Workdays	Median Hourly Wage	Median Home Prices	Monthly Mortgage
+National Average	14		$22			$355,852		$2,431
+West Virginia		7		$18			$139,000		$1,028
+Arkansas		9		$18			$179,000		$1,295
+Iowa			9		$19			$192,000		$1,372
+Mississippi		9		$17			$166,000		$1,200
+Oklahoma		9		$18			$182,000		$1,306
+Alabama			10		$18			$207,000		$1,431
+Illinois		10		$22			$267,000		$1,846			* * *
+Kansas			10		$18			$207,000		$1,470
+Kentucky		10		$18			$198,000		$1,411			* * *
+Michigan		10		$22			$237,000		$1,651
+North Dakota		10		$23			$277,000		$1,879
+Ohio			10		$19			$212,000		$1,503
+Missouri		11		$18			$231,000		$1,611
+Nebraska		11		$19			$240,000		$1,642
+Pennsylvania		11		$22			$266,000		$1,840
+Wisconsin		11		$22			$265,000		$1,833
+Indiana			11		$18			$221,000		$1,546
+Louisiana		11		$18			$215,000		$1,507
+Alaska			12		$23			$328,000		$2,244
+Minnesota		12		$23			$334,000		$2,244
+Wyoming			12		$22			$323,000		$2,174
+Connecticut		13		$23			$361,000		$2,459
+Delaware		14		$22			$358,000		$2,440
+New Mexico		14		$18			$296,000		$2,035
+South Carolina		14		$18			$295,000		$1,994
+South Dakota		14		$18			$294,000		$1,998
+Tennessee		14		$18			$303,000		$2,045
+Texas			14		$19			$315,000		$2,122
+Vermont			14		$23			$356,000		$2,427
+Virginia		14		$23			$375,000		$2,551
+District of Columbia	15		$38			$707,000		$4,713
+Georgia			15		$18			$319,000		$2,185
+Maine			15		$21			$365,000		$2,443
+North Carolina		15		$18			$322,000		$2,167
+Maryland		15		$23			$406,000		$2,705
+New York		15		$23			$407,000		$2,711
+New Hampshire		16		$23			$436,000		$2,948
+Rhode Island		16		$23			$437,000		$2,904
+New Jersey		17		$23			$470,000		$3,170
+Massachusetts		18		$28			$591,000		$3,957
+Florida			19		$18			$402,000		$2,727
+Arizona			20		$19			$448,000		$3,027
+Oregon			20		$23			$524,000		$3,521
+Colorado		21		$23			$586,000		$3,925
+Montana			21		$18			$453,000		$3,006
+Idaho			22		$18			$472,000		$3,183
+Nevada			22		$18			$467,000		$3,150
+Washington		22		$24			$624,000		$4,172
+Utah			26		$19			$572,000		$3,834
+California		28		$23			$788,000		$5,241
+Hawaii			33		$23			$909,000		$6,030
+	
 
 
 
