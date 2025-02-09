@@ -1,0 +1,54 @@
+API, HTTP,REST,RESTful
+ASP.NET Core
+Logging
+Modeller ile çalışma
+Postman
+Entity Framework Core
+Yazılım Mimarisi (Software Architecture)
+NLog Uygulaması (NLog Implementation)
+Global Hata Yönetimi (Global Error Handling)
+AutoMapper
+İçerik Pazarlığı (Content Negotiation)
+Doğrulama (Validation)
+Asenkron Kod (Asynchronous Code)
+Eylem Filtreleri (Action Filters)
+Sayfalama (Pagination)
+Filtreleme  (Filtering)
+Arama    Searching
+Sıralama  Sorting
+Veri Şekillendirme Data Shaping
+HATEOAS
+HEAD ve OPTIONS
+Kök Belge (Root Document)
+Versiyonlama (Versioning)
+Önbelleğe Alma (Caching)
+Hız Sınırı ve Kısıtlama (Rate Limit and Throttling)
+JWT, Identity ve Refresh Token
+API Dokümantasyonu (API Documantation)
+
+Önbilgi
+Temel Algoritma Bilgisi                      Algoritma Programlama ve Veri Yapılarına Giriş
+C#                                           C#
+Temel veri yapıları ve Algoritma Bilgisi     Algoritma ve Veri Yapıları İleri Seviye
+Nesne Yönelimli Programlama Bilgisi          Virtual Campus on Youtube
+
+Yazılımlar
+Visual Studio 2022
+SQL Server Management Studio
+Postman       Test süreçleri otomatize edilişi
+Git Bash      Kaynak kodların yönetimi ve bölümler arasında geçiş yapabilme
+
+Versiyon Kontrol
+ASP.NET Core --version 6.0.402
+
+https://swagger.io/
+
+
+
+
+
+
+
+
+
+
