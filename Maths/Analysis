@@ -1,0 +1,299 @@
+Analiz
+-Reel Sayılar
+-Fonksiyonlar
+-Trigonometri
+
+-Limit
+-Türev
+-Türev Uygulamaları
+-İntegral
+-İntegral Uygulamaları
+-Transandant Fonksiyonlar
+-İntegral Alma Teknikleri
+
+İleri Analiz
+-Diferansiyel Denklemler
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Reel Sayı Sistemi ve Özellikleri
+Ondalık sayı olarak ifade edilebilen sayılar
+5=5,0
+1/4=0.25
+√2=1,41
+
+Özellikleri:
+1. Cebirsel Özellikler
+- dört işlem yapılabilir
+- birleşme özelliği (toplama,çarpma)
+- değişme özelliği (toplama, çarpma)
+- dağılma özelliği (çarpma, toplama üzerinde dağılabilir
+
+2. Sıralama Özellikleri
+- geçişme kuralı ≤
+2≤3 3≤4 ---> 2≤4
+- eşitsizliğin yönü aynı kalır
+a<b --> a+c < b+c
+               a-c < b-c
+- çarpılan sayı pozitif ise eşitsizlik yönü değişmez
+a<b ve c >0 --> a.c<b.c
+a<b ve c<0 --> a.c>b.c ---> eşitsizlik yön değiştirdi
+
+3. Tamlık Özellikleri
+sayı doğrusu üzerinde hiç boşluk olmadan reel sayıları işaretlersek reel sayı doğrusunun dolu olduğunu gösterir.
+bu özellik limit kavramı için gerekli
+RIRIN = Real > Irrational > Rational > Integer > Natural
+reel --> irrasyonel --> rasyonel --> tam --> doğal
+Irrational - iki tam sayının oranına eşit olmayan sayılar...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Eşitsizlikler rel sayı doğrusunda nasıl gösterilir..
+sonsuz aralıklar
+x>5,x<5 Açık Aralık (5,infinit), (-infinit,5)
+x≥5,x≤5 kapalı aralık [5,infinit) (-infinite,5]
+sonlu aralıklar
+2<x<7 açık aralık (2,7)
+2≤x≤7 kapalı aralık [2,7]
+2≤x<7 yarı açık aralık [2,7)
+2<x≤7 yarı açık aralık (2,7]
+
+mutlak değer - bir sayının reel sayı doğrusu üzerinde 0'a olan uzaklığını belirtir...
+|8| = 8  |-8| = 8 
+|-8| =! -|8|
+-|8| = -8
+mutlak değer özellikleri
+|x.y|=|x|.|y|
+|x/y|=|x|/|y|
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+New subject
+# Fonksiyonlar
+  Analizin temel kavramlarından biri
+
+func, gerçek dünyayı matematiksel terimler tanımlamamızı sağlar.
+girdi alıp çıktı üreten makine..
+
+ƒ = fonksiyon ismi (g,a gibi isimler de kullanılır..)
+ƒ(x)=x^2
+girdi      çıktı
+ƒ(x) ---> x^2
+x=2 ---> 4
+bazen fonksiyonun ismi olmaz..
+y=x^2 gibi bir ifade gözükür...
+bazen değişken isimleri de değişebilir
+g(t)=t^2 gibi...
+
+fonk kuralları
+- her girdi değeri için bir çıktı değeri vermeli
+ƒ(x) = y
+x'in ve y'nin alabileceği değerler kümesi olarak gösterebiliriz..
+eğer bu kümeler arası bağlantı kurarsak, buna x'ten y'ye bağıntı denir..
+x kümesinde her eleman y kümesindeki sadece bir elemanla bağlantılı olmalıdır ki bu bağıntı fonksiyon olarak kabul edilir..
+fonksiyonlarda bir girdi değeri iki farklı çıktı değeri veremez..
+ama x1 ve x2 y kümesinden sadece y1 ile bağlantılı olsaydı yine fonksiyon olurdu... çünkü farklı girdi değerleri aynı çıktı değerlerini verebilir.
+ƒ(x)=x^2
+ƒ:x-->y
+x kümesi (tanım): 2, 3, -3
+y kümesi (değer): 4, 9, 16, 25
+x=2 ---> y=4
+x=3 ---> y=9
+x=-3 --> y=9
+farklı girdi değerli aynı çıktıyı verebilir... ama tam tersi olmaz...
+y kümesindeki elemanlar x kümesiyle bağlantılıysa bu elemanlar --> görüntü kümesini oluşturur
+
+fonk bir doğal sayı alır bir doğal sayı verir.
+ƒ: N --> N
+fonk bir reel sayı alır bir reel sayı verir.
+ƒ: R --> R
+
+
+çizilen her eğri bir fonksiyon grafiği değildir..
+her bir dikey doğru eğriyi bir noktadan kesiyorsa bu fonksiyondur...
+çünkü coordinat sisteminin x ekseni --> tanım kümesidir... y ekseni değer kümesini temsil eder..
+her bir x eksenine y ekseninden bir değer karşı gelir...
+coordinate graph
+dikey doğru iki noktada keşisirse bu fonksiyon grafiği değildir..
+
+- - - - - - - - - - - - - - -
+Parçalı fonksiyon
+
+bazen bir fonksiyon tanım kümesinin alt aralıklarında farklı birer fonksiyon olarak tanımlanır..
+ƒ(x)= (a(x),x<a) (b(x),x≥a)
+
+x=a noktası, ƒ(x) fonksiyonun kritik noktaasıdır.
+
+Örnek:
+ƒ(x) = (x+4, x<-2) (x+1, -2≤x≤1) (x^2-1,x>1)
+ƒ(-5)+ƒ(0)+ƒ(4)= değeri..?
+
+ƒ(-5) nerde geçerli... ilk fonksiyonda
+ƒ(-5)=-1 --> x yerine -5 koyarsak -1 buluruz
+
+ƒ(0)= ikinci fonksiyonda geçerli
+x yerine 0 koyarsak
+ƒ(0)=1
+
+ƒ(4)= üçüncü fonksiyonda geçerli
+x yerine 4 koyarsak
+ƒ(4)=15
+
+ƒ(-5)+ƒ(0)+ƒ(4)= -1+1+15 = 15
+
+- - - - - - - - - - - - 
+Fonksiyon türleri
+  analizde karşımıza çıkan fonksiyon türleri
+-lineer fonksiyonlar
+-kuvvet fonksiyonları
+-polinomlar
+-üstel fonksiyonlar
+-logaritmik fonksiyonlar
+
+# lineer fonksiyonlar
+ƒ(x)= ax+b şeklinde tanımlanır..
+ƒ(x) = x+1
+ƒ(x) = 2x+3
+ƒ(x) = -x+2 gibi fonksiyonlar doğrusaldır. coordinate graph gösterilebilir..
+
+ƒ(x)=ax
+b = 0 olduğunda ax doğruları originden geçer...
+y=-x
+y=x
+y=3/2x
+bu doğrular originden geçer...
+
+ƒ(x)=b
+a = 0 ise doğrunun eğimi 0 olur
+y=1 örnek olarak gösterilebilir..
+
+# kuvvet fonksiyonları
+ƒ(x)=x^a şeklinde tanımlanır.
+y=x^2
+y=1/x
+y=x^3
+bunlar kuvvet fonksiyonları olarak coordinate graph üzerinde gösterilebilir..
+
+# Polinomlar
+ƒ(x)= a_0+a_1x+a_2x^2+....+a_nx^n şeklinde tanımlanır..
+y=x^2+2x+1
+y=x^3-3x^2+2x-4
+polinomdaki değerlerin dereceleri doğal sayılardır
+
+# Üstel fonksiyonlar
+ƒ(x)=a^x şeklinde tanımlanır
+y=2^x
+y=3^x
+y=2^-x
+üstel fonksiyon örnekleri
+
+
+# Logaritmik fonksiyonlar
+ƒ(x)=log_a x şeklinde tanımlanır
+üstel fonksiyonların tersi bir fonksiyondur..
+y=log_e x
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Artan fonksiyon
+bir fonksiyonun belirli bir aralıkta x değeri artarken y değeri de artıyorsa 
+x_1 < x_2 iken ƒ(x_1) < ƒ(x_2) ise fonksiyon artandır
+
+Azalan fonksiyon
+bir fonksiyonun belirli bir aralıkta x değeri artarken y değeri de azalıyorsa 
+x_1 < x_2 iken ƒ(x_1) > ƒ(x_2) ise fonksiyon azalandır
+
+m>0 ise ƒ(x)=mx+c artandır
+ƒ(x) = x-1
+ƒ(x) =2x-3
+ƒ(x) = 2x+2
+artan fonksiyonlara örnektir...
+
+m<0 ise ƒ(x)=mx+c azalandır
+ƒ(x) = -x+3
+ƒ(x) =-3x+1
+ƒ(x) =-2x+4
+azalan fonksiyonlara örnektir...
+
+# parabol
+ƒ(x)=x^2
+x^2 parabolünde x'in 0dan küçük olduğu aralıkta fonksiyon azalandır
+x'in 0dan büyük olduğu aralıkta fonksiyon artandır
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# tek ve çift fonksiyonlar
+ƒ(-x)=ƒ(x) ise ƒ çift fonksiyondur
+örnek:
+ƒ(x)=x^2----> ƒ(-1)= ƒ(1)
+bu yüzden x^2 çift fonsiyondur
+
+çift fonksiyonlar y eksenine göre simetriktir.. x^2 de y eksenine simetriktir..
+ve çift fonk
+
+
+
+ƒ(-x)=-ƒ(x) ise ƒ tek fonksiyondur
+ƒ(x)= x^3 
+ƒ(-1)=-ƒ(1)
+bu yüzden x^3 tek fonsiyondur
+tek fonksiyonlar origine göre simetriktir...
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# bileşke fonksiyon
+fonksiyonlardan yeni fonksiyonlar üretmek için fonksiyonları birleştirebiliriz...
+f ve g'nin bileşkesi: gof
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+https://www.btkakademi.gov.tr/portal/course/player/deliver/matematik-101-35126
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
