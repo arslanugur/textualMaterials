@@ -1,10 +1,14 @@
-satın alacaksan ilk önce emlakçı bulman lazım..
+satın alacaksan ilk önce emlakçı bulman lazım.. nasılsa satan komisyonu ödeyecek
 
 emlakçı - alıcaya, satıcı bulma işidir
 	ya da satıcıya alıcı bulma işi - listing agent
 
-seller realtor # buyer realtor
-%3-%5                    %3-%5
+		satan taraf    # alan taraf
+		listing agent  # buyers agent
+		seller realtor # buyer realtor
+Commission:	%3-%5                    %3-%5
+* satan taraf komisyonları öder
+
 
 constancy - emlakçıyla bağlılık sözleşmesi
   bana şu şartlarda bir ev bul../bana şu evi satın al...
