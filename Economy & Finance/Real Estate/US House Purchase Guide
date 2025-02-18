@@ -6,8 +6,8 @@ emlakçı - alıcaya, satıcı bulma işidir
 		satan taraf    # alan taraf
 		listing agent  # buyers agent
 		seller realtor # buyer realtor
-Commission:	%3-%5                    %3-%5
-* satan taraf komisyonları öder
+Commission:	%3-%5          /2        %3-%5
+* satan taraf komisyonu (%3-%5) öder
 
 
 constancy - emlakçıyla bağlılık sözleşmesi
