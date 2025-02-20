@@ -339,6 +339,27 @@ Radyan    : açı ölçü birimi, derece. analizde hesaplamaları kolaylaştırd
 
 
 
+                  /|
+                /  |
+c             /    |
+hipotenüs   /      |
+          /        |    b
+        /          |    karşı kenar
+      /            |
+    /              |
+  /                |
+/\α = alfa         |
+-------------------
+    komşu kenar
+    a
+
+
+sin α = b/c
+
+
+
+
+
 https://www.btkakademi.gov.tr/portal/course/player/deliver/matematik-101-35126
 2:30
 
