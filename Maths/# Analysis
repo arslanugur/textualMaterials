@@ -237,39 +237,110 @@ tek fonksiyonlar origine göre simetriktir...
 fonksiyonlardan yeni fonksiyonlar üretmek için fonksiyonları birleştirebiliriz...
 f ve g'nin bileşkesi: gof
 
+bileşke fonksiyon
+ƒ ve g nin bileşkesi: goƒ
+
+tanım.               değer
+x     -->   ƒ -->      y        --> g --> z
+x_1                     y_1
+x_2         y_2
+x_3           y_3
+
+y= ƒnin değer kümesi
+y= g'nin tanım kümesi
+z = g'nin değer kümesi
+
+ x = ƒnin tanım kümesi -->goƒ --> z = g'nin değer kümesi
+tek bir fonksiyona dönüştürür
+(goƒ)(x) = g(ƒ(x))
+
+ƒ(x)=x+2, g(x)= 3x-5 ise (gof)(x) kaçtır?
+
+(goƒ)(x) = g(ƒ(x))
+f(x) yerine x+2 yazılır..
+(gof)(x)=g(x+2)
+
+g(x) fonksiyonu = 3x-5
+(gof)(x)=3(x+2)-5
+g(x+2) = 3(x+2)-5
+(gof)(x) = 3x+1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+fonksiyonlarda kaydırma ve ölçeklendirme
+
+dikey kaydırma
+ƒ(x)'e a birimi eklersek --> ƒ(x)+a
+a birim yukarı kayar                f(x)e 1 eklendiğinde fonksiyon aynı x değerleri için 1 birim büyük y değerleri üretir
+ƒ(x)'e a birimi çıkarırsak --> ƒ(x)-a
+a birim aşağı kayar                 f(x)e 1 çıkarıldığında fonksiyon aynı x değerleri için 1 birim küçük y değerleri üretir
+
+
+yatay kaydırma
+ƒ(x) --> girdi x'e a birim eklersek --> ƒ(x+a)
+a birim sola kayar                  çünkü fonksiyon aynı y değerlerini 1 birim küçük x değerleriyle üretir
+ƒ(x) --> girdi x'e a birim çıkarırsak --> ƒ(x-a)
+a birim sağa kayar                  çünkü fonksiyon aynı y değerlerini 1 birim büyük x değerleriyle üretir
+
+örnek:
+ƒ(x) = (x-1)^2
+3birim sağa --> çıkarma işlemi --> (x-4)^2
+2birim aşağı ---> çıkarma işlemi --> (x-4)^2-2...... 
+kaydırırsak hangi fonksiyonu elde ederiz.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+dikey ölçekleme:
+dikey uzama:
+bir ƒ(x) fonksiyonu 1'den büyük bir sayıyla çarpılırsa grafik dikey olarak uzar..
+ƒ(x)--> a.ƒ(x) dikey olarak uzar..                çünkü aynı x değerleri için mutlak değerce daha büyük y değerleri üretir
+ƒ(x)--->1/a.ƒ(x)  grafik dikey olarak sıkışır      çünkü aynı x değerleri için mutlak değerce daha küçük y değerleri üretir
+
+yatay ölçekleme:
+ƒ(x)--> ƒ(a.x) grafik yatay olarak sıkışır    çünkü fonksiyon aynı y değerlerini daha küçük x değerleriyle üretir..
+ƒ(x)--> ƒ(1/a.x) grafik yatay olarak uzar    çünkü fonksiyon aynı y değerlerini daha büyük x değerleriyle üretir..
+
+
+örnek:
+ƒ(x) = -x^2+1
+2ƒ(x) ve 1/2ƒ(x) grafikleri?
+2ƒ(x) --> grafik dikey yönde uzar ve x eksenini aynı noktalarda keser
+1/2ƒ(x) --> grafik dikey yönde sıkışır ve x eksenini kestiği noktalar değişmez
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+grafikleri yansıtma:
+ƒ(x) --> -ƒ(x) dönüşümünde     grafik x eksenine göre simetrisi alınır.. yansır.. çünkü y değerleri -1 ile çarpılarak x ekseninin diğer tarafına geçer
+ƒ(x) --> ƒ(-x) dönüşümünde     grafik y eksenine göre simetrisi alınır.. yana yansır çünkü x değerleri -1 ile çarpılarak y ekseninin diğer tarafına geçer
+ƒ(x) --> -ƒ(-x) dönüşümünde    ƒ(x)in origine göre simetrisi alınır...çünkü hem x hem de y değerleri -1 ile çarpılarak x ve y eksenlerinin diğer tarafına geçer
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 
 
 
 
+# Trigonometrik Fonksiyonlar
+Radyan    : açı ölçü birimi, derece. analizde hesaplamaları kolaylaştırdığı için radyan da kullanılır
+            r çemberin yarı çapıyla kırmızı yay eşit uzunluk..
+            çember üzerinde bu yayı gören bir merkez açı çizilir..
+            bu açı 1 radyandır
+            yani bir merkez açının radyan cinsinden büyüklüğü yay uzunluğunun çemberin yarı çapına olan oranına eşittir
+            radyan = yay uzunluğu / yarıçap
+            2r uzunluğundaki yayı gören merkez açı 2 radyandır...
+            πr uzunluğundaki yayı gören merkez açı πradyandır yani 180 derece π radyana eşit
+            2πr uzunluğundaki yayı gören merkez açı 2πradyana yani 360 dereceye eşittir..
+
+            180° = πradyan
+            1rad = 180° / π
+            π/3rad = 180°/π * π/3 == 60°
+            45° rad ölçüsü = ?  ---> π/180 * 45  ---> π/4rad
+              
+# altı temel trigonometrik fonksiyon vardır..
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 
 https://www.btkakademi.gov.tr/portal/course/player/deliver/matematik-101-35126
-dakika 13...
-
-
+2:30
 
 
 
