@@ -1,0 +1,68 @@
+2 Story Apartment
+%7 Cap Rate
+Taxes: $3648
+Gross Income: $40000
+Vacancy: %10
+Management: $3264
+Repairs: $4896
+Premium: %25
+NOI: 40000-3648-3264-4896-4000
+28192-4000(vacancy)= 24192 (NOI)
+
+2 Story Apartment
+2 katlı bir apartman için verdiğin bilgileri ve %7 cap rate hedefini kullanarak, bu gayrimenkulü satın almak için ödemen gereken maksimum tutarı hesaplayalım.
+Ancak önce NOI hesaplamanı kontrol edeyim, çünkü bazı farklılıklar var gibi görünüyor.
+Doğru NOI’yi bulup ardından maksimum teklifini belirleyeceğim.
+
+Veriler:
+Gross Income (Brüt Gelir): $40,000
+Vacancy (Boşluk Oranı): %10
+Taxes (Vergiler): $3,648
+Management (Yönetim Giderleri): $3,264
+Repairs (Tamir Giderleri): $4,896
+Premium: %25 (Brüt gelirin %25’i olarak sigorta primi kabul ediyorum: $40,000 x 0.25 = $10,000)
+Hedef Cap Rate: %7
+
+Adım 1: NOI’yi Doğru Hesapla
+Senin NOI hesabın:
+$40,000 - $3,648 - $3,264 - $4,896 - $4,000 (vacancy) = $24,192
+Ancak burada "premium %25" ($10,000) giderini eklememişsin gibi görünüyor. 
+Ayrıca, vacancy’i (boşluk kaybını) ayrı bir şekilde $4,000 olarak düşmüşsün, ki bu doğru bir yaklaşım (%10 x $40,000 = $4,000). 
+
+Şimdi tüm giderleri doğru şekilde dahil ederek NOI’yi tekrar hesaplayalım:
+Etkin Brüt Gelir (Effective Gross Income - EGI):  
+Gross Income: $40,000  
+Vacancy Loss (%10): $40,000 x 0.10 = $4,000  
+EGI = $40,000 - $4,000 = $36,000
+Toplam İşletme Giderleri:  
+Taxes: $3,648  
+Management: $3,264  
+Repairs: $4,896  
+Premium (%25): $10,000  
+Toplam Gider = $3,648 + $3,264 + $4,896 + $10,000 = $21,808
+
+NOI:  
+NOI = EGI - Toplam Gider  
+NOI = $36,000 - $21,808 = $14,192
+
+Senin NOI hesabın ($24,192), premium giderini hariç tutarak yapılmış gibi duruyor. 
+Doğru NOI, tüm giderler dahil edildiğinde $14,192 oluyor. (Eğer premium’un başka bir anlamı varsa, lütfen düzeltmemi söyle!)
+
+Adım 2: Maksimum Satın Alma Fiyatını Hesapla
+Hedef cap rate %7 olduğuna göre, mülkün değerini şu formülle buluruz:
+Mülk Değeri = NOI / Cap Rate
+NOI = $14,192  
+Cap Rate = 0.07  
+Mülk Değeri = $14,192 / 0.07 = $202,742.86 (yaklaşık $202,743)
+
+Sonuç
+Bu gayrimenkulü %7 cap rate hedefiyle satın almak için en fazla $202,743 ödemelisin. 
+Bu tutar, yıllık $14,192 net işletme gelirini baz alarak hedeflediğin %7 getiriyi sağlayacak maksimum teklifin.
+
+Not
+Eğer NOI hesabında premium’u ($10,000) bilerek dışarıda bıraktıysan ve NOI’yi $24,192 olarak kabul etmek istiyorsan, o zaman:  
+$24,192 / 0.07 = $345,600 olur.
+Ama bence premium bir işletme gideri olarak dahil edilmeli, bu yüzden $202,743 daha doğru bir sonuç.
+
+
+
