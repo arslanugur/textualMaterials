@@ -13,7 +13,8 @@ Radyan    : açı ölçü birimi, derece. analizde hesaplamaları kolaylaştırd
             1rad = 180° / π
             π/3rad = 180°/π * π/3 == 60°
             45° rad ölçüsü = ?  ---> π/180 * 45  ---> π/4rad
-              
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Altı temel trigonometrik fonksiyon vardır..
 
 # Fundamental Trigonograph
@@ -42,23 +43,13 @@ a = sqrt(c*c-a*a)         b = sqrt(c*c-a*a)       c = sqrt(b*b+a*a)       α = a
 a = c * cos(α)            b = c * sin(α)          c = b / sin(α)          α = arccos(a/c)
 a = b / tan(α)            b = a * tan(α)          c = a / cos(α)          α = arccos(b/a)
 
-alfa açısının karşı kenar uzunluğunun hipotenüs uzunluğuna oranına o açının sinüs değeri denir
-sin α = b/c
 
-alfa açısının komşu kenar uzunluğunun hipotenüs uzunluğuna oranına o açının cosinüs değeri denir
-cos α = a/c
-
-sin ve cos fonksiyonlarının oranının hesaplanması
-tan α = b/a
-
-sinüsün çarpmaya göre tersi: cosecant
-csc α = c/b
-
-kosinüsün çarpmaya göre tersi: secant
-sec α = c/a
-
-tangant'ın çarpmaya göre tersi: cotangent
-cot α = a/b
+sin α = b/c            alfa açısının karşı kenar uzunluğunun hipotenüs uzunluğuna oranına, o açının sinüs değeri denir
+cos α = a/c            alfa açısının komşu kenar uzunluğunun hipotenüs uzunluğuna oranına, o açının cosinüs değeri denir
+tan α = b/a            sin ve cos fonksiyonlarının oranının hesaplanması
+csc α = c/b            sinüsün çarpmaya göre tersi: cosecant
+sec α = c/a            kosinüsün çarpmaya göre tersi: secant
+cot α = a/b            tangant'ın çarpmaya göre tersi: cotangent
 
 
 Örnek: dik üçgenin alfa açısı
@@ -119,7 +110,7 @@ bu denklem sin^2α'ya bölünürse:
     cos^2α + sin^2α / sin^2α = 1/sin^2α == 1+tan^2α = csc^2α bağıntısı bulunur
 
 
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Trigonometrik fonksiyonların grafikleri:
 
                 1 |
