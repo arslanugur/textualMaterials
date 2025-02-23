@@ -14,24 +14,33 @@ Radyan    : açı ölçü birimi, derece. analizde hesaplamaları kolaylaştırd
             π/3rad = 180°/π * π/3 == 60°
             45° rad ölçüsü = ?  ---> π/180 * 45  ---> π/4rad
               
-# altı temel trigonometrik fonksiyon vardır..
+# Altı temel trigonometrik fonksiyon vardır..
 
+# Fundamental Trigonograph
+  Triangle Dik Üçgen
 
+            |\            \
+            |ß \            \
+       excsc|    \            \                        # Trigonometry Ratios
+            |      \ cotangent  \                        sine       sin α = opposite side / hypotenuse            SOH
+            |        \            \                      cosine     cos α = adjacent side / hypotenuse            CAH
+         cvs| cosine   \            \  C                 tangent    tan α = opposite side / adjacent side         TOA
+            |____________\            \ hypotenuse       cosecant   csc α = hypotenuse / opposite side
+cosecant    |            /|\            \ hipotenüs      secant     sec α = hypotenuse / adjacent side
+            |          /  |  \            \              cotangent  cot α = adjacent side / opposite side
+b           |        /    |    \            \
+opposite    |    1 /      |      \ tangent    \
+karşı kenar |    /        |sine    \            \            Degress / Radians
+            |  /          |       ex \            \          R = D * (π/180)
+            |/cosine      |versin sec/α\                     D = R * (180/π)
+            O---------------------------                     π = 3.14159265359
+                        secant
+            ----------------------------------------
+                        a adjacent side, komşu kenar
 
-Dik üçgen
-                  /|
-                /  |
-c             /    |
-hipotenüs   /      |
-          /        |    b
-        /          |    karşı kenar
-      /            |
-    /              |
-  /                |
-/\ α = alfa        |
--------------------
-    komşu kenar
-    a
+a = sqrt(c*c-a*a)         b = sqrt(c*c-a*a)       c = sqrt(b*b+a*a)       α = arcsin(b/c)
+a = c * cos(α)            b = c * sin(α)          c = b / sin(α)          α = arccos(a/c)
+a = b / tan(α)            b = a * tan(α)          c = a / cos(α)          α = arccos(b/a)
 
 alfa açısının karşı kenar uzunluğunun hipotenüs uzunluğuna oranına o açının sinüs değeri denir
 sin α = b/c
