@@ -1,0 +1,49 @@
+Reel Sayı Sistemi ve Özellikleri
+Ondalık sayı olarak ifade edilebilen sayılar
+5=5,0
+1/4=0.25
+√2=1,41
+
+Özellikleri:
+1. Cebirsel Özellikler
+- dört işlem yapılabilir
+- birleşme özelliği (toplama,çarpma)
+- değişme özelliği (toplama, çarpma)
+- dağılma özelliği (çarpma, toplama üzerinde dağılabilir
+
+2. Sıralama Özellikleri
+- geçişme kuralı ≤
+2≤3 3≤4 ---> 2≤4
+- eşitsizliğin yönü aynı kalır
+a<b --> a+c < b+c
+               a-c < b-c
+- çarpılan sayı pozitif ise eşitsizlik yönü değişmez
+a<b ve c >0 --> a.c<b.c
+a<b ve c<0 --> a.c>b.c ---> eşitsizlik yön değiştirdi
+
+3. Tamlık Özellikleri
+sayı doğrusu üzerinde hiç boşluk olmadan reel sayıları işaretlersek reel sayı doğrusunun dolu olduğunu gösterir.
+bu özellik limit kavramı için gerekli
+RIRIN = Real > Irrational > Rational > Integer > Natural
+reel --> irrasyonel --> rasyonel --> tam --> doğal
+Irrational - iki tam sayının oranına eşit olmayan sayılar...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Eşitsizlikler rel sayı doğrusunda nasıl gösterilir..
+sonsuz aralıklar
+x>5,x<5 Açık Aralık (5,infinit), (-infinit,5)
+x≥5,x≤5 kapalı aralık [5,infinit) (-infinite,5]
+sonlu aralıklar
+2<x<7 açık aralık (2,7)
+2≤x≤7 kapalı aralık [2,7]
+2≤x<7 yarı açık aralık [2,7)
+2<x≤7 yarı açık aralık (2,7]
+
+mutlak değer - bir sayının reel sayı doğrusu üzerinde 0'a olan uzaklığını belirtir...
+|8| = 8  |-8| = 8 
+|-8| =! -|8|
+-|8| = -8
+mutlak değer özellikleri
+|x.y|=|x|.|y|
+|x/y|=|x|/|y|
+
