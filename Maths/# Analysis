@@ -240,17 +240,18 @@ f ve g'nin bileşkesi: gof
 bileşke fonksiyon
 ƒ ve g nin bileşkesi: goƒ
 
-tanım.               değer
-x     -->   ƒ -->      y        --> g --> z
-x_1                     y_1
-x_2         y_2
-x_3           y_3
+tanım.          değer
+x     --> ƒ --> y      --> g --> z
+x_1             y_1              z_1
+x_2             y_2              z_2
+x_3             y_3              z_3
 
-y= ƒnin değer kümesi
-y= g'nin tanım kümesi
+y = ƒ'nin değer kümesi
+y = g'nin tanım kümesi
 z = g'nin değer kümesi
 
- x = ƒnin tanım kümesi -->goƒ --> z = g'nin değer kümesi
+x = ƒ'nin tanım kümesi --> goƒ --> z = g'nin değer kümesi
+
 tek bir fonksiyona dönüştürür
 (goƒ)(x) = g(ƒ(x))
 
@@ -338,7 +339,7 @@ Radyan    : açı ölçü birimi, derece. analizde hesaplamaları kolaylaştırd
 
 
 
-
+Dik üçgen
                   /|
                 /  |
 c             /    |
@@ -348,13 +349,223 @@ hipotenüs   /      |
       /            |
     /              |
   /                |
-/\α = alfa         |
+/\ α = alfa        |
 -------------------
     komşu kenar
     a
 
-
+alfa açısının karşı kenar uzunluğunun hipotenüs uzunluğuna oranına o açının sinüs değeri denir
 sin α = b/c
+
+alfa açısının komşu kenar uzunluğunun hipotenüs uzunluğuna oranına o açının cosinüs değeri denir
+cos α = a/c
+
+sin ve cos fonksiyonlarının oranının hesaplanması
+tan α = b/a
+
+sinüsün çarpmaya göre tersi: cosecant
+csc α = c/b
+
+kosinüsün çarpmaya göre tersi: secant
+sec α = c/a
+
+tangant'ın çarpmaya göre tersi: cotangent
+cot α = a/b
+
+
+Örnek: dik üçgenin alfa açısı
+tan α = 3/2
+                  /|
+                /  |
+c             /    |
+hipotenüs   /      |
+          /        |    3
+        /          |    karşı kenar
+      /            |
+    /              |
+  /                |
+/\ α = alfa        |
+-------------------
+    komşu kenar
+    2
+
+c ise pisagor teoremi ile hesaplanır.
+dik kenarların karelerinin toplamının karekökü: hipotenüs
+c  = √3^2+2^2 = √13
+
+şimdi diğer fonksiyonları yani tüm trigonometrik değerler bulunur..
+sin α = 3/√13
+cos α = 2/√13
+sec α = √13/2
+csc α = √13/3
+cot α = 2/3
+
+
+# trigonometrik fonksiyonlardan elde edilen bağıntılar
+
+koordinat grafiği üzerine bir daire çizilir ve bir nokta belirlenir.
+P(x,y) 
+p noktasının koordinatlarının originden uzaklığı ve alfa açısı cinsinden ifade edilebilir..
+                  /|
+                /  |
+1             /    |
+hipotenüs   /      |
+          /        |    sin α = y
+        /          |    karşı kenar
+      /            |
+    /              |
+  /                |
+/\ α = alfa        |
+-------------------
+    komşu kenar
+    cos α = x
+
+alfa açısının kosinüsü x/1    yani x, cos α'ya eşit
+alfa açısının sinüsü          yani y, sin α'ya eşit
+
+bu dik üçgende pisagor teoremi uygulandığında:
+    cos^2α + sin^2α=1 özdeşliği elde edilir. bu denklem trigonometride en çok kullanılan özdeşlik
+bu denklem cos^2α'ya bölünürse:
+    cos^2α + sin^2α / cos^2α = 1/cos^2α == 1+tan^2α = sec^2α bağıntısı bulunur
+bu denklem sin^2α'ya bölünürse:
+    cos^2α + sin^2α / sin^2α = 1/sin^2α == 1+tan^2α = csc^2α bağıntısı bulunur
+
+
+
+# Trigonometrik fonksiyonların grafikleri:
+
+                1 |
+                  |
+--|---|---|---|---|---|---|---|---|
+ -4π -3π -2π  -π  |   π   2π  3π  4π
+                  |
+               -1 |
+
+sinüs fonksiyonu grafiği: her 2π radyanda bir kendini tekrarlar. o yüzden periyotu 2π radyan
+  sinüs fonksiyonun tanımsız olduğu bir x değeri yoktur. o yüzden tanım kümesi tüm Reel sayılar.
+  tanım kümesi: R
+  sinüs fonksiyonu görüntü kümesi aralığı: [-1,1] kapalı aralık
+  sinüs fonksiyonu 0 ile π arasında pozitif -yükselen dikey, π ve 2π arasında negatiftir - düşen dikey
+  sin(-x) = -sinx eşitliğini sağlar
+  sinüs tek fonksiyondur ve grafiği origine göre simetrik
+
+kosinüs fonksiyonu grafiği: her 2π radyanda bir kendini tekrarlar. o yüzden periyotu 2π radyan
+  kosinüs fonksiyonun tanımsız olduğu bir x değeri yoktur. o yüzden tanım kümesi tüm Reel sayılar.
+  tanım kümesi: R
+  kosinüs fonksiyonu görüntü kümesi aralığı: [-1,1] kapalı aralık
+  kosinüs fonksiyonu 0 ile π/2 arasında pozitif -düşen çizgi, 3π/2 ve 2π arasında pozitiftir - yükselen çizgi
+  π/2 ile 3/2π arasında negatiftir
+  cos(-x) = cosx eşitliğini sağlar
+  kosinüs çift fonksiyondur ve grafiği y eksenine göre simetrik
+
+sinüs ve koninüs grafikleri birlikte çizilir ve aralarındaki bağlantıya bakılırsa:
+  kosinüs grafiğini π/2 birim sağa kaydırırsak sinüs grafiğini elde ederiz
+  sinx = cos(x-π/2) 
+
+tanjant fonksiyonu grafiği: her π radyanda bir kendini tekrarlar. o yüzden periyotu π radyandır
+  π/2,3π/2 gibi değerlerde tanımsızdır. bu değerler hariç tüm reel sayılar tanım kümesidir.
+  tanım kümesi: R-{π/2+kπ,k€Z}
+  görüntü kümesi ise tüm reel sayılar: R
+  tanjant fonksiyonu: 0 ile π/2 ve π ile 3π/2 arasında pozitif
+                      π/2 ile π ve 3π/2 ile 2π arasında negatiftir
+  tan(-x)=-tanx eşitliğini sağlar
+  tanjant tek fonksiyondur ve grafiği orijine göre simetrik
+  
+kotanjant fonksiyonu: tanjantın çarpmaya göre tersi
+  her π radyanda bir kendini tekrarlar. o yüzden periyotu π radyandır
+  0,π,2π gibi değerlerde tanımsızdır. bu değerler hariç tüm reel sayılar tanım kümesidir.
+  tanım kümesi: R-{kπ,k€Z}
+  görüntü kümesi ise tüm reel sayılar: R
+  kotanjant fonksiyonu: 0 ile π/2 ve π ile 3π/2 arasında pozitif
+                        π/2 ile π ve 3π/2 ile 2π arasında negatiftir
+  cot(-x)=-cotx eşitliğini sağlar
+  kotanjant tek fonksiyondur ve grafiği orijine göre simetrik
+  
+trigonometrik fonksiyon grafiklerine de, kaydırma, uzatma, sıkıştırma kuralları uygulanabilir
+  y=sin(x)
+    örneğin sinx 1'den büyük bir sayıyla çarparsak grafik dikey yönde uzar --> y=2sin(x)
+    örneğin x'i 0 ile 1 arasında bir sayıyla çarparsak grafik yatay yönde uzar --> y=sin(1/2x)
+    örneğin x'i 1'den büyük bir sayıyla çarparsak grafik yatay yönde sıkışır --> y=sin(2x)
+    örneğin sinx'i 0 ile 1 arasında bir sayıyla çarparsak grafik dikey yönde sıkışır --> y=1/2sin(x)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
