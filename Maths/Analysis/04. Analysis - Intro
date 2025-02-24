@@ -1,3 +1,101 @@
 # Analizin temel problemi
     Hız ve alınan yol arasındaki ilişkidir.
 
+                                    Ölçü birimleri
+Hız göstergesi:   Hız            V  km/hr, m/second cinsinden ölçülür       bir zaman birimi var
+Kilometre Sayacı: Aldığı yol     S  km, m cinsinden ölçülür                 bir zaman birimi yok, bu yüzden alınan yol zamana bölünür
+formula: hız = alınan yol/zaman
+
+alınan yol biliniyorsa hızı nasıl bulunur?
+hızını biliyorsan alınan yol nasıl bulunur?
+
+Hareket eden bir arabanın ilk 5 saniyede aldığı yol
+
+zaman (t) --> t_0    t_1    t_2    t_3    t_4    t_5 saniyenin sonunda
+konum (s) --> 0      2      6      7      4      9m yer değiştirmiş olsun
+
+Zaman aralığını bir saniye aldığımız için arabanın her saniyedeki hızı konum farkına eşit olur
+                     1sec   2sec   3sec   4sec   5sec
+hız (v)   -->        (2-0)  (6-2)  (7-6)  (4-7)  (9-4)
+                     2m/s   4m/s   1m/s   -3m/s  5m/s
+Analizin arkasındaki fikir, bu farkların toplamından gelir...
+                     +2     +3      +1    +-3    +5 = 9
+Arabanın 5.saniyedeki konumu da 9 metreydi. Tesadüf mü? Evet
+Arabanın her saniye aldığı yolu 1 metre artırırsak...
+    artırdığımızda aralarındaki fark değişmeyeceği için hız değerleri de değişmez..
+konum (s) --> 1      3      7      8      5      10m yer değiştirmiş olsun
+ancak başlangıçtaki konumu 1 metre, hızların konumu 9 = 10-1'e eşit
+yani son konumu ile ilk konumu arasındaki farka eşit.. bu her zaman doğru!
+s'lerin farklarının toplamı= s_son - s_ilk
+hız (v)   -->        (3-1)  (7-3)  (8-7)  (5-8)  (10-5) = 10-1 = 9
+# bunu grafiğe dökersek
+hız zaman grafiği (v,t)            konum zaman grafiği (s,t)
+parçalı sabit grafik ortaya çıkar  parçalı doğrusal grafik ortaya çıkar
+iki grafik arasında eğimle bir bağlantı kurulabilir
+
+s-t grafiğinin eğimi oranı = konumdaki değişim / zamandaki değişim  == hız (v)
+    bu oran da hız'a eşittir
+    Grafiklerideki her aralıkta zamandaki değişim 1 saniyedir. bu yüzden konumdaki değişim hıza eşit olur...
+
+v-t grafiğinin altındaki alan = s_son - s_ilk
+    son konum ile ilk konum arasındaki farka eşit
+    bu alan 4 tane dikdörtgenden oluşur
+    her dikdörtgenin genişliği 1'dir
+    her dikdörtgenin yüksekliği onun hız değerleridir. bu yüzden toplam alan,hız değerlerinin toplamıdır.
+    hız değerlerinin toplamı ise arabanın son konumu ile ilk konumu arasındaki farka eşittir
+
+Bu örnekte,
+    hız, parçalı sabitken aracın aldığı yolu hesapladık.
+    konum, parçalı doğrusalken eğiminden aracın hızını hesapladık.
+
+Eğer aracın hızı sabit değilse, aldığı yol nasıl hesaplanır...                s=?        v,t grafiği
+            konum zaman grafiği doğrusal değilse hızı nasıl hesaplanır...     v=?        s,t grafiği
+
+bu iki soru analizin çözmek için çıktığı problemlerdir...
+Aracın aldığı yol, v-t grafiğinin altında kalan alana eşit    alan = s
+    burdaki alan, geometrik formülle hesaplanamaz çünkü düzgün bir geometrik şekil değil....
+    bu yüzden grafiğin altında kalan alanı hesaplanması için integral(∫-∮) kullanılır    s = ∫v dt
+
+konum-zaman grafiğini eğimi hızı verir.
+    aracın ilk 3 saniyede aldığı toplam yolu 3e bölersen ortalama hızı bulursun
+    v_ortalama = 9/3 = 3
+    ama 3.saniyedeki anlık hızını bu şekilde hesaplayamazsın
+    bu yüzden anlık hızı bulmak için türev(∂) kullanılır        v = ∂s/∂t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
