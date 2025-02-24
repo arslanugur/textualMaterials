@@ -60,7 +60,7 @@ konum-zaman grafiğini eğimi hızı verir.
     aracın ilk 3 saniyede aldığı toplam yolu 3e bölersen ortalama hızı bulursun
     v_ortalama = 9/3 = 3
     ama 3.saniyedeki anlık hızını bu şekilde hesaplayamazsın
-    bu yüzden anlık hızı bulmak için türev(∂) kullanılır        v = ∂s/∂t
+    bu yüzden anlık hızı bulmak için türev(∂) kullanılır        v = ds/dt
 
 
 
