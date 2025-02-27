@@ -44,9 +44,9 @@ Cambodia
 Vietnam                  $137-196      Close to China
 
 # Oceania
-Australia      G20
+Australia       G20
 New Zealand
-Indonesia      G20      $128-318
+Indonesia       G20      $128-318
 Taiwan
 Malaysia
 Philippines              $121-217
@@ -60,10 +60,10 @@ North Korea                            Close to China
 
 
 # Latin America
-Argentina      G20
-Brazil         G20
-Mexico         G20
-Haiti          LDC                                               3rd World
+Argentina       G20
+Brazil          G20
+Mexico          G20
+Haiti           LDC                                               3rd World
 Honduras                                                         3rd World
 Guatemala                                                        3rd World
 Chile            Copper
@@ -111,7 +111,7 @@ Ethiopia        LDC      $50-70
 Somalia         LDC                                              3rd World
 South Sudan     LDC
 Uganda
-Madagasgar
+Madagaskar      LDC
 Tanzania
 Mozambique      LDC
 Kenya                                                            3rd World
@@ -132,8 +132,7 @@ Cambotia        LDC
 Kiribati        LDC
 Komorlar        LDC
 Lesotho         LDC
-Liberya         LDC
-Madagaskar      LDC
+Liberia         LDC
 Malavi          LDC
 Mali            LDC
 Moritania       LDC
