@@ -69,14 +69,16 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Fonksiyon türleri
-  Analiz'de karşımıza çıkan fonksiyon türleri
-  - Linear Function (Lineer fonksiyonlar)
-  - Kuvvet fonksiyonları
-  - Polinomlar
-  - Exponential Function (Üstel fonksiyonlar)
-  - Logarithmic Function (Logaritmik fonksiyonlar)
-  ? Quadratics functions
+  Analiz'de karşımıza çıkan fonksiyon türleri            Elemantary Functions
+  - Linear Function (Lineer fonksiyonlar)                ƒ(x)=mx + c
+  - Power Function (Kuvvet fonksiyonları)                ƒ(x)=ax^n, n€R                
+  - Polynomial (Polinomlar)                              ƒ(x)= n∑r=0 a_rx^r
+  - Exponential Function (Üstel fonksiyonlar)            ƒ(x)=ab^x
+  - Logarithmic Function (Logaritmik fonksiyonlar)       ƒ(x)=A log_b x
 
+  - Quadratic Function                                   ƒ(x)=ax^2 + bx + c
+  - Rational Function                                    ƒ(x)= P(x) / Q(x)
+                                                               Polynomial ƒ(x)
 # Linear Functions
   ƒ(x)= ax+b şeklinde tanımlanır..
   ƒ(x) = x+1
