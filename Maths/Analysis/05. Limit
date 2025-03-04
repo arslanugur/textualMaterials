@@ -1,4 +1,4 @@
-# Limit
+# Limit (Yaklaşım Teorisi)
 
       
    25 |
@@ -6,14 +6,249 @@
    20 |
       |
    15 |
-      |
-   10 |
-      |
-    5 |
-      |
+      |                        .....
+   10 |                 .....
+      |            ....
+    5 |        ... 
+      |    ..
       |_______________________________________
            1     2     3     4     5
-ƒ(x)=                              25    
+ƒ(x)=      1     4     9     16    25    
+
+
+bir f(x) fonksiyonunda xin değerini değiştirdiğimiz zaman f(x)'in değeri de değişir.
+bazı fonksiyonların değerleri kesikli ya da çok hızlı değişiyor olabilir
+fonksiyonların nasıl değiştiğini ayırt etmek için limit kullanılır
+limit analizi cebirden ve trigonometriden ayıran temel fikirdir.
+
+Örnek:
+A noktasından başlayıp hızlanarak hareket eden bir araba düşünürsek
+
+      aracın ilk beş saiyedeki konum-zaman grafiği çizilir
+
+      konum (s) - (metre)
+   25 |
+      |
+   20 |
+      |
+   15 |
+      |                        .....
+   10 |                 .....
+      |            ....
+    5 |        ... 
+      |    ..
+      |_______________________________________ zaman (t) - (saniye)
+           1     2     3     4     5
+ƒ(x)=      1     4     9     16    25    
+
+aracın konum fonksiyonu t^2 olsun: s(t)=t^2
+yani aracın aldığı yol zamanın karesiyle doğru orantılı
+                                    s(5)=25metre yol alır 5.saniyenin sonunda... konum değişikliği
+
+aracının ilk beş saniyedeki ortalama hızını bulursak:
+      ortalama hız= konum değişikliği / zaman aralığı
+                    25m                  5s            = 5m/s
+
+şimdi ise aracın 1inci ve 2inci saniye arasındaki hareketinin ortalama hızını bulursak:
+      bu iki saniye arasındaki 1 saniyelik zaman aralığına h dersek
+      birinci saniyeye de t dersek      o zaman aracın t saniyede aldığı yol t^2 olur
+      ikinci saniyede t+h olur
+      aracın t+h saniyede aldığı yola (t+h)^2 olur
+      h zaman aralığındaki ortalama hızı: (t+h)^2 - t^2 / h
+                                           konum değişikliği / zaman aralığı
+                                          önde h:1s, t yerine de 1 yazılır       (1+1)^2-1^2 /1 = 3m/s
+         (t+h)^2                              h      ortalama hız
+       ...........                            1      3m/s
+      |           .
+      | t^2       .
+      |. . .      .
+      0-----1-----2-----3-----4-----5
+            t      t+h
+             <. . .>
+                h
+      şimdi 1 saniyelik zaman aralıklarını küçülterek ortalama hızı hesaplarsak
+      h küçüldükçe ortalama hız değişir.. bunu yapmak bizi limit fikrine götürür..
+      h: zaman aralığı     ortalama hız
+      0.1                  2.1m/s      daraltılır/kısaltılır
+      0.01                 2.01m/s     daha da daraltılır
+      0.001                2.001 olur  zaman aralığı değiştikçe ortalama hız da değişir
+
+      h, 0'a yaklaşırken, ortalama hız da 2ye yaklaşır 
+      2, ortalama hızın.. h, 0'a yaklaşırken limitidir.
+      yani h, 0'a yaklaşırken ortalama hız fonksiyonun limiti, onun yaklaştığı değerdir.
+
+      lim(1+h)^2 - 1^2 / h = 2
+      h->0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Fonksiyonların Limitleri
+Fonksiyon örneği 1:
+  limƒ(x)=5
+  x->0^+      yani x, 0'a sağdan yaklaşırken ƒ(x) 5'e yaklaşır. yani ƒ(x)'in limiti:5
+
+  limƒ(x)=5
+  x->0^-      yani x, 0'a soldan yaklaşırken ƒ(x) 5'e yaklaşır. yani ƒ(x)'in limiti:5
+
+Özetle:
+  limƒ(x)=5
+  x->0
+
+ƒ(x), sağdan ve soldan sıfıra yaklaşımları birbirine eşitse bu limittir.
+
+Parçalı Fonksiyon örneği 2:
+      kritik noktası: 0
+      sıfırdan büyük/küçük olduğu anda farklı bir fonksiyonla tanımlılar
+      bu fonksiyonun x, sıfıra yaklaşırken limiti var mı?
+
+sağdan yaklaşım      soldan yaklaşım
+  limƒ(x)=6            limƒ(x)=3
+  x->0^+               x->0^-
+ƒ(x), sağdan ve soldan sıfıra yaklaşımları birbirine eşit değil, bu yüzden x, sıfıra yaklaşırken limit yok.
+
+Örnek yaklaşım:
+             y    /           fonksiyon x=1de tanımsız (Ø) ama bu limiti etkilemez 
+             2   Ø            limƒ(x)=2
+             |/  .            x->1
+            /1   .             
+          /  |   .
+     |---|---+---|---|x
+    -2 /-1   |   1   2
+     /      -1 
+
+
+             y    /          fonksiyon x=1de tanımlı (O) ve x1'e yaklaşırken sağdan ve soldan limitleri 2        
+             2   O            limg(x)=2
+             |/  .            x->1
+            /1   .
+          /  |   .
+     |---|---+---|---|x
+    -2 /-1   |   1   2
+     /      -1 
+
+
+             y    /          h(x) fonksiyonu x=1'e yaklaşırken limiti var mı?        
+             2   Ø           h(x)'in x=1deki değeri 1 ve x, 1'e yaklaşırken sağdan ve soldan limitleri 2
+             |/  .                                    bu yüzden limh(x)=2
+            /1   O                                               x->1
+          /  |   .            fonksiyonun x=1 noktasındaki değerinin limit değerinden farklı olması limiti etkilemez
+     |---|---+---|---|x
+    -2 /-1   |   1   2
+     /      -1 
+
+
+
+örnek yaklaşım: 1/x grafiği
+      x, sıfıra yaklaşırken limiti var mı?
+      x,sıfıra sağdan yaklaşırken fonksiyonun aldığı değerler çok büyür, her pozitif sayıya ulaşıp aşacak şekilde sınırsız artar..
+            bu yüzden f(x) sonsuza yaklaşır diyerek tanımlanır
+      x,sıfıra sağdan yaklaşırken fonksiyonun aldığı değerler çok küçülür, her negatif sayıya ulaşıp aşacak şekilde sınırsız artar..
+            bu yüzden f(x) eksi sonsuza yaklaşır diyerek tanımlanır
+      sağ ve soldan limitleri farklı olduğu için ƒ(x) limiti yok
+
+      peki x sonsuza giderken bir limiti var mı?
+      lim1/x
+      x->∞
+      sonsuzluk bir reel sayıyı ifade etmez.. x'in sonsuza yaklaşması x'in durmadan büyüdüğünü ifade eder.
+      sonsuzluk bir fonksiyonun tanım kümesindeki ya da değer kümesindeki değerlerin her sonlu sınırı aştığı zaman nasıl davrandığını tanımlamak için kullanılır
+      x'in sonsuza yaklaşması x'in durmadan büyüdüğünü ifade eder
+      x pozitif olrak giderek büyürken, 1/x giderek küçülür ve sıfıra yaklaşır
+      x negatif iken büyüklüğü giderek artarken, 1/x yine giderek küçülür ve sıfıra yaklaşır
+      1/x sonsuzda ve negatif sonsuzda limiti sıfır
+      lim1/x=0
+      x->∞
+
+# Limit'in Epsilon(ε) ve Delta(∂) tanımı
+      L = hedef değer
+      bu tanım bir fonksiyonun limitini hesaplarken tam bir cebirsel ifade oluşturabilmesi için yapılır
+      her ε>0 sayısına karşılık, 
+            0<|x-x_0|<∂ eşitsizliğini sağlayan
+                  bütün x'ler için |ƒ(x)-L|<ε olacak şekilde bir ∂>0 sayısı bulunabilirse, 
+                        x x_0'a yaklaşırken ƒ(x) L limitine yaklaşır
+
+
+
+
+limitin olduğu noktadan epsilon uzaklıkta bir aralık seçilir
+bu epsilon aralığına x ekseninde karşılık gelen aralığa delta denir
+epsilon aralıklarını küçültüp limite yaklaştırdıkça delta da küçülerek x_0'a yaklaşır
+yani bu tanım x x_0a yaklaşırken ƒ(x)'in limite yaklaştığını anlatır
+aslında bu tanım limitin nasıl bulunacağını anlatmaz, düşünülen bir limitin doğru olup olmadığını anlamamızı sağlar
+
+x, 1e giderken 5x-3in limiti 2 olduğunu epsilon delta tanımını kullanarak gösteririz
+      lim5x-3=2
+      x->1
+
+limitin tanımına göre verilen bir eps için xin 1e uzaklığı deltadan küçükse f(x)'in limite uzaklığı eps'dan küçüktür
+      0<|x-1|<∂ ise |ƒ(x)-L|<ε
+      bu şekilde yazarız, burda f(x) yerine 5x-3, L yerine 2 koyarak deltayı eps cinsinden bulucağız
+      |(5x-3)-2|<ε
+            |5x-5|<ε      işlem1
+                  5|x-1|<ε      işlem2
+                        |x-1|<ε/5 bulunur..
+      
+      0<|x-1|<∂ olduğuna göre... ∂=ε/5 olarak alabiliriz
+      ve bu x, 1e giderken 5x-3 limitinin 2 olduğunu ispatlar..
+      yani x'in 1e uzaklığının eps/5den küçük olması f(x)'in limite olan uzaklığının epsdan küçük olduğunu garantiler
+      ama deltanın alabileceği tek değer eps/5 değildir, daha küçük bir değer de alabilir.
+      limitin tanımına göre bulunan delta değeri en iyi delta olmayabilir ama işe yarar bir değerdir
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+öncesinde, Limit bulmak için fonksiyon grafikleri kullanıldı...
+Limit kuralları ile limiti hesaplama
+
+# Limitin Kuralları
+limx=?                                                ---> 3
+x->3
+      ilk olarak y=x grafiği çizilir
+          3|    o       sağ ve sol yaklaşım eşit. x'in limiti 3    
+           |   .      
+           | .       
+        ---+----- x       
+          .|    3     
+         . |          
+        .  |      
+
+      aynı zamanda fonksiyonun x=3deki değeri de 3dür
+      yani birim fonksiyon x'in her noktadaki limiti o noktadaki değerine eşit
+      bu sayede grafik çizilmeden limit değerlerini bulabiliriz
+      limx=2      limx=5
+      x->2        x->5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+integral - alan bulmak
+      sonsuz küçük yöntemi: dairenin alanı bulmak için üçgünler kullanmak
+      yükseklik ve taban uzunluğu değişmez.
+türev - integralin tersi
+
+
+
+
+     .   .
+   .       .
+ .           . 
+.             .
+.             .
+ .           . 
+   .       .
+     .   .
+
+
+kalkış kümesi
+varış kümesi
 
 
 
