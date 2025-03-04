@@ -35,3 +35,85 @@
     beklenen değer ile gerçekleşen değer arasındaki farkın beklenen değeri.
 
     varyansın kareköküdür. varyans; her bir olası sonucun, tüm sonuçların aritmetik ortalamasına uzaklığının karesi ve sözkonusu sonucun oluşma ihtimaliyle çarpımının, toplamıdır. örneğin olaylar kümesinde 3 ihtimal var diyelim. 1. olayın sonucu 4 olsun, 2. olayın sonucu 1 olsun, 3. olayın sonucu da 7 olsun. bunların sıra ile gerçekleşme olasılıkları da 0.2, 0.3, 0.5 olsun. şimdi tüm sonuçların aritmetik ortalaması ((4+1+7)/3) den 4 olur. şimdi olası sonuçların bu aritmetik ortalamaya uzaklıklarının karesini alıp oluşma ihtimalleriyle çarpacağız: ((4-4)^2)*0.2+((1-4)^2)*0.3+((7-4)^2)*0.5=7.2 bu sunuç varyansa eşittir. standart sapma = (7.2)^(0.5) =2.683.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Temel İstatistik
+- Temel İstatistik Kavramları
+- Betimsel Analiz Yöntemleri
+- Olasılık
+- Dağılımlar
+- Hipotez Testleri, P Value, Parametrik ve Nonparametrik Testler
+- İlişki Analizi Yöntemi
+- Tahmin Yöntemleri
+- Çok Değişkenli Sonuç Çıkarımı
+- Sınıflama Yöntemleri
+
+İleri İstatistik
+- İleri Olasılık Anlatımları
+- Yöneylem araştırmaları
+- Matematiksel İstatistik
+- Örnekleme teknikleri
+- Optimizasyon teknikleri
+- Simülasyon teknikleri
+- İstatistiksel deney tasarımı
+- Stokastik süreçler
+- Parametre dışı istatistik
+- Zaman serileri analizi
+
+
+- Temel İstatistik Kavramları
+Populasyon
+  Evren,Yığın,Ana Kütle
+  Aynı ya ortak özelliğe sahip birimlerin oluşturduğu topluluk
+  Population youtu 'N' ile gösterilir
+    Sonlu Population       ulaşılabilir
+    Sonsuz Population      ulaşılamaz, ulaşılsaydı zaten istatistiğe gerek olmaz
+
+Örneklem (Alt Pop)
+  Populationdan seçilen ve populationu en iyi temsil ettiği varsayılan az sayıda birimi içeren topluluğa denir
+  Örnekleme Yöntemleri: (İleri İstatistik Konusu)
+    - Basit Tesadüfi Örnekleme
+    - Tabakalı Örnekleme
+    - Kademeli Örnekleme
+    - Sistematik Örnekleme
+
+Gözlem Birimi
+  örneklem çerçevesinde listelenen ve örnekleme seçilen her bir birime gözlem-örneklem birimi denir
+
+Parametre
+  Population'dan hesaplanmış tüm değerlere denir
+  Örneklemeden hesaplanan herhangi bir değer ise istatistik denir
+
+Değişken ve Türleri
+Ölçek ve Türleri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
