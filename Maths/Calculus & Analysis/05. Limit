@@ -246,9 +246,107 @@ Kural 3:
       3ün limiti her zaman 3 çünkü sabit fonksiyonlu olduğu için      3
                                                                       1-2-3= -4 buluruz yine
 
-Kural 4:
+Kural 4: polinom
       limx^3+4x^2-3=?
       x->0
+
+      limx^3      +      lim4x^2      -      lim3
+      x->0               x->0                x->0
+
+      x^3,0'daki limiti = 0
+      4x^2, 0'daki limiti = (Limitin çarpım kuralı kullanılır)
+            çarpım kuralı: bir fonksiyonun bir sabit katının limiti, fonksiyonun limitinin sabit katıdır
+                        yani lim4x^2 = 4limx^2 
+                        = 0
+      3, sabit fonksiyon old için limit her zaman 3
+      0            +      0      -      3 = polinomun 0'daki limiti = -3
+
+Grafiğine bakarsak: x, 0'a sağdan ve soldan yaklaşırken polinom limiti: -3
+                  
+
+Örnek: Polinom limiti
+      limx^3+4x^2-3=?
+      x->-2
+
+      bu kez kısaca x yerine -2 yazıp hesaplanabilir
+      (-2)^2      +      4(-2)^2      -      3 = 5
+      
+Grafiğine bakarsak: x, -2'e sağdan ve soldan yaklaşırken polinom limiti: 5
+
+
+Kural:
+      lim x^4+x^2-1 / x^2+5 =?
+      x->1
+
+      bu fonksiyon bir rasyonel fonksiyon
+      burda limitin bölüm kuralı kullanılır
+      Bölüm kuralı: iki fonksiyonun bölümünün limiti bölenin limitinin 0 olmaması koşuluyla limitlerinin bölümü
+
+      yani 
+      lim x^4+x^2-1      /       limx^2+5
+      x->1                       x->1
+
+      bu iki fonksiyonda polinom olduğuna göre, x yerine 1 yazarak limit hesaplanabilir
+      1^4+1^2-1 / 1^2+5 = 1/6
+
+Grafiğine bakarsak: x, 1'e sağdan ve soldan yaklaşırken limit: 1/6
+
+
+Kural: Çarpanlarına Ayırma
+      lim x^2+x-2 / x^2-x =?
+      x->1
+
+      rasyonel fonksiyon: iki fonksiyonun limitinin bölümü hesaplanabilir
+      lim x^2+x-2       /      x^2-x
+      x->1                     x->1
+
+      1^2+1-2           /      1^2-1
+                               0
+      ama bu kez paydadaki fonksiyonda x yerine 1 yazılırsa payda 0 oluyor...
+      bu yüzden blimitin bölüm kuralı burda kullanılmaz
+
+      Çarpanlarına Ayırma
+      fonksiyonlar çarpanlarına ayrılır, ortak çarpanlarını sadeleştir ve paydası 0 olmayan bir rasyonel fonksiyon elde edeceğiz
+                             x parantezine alınıp yazılır..
+      (x+2)(x-1)      /      x(x-1)
+      x+2             /      x                  sadeleştirme/birbirini götürür (x-1)
+      3               /      1                  x yerine 1 yazılır, burda bölüm kuralı uygulanabilir çünkü payda sıfır olmaz
+      = 3
+
+      lim x^2+x-2 / x^2-x = 3
+      x->1
+
+Grafiğine bakarsak: x, 1'e sağdan ve soldan yaklaşırken limit: 3
+
+
+Kural: Kuvvet Kuralı
+      lim √x+1 = ?
+      x->1
+
+      aslında √x+1 = (x+1)^1/2
+
+      bu fonksiyon için limitin kuvvet kuralı kullanılır
+      bu kurala göre, bir fonksiyonun herhangi bir rasyonel kuvvetinin limiti, limitinin o kuvvetidir...
+      yani 
+      lim √x+1 = √limx+1
+      x->1       x->1
+
+      x+1 polinom olduğuna göre, limiti x yerine 1 yazılarak hesaplanır
+               = √1+1
+               = √2
+
+Grafiğine bakarsak: x, 1'e sağdan ve soldan yaklaşırken limit: √2
+
+Kural:
+      lim2^x
+      x->0
+
+
+
+
+
+
+
 
 
 
