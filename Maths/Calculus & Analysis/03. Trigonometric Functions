@@ -168,3 +168,104 @@ trigonometrik fonksiyon grafiklerine de, kaydırma, uzatma, sıkıştırma kural
     örneğin sinx'i 0 ile 1 arasında bir sayıyla çarparsak grafik dikey yönde sıkışır --> y=1/2sin(x)
 
 
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# TRIGONOMETRY LAWS and IDENTITIES
+- Tangent Identities
+            tanθ = sinθ / cosθ
+            cotθ = cosθ / sinθ
+
+- Reciprocal Identities
+            cscθ = 1/sinθ
+            secθ = 1/cosθ
+            cotθ = 1/tanθ
+            sinθ = 1/cscθ
+            cosθ = 1/secθ
+            tanθ = 1/cotθ
+
+- Pythagorean Identities
+            sin²θ+cos²θ=1
+            tan²θ+1=sec²θ
+            cot²θ+1=csc²θ
+
+- Even/Odd Identities
+            sin(-θ)=-sinθ
+            cos(-θ)=cosθ
+            tan(-θ)=-tanθ
+            csc(-θ)=-cscθ
+            sec(-θ)=secθ
+            cot(-θ)=-cotθ
+
+- Double Angle Identities
+            sin(2θ)=2sinθcosθ
+            cos(2θ)=cos²θ-sin²θ
+            =2cos²θ-1
+            =1-2sin²θ
+
+            tan(2θ) = 2tanθ / 1-tan²θ
+
+- Half Angle Identities
+            sin(θ/2) = ± √1-cosθ/2
+            cos(θ/2) = ± √1+cosθ/2
+            tan(θ/2) = ± √1-cosθ/1+cosθ
+
+- Product to Sum Identities
+            sin α sin ß = 1/2[cos(α-ß)-cos(α+ß)]
+            cos α cos ß = 1/2[cos(α-ß)+cos(α+ß)]
+            sin α cos ß = 1/2[cos(α+ß)+cos(α-ß)]
+            cos α sin ß = 1/2[cos(α+ß)-cos(α-ß)]
+
+- Sum to Product Identities
+            sin α + sin ß = 2sin(α+ß/2)cos(α-ß/2)
+            sin α - sin ß = 2cos(α+ß/2)sin(α-ß/2)
+            cos α + cos ß = 2cos(α+ß/2)cos(α-ß/2)
+            cos α - cos ß = -2sin(α+ß/2)sin(α-ß/2)
+            
+
+- Sum/Differences Identities
+            sin(α±ß) = sinα cosß ± cosα sinß
+            cos(α±ß) = cosα cosß ± sinα sinß
+            tan(α±ß) = tanα ± tanß / 1 ± tanα tanß
+
+- Mollweide's Formula
+            a+b/c = cos[1/2(α-ß)] / sin(1/2γ)
+
+- Periodic Identities
+            sin(θ+2πn)=sinθ
+            cos(θ+2πn)=cosθ
+            tan(θ+πn)=tanθ
+            csc(θ+2πn)=cscθ
+            sec(θ+2πn)=secθ
+            cot(θ+πn)=cotθ
+
+- Law of Cosines
+            a²=b²+c²-2bc cos α
+            b²=a²+c²-2ac cos ß
+            c²=a²+b²-2ab cos γ
+
+- Law of Sines
+            sinα/a = sinß/b = sinγ/c
+
+- Law of Tangents
+            a-b/a+b = tan[1/2(α-ß)] / tan[1/2(α+ß)]
+            b-c/b+c = tan[1/2(ß-γ)] / tan[1/2(ß+γ)]
+            a-c/a+c = tan[1/2(α-γ)] / tan[1/2(α+γ)]
+
+- Cofunction Identities
+            sin(π/2-θ) = cosθ
+            csc(π/2-θ) = secθ
+            tan(π/2-θ) = cotθ
+            cos(π/2-θ) = sinθ
+            sec(π/2-θ) = cscθ
+            cot(π/2-θ) = tanθ
+
+
+
+
+
+
+
+
+
+
