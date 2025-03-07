@@ -67,7 +67,7 @@ Linear Cebir : Hermisyen Matrisler (Hermitian Matrices)
 Linear Cebir : Hermisyen Matrislerde Özdeğerler (Eigenvalues for Hermitian Matrices)
 Linear Cebir : İdempotent Matris (Idempotent Matrix)
 Linear Cebir : İdempotent Matrislerde Özdeğerler (Eigenvalues for Idempotent Matrices)
-Calculus-II : Vektör Nedir? (www.buders.com)
+Calculus-II : Vektör Nedir?
 Calculus-II : Vektörlerin Uzunluğunu Bulma ve Birim Vektör
 Calculus-II : Birim Vektör Olmayan Vektörü Birim Vektör Yapma
 Calculus-II : Birim Baz Vektörler (i , j , k)
