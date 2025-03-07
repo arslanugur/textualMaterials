@@ -20,8 +20,7 @@ Linear Cebir : Matris Nedir ve Temel Matris Kavramları Nelerdir?
 Linear Cebir : Matris Çeşitleri
 Linear Cebir : Bir Matrisin Devriği (Transpose)
 Linear Cebir : Matrislerde Toplama, Çıkarma ve Çarpma
-Linear Cebir : Matrislerde İşlemler Örnek Soru-1
-Linear Cebir : Matrislerde İşlemler Örnek Soru-2
+Linear Cebir : Matrislerde İşlemler Örnek Sorular
 Linear Cebir : Matrislerin Tersini Bulma (Elementer Satır İşlemleri Metodu)
 Linear Cebir : 4x4 Matrisin Tersinini Bulma Örnek Soru
 Linear Cebir : Ters Matris Yardımıyla Lineer Denklem Sistemlerini Çözme
@@ -114,3 +113,35 @@ Linear Cebir : Ortogonal Matrisler Örnek Sorular
 Linear Cebir : En Küçük Kareler Metodu (Least Squares Method)
 Linear Cebir : En Küçük Kareler Metodu ile Eğri Uydurma (Curve Fitting with Least Squares Method)
 Linear Cebir : En Küçük Kareler Metodu Örnek Sorular
+
+
+# Extras for Artificial Intelligence
+1. Lineer Cebir
+Vektörler ve Matrisler: Vektör uzayları, lineer bağımlılık, matris işlemleri (nokta çarpımı, Hadamard çarpımı).
+Özdeğerler ve Özdüzenekler: Matrislerin özdeğerlerine ve özdüzeneklerine hakim olmak.
+Temel Bileşen Analizi (PCA): Veri boyutunu azaltmak için kullanılan bir teknik.
+
+2. Kalkülüs
+Türevler: Türev kuralları (toplama, çarpım, zincir kuralı), kısmi türevler.
+İntegraller: Definitle integraller, belirsiz integraller.
+Vektör Analizi: Yöne göre türevler, yüksek boyutlu kalkülüs.
+
+3. Diferansiyel Denklemler
+Adi Diferansiyel Denklemler: Lineer ve lineer olmayan diferansiyel denklemlerin çözümü.
+
+4. İstatistik ve Olasılık
+Temel İstatistikler: Ortalama, medyan, mod, varyans, kovaryans.
+Olasılık Kuralları: Bağımsız ve bağlı olaylar, örnek uzaylar, koşullu olasılık.
+Rastgele Değişkenler: Beklenti, varyans, dağılımlar (binom, poisson, gaussian).
+Bayes Teoremi: İnançların geçerliliğini hesaplamak için kullanılır.
+Maksimum Olabilirlik Tahmini (MLE): Parametre tahmini için kullanılır.
+
+5. Ayrık Matematik
+Graf Teorisi: Graf yapısını anlamak için temel kavramlar.
+Kombinasyon: Permütasyon, kombinasyon, binom katsayısı.
+
+6. Optimizasyon
+Gradyan Algoritmaları: Yerel ve küresel maksimumlar ve minimumlar için kullanılan yöntemler.
+
+
+
