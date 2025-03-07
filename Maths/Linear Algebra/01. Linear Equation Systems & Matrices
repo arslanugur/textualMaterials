@@ -28,10 +28,14 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Denklem Sisteminin Matrisler ile gösterimi
   Matris bir çözüm aracı...
-
   Matrisler burdaki denklemlerin katsayılarının içine konulduğu bir gösterim
   denklemdeki bilinmeyenlerin kat sayıları alınıp matrislerin içine konur...
   katsayılar matrisi = [ ]
+
+      A      matrices     matrisler
+      i      rows         satırlar
+      j      columns      sütunlar
+
   Gördüğün her matris aslında bir denklem sisteminin katsayılarını temsil eder..
     bu matrislerle ilgili oynayıp çözüm yaparak bu denklem sistemi hakkında yorum yapmaya çalışılır
 
@@ -86,5 +90,9 @@
             2x+5y-z+4t=5
             7x+y+2z+6t=8
             3z+t=-3            x ve y yok. çünkü 0(sıfır)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 
 
