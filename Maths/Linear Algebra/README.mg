@@ -11,109 +11,110 @@ Linear Algebra:
   Lineer Denklem Sistemlerinde Çözüm Durumları Örneği
   Sonsuz Çözüme Sahip Lineer Denklem Sistemi Örneği
   Çözümü Olmayan Lineer Denklem Sistemi Örneği
-  Eşelon Matrisi (Row Echelon Form)
+  Row Echelon Form (Eşelon Matrisi)
   Lineer Denklem Sistemlerinin Eşelon Matris Forma Getirilerek Çözümü
   3x4 Lineer Denklem Sistemi Örnek Soru
-  İndirgenmiş Eşelon Matrisi (Reduced Row Echelon Form)
-  Homojen Lineer Denklem Sistemleri (Homogeneous System of Linear Equations)
+  Reduced Row Echelon Form (İndirgenmiş Eşelon Matrisi)
+  Homogeneous System of Linear Equations (Homojen Lineer Denklem Sistemleri)
   Homojen Lineer Denklem Sistemleri Örnek Sorular
   Matris Nedir ve Temel Matris Kavramları Nelerdir?
   Matris Çeşitleri
-Linear Algebra : Bir Matrisin Devriği (Transpose)
-Linear Algebra : Matrislerde Toplama, Çıkarma ve Çarpma
-Linear Algebra : Matrislerde İşlemler Örnek Sorular
-Linear Algebra : Matrislerin Tersini Bulma (Elementer Satır İşlemleri Metodu)
-Linear Algebra : 4x4 Matrisin Tersinini Bulma Örnek Soru
-Linear Algebra : Ters Matris Yardımıyla Lineer Denklem Sistemlerini Çözme
-Linear Algebra : Elementer Matrisler
-Linear Algebra : Elementer Matrislerin Tersini Kısa Yoldan Bulma
-Linear Algebra : A=LU Ayrışımı (LU Decomposition)
-Linear Algebra : LU Ayrışımı Örnek Soru-1 (LU Decomposition) (Uzun Yol)
-Linear Algebra : LU Ayrışımı Örnek Soru-2 (LU Decomposition) (Kısa Yol)
-Linear Algebra : LU Ayrışımı ile Lineer Denklem Sistemlerini Çözme
-Linear Algebra : Determinant Hesaplama
-Linear Algebra : Determinant Özellikleri
-Linear Algebra : Determinant Özellikleri Örnek Sorular
-Linear Algebra : Bir Matrisin Tersinin Varolma Şartları (Singular - Nonsingular) (Tekil-Tekil Olmayan)
-Linear Algebra : Minör ve Kofaktör Hesaplama
-Linear Algebra : Kofaktör ile Determinant Hesaplama
-Linear Algebra : Ek Matris (Adjoint Matrix)
-Linear Algebra : Ek Matris Yardımıyla Ters Matris Bulma
-Linear Algebra : 2x2 Matrislerin Tersini Kısa Yoldan Bulma
-Linear Algebra : Cramer Metodu
-Linear Algebra : 4x4 Lineer Denklem Sisteminde Cramer Metod Örneği
-Linear Algebra : Permütasyon Matrisi (Permutation Matrix)
-Linear Algebra : Permütasyon Matrisi Örnek Soru-1 (Permutation Matrix)
-Linear Algebra : Permütasyon Matrisi Örnek Soru-2 (Permutation Matrix)
-Linear Algebra : Permütasyon Matrisi Örnek Soru-3 (Permutation Matrix)
-Linear Algebra : Permütasyon Matrisi Örnek Soru-4 (Permutation Matrix)
-Linear Algebra : Özdeğerler ve Özvektörler (eigen values-eigen vectors)
-Linear Algebra : 2x2 Matrislerde Özdeğer ve Özvektör Bulma
-Linear Algebra : 3x3 Matrislerde 3 Farklı Özdeğer İçin Özvektörleri Bulma
-Linear Algebra : 3x3 Matrislerde Çift Katlı Özdeğer İçin Özvektörleri Bulma
-Linear Algebra : Köşegenleştirme (Diagonalization)
-Linear Algebra : 3x3 Matrisin Köşegenleştirilmesi (Diagonalization)
-Linear Algebra : Algebraic Multiplicity of Eigen Value (Özdeğerlerin Tekrar Sayısı)
-Linear Algebra : Geometric Multiplicity of Eigen Value (Özdeğerlere Ait Özvektör Sayısı)
-Linear Algebra : Cayley Hamilton Teoremi Nedir?
-Linear Algebra : e^At Matrisi Bulma (Matrix Exponential) (Köşegenleştirme Metodu)
-Linear Algebra : 3x3 Matrislerde e^At Matrisi Bulma (Köşegenleştirme Metodu)
-Linear Algebra : 2x2 Matrislerde e^At Matrisini Bulma
-Linear Algebra : Özdeğer (Eigenvalue) ve Özvektör (Eigenvector) Örnek Sorular
-Linear Algebra : Reel ve Kompleks Matris Nedir? (Real and Complex Matrix)
-Linear Algebra : Kompleks Matrisin Eşlenik Devriği (Conjugate Transpose)
-Linear Algebra : Üniter Matris (Unitary Matrix)
-Linear Cebir : Hermisyen Matrisler (Hermitian Matrices)
-Linear Cebir : Hermisyen Matrislerde Özdeğerler (Eigenvalues for Hermitian Matrices)
-Linear Cebir : İdempotent Matris (Idempotent Matrix)
-Linear Cebir : İdempotent Matrislerde Özdeğerler (Eigenvalues for Idempotent Matrices)
-Calculus-II : Vektör Nedir?
-Calculus-II : Vektörlerin Uzunluğunu Bulma ve Birim Vektör
-Calculus-II : Birim Vektör Olmayan Vektörü Birim Vektör Yapma
-Calculus-II : Birim Baz Vektörler (i , j , k)
-Calculus-II : İç Çarpım (Dot Product or Scalar product)
-Calculus-II : İki Vektörün Diklik ve Paralellik Şartı
-Calculus-II : İki Vektör Arasındaki Açıyı Bulma
-Calculus-II : Dik İzdüşüm Vektörünü Bulma (Projection Vektör)
-Calculus-II : Düzlemde Üçgenin Alanını Vektör Yardımıyla Bulma
-Calculus-II : Vektörel Çarpım (Cross Product)
-Calculus-II : Uzayda Paralelkenar Alanını Vektör Yardımıyla Bulma
-Calculus-II : Vize ve Finalde Çıkabilecek Sorular
-Linear Cebir : Vektör Uzayı (Vector Space)
-Linear Cebir : Alt Uzay (Subspace)
-Linear Cebir : Alt Uzay Örnek Sorular
-Linear Cebir : Lineer Birleşim
-Linear Cebir : Lineer Bağımlılık ve Lineer Bağımsızlık
-Linear Cebir : Lineer Bağımsızlık Örnek Sorular
-Linear Cebir : Uzayı Germe (Span)
-Linear Cebir : Baz (Basis)
-Linear Cebir : Boyut (Dimension)
-Linear Cebir : Koordinat Vektörü
-Linear Cebir : Baz (Taban) Değiştirme (Change of Basis)
-Linear Cebir : Baz (Taban) Değiştirme Örnek Sorular
-Linear Cebir : Bir Matrisin Satır Uzayının Bazı (Row Space)
-Linear Cebir : Bir Matrisin Sütun Uzayının Bazı (Column Space)
-Linear Cebir : Bir Matrisin Rankını Bulma ve Yorumlama
-Linear Cebir : Boş Uzayın Bazı ve Boyutu (Nullspace and Nullity)
-Linear Cebir : Doğrusal Dönüşümler (Linear Transformations)
-Linear Cebir : Doğrusal Dönüşüm Matrisi (Linear Transformation Matrix)
-Linear Cebir : Doğrusal Dönüşümün Çekirdeği (Kernel)
-Linear Cebir : Doğrusal Dönüşümün Görüntüsü (Range)
-Linear Cebir : Doğrusal Dönüşümün Boşluğu ve Rankı (Nullity and Rank)
-Linear Cebir : Doğrusal Dönüşüm Çözümlü Örnek Sorular
-Linear Cebir : İki Vektörün Ortogonal (Dik) Olma Şartı
-Linear Cebir : Ortogonal Küme Nedir? (Orthogonal Set)
-Linear Cebir : Ortogonal Baz (Taban) Nedir? (Orthogonal Basis)
-Linear Cebir : Ortonormal Küme Nedir? (Orthonormal Set)
-Linear Cebir : Ortonormal Baz (Taban) Nedir? (Orthonormal Basis)
-Linear Cebir : Ortogonal Tümleyen (Orthogonal Complement)
-Linear Cebir : Gram-Shmidt Metodu
-Linear Cebir : QR Ayrışımı (QR Factorization)
-Linear Cebir : Ortogonal Matrisler ve Özellikleri (Orthogonal Matrix)
-Linear Cebir : Ortogonal Matrisler Örnek Sorular
-Linear Cebir : En Küçük Kareler Metodu (Least Squares Method)
-Linear Cebir : En Küçük Kareler Metodu ile Eğri Uydurma (Curve Fitting with Least Squares Method)
-Linear Cebir : En Küçük Kareler Metodu Örnek Sorular
+  Transpose (Bir Matrisin Devriği)
+  Matrislerde Toplama, Çıkarma ve Çarpma
+  Matrislerde İşlemler Örnek Sorular
+  Matrislerin Tersini Bulma (Elementer Satır İşlemleri Metodu)
+  4x4 Matrisin Tersinini Bulma Örnek Soru
+  Ters Matris Yardımıyla Lineer Denklem Sistemlerini Çözme
+  Elementer Matrisler
+  Elementer Matrislerin Tersini Kısa Yoldan Bulma
+  A=LU Ayrışımı (LU Decomposition)
+  LU Ayrışımı Örnek Soru-1 (LU Decomposition) (Uzun Yol)
+  LU Ayrışımı Örnek Soru-2 (LU Decomposition) (Kısa Yol)
+  LU Ayrışımı ile Lineer Denklem Sistemlerini Çözme
+  Determinant Hesaplama
+  Determinant Özellikleri
+  Determinant Özellikleri Örnek Sorular
+  Singualarity - Bir Matrisin Tersinin Varolma Şartları (Singular - Nonsingular) (Tekil-Tekil Olmayan)
+  Minör ve Kofaktör Hesaplama
+  Kofaktör ile Determinant Hesaplama
+  Adjoint Matrix                       (Ek Matris)
+  Ek Matris Yardımıyla Ters Matris Bulma
+  2x2 Matrislerin Tersini Kısa Yoldan Bulma
+  Cramer Metodu
+  4x4 Lineer Denklem Sisteminde Cramer Metod Örneği
+  Permutation Matrix                   (Permütasyon Matrisi)
+  Permutation Matrix Questions         (Permütasyon Matrisi Örnek Sorular)
+  EigenValues - EigenVectors           (Özdeğerler ve Özvektörler)
+  2x2 Matrislerde Özdeğer ve Özvektör Bulma
+  3x3 Matrislerde 3 Farklı Özdeğer İçin Özvektörleri Bulma
+  3x3 Matrislerde Çift Katlı Özdeğer İçin Özvektörleri Bulma
+  Diagonalization                      (Köşegenleştirme)
+  3x3 Matrisin Köşegenleştirilmesi (Diagonalization)
+  Algebraic Multiplicity of Eigen Value (Özdeğerlerin Tekrar Sayısı)
+  Geometric Multiplicity of Eigen Value (Özdeğerlere Ait Özvektör Sayısı)
+  Cayley Hamilton Teoremi Nedir?
+  e^At Matrisi Bulma (Matrix Exponential) (Köşegenleştirme Metodu)
+  3x3 Matrislerde e^At Matrisi Bulma (Köşegenleştirme Metodu)
+  2x2 Matrislerde e^At Matrisini Bulma
+  EigenValue - EigenVector Questions   (Özdeğerler ve Özvektörler Örnek Sorular)
+  Real and Complex Matrix              (Reel ve Kompleks Matris Nedir?)
+  Conjugate Transpose                  (Kompleks Matrisin Eşlenik Devriği)
+  Unitary Matrix                       (Üniter Matris)
+  Hermitian Matrices                   (Hermisyen Matrisler)
+  Eigenvalues for Hermitian Matrices   (Hermisyen Matrislerde Özdeğerler)
+  Idempotent Matrix                    (İdempotent Matris)
+  Eigenvalues for Idempotent Matrices  (İdempotent Matrislerde Özdeğerler)
+
+Calculus-II:
+  Vektör Nedir?
+  Vektörlerin Uzunluğunu Bulma ve Birim Vektör
+  Birim Vektör Olmayan Vektörü Birim Vektör Yapma
+  Birim Baz Vektörler (i , j , k)
+  İç Çarpım (Dot Product or Scalar product)
+  İki Vektörün Diklik ve Paralellik Şartı
+  İki Vektör Arasındaki Açıyı Bulma
+  Dik İzdüşüm Vektörünü Bulma (Projection Vektör)
+  Düzlemde Üçgenin Alanını Vektör Yardımıyla Bulma
+  Vektörel Çarpım (Cross Product)
+  Uzayda Paralelkenar Alanını Vektör Yardımıyla Bulma
+  Vize ve Finalde Çıkabilecek Sorular
+
+Linear Cebir:
+  Vector Space  (Vektör Uzayı)
+  Subspace    (Alt Uzay)
+  Alt Uzay Örnek Sorular
+  Lineer Birleşim
+  Lineer Bağımlılık ve Lineer Bağımsızlık
+  Lineer Bağımsızlık Örnek Sorular
+  Span      (Uzayı Germe)
+  Basis  (Baz/Taban)
+  Dimension  (Boyut)
+  Koordinat Vektörü
+  Change of Basis         (Baz/Taban Değiştirme)
+  Baz (Taban) Değiştirme Örnek Sorular
+  Row Space         (Bir Matrisin Satır Uzayının Bazı)
+  Column Space      (Bir Matrisin Sütun Uzayının Bazı)
+  Bir Matrisin Rankını Bulma ve Yorumlama
+  Nullspace and Nullity         (Boş Uzayın Bazı ve Boyutu)
+  Linear Transformations        (Doğrusal Dönüşümler)
+  Linear Transformation Matrix  (Doğrusal Dönüşüm Matrisi)
+  Kernel                        (Doğrusal Dönüşümün Çekirdeği)
+  Range                         (Doğrusal Dönüşümün Görüntüsü)
+  Nullity and Rank              (Doğrusal Dönüşümün Boşluğu ve Rankı)
+  Linear Transformation Questions  (Doğrusal Dönüşüm Çözümlü Örnek Sorular)
+  İki Vektörün Ortogonal (Dik) Olma Şartı
+  Orthogonal Set          (Ortogonal Küme)
+  Orthogonal Basis        (Ortogonal Baz/Taban)
+  Ortonormal Set          (Orthonormal Küme)
+  Ortonormal Basis        (Orthonormal Baz/Taban)
+  Orthogonal Complement   (Ortogonal Tümleyen)
+  Gram-Shmidt Metodu
+  QR Factorization        (QR Ayrışımı)
+  Ortogonal Matrisler ve Özellikleri (Orthogonal Matrix)
+  Ortogonal Matrisler Örnek Sorular
+  Least Squares Method    (En Küçük Kareler Metodu)
+  En Küçük Kareler Metodu ile Eğri Uydurma (Curve Fitting with Least Squares Method)
+  En Küçük Kareler Metodu Örnek Sorular
 
 
 # Extras for Artificial Intelligence
