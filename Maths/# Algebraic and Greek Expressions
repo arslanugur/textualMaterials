@@ -1,3 +1,39 @@
+# Greek Alphabet
+a  alpha         α
+b  beta          ß
+g  gamma         γ    euler-mascheroni constant
+d  delta       Δ δ    delta, derivative
+e  epsilon       ε
+z  zeta          ζ
+h  eta         h η    height
+th theta       θ
+i  iota          ι
+k  kappa         κ
+l  lambda      Λ λ
+m  mu            μ
+n  nu            ν
+x  xi          Ξ ξ
+o  omicron     o
+p  pi          Π π
+r  rho         ρ
+s  sigma       Σ σ
+t  tau           τ
+u  upsilon       υ
+ph phi         Φ φ
+ch chi           χ
+ps psi         Ψ ψ
+o  omega       Ω ω
+
+r              R r    row, yarıçap  
+function       ƒ
+integral       ∫ ∮
+infinity       ∞
+               ∈ ∉
+               Ø ● º
+
+
+
+# Algebraic Expressions
 
 Operation         Word Expression                  Algebraic Expression
 -------------------------------------------------------------------------
@@ -43,10 +79,6 @@ Division          divide, divides, divided by,      /
                   7 divides z                       x/7 or x÷7
                   7 divided by x                    7/x or 7÷x
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-
-
-
 
 
 
