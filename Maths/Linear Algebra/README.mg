@@ -1,11 +1,11 @@
 
 Linear Algebra:
-  Lineer Denklem Sistemleri ve Matrisler ile Gösterimi
-  Elementer (Temel) Satır İşlemleri
-  Satırca Denk Matrisler (Row Equivalent Matrix)
-  Lineer Denklem Sistemlerinin Çözüm Yöntemleri
-  Gauss Yok Etme Metodu
-  4x4 Gauss Yok Etme Metodu Örneği
+01. Linear Equation Systems & Matrices (Lineer Denklem Sistemleri ve Matrisler ile Gösterimi)
+02. Elementary Row Operations          (Elementer/Temel Satır İşlemleri)
+03. Row Equivalent Matrix              (Satırca Denk Matrisler)
+04. LES Solution Methods               (Lineer Denklem Sistemlerinin Çözüm Yöntemleri)
+05. Gauss Elimination                  (Gauss Yok Etme Metodu)
+06. Gauss Elimination - 4x4 Example    (4x4 Gauss Yok Etme Metodu Örneği)
   Gauss Jordan Yok Etme Metodu
   Lineer Denklem Sistemlerinin Çözüm Durumları
   Lineer Denklem Sistemlerinde Çözüm Durumları Örneği
@@ -22,7 +22,7 @@ Linear Algebra:
   Transpose (Bir Matrisin Devriği)
   Matrislerde Toplama, Çıkarma ve Çarpma
   Matrislerde İşlemler Örnek Sorular
-  Matrislerin Tersini Bulma (Elementer Satır İşlemleri Metodu)
+  Matrislerin Tersini Bulma (Elementer Satır İşlemleri Metodu)  Invertible Matrices  (Tersine Matrisler)
   4x4 Matrisin Tersinini Bulma Örnek Soru
   Ters Matris Yardımıyla Lineer Denklem Sistemlerini Çözme
   Elementer Matrisler
@@ -64,6 +64,8 @@ Linear Algebra:
   Eigenvalues for Hermitian Matrices   (Hermisyen Matrislerde Özdeğerler)
   Idempotent Matrix                    (İdempotent Matris)
   Eigenvalues for Idempotent Matrices  (İdempotent Matrislerde Özdeğerler)
+
+
 
 Calculus-II:
   Vektör Nedir?
