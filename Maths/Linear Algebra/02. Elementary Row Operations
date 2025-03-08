@@ -13,43 +13,44 @@
 
   Bu matriste, yapmamızın mümkün olduğu işlemlere temel işlemler denir. Sistemin çözümü değişmez
   1. Genişletme İşlemi: istediğimiz satırı, istediğimiz sayı ile çarpabiliriz. İki tarafı da çarpmak
-      i=row
+      R=row
       
-    i_1  2  -3  5  | 10    4*i_1  --> i_1    [4  -12  20  |  40]
-    i_2  1  2  -8  | -5
-    i_3  4  3  1   |  1
+    R_1  2  -3  5  | 10    4*R_1  --> R_1    [4  -12  20  |  40]
+    R_2  1  2  -8  | -5
+    R_3  4  3  1   |  1
 
   2. istenildiğinde iki satır yer değiştirebilir. çözüm bozulmaz.
-    i_1 <-> i_2
+    R_1 <-> R_2
 
-    i_2  1  2  -8  | -5
-    i_1  2  -3  5  | 10
-    i_3  4  3  1   |  1
+    R_2  1  2  -8  | -5
+    R_1  2  -3  5  | 10
+    R_3  4  3  1   |  1
 
   3. En önemli satır işlemi * * *
      genişletilmiş katsayılar matrisinde,
       bir satır diğer bir satıra eklenebilir veya çıkarılabilir.
       bir satır bir sayı ile çarpılıp diğer bir satır eklenebilir/çıkarılabilir.
 
-    i_1  2  -3  5  | 10    
-    i_2  1  2  -8  | -5
-    i_3  4  3  1   |  1
+    R_1  2  -3  5  | 10    
+    R_2  1  2  -8  | -5
+    R_3  4  3  1   |  1
                                                                         newRow
-      i_1 bir sayı ile çarp, i_2'nin üzerine eklenir..    i_1 + i_2 --> i_2
+      R_1 bir sayı ile çarp, R_2'nin üzerine eklenir..    R_1 + R_2 --> R_2
       eşitlik her iki tarafa da ekleniyor..
-      değişecek olan i_2, i_1 için değişim yok. çünkü eklemek için bir sayıyla çarpılır..
+      değişecek olan R_2, R_1 için değişim yok. çünkü eklemek için bir sayıyla çarpılır..
                      newRow
-      2i_1 + i_3 --> i_3
+      2R_1 + R_3 --> R_3
 
 
       Örnek:
         Matrix                Operation                        Result
         -----------------------------------------------------------
         1  2  3  |  4         değişim yok                      1  2  3  |  4
-        2  1  5  |  -3        3*i_1+i_2 = i_2     3*i_1+i_2 =  3  6  9  |  12 + 2  1  5  |  -3 = 5  7  14  |  9
+        2  1  5  |  -3        3*R_1+R_2 = i_2     3*R_1+R_2 =  3  6  9  |  12 + 2  1  5  |  -3 = 5  7  14  |  9
         4  1  7  |  -6                                         4  1  7  |  -6
 
 
 Extras:
-  Gauss-Jordan Yok Etme Metodu: bir amaca ulaşmak için bu satır işlemleri kullanılacak
+  Gauss-Jordan Elimination - Gauss-Jordan Yok Etme Metodu:
+      bir amaca ulaşmak için bu satır işlemleri kullanılacak
 
