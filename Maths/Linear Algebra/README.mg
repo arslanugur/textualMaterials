@@ -1,67 +1,68 @@
 
-Linear Algebra : Lineer Denklem Sistemleri ve Matrisler ile Gösterimi
-Linear Cebir : Elementer (Temel) Satır İşlemleri
-Linear Algebra : Satırca Denk Matrisler (Row Equivalent Matrix)
-Linear Cebir : Lineer Denklem Sistemlerinin Çözüm Yöntemleri
-Linear Cebir : Gauss Yok Etme Metodu
-Linear Cebir : 4x4 Gauss Yok Etme Metodu Örneği
-Linear Cebir : Gauss Jordan Yok Etme Metodu
-Linear Cebir : Lineer Denklem Sistemlerinin Çözüm Durumları
-Linear Cebir : Lineer Denklem Sistemlerinde Çözüm Durumları Örneği
-Linear Cebir : Sonsuz Çözüme Sahip Lineer Denklem Sistemi Örneği
-Linear Cebir : Çözümü Olmayan Lineer Denklem Sistemi Örneği
-Linear Cebir : Eşelon Matrisi (Row Echelon Form)
-Linear Cebir : Lineer Denklem Sistemlerinin Eşelon Matris Forma Getirilerek Çözümü
-Linear Cebir : 3x4 Lineer Denklem Sistemi Örnek Soru
-Linear Cebir : İndirgenmiş Eşelon Matrisi (Reduced Row Echelon Form)
-Linear Cebir : Homojen Lineer Denklem Sistemleri (Homogeneous System of Linear Equations)
-Linear Cebir : Homojen Lineer Denklem Sistemleri Örnek Sorular
-Linear Cebir : Matris Nedir ve Temel Matris Kavramları Nelerdir?
-Linear Cebir : Matris Çeşitleri
-Linear Cebir : Bir Matrisin Devriği (Transpose)
-Linear Cebir : Matrislerde Toplama, Çıkarma ve Çarpma
-Linear Cebir : Matrislerde İşlemler Örnek Sorular
-Linear Cebir : Matrislerin Tersini Bulma (Elementer Satır İşlemleri Metodu)
-Linear Cebir : 4x4 Matrisin Tersinini Bulma Örnek Soru
-Linear Cebir : Ters Matris Yardımıyla Lineer Denklem Sistemlerini Çözme
-Linear Cebir : Elementer Matrisler
-Linear Cebir : Elementer Matrislerin Tersini Kısa Yoldan Bulma
-Linear Cebir : A=LU Ayrışımı (LU Decomposition)
-Linear Cebir : LU Ayrışımı Örnek Soru-1 (LU Decomposition) (Uzun Yol)
-Linear Cebir : LU Ayrışımı Örnek Soru-2 (LU Decomposition) (Kısa Yol)
-Linear Cebir : LU Ayrışımı ile Lineer Denklem Sistemlerini Çözme
-Linear Cebir : Determinant Hesaplama
-Linear Cebir : Determinant Özellikleri
-Linear Cebir : Determinant Özellikleri Örnek Sorular
-Linear Cebir : Bir Matrisin Tersinin Varolma Şartları (Singular - Nonsingular) (Tekil-Tekil Olmayan)
-Linear Cebir : Minör ve Kofaktör Hesaplama
-Linear Cebir : Kofaktör ile Determinant Hesaplama
-Linear Cebir : Ek Matris (Adjoint Matrix)
-Linear Cebir : Ek Matris Yardımıyla Ters Matris Bulma
-Linear Cebir : 2x2 Matrislerin Tersini Kısa Yoldan Bulma
-Linear Cebir : Cramer Metodu
-Linear Cebir : 4x4 Lineer Denklem Sisteminde Cramer Metod Örneği
-Linear Cebir : Permütasyon Matrisi (Permutation Matrix)
-Linear Cebir : Permütasyon Matrisi Örnek Soru-1 (Permutation Matrix)
-Linear Cebir : Permütasyon Matrisi Örnek Soru-2 (Permutation Matrix)
-Linear Cebir : Permütasyon Matrisi Örnek Soru-3 (Permutation Matrix)
-Linear Cebir : Permütasyon Matrisi Örnek Soru-4 (Permutation Matrix)
-Linear Cebir : Özdeğerler ve Özvektörler (eigen values-eigen vectors)
-Linear Cebir : 2x2 Matrislerde Özdeğer ve Özvektör Bulma
-Linear Cebir : 3x3 Matrislerde 3 Farklı Özdeğer İçin Özvektörleri Bulma
-Linear Cebir : 3x3 Matrislerde Çift Katlı Özdeğer İçin Özvektörleri Bulma
-Linear Cebir : Köşegenleştirme (Diagonalization)
-Linear Cebir : 3x3 Matrisin Köşegenleştirilmesi (Diagonalization)
-Linear Cebir : Algebraic Multiplicity of Eigen Value (Özdeğerlerin Tekrar Sayısı)
-Linear Cebir : Geometric Multiplicity of Eigen Value (Özdeğerlere Ait Özvektör Sayısı)
-Linear Cebir : Cayley Hamilton Teoremi Nedir?
-Linear Cebir : e^At Matrisi Bulma (Matrix Exponential) (Köşegenleştirme Metodu)
-Linear Cebir : 3x3 Matrislerde e^At Matrisi Bulma (Köşegenleştirme Metodu)
-Linear Cebir : 2x2 Matrislerde e^At Matrisini Bulma
-Linear Cebir : Özdeğer (Eigenvalue) ve Özvektör (Eigenvector) Örnek Sorular
-Linear Cebir : Reel ve Kompleks Matris Nedir? (Real and Complex Matrix)
-Linear Cebir : Kompleks Matrisin Eşlenik Devriği (Conjugate Transpose)
-Linear Cebir : Üniter Matris (Unitary Matrix)
+Linear Algebra:
+  Lineer Denklem Sistemleri ve Matrisler ile Gösterimi
+  Elementer (Temel) Satır İşlemleri
+  Satırca Denk Matrisler (Row Equivalent Matrix)
+  Lineer Denklem Sistemlerinin Çözüm Yöntemleri
+  Gauss Yok Etme Metodu
+  4x4 Gauss Yok Etme Metodu Örneği
+  Gauss Jordan Yok Etme Metodu
+  Lineer Denklem Sistemlerinin Çözüm Durumları
+  Lineer Denklem Sistemlerinde Çözüm Durumları Örneği
+  Sonsuz Çözüme Sahip Lineer Denklem Sistemi Örneği
+  Çözümü Olmayan Lineer Denklem Sistemi Örneği
+  Eşelon Matrisi (Row Echelon Form)
+  Lineer Denklem Sistemlerinin Eşelon Matris Forma Getirilerek Çözümü
+  3x4 Lineer Denklem Sistemi Örnek Soru
+  İndirgenmiş Eşelon Matrisi (Reduced Row Echelon Form)
+  Homojen Lineer Denklem Sistemleri (Homogeneous System of Linear Equations)
+  Homojen Lineer Denklem Sistemleri Örnek Sorular
+  Matris Nedir ve Temel Matris Kavramları Nelerdir?
+  Matris Çeşitleri
+Linear Algebra : Bir Matrisin Devriği (Transpose)
+Linear Algebra : Matrislerde Toplama, Çıkarma ve Çarpma
+Linear Algebra : Matrislerde İşlemler Örnek Sorular
+Linear Algebra : Matrislerin Tersini Bulma (Elementer Satır İşlemleri Metodu)
+Linear Algebra : 4x4 Matrisin Tersinini Bulma Örnek Soru
+Linear Algebra : Ters Matris Yardımıyla Lineer Denklem Sistemlerini Çözme
+Linear Algebra : Elementer Matrisler
+Linear Algebra : Elementer Matrislerin Tersini Kısa Yoldan Bulma
+Linear Algebra : A=LU Ayrışımı (LU Decomposition)
+Linear Algebra : LU Ayrışımı Örnek Soru-1 (LU Decomposition) (Uzun Yol)
+Linear Algebra : LU Ayrışımı Örnek Soru-2 (LU Decomposition) (Kısa Yol)
+Linear Algebra : LU Ayrışımı ile Lineer Denklem Sistemlerini Çözme
+Linear Algebra : Determinant Hesaplama
+Linear Algebra : Determinant Özellikleri
+Linear Algebra : Determinant Özellikleri Örnek Sorular
+Linear Algebra : Bir Matrisin Tersinin Varolma Şartları (Singular - Nonsingular) (Tekil-Tekil Olmayan)
+Linear Algebra : Minör ve Kofaktör Hesaplama
+Linear Algebra : Kofaktör ile Determinant Hesaplama
+Linear Algebra : Ek Matris (Adjoint Matrix)
+Linear Algebra : Ek Matris Yardımıyla Ters Matris Bulma
+Linear Algebra : 2x2 Matrislerin Tersini Kısa Yoldan Bulma
+Linear Algebra : Cramer Metodu
+Linear Algebra : 4x4 Lineer Denklem Sisteminde Cramer Metod Örneği
+Linear Algebra : Permütasyon Matrisi (Permutation Matrix)
+Linear Algebra : Permütasyon Matrisi Örnek Soru-1 (Permutation Matrix)
+Linear Algebra : Permütasyon Matrisi Örnek Soru-2 (Permutation Matrix)
+Linear Algebra : Permütasyon Matrisi Örnek Soru-3 (Permutation Matrix)
+Linear Algebra : Permütasyon Matrisi Örnek Soru-4 (Permutation Matrix)
+Linear Algebra : Özdeğerler ve Özvektörler (eigen values-eigen vectors)
+Linear Algebra : 2x2 Matrislerde Özdeğer ve Özvektör Bulma
+Linear Algebra : 3x3 Matrislerde 3 Farklı Özdeğer İçin Özvektörleri Bulma
+Linear Algebra : 3x3 Matrislerde Çift Katlı Özdeğer İçin Özvektörleri Bulma
+Linear Algebra : Köşegenleştirme (Diagonalization)
+Linear Algebra : 3x3 Matrisin Köşegenleştirilmesi (Diagonalization)
+Linear Algebra : Algebraic Multiplicity of Eigen Value (Özdeğerlerin Tekrar Sayısı)
+Linear Algebra : Geometric Multiplicity of Eigen Value (Özdeğerlere Ait Özvektör Sayısı)
+Linear Algebra : Cayley Hamilton Teoremi Nedir?
+Linear Algebra : e^At Matrisi Bulma (Matrix Exponential) (Köşegenleştirme Metodu)
+Linear Algebra : 3x3 Matrislerde e^At Matrisi Bulma (Köşegenleştirme Metodu)
+Linear Algebra : 2x2 Matrislerde e^At Matrisini Bulma
+Linear Algebra : Özdeğer (Eigenvalue) ve Özvektör (Eigenvector) Örnek Sorular
+Linear Algebra : Reel ve Kompleks Matris Nedir? (Real and Complex Matrix)
+Linear Algebra : Kompleks Matrisin Eşlenik Devriği (Conjugate Transpose)
+Linear Algebra : Üniter Matris (Unitary Matrix)
 Linear Cebir : Hermisyen Matrisler (Hermitian Matrices)
 Linear Cebir : Hermisyen Matrislerde Özdeğerler (Eigenvalues for Hermitian Matrices)
 Linear Cebir : İdempotent Matris (Idempotent Matrix)
@@ -142,6 +143,43 @@ Kombinasyon: Permütasyon, kombinasyon, binom katsayısı.
 
 6. Optimizasyon
 Gradyan Algoritmaları: Yerel ve küresel maksimumlar ve minimumlar için kullanılan yöntemler.
+
+Analitik Geometri
+  Vektörler ve Matrisler:
+  Vektör Operasyonları: Toplama, çıkarma, skaler çarpım.
+
+Matrisler ve Lineer Dönüşümler
+Matris Ayrıştırma
+Vektör Analiz
+Olasılık ve Dağılımlar
+Sürekli Optimizasyon
+Destek Vektör Makineleri
+
+
+
+
+
+Mathematical Methods for Quantitative Finance Syllabus:
+Probability distributions in finance
+Time-series models: random walks, ARMA, and GARCH
+Continuous-time stochastic processes
+Optimization
+Linear algebra of asset pricing
+Statistical and econometric analysis
+Monte Carlo simulation
+Applied computational techniques
+
+Probability: review of laws probability; common distributions of financial mathematics; CLT, LLN, characteristic functions, asymptotics.
+Statistics: statistical inference and hypothesis tests; time series tests and econometric analysis; regression methods
+Time-series models: random walks and Bernoulli trials; recursive calculations for Markov processes; basic properties of linear time series models (AR(p), MA(q), GARCH(1,1)); first-passage properties; applications to forecasting and trading strategies.
+Continuous time stochastic processes: continuous time limits of discrete processes; properties of Brownian motion; introduction to Itô calculus; solving differential equations of finance; applications to derivative pricing and risk management.
+Linear algebra: review of axioms and operations on linear spaces; covariance and correlation matrices; applications to asset pricing.
+Optimization: Lagrange multipliers and multivariate optimization; inequality constraints and quadratic programming; Markov decision processes and dynamic programming; variational methods; applications to portfolio construction, algorithmic trading, and best execution.|
+Numerical methods: Monte Carlo techniques; quadratic programming
+
+
+
+
 
 
 
