@@ -280,3 +280,42 @@ Grafikleri yansıtma:
   ƒ(x) --> -ƒ(-x) dönüşümünde    ƒ(x)in origine göre simetrisi alınır...çünkü hem x hem de y değerleri -1 ile çarpılarak x ve y eksenlerinin diğer tarafına geçer
 
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Parent Functions                  y = x                             limits                    Coordinate Graph
+constant function                f(x) = a                                                       T
+linear function                  f(x) = x                             x -> x                    /
+absolute value function          f(x) = |x|                                                     V
+greatest integer (step) function f(x) = int(x) = [x]
+quadratic functions              f(x) = x^2                           x -> x^2                  U
+                                    y = ax^2
+                                    y = a>1
+                                    y = ax^2 (0<a<1)
+                                    y = -x^2                                                    inverse U
+cubic function                   f(x) = x^3                           x -> x^3
+square root function             f(x) = √x                            x -> √x
+cube root function               f(x) = 3√x                                                     S
+exponential function             f(x) = a^x
+logarithmic function             f(x) = log_a x
+reciprocal/inverse function      f(x) = 1/x                           x -> 1/x
+rational function                f(x) = 1/x^2                                                                              f(x) = f(x) = (x^2+1)(x-2) / (x+1)(x-2)
+trigonometric function           f(x) = sin x                         x -> sin x
+trigonometric function           f(x) = cos x                         x -> cos x
+trigonometric function           f(x) = tan x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
