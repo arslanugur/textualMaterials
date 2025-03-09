@@ -1,1 +1,25 @@
-https://www.youtube.com/watch?v=dSHHAMMs8DY&list=PLcNWqzWzYG2vUwIrhpYTwqm0qboR5yQRA&index=3
+# Satırca Denk Matrisler
+  Bir matrise, elementer satır işlemleri uygulayarak yeni bir matris elde edildiğinde
+    bu iki matris birbirine satırca denktir..
+
+  Temel Satır İşlemleri
+  1. bir satırı herhangi bir sayıyla çarpıp yeni bir satır oluşturmak
+  2. herhangi bir iki satırın yerini değiştirmek
+  3. herhangi bir satırı bir sayıyla çarpıp diğer satıra eklemek/çıkarmak
+
+  yani yeni oluşan satıra yeni işlemler yapıp geri döndürerek eski matrisi elde edebiliriz..
+
+# Örnek:
+  Matrix       Operation       Result Matrix
+  ------------------------------------------
+  A = 1 2 -1   2*r_1 -> r_1       B = 2 4 -2      A ≈ B    
+      3 1  4                          3 1  4
+      5 2  1                          5 2  1
+
+# Örnek:
+  A = 1 2 -1   -3*r_1+r_2 -> r_2  C = 1  2 -1     A ≈ C    
+      3 1  4                          0 -5  7
+      5 2  1                          5  2  1
+
+
+
