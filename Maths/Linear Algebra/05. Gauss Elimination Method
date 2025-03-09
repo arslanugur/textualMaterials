@@ -1,13 +1,51 @@
-# Gauss Yok etme Metodu
+# Gauss Yok Etme Metodu
+  Denklem sayısı ile bilinmeyen sayısı eşit olan lineer denklem sistemlerini çözer.
 
+* Birinci Adım: Denklem sistemlerini "Augmented Matrix / Genişletilmiş katsayılar matrisi" şeklinde yazmalıyız
+  Örnek: 
+  Normal Form    Augmented Form
+  2x-3y=5        2  -3  | 5
+  x+y=8          1   1  | 8
+  
+  Örnek:
+                   her bir satır bir denklem olduğunu, kesikli çizgiler ise sonuçlar..
+  Normal Form      Augmented Form
+  x+y-z=8          1  1  -1  | 8
+  2x+y-5z=10       2  1  -5  | 10
+  x+6y-8z=11       1  6  -8  | 11
 
+* İkinci Adım: Elementer Satır İşlemleri ile amacımız genişletilmiş katsayılar matrisini, "üst üçgen matris/upper triangular matrix" yapılır
+  Upper Triangular Matrix Yapımı:
+    Augmented Formda, Kesikli çizginin sol tarafındaki köşegenin üzerinden bir doğru(\) çizeriz, alt tarafında kalanı sıfır yapmak
 
-https://www.youtube.com/watch?v=APaxPQTy8HY&list=PLcNWqzWzYG2vUwIrhpYTwqm0qboR5yQRA&index=5
+  Augmented Form    Augmented Form
+  2. -3  | 5         1. 1  -1  | 8
+  '1' 1. | 8        '2' 1. -5  | 10
+                    '1''6' -8. | 11
 
+  Upper Triangular Form    Upper Triangular Form
+  2 -3  | 5                1  1  -1  | 8
+  0  1  | 8                0  1  -5  | 10
+                           0  0  -8  | 11
 
+  'x' --> sıfır yapılır.. "köşegenin alt tarafı sıfırlamak.."
+  neden sıfırlamaya çalışıyoruz? x ve y yok etmek için...
+  Örnek:
+  1. 1  2  |  5    x+y+2z=5         son olarak: hepsini yerine koyarız ve çözüm   x+1/3+6=5
+  0  3. 1  |  4    3y+z= 4          ikinci olarak: z=3 olduğunu bildiğimiz için z'nin yerine 3
+  0  0  2. |  6    2z=6 --> z=3     ilk olarak
 
-
-
-
+                                    3y+3=4  --> 3y=1  --> y=1/3
+                                    
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+
+
+
+
+
+
 
