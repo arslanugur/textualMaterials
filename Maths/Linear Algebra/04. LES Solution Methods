@@ -1,1 +1,43 @@
+# Lineer Denklem Sistemlerinin Çözüm Yöntemleri
+
+İki ana başlıkta toplanır.
+1. Denklem sayısı ile bilinmeyen sayısı birbirine eşittir.    denklem sayısı = bilinmeyen sayısı
+
+    Örnekler:
+    İki bilinmeyenli iki denklem        Üç bilinmeyenli üç denklem
+    2x-3y=4                             x-2y+z=8
+    x+y=5                               2x-3y+z=6
+                                        x+z=10
+
+    bu şekildeki denklemlerdeki varolan çözüm yöntemleri neler?
+
+2. Denklem sayısı ile bilinmeyen sayısı birbirine eşit değildir.  denklem sayısı ≠ bilinmeyen sayısı
+   bazen denklem sayısı fazla olur, bazen bilinmeyen sayısı fazla
+   Örnek: Üç denklem iki bilinmeyenli   İki denklem üç bilinmeyenli
+   2x-3y=6                              x-2y+z=10              
+   x+y=7                                2x+y+3z=5
+   2x+y=10
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+İlk durum denklemlerde kullanılan çözüm yöntemleri (denklem sayısı = bilinmeyen sayısı)
+  01. Gauss Yok Etme Metodu (En sade Yöntem)
+      Çözerken denklemi "Upper Triangle Matrix" haline getirir
+  02. Gauss Jordan Yok Etme Metodu (Eklemeli Yöntem)
+  03. Cramer Metodu
+      Determinant yardımıyla denklem sistemini çözüm
+  04. A^-1 (Ters Matris) yardımıyla çözme metodu
+      Katsayılar matrisinin, ters matrisi elde edilmesiyle denklem sisteminin çözülme metodu vardır
+      bir matrisin tersini almayı bilmek gerekir.
+  05. Satırca eşelon forma getirerek çözüm
+  06. Satırca indirgenmiş eşelon forma getirerek çözüm
+      Gauss Jordan yok etme metoduyla aynıdır..
+
+  Bütün yöntemlerde ne gibi püf noktalar olduğuna iyice hakim olunmalı.
+
+İkinci durum denklemlerde kullanılan çözüm yöntemleri (denklem sayısı ≠ bilinmeyen sayısı)
+  01. Satırca eşelon forma getirerek çözüm
+      Pivotlar, serbest değişkenler, temel değişkenler belirleyerek çözümler yapılır
+  02. Satırca indirgenmiş eşelon forma getirerek çözüm
+      
 
