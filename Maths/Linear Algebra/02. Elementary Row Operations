@@ -54,3 +54,30 @@ Extras:
   Gauss-Jordan Elimination - Gauss-Jordan Yok Etme Metodu:
       bir amaca ulaşmak için bu satır işlemleri kullanılacak
 
+
+
+
+# Input Augmented Matrix
+3   2  -4  3
+2   3   3  15
+5  -3   1  14
+
+# Swap R1 and R3
+5  -3   1  14
+2   3   3  15
+3   2  -4  3
+
+# For First Pivot
+5    -3     1    14
+0   4.2   2.6   9.4
+0   3.8  -4.6  -5.4
+
+# For Second Pivot
+5    -3     1    14
+0   4.2   2.6   9.4
+0     0  -6.9  -13.8
+
+# For Third Pivot (Final)
+5    -3     1    14   3
+0   4.2   2.6   9.4   1
+0     0  -6.9  -13.8  2
