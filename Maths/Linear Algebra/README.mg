@@ -6,9 +6,9 @@ Linear Algebra:
 04. LES Solution Methods               (Lineer Denklem Sistemlerinin Çözüm Yöntemleri)
 05. Gauss Elimination                  (Gauss Yok Etme Metodu)
 06. Gauss Elimination - 4x4 Example    (4x4 Gauss Yok Etme Metodu Örneği)
-  Gauss Jordan Yok Etme Metodu
-  Lineer Denklem Sistemlerinin Çözüm Durumları
-  Lineer Denklem Sistemlerinde Çözüm Durumları Örneği
+07. Gauss Jordan Yok Etme Metodu
+08. Lineer Denklem Sistemlerinin Çözüm Durumları
+09. Lineer Denklem Sistemlerinde Çözüm Durumları Örneği
   Sonsuz Çözüme Sahip Lineer Denklem Sistemi Örneği
   Çözümü Olmayan Lineer Denklem Sistemi Örneği
   Row Echelon Form (Eşelon Matrisi)
@@ -34,13 +34,13 @@ Linear Algebra:
   Determinant Hesaplama
   Determinant Özellikleri
   Determinant Özellikleri Örnek Sorular
-  Singualarity - Bir Matrisin Tersinin Varolma Şartları (Singular - Nonsingular) (Tekil-Tekil Olmayan)
+  Singularity - Bir Matrisin Tersinin Varolma Şartları (Singular - Nonsingular) (Tekil-Tekil Olmayan)
   Minör ve Kofaktör Hesaplama
   Kofaktör ile Determinant Hesaplama
   Adjoint Matrix                       (Ek Matris)
   Ek Matris Yardımıyla Ters Matris Bulma
   2x2 Matrislerin Tersini Kısa Yoldan Bulma
-  Cramer Metodu
+  Cramer Method
   4x4 Lineer Denklem Sisteminde Cramer Metod Örneği
   Permutation Matrix                   (Permütasyon Matrisi)
   Permutation Matrix Questions         (Permütasyon Matrisi Örnek Sorular)
