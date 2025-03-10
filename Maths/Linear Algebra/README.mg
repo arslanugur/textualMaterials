@@ -4,9 +4,9 @@ Linear Algebra:
 02. Elementary Row Operations          (Elementer/Temel Satır İşlemleri)
 03. Row Equivalent Matrix              (Satırca Denk Matrisler)
 04. LES Solution Methods               (Lineer Denklem Sistemlerinin Çözüm Yöntemleri)
-05. Gauss Elimination                  (Gauss Yok Etme Metodu)
+05. Gauss Elimination Method           (Gauss Yok Etme Metodu)
 06. Gauss Elimination - 4x4 Example    (4x4 Gauss Yok Etme Metodu Örneği)
-07. Gauss Jordan Yok Etme Metodu
+07. Gauss Jordan Elimination Method    (Gauss Jordan Yok Etme Metodu)
 08. Lineer Denklem Sistemlerinin Çözüm Durumları
 09. Lineer Denklem Sistemlerinde Çözüm Durumları Örneği
   Sonsuz Çözüme Sahip Lineer Denklem Sistemi Örneği
