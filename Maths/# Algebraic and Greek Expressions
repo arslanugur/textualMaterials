@@ -2,7 +2,7 @@
 a  alpha         α
 b  beta          ß
 g  gamma         γ    euler-mascheroni constant
-d  delta       Δ δ    delta, derivative
+d  delta       Δ δ    delta, derivative                δ  delta function
 e  epsilon       ε
 z  zeta          ζ
 h  eta         h η    height
@@ -29,6 +29,9 @@ function       ƒ
 integral       ∫ ∮
 infinity       ∞
                Ø ● º
+
+
+
 
 Simge	Simgenin açıklaması	    Simge	Simgenin açıklaması
 -------------------------------------------------------
