@@ -1,3 +1,36 @@
+# Probability and Statistics Symbols 
+    P(A)      probability function
+    P(A∩B)    probability of events intersection
+    P(A∪B)    probability of events union
+    P(A|B)    conditional probability function
+    ƒ(x)      probability density function
+    F(x)      cumulative distribution function
+    μ         population mean
+    E(X)      expectation value
+    E(X|Y)    conditional expectation
+    var(X)    variance
+    σ²        variance
+    std(X)    standard deviation
+    σx        standard deviation
+    x̃         median
+    Md        sample median
+    MR        Mid-range
+    cov(X,Y)  covariance
+    corr(X,Y) correlation
+    ρ x,y     correlation
+    Q_1       first quartile
+    Q_2       second quartile
+    Q_3       third quartile
+    x̄         sample mean
+    s²        sample variance
+    s         sample standard deviation
+    z_x       standard score
+    X~        distribution of X
+    N(μ,σ²)   normal distribution
+    U(a,b)    uniform distribution
+    exp(λ)    exponential distribution
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔻 Median, Mode, Mean, Range
     Median (Middle)       Middle of Series
