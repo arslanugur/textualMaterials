@@ -1,0 +1,59 @@
+lim ƒ(x)    limit
+x->0
+ε           epsilon
+y'          derivative
+yⁿ          second derivative
+y(ⁿ)        nth derivative
+dy/dx       derivative
+d²y/dx²     second derivative
+d²y/dxⁿ     nth derivative
+y. (d/dt)   time derivative
+y:          time second derivative
+Dxy         derivative
+Dx²y        second derivative
+∫	          integral	opposite to derivation	 
+∫∫	        double integral	integration of function of 2 variables	 
+∫∫∫	        triple integral	integration of function of 3 variables
+∂ƒ(x,y)/∂x  partial derivative
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+             change in the value of the function
+             ---------------
+      limit     new value of func
+         |      |           | change in variable
+df/dx = lim  f(x+h)-f(x) / h  
+|| ||   h->0          | old value of function
+|| ||   | ||
+|| ||   | | --> zero (becomes very small)
+|| ||   |  --> tends to zero (becomes very small)
+|| ||    ---> change in variable  (becomes very small)
+|| | -> variable
+||  --> with respect to 
+| ----> function
+ -----> rate of change of
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Integral of f from a to b
+b
+∫ ƒ(x)dx
+a
+
+∫     integral sign
+a     lower limit of integration
+b     upper limit of integration
+ƒ(x)  the function is the integrand
+dx    x is the variable of integration (also called a dummy variable)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+
+
+
+
+
+
+
+
+
