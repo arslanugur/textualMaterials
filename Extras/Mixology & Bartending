@@ -8,11 +8,11 @@ bloody mary             l  vodka, tomato juice, Lemon Juice, Hot Sauce, Worceste
 mojito                  l  rum, lime juice, mint leaves, sugar, Soda
 gin fizz                l  gin, lime, soda
 tom collins             l  gin, lemon, soda
-bronx                   v  gin, sweet vermouth, dry vermouth, orange juice
-daiquiri                v  rum, lime juice. lemonade
-frozen daiquiri         v  rum, strawberry, lime juice
-irish coffee            cl irish whiskey, coffee, brown sugar, heavy cream
-mai-tai                 o  rum, lime juice, orange liquor, grenadine
+bronx                   v  2o gin, 3/4o sweet vermouth, 3/4o dry vermouth, 1o orange juice
+daiquiri                v  2o rum, 1o lime juice. lemonade
+frozen strawberry daiq. v  rum, 8o mashed strawberry, 2o lime juice
+irish coffee            cl 11/2o irish whiskey, 6o coffee, brown sugar, heavy cream
+mai-tai                 o  11/2o rum, 3/4o lime juice, 1/2o triple sec/orange liquor, grenadine
 manhattan               v  Rye/bourbon Whiskey, Sweet Vermouth, bitters, cherry
 dry martini             v  gin, dry vermouth, ice, olive
 espresso martini        v  Vodka, Kahlúa, Espresso, Coffee Beans
@@ -20,7 +20,7 @@ vodka martini           v  Vodka, Dry Vermouth, Lemon Zest, Green Olive
 pornstar martini        v  vodka vanilla, prosecco, passion fruit, pineapple
 margarita               v  Tequila, Lime Juice, Triple Sec, Salt
 brandy alexander        v  brandy, baileys
-cosmopolitan            v  vodka, lime juice, lemonade, cranberry/grenadine
+cosmopolitan            v  11/2o vodka, 1/2o lime juice, 1o triple sec/lemonade, 1o cranberry/grenadine
 negroni                 o  gin, sweet vermouth, campari
 pinacolada              l  rum, pineapple juice, milk, coconut cream
 screwdriver             l  vodka, orange juice
@@ -28,15 +28,15 @@ white lady              v  gin, orange liquor, lemon juice
 black russian           o  vodka, kahlua
 white russian           o  Vodka, Kahlúa, baileys
 old fashioned           o  bourbon, orange
-lynchburg lemonade      o  jack, lemon juice, soda
-whiskey sour            o  whiskey, lemon juice
-godfather               ol whiskey, amaretto, soda
-godmother               ol vodka, amaretto, soda
-moscow mule             o  vodka, lime juice, ginger Beer
+lynchburg lemonade      o  2o jack, 2o lemon juice, 4o soda
+whiskey sour            o  2o whiskey, 1o lemon juice
+godfather               ol 2o whiskey, 1/2 amaretto, soda
+godmother               ol 50ml vodka, 25ml amaretto, soda
+moscow mule             o  1.5o vodka, 0.5o lime juice, ginger Beer
 long island ice tea     l  vodka, rum, gin, tequila, lemon juice, coke
 amerotto sour           ol amaretto, lemon juice, lemonade
 sex on the beach        l  vodka, orange Juice, archers, grenadine
-tequila sunrise         l  tequila, orange juice, grenadine
+tequila sunrise         l  2o tequila, 4o orange juice, 1/2 grenadine
 malibu sunset           bl vodka, malibu, archers, grenadine
 
 # Jigger Measurement
