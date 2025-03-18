@@ -192,6 +192,9 @@ limitin tanımına göre verilen bir eps için xin 1e uzaklığı deltadan küç
       ama deltanın alabileceği tek değer eps/5 değildir, daha küçük bir değer de alabilir.
       limitin tanımına göre bulunan delta değeri en iyi delta olmayabilir ama işe yarar bir değerdir
 
+
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 öncesinde, Limit bulmak için fonksiyon grafikleri kullanıldı...
 Limit kuralları ile limiti hesaplama
@@ -338,9 +341,78 @@ Kural: Kuvvet Kuralı
 Grafiğine bakarsak: x, 1'e sağdan ve soldan yaklaşırken limit: √2
 
 Kural:
-      lim2^x
+      lim2^x = 1
       x->0
 
+      ilk olarak grafik incelendiğinde:
+      x, 1'e yaklaşırken limit 2^1'den 2'dir
+      
+      x, 3'e yaklaşırken limit 2^3'den 8'dir
+         x                             y
+      üssel fonksiyonun tabanı sabit sayı üssü değişken olduğu için..
+      x, 0'a yaklaşırken 2^x'in limiti; 2^x, 0'a yaklaşırken x'in limitine eşittir
+      2^x'in 0daki limiti 2^0'dan 1dir yada 2deki limiti 2^2den 4dür
+      lim 2^x = 2^0 = 1                     lim 2^x = 2^2 = 4
+      x->0                                  x->2
+
+Örnek: Parçalı fonksiyonun x, 2'ye yaklaşırkenki limiti?
+      x^2+1, x<2
+ ƒ(x) 3, x=2
+      -(x-2)^2+5, x>2
+
+      lim ƒ(x) = ?
+      x->2
+
+      x=2 fonksiyonun kritik noktası
+      x<2, x=2, x>2 olduğu aralıklarda farklı fonksiyonlarla tanımlıdır
+      x, 2'ye sağdan yaklaşırken limit = 5
+              soldan yaklaşırken limit = 5
+      sağdan ve soldan limitler birbirine eşit olduğuna göre limit = 5
+
+      Grafiği çizmeden limiti bulmak için x'in 2'den büyük ve küçük olduğu aralıklarda tanımlı fonksiyonların limitlerini bulabiliriz.
+            x<2 olduğu aralıkta x^2+1 ile tanımlı.       x^2+1 polinom olduğu için x yerine 2 yazarak limiti hesaplarız.      x'in soldan limit = 5
+            x=2 olduğu aralıkta 3 ile tanımlı
+            x>2 olduğu aralıkta -(x-2)^2+5 ile tanımlı.  -(x-2)^2+5 polinom olduğu için x yerine 2 yazarak limi hesaplarız.   x'in sağdan limit = 5
+
+Örnek:
+      lim |x|/x = ?
+      x->0
+
+      bu fonksiyonda mutlak değer olduğu için parçalı fonksiyon olarak yazılır.
+      parçalı fonksiyonda x'in 0'dan küçük olduğu aralığı
+                          x'in 0'dan büyük olduğu aralığı belirtilir.
+
+      x<0 olduğu aralıkta mutlak değerden negatif olarak çıkar      -x/x'den -1 gelir. soldan limit: -1
+      x>0 olduğu aralıkta mutlak değerden pozitif olarak çıkar      x/x'den 1 gelir. sağdan limit: 1
+      sağdan ve soldan limitler eşit olmadığı için limit yok
+
+Örnek:
+      lim sinx/x = ?
+      x->0
+
+      sinx/x, x=0 noktasında tanımlı değildir.
+      sinx ve x her ikisi de tek fonksiyonlardır
+      bu yüzden sinx/x çift fonksiyondur..
+      ve grafiği y eksenine göre simetriktir.
+      bu simetri sağdan ve soldan limitlenir ve aynı olduğunu gösterir.
+      grafikte görüldüğünde x, 0'a yaklaşırken sağdan ve soldan limitleri: 1
+
+      şimdi sinx/x'in limitini kullanarak limit hesaplayalım
+
+      lim sin2x/5x = ?
+      x->0
+
+      payda 5x ama paydanın 2x olması gerekir. sinx/x'in limitine benzetmek için...
+      bu yüzden pay ve payda 2/5 ile çarpılır...
+
+      = lim (2/5)sin2x / (2/5)5x = 2/5lim sin2x / 2x 
+        x->0                          x->0
+                                      --------------> sin2x/2x'in limiti 1 olduğuna göre 2/5 1 = 2/5 buluruz
+      = 2/5
+
+Örnek:
+      lim 2 + 1/x=?
+      x->∞
 
 
 
@@ -362,29 +434,6 @@ Kural:
 
 
 
-
-
-
-integral - alan bulmak
-      sonsuz küçük yöntemi: dairenin alanı bulmak için üçgünler kullanmak
-      yükseklik ve taban uzunluğu değişmez.
-türev - integralin tersi
-
-
-
-
-     .   .
-   .       .
- .           . 
-.             .
-.             .
- .           . 
-   .       .
-     .   .
-
-
-kalkış kümesi
-varış kümesi
 
 
 
