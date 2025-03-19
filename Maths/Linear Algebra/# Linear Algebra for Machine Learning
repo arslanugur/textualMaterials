@@ -1,0 +1,69 @@
+# Key Prerequisites
+- Real Numbers and Vector Spaces
+- Norms and Distance Measures
+- The Cartesian Coordinate System
+- Basic Trigonometry: Sine, Cosine, Tangent, and Their Reciprocals
+- Trigonometric Identities and Equations
+- The Pythagorean Theorem
+- Orthogonality and Perpendicularity in Vectors
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Essential Trigonometry and Geometry Concepts
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Real Numbers and Vector Spaces
+R: the set of all real numbers
+R²: is 2D plane
+R³: is the 3D space
+Rⁿ: n-dimensional Euclidean spaces
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Norms, Refreshment from Trigonometry
+  the norm of a vector, denoted as |v| or ||v||, represents the vector's magnitude (length)
+  for a vector v € Rⁿ, its norm is calculated a 
+  || ->||
+  || v || = √v²_1 + v²_2 + ... + v²_n
+  ------> L_2 Norm
+    it is used in the retrogression for regularization technique
+    to measure the distance or the relationship or the similarity between two different entities
+
+  norms provide a way to measure the size or length of vectors in vector spaces
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# The Cartesian Coordinates System
+https://www.youtube.com/watch?v=QCPJ0VdpM00
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+Angles and Their Measurement
+Norm of a Vector
+The Pythagorean Theorem
+Norm of a Vector
+Euclidean Distance Between Two Points
+Foundations of Vectors
+Scalars and Vectors, Definitions
+Zero Vectors and Unit Vectors
+Sparsity in Vectors
+Vectors in High Dimensions
+Applications of Vectors, Word Count Vectors
+Applications of Vectors, Representing Customer Purchases
+Advanced Vectors Concepts and Operations
+Scalar Multiplication Definition and Examples
+Linear Combinations and Unit Vectors
+Span of Vectors
+Linear Independence
+Linear Systems and Matrices, Coefficient Labeling
+Matrices, Definitions, Notations
+Special Types of Matrices, Zero Matrix
+Algebraic Laws for Matrices
+Determinant Definition and Operations
+Vector Spaces, Projections
+Vector Spaces Example, Practical Application
+Vector Projection Example
+Understanding Orthogonality and Normalization
+Special Matrices and Their Properties
+Orthogonal Matrix Examples
+
