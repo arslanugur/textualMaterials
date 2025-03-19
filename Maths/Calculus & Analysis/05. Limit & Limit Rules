@@ -351,7 +351,7 @@ Kural:
          x                             y
       üssel fonksiyonun tabanı sabit sayı üssü değişken olduğu için..
       x, 0'a yaklaşırken 2^x'in limiti; 2^x, 0'a yaklaşırken x'in limitine eşittir
-      2^x'in 0daki limiti 2^0'dan 1dir yada 2deki limiti 2^2den 4dür
+      2^x'in 0'daki limiti 2^0'dan 1dir yada 2deki limiti 2^2den 4dür
       lim 2^x = 2^0 = 1                     lim 2^x = 2^2 = 4
       x->0                                  x->2
 
@@ -364,15 +364,15 @@ Kural:
       x->2
 
       x=2 fonksiyonun kritik noktası
-      x<2, x=2, x>2 olduğu aralıklarda farklı fonksiyonlarla tanımlıdır
+      x<2, x=2, x>2 olduğu aralıklarda farklı fonksiyonlarla tanımlı
       x, 2'ye sağdan yaklaşırken limit = 5
               soldan yaklaşırken limit = 5
       sağdan ve soldan limitler birbirine eşit olduğuna göre limit = 5
 
       Grafiği çizmeden limiti bulmak için x'in 2'den büyük ve küçük olduğu aralıklarda tanımlı fonksiyonların limitlerini bulabiliriz.
-            x<2 olduğu aralıkta x^2+1 ile tanımlı.       x^2+1 polinom olduğu için x yerine 2 yazarak limiti hesaplarız.      x'in soldan limit = 5
-            x=2 olduğu aralıkta 3 ile tanımlı
-            x>2 olduğu aralıkta -(x-2)^2+5 ile tanımlı.  -(x-2)^2+5 polinom olduğu için x yerine 2 yazarak limi hesaplarız.   x'in sağdan limit = 5
+            x<2 olduğu aralıkta: x^2+1 ile tanımlı.       x^2+1 polinom olduğu için x yerine 2 yazarak limiti hesaplarız.      x'in soldan limit = 5
+            x=2 olduğu aralıkta: 3 ile tanımlı
+            x>2 olduğu aralıkta: -(x-2)^2+5 ile tanımlı.  -(x-2)^2+5 polinom olduğu için x yerine 2 yazarak limi hesaplarız.   x'in sağdan limit = 5
 
 Örnek:
       lim |x|/x = ?
@@ -382,8 +382,8 @@ Kural:
       parçalı fonksiyonda x'in 0'dan küçük olduğu aralığı
                           x'in 0'dan büyük olduğu aralığı belirtilir.
 
-      x<0 olduğu aralıkta mutlak değerden negatif olarak çıkar      -x/x'den -1 gelir. soldan limit: -1
-      x>0 olduğu aralıkta mutlak değerden pozitif olarak çıkar      x/x'den 1 gelir. sağdan limit: 1
+      x<0 olduğu aralıkta: mutlak değerden negatif olarak çıkar      -x/x'den -1 gelir. soldan limit: -1
+      x>0 olduğu aralıkta: mutlak değerden pozitif olarak çıkar      x/x'den 1 gelir. sağdan limit: 1
       sağdan ve soldan limitler eşit olmadığı için limit yok
 
 Örnek:
@@ -394,10 +394,10 @@ Kural:
       sinx ve x her ikisi de tek fonksiyonlardır
       bu yüzden sinx/x çift fonksiyondur..
       ve grafiği y eksenine göre simetriktir.
-      bu simetri sağdan ve soldan limitlenir ve aynı olduğunu gösterir.
+      bu simetri 0'da sağdan ve soldan limitlenir ve aynı olduğunu gösterir.
       grafikte görüldüğünde x, 0'a yaklaşırken sağdan ve soldan limitleri: 1
 
-      şimdi sinx/x'in limitini kullanarak limit hesaplayalım
+Örnek: şimdi sinx/x'in limitini kullanarak limit hesaplayalım
 
       lim sin2x/5x = ?
       x->0
@@ -414,8 +414,28 @@ Kural:
       lim 2 + 1/x=?
       x->∞
 
+      yukarıdaki fonksiyon, 2'nin limiti ile 1/x'in toplamına eşittir.
 
+      = lim2 + lim 1/x
+        x->∞   x->∞
 
+      2 sabit fonksiyon olduğu için limiti: 2
+      1/x fonksiyonunda x değeri sürekli büyürken, 1/x'in değeri sürekli küçülerek sıfıra yaklaşır.
+            bu yüzden 1/x'in sonsuzdaki limiti: 0
+      burdan x sonsuza giderken 2+1/x'in limiti: 2+0 = 2
+
+# Bir fonksiyonun limitini hesaplamak için limit kurallarının yeterli olmadığı durumlar olabilir.
+      bu gibi durumlarda sıkıştırma teoremi (sandviç teoremi) kullanılır
+
+      .             .
+       .           . 
+      |   .       .
+      |     .   . g
+    L |-------|- - - -> ƒ
+      |     . | . h
+      |   .   |   .
+      |_._____|_____.___ 
+       .      c      .
 
 
 
