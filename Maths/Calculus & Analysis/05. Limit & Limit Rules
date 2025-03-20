@@ -437,28 +437,71 @@ Kural:
       |_._____|_____.___ 
        .      c      .
 
+      sıkıştırma teoremi: c noktasındaki limitleri aynı olan g ve h noktasındaki değerleri arasına sıkıştırılmış olan bir f fonksiyonundan bahseder.
+      bu teoreme göre göre g ve h fonksiyonlarının c noktasındaki limitleri L olduğu için f'in de c noktasındaki limiti L olmalı
+      g ve h fonksiyonları f fonksiyonunun alt ve üst sınırlarını oluşturur
+      g ve h'nin bir noktadaki limitleri eşitse f'in de bu noktadaki limiti aynı limit değerine eşit olması gerekir.
 
 
+Örnek: Sıkıştırma Teoremi - bir fonksiyon iki fonksiyonun arasında..
+      1-x²/2 ≤ u(x) ≤ 1+x²/2
+      x->0 limu(x)=?
+      ilk olarak grafik çizilir..
+      .             .
+       .           . 
+          .  2-   .
+            . | . 1+x²/2
+             1- - - -> u(x)
+            . | . 1-x²/2
+          .   |   .
+        ._____|_____.___ 
+       .  -1  |  1   .
+             -1
 
+      iki fonksiyonunda x, sıfıra yaklaşırken limiti: 1
+      u(x) ise bu iki fonksiyonun arasındaki bir fonksiyondur.
+      u(x) değerleri diğer iki fonksiyonun değerleri arasında kaldığı için sıkıştırma teoremine göre limu(x)=1
 
+Örnek: Sıkıştırma Teoremi
+      √5-2x² ≤ u(x) ≤ √5-x²
 
+          . ..... .
+        .   . | .   .
+      .   .   |   .   .
+    .   .     |     .   .√5-x²
+       .      |      . √5-2x²
+             
+      u(x) bu iki fonksiyonun arasındaysa teoremi kullanabilmek için x=0'daki limitlerinin eşit olması gerekir
+      bu fonksiyonların limitlerini x yerine 0 yazarak hesaplanabilir.
+            lim √5-2x² = √5       lim √5-x² = √5
+            x->0                  x->0            
+      ikisinin de limitleri: √5
+      bu yüzden u(x) limiti: √5
 
+Örnek:
+      lim sinx/x = ?
+      x->∞
 
+      grafikte sinüs fonksiyonu kullanılır
+      sinüsün görüntü kümesi [-1,1] kapalı aralık
+      sinx, -1 ile 1 aralığında değerler alabilir...
+      -1 ≤ sinx ≤ 1
+      eşitsizlik x'e bölünür
+      -1/x ≤ sinx/x ≤ 1/x
+      burda x pozitif sonsuza gittiği için x'i pozitif olarak alabiliriz
+      böylece eşitsizlikleri yönü aynı kalır
+      x'e böldüğümüzde sinx/x'in -1/x ile 1/x arasında kaldığı görülür
 
+      -1/x = y ---> y=-1/x bunu grafiğe çizeriz
+            -1/x'in sonsuzdaki limiti: 0
+            çünkü x sonsuza giderken negatif taraftan fonksiyonun değeri sıfıra yaklaşır
+      1/x = y  ---> y=1/x bunu grafiğe çizeriz
+            1/x'in sonsuzdaki limiti: 0
+            çünkü x sonsuza giderken pozitif taraftan fonksiyonun değeri sıfıra yaklaşır
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+      iki fonksiyonunda sonsuzdaki limitleri: 0 = eşit      --> lim sinx/x = 0 
+      lim -1/x = 0      lim 1/x = 0                             x->∞
+      x->∞              x->∞
 
 
 
