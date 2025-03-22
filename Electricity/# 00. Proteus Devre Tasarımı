@@ -1,0 +1,76 @@
+# Devre Kartları Tasarlama (Proteus)
+
+# PROTEUS
+- Şematik devre çizimleri
+- Devre similasyonları
+- Devre kart tasarımları
+    (pcb) devre kartı, bütün elektronik cihazların kontrol ve işlevini sağlar
+    istediğin teknik özelliklere sahip cihazları geliştirmek
+
+kullanılan yazılımlar
+- proteus
+- arduino
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- devre kartı
+- proteus'a giriş
+- şematik devre çizimleri (teorik)
+- pcb tasarımı (pratik)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# devre kartı (pcb)
+  pcbler üzerinde devre elemanlarımızı yerleştirebileceğimiz iletken pedler bulundurur
+      ped- gri iletken noktalar
+           ped, "trace" iletim hattına bağlı
+
+  kullanıldıkları alana göre
+    tek            single layer pcb
+                      --- solder mask                          polimer katman (yalıtkan dış yüzey)
+                      --- copper layer                         bakır katman (iletken katman) - iletim hatları bu yol üzerinden çekilir - tüm devre elemanları biribirine bu katman sayesinde bağlı
+                      --- substrate
+                      --- solder mask
+    çift           double layer pcb
+                      --- solder mask    top layer
+                      --- copper layer
+                      --- substrate
+                      --- copper layer    bottom layer
+                      --- solder mask                  
+    çok katmanlı
+
+kumanda, ai controller - single layer pcb
+telefon, bilgisayar gibi karmaşık cihazlarda - double layer pcb
+pcbler geleneksel kablolu devrelere nazaran daha kullanışlıdır
+
+pbcler özel yazılımlar kullanılarak tasarlanır.
+- proteus
+- fritzing
+- kicad
+- circuitmaker
+- altium
+- cs eagle
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# devre çizimi
+devre elemanları ve iletim hatlarının detaylı çizimi - proteus
+
+Örnek: led çalıştırma
+- components (devre elemanları)
+    * resistör - direnç (R1, 10k)
+    * dc sources - doğru akım kaynağı
+        - dc voltage source (V1,1V) (pil gibi)
+        - dc voltage source (battery)
+        - dc current source
+    * led green (D1)
+    * ground - bütün devrelerde mutlaka topraklama yapılmalı. hata verir
+
+    standard componentler var şuan bunlar özelleştirilmeli
+    DC voltage source (V1, 5V)
+    Resistance        (R1, 200k)
+
+    componentler doğru yönde bağlanmalı
+    anot kısmı - akım girişi
+    katot kısmı - akım çıkışı
+
+
+
