@@ -6,6 +6,26 @@ PARA - İNEK ---> FAİZ - MEŞ - BUZAĞI
 eğer piyasada borç alınabilecek para azalırsa faizin artmasını bekleriz
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+1974’teki 250 sterlinin 2025’teki değerini hesaplamak için enflasyonu dikkate alıyoruz. Enflasyon, paranın zamanla satın alma gücünü kaybetmesini ifade eder ve bunu hesaplamak için genellikle Tüketici Fiyat Endeksi (CPI) gibi bir ölçüt kullanılır. İngiltere’de bu tür hesaplamalar için resmi veriler (örneğin, İngiltere Ulusal İstatistik Ofisi - ONS) temel alınır. Şimdi adım adım nasıl hesaplandığını açıklayayım:
+1. Temel Formül
+Geçmişteki bir miktarın bugünkü değerini bulmak için şu formül kullanılır:
+Bugünkü Değer = Eski Değer × Bugünkü Enflasyon Endeksi / Eski Yılın Enflasyon Endeksi
+
+2. Enflasyon Endeksi Verileri
+1974’te CPI endeksi yaklaşık 33.1 civarındaydı (1987=100 baz alınarak).
+2023’e kadar gelen verilere göre CPI endeksi yaklaşık 300-310 civarına ulaştı (yine 1987=100 bazında). 2025’e kadar iki yıl daha ekleyerek, yıllık %2-3 enflasyon varsayımıyla bu endeks 320-330 civarına çıkabilir.
+
+3. Hesaplama
+1974’teki 250 sterlini 2025’e uyarlamak için:
+Oran: 32033.1≈9.67\frac{320}{33.1} \approx 9.67\frac{320}{33.1} \approx 9.67
+(2025 endeksini 1974 endeksine böleriz; bu oran yaklaşık 9.5-10 arasında değişebilir).
+
+Bugünkü değer: 250×9.67=2417.5250 \times 9.67 = 2417.5250 \times 9.67 = 2417.5 sterlin.
+
+Bu hesaplama, kabaca bir tahminle 2025’te 250 sterlinin 2.400 sterlin civarında bir değere denk gelebileceğini gösterir. Ancak, kesin veriler yerine yuvarlak bir tahminle çalıştığımız için ve enflasyon oranları yıldan yıla değişebildiği için, daha gerçekçi bir aralık olarak 2.000-2.200 sterlin dedim.
+
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
