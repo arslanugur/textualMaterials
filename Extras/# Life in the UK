@@ -1,0 +1,135 @@
+village < town < city < county < region
+                        ******
+population
+median house prices
+
+01	Greater London	          8,901,000	London
+02	West Midlands	            2,910,000	West Midlands
+    02	Birmingham	              1,121,408	West Midlands * 
+    09	Coventry	                344,322	  West Midlands * 
+    21	Wolverhampton	            234,015	  West Midlands	*
+    63	Solihull	                107,728	West Midlands	
+    67	West Bromwich	    	      103,112	West Midlands	
+    17	Staffordshire	            1,125,000	West Midlands
+        Stoke-on-Trent
+    38	Worcestershire	          590,000	West Midlands
+    39	Warwickshire	            581,000	West Midlands
+    42	Shropshire	              492,000	West Midlands
+    45	Herefordshire	            203,000	West Midlands
+03	Greater Manchester	      2,824,000	North West
+04	West Yorkshire	          2,314,000	Yorkshire and the Humber
+05	Hampshire	                1,852,000	South East
+06	Kent	                    1,845,000	South East
+07	Essex	                    1,825,000	East of England
+08	Lancashire	              1,505,000	North West
+09	Merseyside	              1,496,000	North West
+10	South Yorkshire	          1,396,000	Yorkshire and the Humber
+11	Surrey	                  1,195,000	South East
+12	Devon              	      1,186,000	South West
+13	Hertfordshire	            1,174,000	East of England
+14	Nottinghamshire	          1,167,000	East Midlands
+15	North Yorkshire	          1,164,000	Yorkshire and the Humber, North East
+16	Tyne & Wear	              1,128,000	North East
+18	Lincolnshire      	      1,079,000	East Midlands, Yorkshire and the Humber
+19	Cheshire	                1,064,000	North West
+20	Derbyshire	              1,060,000	East Midlands
+21	Leicestershire	          1,058,000	East Midlands
+22	Somerset	                983,000	South West
+23	Berkshire          	      916,000	South East
+24	Gloucestershire	          907,000	South West
+25	Norfolk	                  894,000	East of England
+26	County Durham	            860,000	North East
+27	West Sussex        	      863,000	South East
+28	Cambridgeshire	          846,000	East of England
+29	East Sussex	              843,000	South East
+30	Buckinghamshire	          800,000	South East
+31	Suffolk	                  767,000	East of England
+32	Dorset	                  764,000	South West
+33	Northamptonshire	        741,000	East Midlands
+34	Wiltshire          	      713,000	South West
+35	Oxfordshire	              695,000	South East
+36	Bedfordshire	            653,000	East of England
+37	East Riding of Yorkshire	594,000	Yorkshire and the Humber
+40	Cornwall	                564,000	South West
+41	Cumbria                  	501,000	North West
+43	Bristol	                  470,000	South West
+44	Northumberland	          314,000	North East
+46	Isle of Wight	            130,000	South East
+47	Rutland	                  42,000	East Midlands
+
+
+
+01	London              8,776,535	Greater London
+03	Leeds	              536,321	  West Yorkshire	
+04	Liverpool	          506,552	  Merseyside	
+05	Sheffield	          500,552	  South Yorkshire	
+06	Manchester	        470,411	  Greater Manchester	
+07	Bristol	            425,232	  Bristol	
+08	Leicester	          406,588	  Leicestershire	
+10	Bradford	          333,931	  West Yorkshire	
+11	Nottingham	        299,797	  Nottinghamshire	
+12	Newcastle upon Tyne	286,468	  Tyne and Wear	
+13	Brighton and Hove	  277,106	  East Sussex	
+14	Derby	              275,599	  Derbyshire	
+15	Kingston upon Hull	270,806	  East Riding of Yorkshire	
+16	Plymouth            266,983	  Devon	
+17	Milton Keynes [a]	  197,354	  Buckinghamshire	
+18	Stoke-on-Trent	    260,602	  Staffordshire	
+19	Southampton	        249,604	  Hampshire	
+20	Northampton	      	243,511	  Northamptonshire	
+22	Luton	              233,498	  Bedfordshire	
+23	Portsmouth	      	223,312	  Hampshire	
+24	Reading	            203,808	  Berkshire	
+25	Norwich	            200,752	  Norfolk
+26  Bournemouth         196,445	Dorset	
+27	Peterborough        190,584	Cambridgeshire	
+28	Bolton	            184,073	Greater Manchester	
+29	Swindon	            183,638	Wiltshire	
+30	Southend-on-Sea	    182,287	Essex	
+31	Warrington	        174,954	Cheshire	
+32	Oxford	            170,798	Oxfordshire	
+33	Sunderland	        168,277	Tyne and Wear	
+34	Slough	            166,877	Berkshire	
+35	Kingswood and Fishponds	160,260	Gloucestershire
+36	Telford            	156,896	Shropshire	
+37	Cambridge	        	152,725	Cambridgeshire	
+38	Ipswich	            151,562	Suffolk	
+39	Blackpool	          149,056	Lancashire	
+40	Middlesbrough	      148,219	North Yorkshire	
+41	York	              141,671	North Yorkshire	
+42	Huddersfield	    	141,692	West Yorkshire	
+43	Poole	              140,977	Dorset	
+44	Watford	            131,326	Hertfordshire	
+45	Colchester	        130,248	Essex	
+46	Exeter	            126,156	Devon	
+47	Blackburn	          124,983	Lancashire	
+48	Crawley	            120,549	West Sussex	
+49	Gloucester	      	118,541	Gloucestershire	
+50	Stockport	        	117,941	Greater Manchester	
+51	Basingstoke	      	117,207	Hampshire	
+52	Basildon          	115,964	Essex	
+53	Cheltenham	      	115,959	Gloucestershire	
+54	Gateshead	        	115,316	Tyne and Wear	
+55	Worthing	        	111,621	West Sussex	
+56	Rochdale	        	111,261	Greater Manchester	
+57	Oldham	            110,718	Greater Manchester	
+58	Chelmsford	      	110,606	Essex	
+59	Birkenhead	      	109,848	Merseyside	
+60	Maidstone	          109,490	Kent	
+61	Gillingham	      	108,483	Kent	
+62	Salford	            108,409	Greater Manchester	
+64	St Helens	          107,677	Merseyside	
+65	Worcester	          105,455	Worcestershire	
+66	Lincoln	            104,565	Lincolnshire	
+68	Eastbourne	      	99,189	East Sussex	
+69	Wakefield	          97,852	West Yorkshire	
+70	Wythenshawe	      	97,635	Greater Manchester	
+71	Bedford	          	97,241	Bedfordshire	
+72	Hemel Hempstead	  	95,961	Hertfordshire	
+73	Preston	            94,508	Lancashire	
+74	Stevenage	          94,456	Hertfordshire	
+75	Southport	          94,421	Merseyside	
+76	Bath	              94,092	Somerset	
+77	Harlow	            93,566	Essex
+
+https://en.wikipedia.org/wiki/List_of_ONS_built-up_areas_in_England_by_population
