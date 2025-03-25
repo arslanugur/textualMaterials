@@ -1,45 +1,3 @@
-15/100 = 0.15
-85/100 = 0.85
-64/8	48/6	32/4
-
-mide kanseri nedenleri
-
-
-
-2/2/2/2 = 2:2 = 1
-	= 1:2 = 1/2
-	= 1/2:2 = 1/4 = 0.25
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Fraction
-
-numerator		denominator
-9		/	4
-
-    1	  2	3     4	    5	  6	7     8	    9    ...
-   1/4	 1/4   1/4   1/4   1/4	 1/4   1/4   1/4   1/4   ... 
--|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
- 0			 1			 2
- |-----------|-----------|-----------|-----------|
-      1/2	  1/2         1/2	  1/2
-
-
-
-       A
--|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
- 0     1     2	   3     4     5     6     7     8     9
-						 8/6   9/6
-       A = 1/6
-
-
-       A
--|-----|-----|-----|-----|-----|-----|-----|-----|-----|--
- 0     		   1		     2	   	       3
-       1/3   2/3   3/3
-
-	A = 1/3
-
-
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Ardışık Sayılar
 - Ardışık dört tam sayı:		n, n+1, n+2, n+3
@@ -93,44 +51,6 @@ Herhangi bir tabanda verilen sayının 10luk tabana çevrilmesi
 Herhangi bir tabanda verilen sayının başka bir tabanda yazılması
 Taban aritmetiğinde toplama, çıkarma, çarpma işlemleri
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Bölme ve Bölünebilme Kuralları
-
-	 A | B		A: Bölünen
-	   |____	B: Bölen	B =! 0
-	___| C		C: Bölüm	K < C ise B ile C yeri değiştirilebilir.. A ve K değişmez.
-	 K		K: Kalan	K < B
-
-	Rules:
-	A = B * C + K
-
-- 2 ile bölünebilme
-- 3 ile bölünebilme
-- 4 ile bölünebilme
-- 5 ile bölünebilme
-* 2 ve 3 ile tam bölünen sayılar 2*3=6 ile de tam bölünür
-* 3 ve 4 ile tam bölünen sayılar 3*4=12 ile de tam bölünür
-* 4 ve 6 ile tam bölünen sayılar 4*6=24 ile de tam bölünmez. çünkü 4 ve 6 aralarında asal değil
-- 8 ile bölünebilme
-- 9 ile bölünebilme
-- 10 ile bölünebilme
-- 11 ile bölünebilme
-
-- Bölen Kalan İlişkisi
-A,B,C,D,E,K_1,K_2 birer doğal sayı olmak üzere;
-A'nın C ile bölümünden kalan K_1
-B'nın C ile bölümünden kalan K_2 olsun
-Buna göre;
-A*B'nin C ile bölümünden kalan K_1*K_2
-A+B'nin C ile bölümünden kalan K_1+K_2
-A-B'nin C ile bölümünden kalan K_1-K_2
-D*A'nin C ile bölümünden kalan D*K_1
-A^E'nin C ile bölümünden kalan K_1^E
-Bu işlemlerde kalan değerler bölenden (C) büyük ise, tekrar C ile bölünerek kalan bulunur.
-
-- Çarpanlar ile Bölüm
-144 sayısı 2*6=12 ile tam bölünür ve 144 sayısı 2 ve 6 ile de tam bölünür.
-6 sayısı 2 ve 6 ile tam bölünür. Fakat 6 sayısı 2*6=12 ile tam bölünmez
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Faktöriyel, EBOB ve EKOK
@@ -194,30 +114,6 @@ kural: A sayısından küçük A ile aralarında asal olan doğal sayıların sa
   en az biri sıfırdan farklı iki ya da daha fazla tam sayının ortak bölenlerinin en büyüğüne bu sayıların en büyük ortak böleni denir ve ebob biçiminde gösterilir.
 # En küçük ortak kat (ekok)
 
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Rasyonel Sayılarda İşlemler
-  - kesrin Genişletilmesi     *k
-  - kesrin Sadeleştirilmesi   /k
-  - payda eşitlemek
-  - çarpma: pay paya, payda paydaya çarpılır
-  - bölme: ikinci kesrin paydası paya gelir
-	a/b/c = a*c/b
-	a/b/c = a/b*c
-	a*b/c = a*c+b / c
-	a*b/c = a*b / c
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Ondalık Kesir
-abcd/1000 = a,bcd = a+b/10+c/100+d/1000
-a = tam kısım
-bcd = ondalıklı kısım
-Devirli ondalık kesirlerin rasyonel sayıya dönüştürülmesi
-	a,bcd'ef'= abcdef-abcd/'99'000
-
-ab,c'de' = ab+0,c'de' = ab(cde-c/990)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Mutlak Değer
