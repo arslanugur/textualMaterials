@@ -1,0 +1,117 @@
+# Division
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Bölme ve Bölünebilme Kuralları
+
+	 A | B		A: Bölünen
+	   |____	B: Bölen	B =! 0
+	___| C		C: Bölüm	K < C ise B ile C yeri değiştirilebilir.. A ve K değişmez.
+	 K		K: Kalan	K < B
+
+	Rules:
+	A = B * C + K
+
+- 2 ile bölünebilme
+- 3 ile bölünebilme
+- 4 ile bölünebilme
+- 5 ile bölünebilme
+* 2 ve 3 ile tam bölünen sayılar 2*3=6 ile de tam bölünür
+* 3 ve 4 ile tam bölünen sayılar 3*4=12 ile de tam bölünür
+* 4 ve 6 ile tam bölünen sayılar 4*6=24 ile de tam bölünmez. çünkü 4 ve 6 aralarında asal değil
+- 8 ile bölünebilme
+- 9 ile bölünebilme
+- 10 ile bölünebilme
+- 11 ile bölünebilme
+
+- Bölen Kalan İlişkisi
+A,B,C,D,E,K_1,K_2 birer doğal sayı olmak üzere;
+A'nın C ile bölümünden kalan K_1
+B'nın C ile bölümünden kalan K_2 olsun
+Buna göre;
+A*B'nin C ile bölümünden kalan K_1*K_2
+A+B'nin C ile bölümünden kalan K_1+K_2
+A-B'nin C ile bölümünden kalan K_1-K_2
+D*A'nin C ile bölümünden kalan D*K_1
+A^E'nin C ile bölümünden kalan K_1^E
+Bu işlemlerde kalan değerler bölenden (C) büyük ise, tekrar C ile bölünerek kalan bulunur.
+
+- Çarpanlar ile Bölüm
+144 sayısı 2*6=12 ile tam bölünür ve 144 sayısı 2 ve 6 ile de tam bölünür.
+6 sayısı 2 ve 6 ile tam bölünür. Fakat 6 sayısı 2*6=12 ile tam bölünmez
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Ratios & Proportions
+
+Method: cross multiplication
+
+
+# Converting Ratios: Percentage, Decimal, Fraction
+  Percentage --> Decimal    --> Fraction
+  Decimal    --> Percentage --> Fraction
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Decimal
+  Rules of Decimals: Addition, Subtraction, Multiplication, Division
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Fraction
+numerator / denominator
+whole part / whole
+
+  Fraction Rules:
+    - Addition (Same Denominators or Different Denominators)
+    - Subtraction (Same Denominators or Different Denominators)
+    - Multiplication
+    - Division
+
+  Fraction Tricks
+  5/2 * 7/3 = 5*7  2*3 = 35/6
+  5/2 / 7/3 = 5*3  2*7 = 15/14
+  5/2 + 7/3 = 5*3;15  2*7;14 -> 15+14;29  2*3;6 = 29/6
+  5/2 - 7/3 = 5*3;15  2*7;14 -> 15-14;1   2*3;6 = 1/6
+
+  Fraction Types:
+    - Proper Fraction
+    - Improper Fraction
+    - Mixed Number
+
+  # to change a mixed number to an improper fraction * * * IMPORTANT
+    3.3/4 --> 3*4=12/3=15 --> 15/4
+
+  # to change an improper fraction to a mixed number = ?
+
+
+
+# Fraction
+
+numerator		denominator
+9		/	4
+
+    1	  2	3     4	    5	  6	7     8	    9    ...
+   1/4	 1/4   1/4   1/4   1/4	 1/4   1/4   1/4   1/4   ... 
+-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+ 0			 1			 2
+ |-----------|-----------|-----------|-----------|
+      1/2	  1/2         1/2	  1/2
+
+
+
+       A
+-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+ 0     1     2	   3     4     5     6     7     8     9
+						 8/6   9/6
+       A = 1/6
+
+
+       A
+-|-----|-----|-----|-----|-----|-----|-----|-----|-----|--
+ 0     		   1		     2	   	       3
+       1/3   2/3   3/3
+
+	A = 1/3
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Percentage
+
