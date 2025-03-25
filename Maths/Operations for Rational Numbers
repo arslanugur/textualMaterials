@@ -1,0 +1,11 @@
+# Rasyonel Sayılarda İşlemler
+  - kesrin Genişletilmesi     *k
+  - kesrin Sadeleştirilmesi   /k
+  - payda eşitlemek
+  - çarpma: pay paya, payda paydaya çarpılır
+  - bölme: ikinci kesrin paydası paya gelir
+	a/b/c = a*c/b
+	a/b/c = a/b*c
+	a*b/c = a*c+b / c
+	a*b/c = a*b / c
+
