@@ -2,14 +2,35 @@ village < town < city < county < region
                         ******
 median house prices
 
+North East
+North West
+Yorkshire and the Humber
+East Midlands
+West Midlands
+East of England
+London
+South East
+South West   
+
+
+Buckinghamshire (Northwest)               Hertfordshire (North)        Essex (Northeast and East)
+Berkshire (West)
+                                                                       Kent (Southeast)
+                                          Surrey (South)
+
+
 
     County & Cities           Pop.       Region
 -----------------------------------------------------------------------------
 01  Greater London            8,901,000  London
     01  London                8,776,535  Greater London
+        1. LHR - London Heathrow Airport
+        2. LGW - London Gatwick Airport
+        4. STN - London Stansted Airport
+        5. LTN - London Luton Airport
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 02  West Midlands             2,910,000  West Midlands
-    02  Birmingham            1,121,408  West Midlands  * 
+    02  Birmingham            1,121,408  West Midlands  *       7. BHX - Birmingham Airport
     09  Coventry              344,322    West Midlands  *
     21  Wolverhampton         234,015    West Midlands  *
     63  Solihull              107,728    West Midlands
@@ -20,9 +41,10 @@ median house prices
     39  Warwickshire          581,000    West Midlands
     42  Shropshire            492,000    West Midlands
     45  Herefordshire         203,000    West Midlands
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 03  Greater Manchester        2,824,000  North West
-    06  Manchester            470,411    Greater Manchester
+    06  Manchester            470,411    Greater Manchester    3. MAN - Manchester Airport
     28  Bolton                184,073    Greater Manchester
     50  Stockport             117,941    Greater Manchester
     56  Rochdale              111,261    Greater Manchester
@@ -160,7 +182,7 @@ median house prices
 41  Cumbria                   501,000    North West
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 43  Bristol                   470,000    South West
-    07  Bristol               425,232    Bristol
+    07  Bristol               425,232    Bristol        8. BRS - Bristol Airport
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 44  Northumberland            314,000    North East
 46  Isle of Wight             130,000    South East
@@ -169,5 +191,9 @@ median house prices
 36  Telford                   156,896    Shropshire
 65  Worcester                 105,455    Worcestershire
 
-
+6. EDI - Edinburgh Airport
+9. GLA - Glasgow Airport
 https://en.wikipedia.org/wiki/List_of_ONS_built-up_areas_in_England_by_population
+
+
+
