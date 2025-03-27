@@ -1,195 +1,118 @@
 village < town < city < county < region
-                        ******
+
 median house prices
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+North West                                          North East
+03  Greater Manchester    2,824,000                 16  Tyne & Wear (Newcastle)   1,128,000
+    06  Manchester (3. MAN) 470,411                       12  Newcastle upon Tyne   286,468
+    28  Bolton              184,073                       33  Sunderland            168,277
+    50  Stockport           117,941                       54  Gateshead             115,316
+    56  Rochdale            111,261                   26  County Durham             860,000
+    57  Oldham              110,718                   44  Northumberland            314,000
+    62  Salford             108,409                   -Teesside
+    70  Wythenshawe          97,635
+08  Lancashire            1,505,000
+    39  Blackpool           149,056
+    47  Blackburn           124,983
+    73  Preston              94,508
+09  Merseyside            1,496,000
+    04  Liverpool           506,552
+    59  Birkenhead          109,848
+    64  St.Helens           107,677
+    75  Southport            94,421
+19  Cheshire              1,064,000
+    31  Warrington          174,954
+41  Cumbria                 501,000
 
-North East
-North West
-Yorkshire and the Humber
-East Midlands
-West Midlands
-East of England
-London
-South East
-South West   
+                                                    York/Humber (Yorkshire and the Humber)
+                                                    15  North Yorkshire                       1,164,000
+                                                        40  Middlesbrough                       148,219
+                                                        41  York                                141,671
+                                                    04  West Yorkshire                        2,314,000
+                                                        03  Leeds                               536,321
+                                                        10  Bradford                            333,931
+                                                        42  Huddersfield                        141,692
+                                                        69  Wakefield                            97,852
+                                                    10  South Yorkshire                       1,396,000
+                                                        05  Sheffield                           500,552
+                                                    37  Humber Area (East Riding of Yorkshire)  594,000
+                                                        15  Kingston upon Hull    270,806
 
 
-Buckinghamshire (Northwest)               Hertfordshire (North)        Essex (Northeast and East)
-Berkshire (West)
-                                                                       Kent (Southeast)
-                                          Surrey (South)
+West Midlands                                       East Midlands
+02  Birmingham (7. BHX)   1,121,408                 14  Notts (Nottinghamshire)   1,167,000
+09  Coventry              344,322                       11  Nottingham            299,797
+21  Wolverhampton         234,015                   18  Lincolnshire              1,079,000  East Midlands, Yorkshire and the Humber
+63  Solihull              107,728                       66  Lincoln               104,565
+67  West Bromwich         103,112                   20  Derbyshire                1,060,000
+17  Staffs (Staffordshire)1,125,000                     14  Derby                 275,599
+    18  Stoke-on-Trent    260,602                   21  Leicestershire            1,058,000                
+38  Worcestershire        590,000                       08  Leicester             406,588
+    65  Worcester         105,455                   33  Northants (Northamptonshire) 741,000 
+39  Warwickshire          581,000                       20  Northampton           243,511
+42  Shropshire            492,000                   47  Rutland                   42,000 
+    36  Telford           156,896
+45  Herefordshire         203,000                    
 
 
 
-    County & Cities           Pop.       Region
------------------------------------------------------------------------------
-01  Greater London            8,901,000  London
-    01  London                8,776,535  Greater London
-        1. LHR - London Heathrow Airport
-        2. LGW - London Gatwick Airport
-        4. STN - London Stansted Airport
-        5. LTN - London Luton Airport
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-02  West Midlands             2,910,000  West Midlands
-    02  Birmingham            1,121,408  West Midlands  *       7. BHX - Birmingham Airport
-    09  Coventry              344,322    West Midlands  *
-    21  Wolverhampton         234,015    West Midlands  *
-    63  Solihull              107,728    West Midlands
-    67  West Bromwich         103,112    West Midlands
-    17  Staffordshire         1,125,000  West Midlands
-        18  Stoke-on-Trent    260,602    Staffordshire
-    38  Worcestershire        590,000    West Midlands
-    39  Warwickshire          581,000    West Midlands
-    42  Shropshire            492,000    West Midlands
-    45  Herefordshire         203,000    West Midlands
+                            Anglia/Essex (East of England)
+                            07  Essex                     1,825,000
+                                30  Southend-on-Sea         182,287
+                                45  Colchester              130,248
+                                52  Basildon                115,964
+                                58  Chelmsford              110,606
+                                77  Harlow                   93,566
+                            13  Hertfordshire (Herts)     1,174,000
+                                44  Watford                 131,326
+                                72  Hemel Hempstead          95,961
+                                74  Stevenage                94,456
+                            25  Norfolk                     894,000
+                                25  Norwich                 200,752
+                            28  Cambridgeshire              846,000
+                                37  Cambridge               152,725
+                                27  Peterborough            190,584
+                            31  Suffolk                     767,000
+                                38  Ipswich                 151,562
+                            36  Beds (Bedfordshire)       653,000
+                                22  Luton                 233,498
+                                71  Bedford                97,241
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-03  Greater Manchester        2,824,000  North West
-    06  Manchester            470,411    Greater Manchester    3. MAN - Manchester Airport
-    28  Bolton                184,073    Greater Manchester
-    50  Stockport             117,941    Greater Manchester
-    56  Rochdale              111,261    Greater Manchester
-    57  Oldham                110,718    Greater Manchester
-    62  Salford               108,409    Greater Manchester
-    70  Wythenshawe            97,635    Greater Manchester
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-04  West Yorkshire            2,314,000  Yorkshire and the Humber
-    03  Leeds                 536,321    West Yorkshire
-    10  Bradford              333,931    West Yorkshire
-    42  Huddersfield          141,692    West Yorkshire
-    69  Wakefield              97,852    West Yorkshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-05  Hampshire                 1,852,000  South East
-    19  Southampton           249,604    Hampshire
-    23  Portsmouth            223,312    Hampshire
-    51  Basingstoke           117,207    Hampshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-06  Kent                      1,845,000  South East
-    60  Maidstone             109,490    Kent
-    61  Gillingham            108,483    Kent
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-07  Essex                     1,825,000  East of England
-    30  Southend-on-Sea       182,287    Essex
-    45  Colchester            130,248    Essex
-    52  Basildon              115,964    Essex
-    58  Chelmsford            110,606    Essex
-    77  Harlow                93,566     Essex
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-08  Lancashire                1,505,000  North West
-    39  Blackpool             149,056    Lancashire
-    47  Blackburn             124,983    Lancashire
-    73  Preston                94,508    Lancashire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-09  Merseyside                1,496,000  North West
-    04  Liverpool             506,552    Merseyside
-    59  Birkenhead            109,848    Merseyside
-    64  St.Helens             107,677    Merseyside
-    75  Southport              94,421    Merseyside
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-10  South Yorkshire           1,396,000  Yorkshire and the Humber
-    05  Sheffield             500,552    South Yorkshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-11  Surrey                    1,195,000  South East
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-12  Devon                     1,186,000  South West
-    16  Plymouth              266,983    Devon
-    46  Exeter                126,156    Devon
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-13  Hertfordshire             1,174,000  East of England
-    44  Watford               131,326    Hertfordshire
-    72  Hemel Hempstead        95,961    Hertfordshire
-    74  Stevenage              94,456    Hertfordshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-14  Nottinghamshire           1,167,000  East Midlands
-    11  Nottingham            299,797    Nottinghamshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-15  North Yorkshire           1,164,000  Yorkshire and the Humber, North East
-    40  Middlesbrough         148,219    North Yorkshire
-    41  York                  141,671    North Yorkshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-16  Tyne & Wear               1,128,000  North East
-    12  Newcastle upon Tyne   286,468    Tyne and Wear
-    33  Sunderland            168,277    Tyne and Wear
-    54  Gateshead             115,316    Tyne and Wear
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-18  Lincolnshire              1,079,000  East Midlands, Yorkshire and the Humber
-    66  Lincoln               104,565    Lincolnshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-19  Cheshire                  1,064,000  North West
-    31  Warrington            174,954    Cheshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-20  Derbyshire                1,060,000  East Midlands
-    14  Derby                 275,599    Derbyshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-21  Leicestershire            1,058,000  East Midlands
-    08  Leicester             406,588    Leicestershire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-22  Somerset                  983,000    South West
-    76  Bath                  94,092     Somerset
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-23  Berkshire                 916,000    South East
-    24  Reading               203,808    Berkshire
-    34  Slough                166,877    Berkshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-24  Gloucestershire           907,000    South West
-    35  Kingswood & Fishponds 160,260    Gloucestershire
-    49  Gloucester            118,541    Gloucestershire
-    53  Cheltenham            115,959    Gloucestershire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-25  Norfolk                   894,000    East of England
-    25  Norwich               200,752    Norfolk
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-26  County Durham             860,000    North East
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-27  West Sussex               863,000    South East
-    48  Crawley               120,549    West Sussex
-    55  Worthing              111,621    West Sussex
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-28  Cambridgeshire            846,000    East of England
-    37  Cambridge             152,725    Cambridgeshire
-    27  Peterborough          190,584    Cambridgeshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-29  East Sussex               843,000    South East
-    13  Brighton and Hove     277,106    East Sussex
-    68  Eastbourne            99,189     East Sussex
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-30  Buckinghamshire           800,000    South East
-    17  Milton Keynes         197,354    Buckinghamshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-31  Suffolk                   767,000    East of England
-    38  Ipswich               151,562    Suffolk
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-32  Dorset                    764,000    South West
-    26  Bournemouth           196,445    Dorset
-    43  Poole                 140,977    Dorset
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-33  Northamptonshire          741,000    East Midlands
-    20  Northampton           243,511    Northamptonshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-34  Wiltshire                 713,000    South West
-    29  Swindon               183,638    Wiltshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-35  Oxfordshire               695,000    South East
-    32  Oxford                170,798    Oxfordshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-36  Bedfordshire              653,000    East of England
-    22  Luton                 233,498    Bedfordshire
-    71  Bedford                97,241    Bedfordshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-37  East Riding of Yorkshire  594,000    Yorkshire and the Humber
-    15  Kingston upon Hull    270,806    East Riding of Yorkshire
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-40  Cornwall                  564,000    South West
-41  Cumbria                   501,000    North West
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-43  Bristol                   470,000    South West
-    07  Bristol               425,232    Bristol        8. BRS - Bristol Airport
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-44  Northumberland            314,000    North East
-46  Isle of Wight             130,000    South East
-47  Rutland                   42,000     East Midlands
-..
-36  Telford                   156,896    Shropshire
-65  Worcester                 105,455    Worcestershire
+
+                            London
+                            -Northern London
+                            -Southern London
+                            01  Greater London            8,901,000
+                                01  London                8,776,535
+                                1. LHR - London Heathrow Airport
+                                2. LGW - London Gatwick Airport
+                                4. STN - London Stansted Airport
+                                5. LTN - London Luton Airport
+
+South West                                          South East
+12  Devon                     1,186,000             05  Hampshire                 1,852,000
+    16  Plymouth              266,983                   19  Southampton           249,604
+    46  Exeter                126,156                   23  Portsmouth            223,312
+22  Somerset                  983,000                   51  Basingstoke           117,207
+    76  Bath                  94,092                06  Kent                      1,845,000
+24  Gloucs (Gloucestershire)  907,000                   60  Maidstone             109,490
+    35  Kingswood & Fishponds 160,260                   61  Gillingham            108,483
+    49  Gloucester            118,541               11  Surrey                    1,195,000
+    53  Cheltenham            115,959               23  Berkshire                 916,000
+32  Dorset                    764,000                   24  Reading               203,808
+    26  Bournemouth           196,445                   34  Slough                166,877
+    43  Poole                 140,977               27  West Sussex               863,000
+34  Wiltshire                 713,000                   48  Crawley               120,549
+    29  Swindon               183,638                   55  Worthing              111,621
+40  Cornwall                  564,000               29  East Sussex               843,000
+43  Bristol Area              470,000                   13  Brighton and Hove     277,106
+    07  Bristol (08. BRS)     425,232                   68  Eastbourne             99,189 
+                                                    30  Bucks (Buckinghamshire)   800,000
+                                                        17  Milton Keynes         197,354  
+                                                    35  Oxfordshire               695,000
+                                                        32  Oxford                170,798
+                                                    46  Isle of Wight             130,000
+
 
 6. EDI - Edinburgh Airport
 9. GLA - Glasgow Airport
