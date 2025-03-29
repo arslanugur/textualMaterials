@@ -5,9 +5,9 @@
 # Cocktails
 bellini                 u  peach puree, prosecco
 bloody mary             l  vodka, tomato juice, Lemon Juice, Hot Sauce, Worcestershire Sauce, black pepper, 1 Pinch Garlic Salt
-mojito                  l  rum, lime juice, mint leaves, sugar, Soda
-gin fizz                l  gin, lime, soda
-tom collins             l  gin, lemon, soda
+mojito *                l  rum, lime juice, mint leaves, sugar, Soda
+gin fizz                l  gin, lemon, soda
+tom collins *    shake  l  2o/60ml gin, 1o/30ml Fresh Lemon Juice/lime, club soda, Lemon slice or cherry for garnish
 bronx                   v  2o gin, 3/4o sweet vermouth, 3/4o dry vermouth, 1o orange juice
 daiquiri                v  2o rum, 1o lime juice. lemonade
 frozen strawberry daiq. v  rum, 8o mashed strawberry, 2o lime juice
@@ -21,8 +21,8 @@ pornstar martini        v  vodka vanilla, prosecco, passion fruit, pineapple
 margarita               v  Tequila, Lime Juice, Triple Sec, Salt
 brandy alexander        v  brandy, baileys
 cosmopolitan            v  11/2o vodka, 1/2o lime juice, 1o triple sec/lemonade, 1o cranberry/grenadine
-negroni                 o  gin, sweet vermouth, campari
-pinacolada              l  rum, pineapple juice, milk, coconut cream
+negroni *               o  30ml/1o gin, 30ml/1o sweet vermouth rosso, 30ml/1o campari, orange peel for garnish
+pinacolada              u  2o/60ml rum, 4o/120ml pineapple juice, milk, 1.5o/45ml coconut cream  ,Pineapple wedge and/or maraschino cherry, for garnish
 screwdriver             l  vodka, orange juice
 white lady              v  gin, orange liquor, lemon juice
 black russian           o  vodka, kahlua
@@ -35,15 +35,14 @@ godmother               ol 50ml vodka, 25ml amaretto, soda
 moscow mule             o  1.5o vodka, 0.5o lime juice, ginger Beer
 long island ice tea     l  vodka, rum, gin, tequila, lemon juice, coke
 amerotto sour           ol amaretto, lemon juice, lemonade
-sex on the beach        l  vodka, orange Juice, archers, grenadine
+sex on the beach *      l  1.5o/45ml vodka, 0.5o/15ml archers, 2o/60ml orange Juice, 2o/60ml cranberry Juice, grenadine, 
 tequila sunrise         l  2o tequila, 4o orange juice, 1/2 grenadine
 malibu sunset           bl vodka, malibu, archers, grenadine
 
 # Jigger Measurement
-
   - 20ml/40ml
-  - 25ml/50ml
-  - 30ml/60ml
+  - 25ml/50ml  
+  - 30ml/60ml  1ounce/2ounces
 
     ml = cc                        
     
@@ -131,6 +130,96 @@ Avrupa Peynir ve Şarap Gurmeliği - Sicimoğlu
   
   
   
-  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Wines
+Red
+Merlot:             Ed Knows                      (Moldovia)
+                    Chateau Londre Bordeaux       (France)
+                    Barbare Notr                  (Turkey)
+
+Cabarnet Sauvignon: Talay Adayıldızı              (Turkey)
+Tempranillo:        Vilapena                      (Italy)
+
+                    La fin du Jour Vin Rouge Sec          (France)
+                    Chevalier Cavinal                     (France)
+                    Combes Saint Sauvenur Cotes du Rhone  (France)
+Merlot Cabernet:    Bel Air Bordeaux                      (France)
+
+White
+Airen:                 Vinapena (Spain)
+Colombard-Chardonnay:  Gold Country (US)
+
+
+Öküzgözü:           Türkiye'ye özgü bir üzüm çeşididir. Genellikle Elazığ ve çevresinde yetiştirilir. Yumuşak tanenli, meyvemsi (kiraz, böğürtlen) ve baharatlı aromalara sahip, dengeli kırmızı şaraplar üretilir.
+Boğazkere:          Yine Türkiye'ye özgü bir üzüm çeşididir. Diyarbakır ve çevresinde yoğun olarak bulunur. Dolgun gövdeli, yüksek tanenli, güçlü ve yoğun kırmızı şaraplar ortaya çıkarır. Kırmızı meyve, baharat ve topraksı notalar taşır. Genellikle Öküzgözü ile harmanlanır.
+Kalecik Karası:     Ankara'nın Kalecik ilçesine özgü bir üzümdür. Hafif gövdeli, düşük tanenli, parlak kırmızı meyve (çilek, ahududu) aromalarına sahip, ferahlatıcı kırmızı şaraplar üretilir.
+Papazkarası:        Trakya bölgesinde yaygın olarak yetiştirilen bir üzümdür. Orta gövdeli, yumuşak tanenli, kırmızı ve siyah meyve aromalarına sahip, kolay içimli kırmızı şaraplar elde edilir.
+Alicante Bouschet:  Türkiye'de de yetiştirilen, koyu renkli ve yoğun yapılı bir üzümdür. Genellikle diğer üzümlerle harmanlanarak renk ve gövde katmak için kullanılır.
+
+Dünyada Yaygın Olan Kırmızı Şarap Çeşitleri (Türkiye'de de bulunabilir):
+Cabernet Sauvignon: Dünyanın en popüler kırmızı üzümlerinden biridir. 
+                    Dolgun gövdeli, yüksek tanenli, siyah meyve (siyah frenk üzümü, böğürtlen), sedir ağacı ve baharat notalarına sahip, güçlü ve uzun ömürlü şaraplar üretir.
+Merlot:             Cabernet Sauvignon'a göre daha yumuşak tanenli ve daha erken olgunlaşan bir üzümdür.
+                    Orta gövdeli, kırmızı ve siyah meyve (kiraz, erik), çikolata ve bitkisel notalar taşır.
+                    Genellikle Cabernet Sauvignon ile harmanlanır.
+Pinot Noir:         İnce kabuklu ve hassas bir üzümdür. Hafif gövdeli, düşük tanenli, parlak kırmızı meyve (çilek, ahududu, vişne), topraksı ve baharatlı aromalara sahip, zarif ve kompleks şaraplar üretir.
+Syrah (Shiraz):     Bölgesine göre farklı karakterler gösterebilir.
+                    Sıcak iklimlerde dolgun gövdeli, baharatlı (karabiber), siyah meyve ve dumanlı notalara sahipken, serin iklimlerde daha zarif ve kırmızı meyvemsi olabilir.
+Sangiovese:         İtalya'nın en önemli kırmızı üzümlerinden biridir.
+                    Orta gövdeli, yüksek asitli, kiraz, erik, baharat ve topraksı notalara sahip, canlı ve dengeli şaraplar üretir.
+                    Özellikle Chianti bölgesinde ünlüdür.
+Nebbiolo:           İtalya'nın Piedmont bölgesine özgü, yüksek tanenli ve asitli bir üzümdür.
+                    Katran, gül, kiraz ve baharat aromalarına sahip, güçlü ve uzun ömürlü şaraplar üretir (örneğin Barolo ve Barbaresco).
+Zinfandel (Primitivo): Kökeni Hırvatistan olan bu üzüm, özellikle Kaliforniya'da popülerdir. 
+                    Dolgun gövdeli, yüksek alkollü, böğürtlen, ahududu, kuru üzüm ve baharat notalarına sahip, yoğun ve meyvemsi şaraplar üretir.
+
+Tanenler, şaraba buruk, acımtırak ve bazen de "kurutucu" bir his veren maddelerdir.
+yüksek tanen - sert - içimi zor        Cabernet Sauvignon, Nebbiolo
+düşük tanen - yumuşak - içimi kolay    Merlot, Pinot Noir
+
+"Gövdeli" ifadesi, şarabın ağızdaki ağırlığını, dolgunluğunu ve yoğunluğunu ifade eder.
+
+                                                       sıcak bölgede olgun
+                                  sert - zor içim      olgunlaştıkça yumuşar   yumuşak - kolay içim
+                                  yüksek tanen         orta tanen              düşük tanen
+                                  ----------------------------------------------------------------
+hafif gövdeli    light-bodied                                                  Pinot Noir
+orta gövdeli     medium-bodied                         Sangiovese              Merlot
+dolgun gövdeli   full-bodied      Cabernet Sauvignon   Shiraz, Zinfandel
+
+                 light-bodied                                                  Kalecik karası, öküzgözü
+                 medium-bodied                                                 papazkarası
+                 full-bodied      Boğazkere, Alicante
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Narince
+Emir
+Bornova Misketi
+Sultaniye
+
+Chardonnay
+
+
+Gewürztraminer
+                                   
+                 tatlı             sek / keskin
+                 düşük asit        yüksek asitli
+  light-bodied                     Pinot Grigio
+  medium-bodied                    Riesling
+  full-bodied    Viognier
+
+
+                                    Sauvignon Blanc
+                  Narince           Emir
+                  Sultaniye
+                  tatlı bornova     sek bornova
+
+
+
+
+
+
+
   
   
