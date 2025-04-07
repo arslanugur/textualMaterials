@@ -1,5 +1,17 @@
 village < town < city < county < region
 
+oxford
+edinburg
+norwich
+york
+exeter
+reading
+swindon
+southampton - affordable real estate
+bristol
+plymouth
+
+
 median house prices
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 North West                                          North East
@@ -27,7 +39,7 @@ North West                                          North East
                                                     York/Humber (Yorkshire and the Humber)
                                                     15  North Yorkshire                       1,164,000
                                                         40  Middlesbrough                       148,219
-                                                        41  York                                141,671
+                                                        41  York * * *                          141,671
                                                     04  West Yorkshire                        2,314,000
                                                         03  Leeds                               536,321
                                                         10  Bradford                            333,931
@@ -68,7 +80,7 @@ West Midlands                                       East Midlands
                                 72  Hemel Hempstead          95,961
                                 74  Stevenage                94,456
                             25  Norfolk                     894,000
-                                25  Norwich                 200,752
+                                25  Norwich * * *           200,752
                             28  Cambridgeshire              846,000
                                 37  Cambridge               152,725
                                 27  Peterborough            190,584
@@ -89,9 +101,9 @@ West Midlands                                       East Midlands
                                 4. STN - London Stansted Airport
                                 5. LTN - London Luton Airport
 
-South West                                          South East
-12  Devon                     1,186,000             05  Hampshire                 1,852,000
-    16  Plymouth              266,983                   19  Southampton           249,604
+South West * * *                                    South East
+12  Devon * * *               1,186,000             05  Hampshire                 1,852,000
+    16  Plymouth              266,983                   19  Southampton * * *     249,604
     46  Exeter                126,156                   23  Portsmouth            223,312
 22  Somerset                  983,000                   51  Basingstoke           117,207
     76  Bath                  94,092                06  Kent                      1,845,000
@@ -99,22 +111,22 @@ South West                                          South East
     35  Kingswood & Fishponds 160,260                   61  Gillingham            108,483
     49  Gloucester            118,541               11  Surrey                    1,195,000
     53  Cheltenham            115,959               23  Berkshire                 916,000
-32  Dorset                    764,000                   24  Reading               203,808
+32  Dorset                    764,000                   24  Reading * * *         203,808
     26  Bournemouth           196,445                   34  Slough                166,877
     43  Poole                 140,977               27  West Sussex               863,000
 34  Wiltshire                 713,000                   48  Crawley               120,549
-    29  Swindon               183,638                   55  Worthing              111,621
+    29  Swindon * * *         183,638                   55  Worthing              111,621
 40  Cornwall                  564,000               29  East Sussex               843,000
-43  Bristol Area              470,000                   13  Brighton and Hove     277,106
+43  Bristol Area * * *        470,000                   13  Brighton and Hove     277,106
     07  Bristol (08. BRS)     425,232                   68  Eastbourne             99,189 
                                                     30  Bucks (Buckinghamshire)   800,000
                                                         17  Milton Keynes         197,354  
                                                     35  Oxfordshire               695,000
-                                                        32  Oxford                170,798
+                                                        32  Oxford * * *          170,798
                                                     46  Isle of Wight             130,000
 
 
-6. EDI - Edinburgh Airport
+6. EDI - Edinburgh Airport * * *
 9. GLA - Glasgow Airport
 https://en.wikipedia.org/wiki/List_of_ONS_built-up_areas_in_England_by_population
 
