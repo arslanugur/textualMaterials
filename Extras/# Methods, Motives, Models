@@ -1,19 +1,29 @@
 
-konu öğrenmeye gerek yok, metot öğren
-önemli olan konuşmak değil, problemi çözebilmeyi öğrenebilmek
+- konu öğrenmeye gerek yok, metot öğren
+- önemli olan konuşmak değil, problemi çözebilmeyi öğrenebilmek
 
 Bazen
-- ezberden konuşursun
-- öğrenip konuşursun
-- yorumlayıp konuşursun
+- ezberden konuşursun		analiz & copy
+- öğrenip konuşursun		analiz & analiz
+- yorumlayıp konuşursun		analiz & sentez
+
+
+🔻 Certainty
+   bir patron olarak aynı işi birçok kişiye vermek: böylece işi bitirmek garanti olur. 
+   he brought all of you on this train hoping you would kill each other.
+   he bought every ticket until the end of the line
+
+🔻 Supply & demand
+	bir ülkede az olan şeylere mesleği yöneltmek: beyaz yaka/mavi yaka
+	sanayiye veririm seni, keşke verseydi.. - ekonominin gelecekteki arz ve talebi
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 🔻 Aristoteles'in dört Neden Öğretisi
 	Herhangi bir şeyin ve bir bütün olarak evrende ortaya çıkmasını, varlık kazanmasını sağlayan dört neden vardır. 
-	Maddi neden (causa materialis)	- Ağaç (Kaynak)		Yatırımı nereye yapacağız?	sen
-	Formal neden (causa formalis)	- Masa (Biçim, Şekil)	Ürün ne olacak?			sen
-	Etken neden (causa efficiens)	- Marangoz (Faili) 	İşi kim yapacak?		sen	Ağacın o forma gelmesi kendiliğinden gerçekleşmez.
-	Ereksel neden (causa finalis)	- Yemek masası (Amacı)	Nasıl pazarlayacağız?		sen	Bir amaç bulunmalı (Para, Satış vs)
+	Maddi neden (causa materialis)	- Ağaç (Kaynak)			Yatırımı nereye yapacağız?	sen
+	Formal neden (causa formalis)	- Masa (Biçim, Şekil)	Ürün ne olacak?				sen
+	Etken neden (causa efficiens)	- Marangoz (Faili) 		İşi kim yapacak?			sen		Ağacın o forma gelmesi kendiliğinden gerçekleşmez.
+	Ereksel neden (causa finalis)	- Yemek masası (Amacı)	Nasıl pazarlayacağız?		sen		Bir amaç bulunmalı (Para, Satış vs)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 🔻 FIVE TOP IDEAS IN THE WORLD
@@ -47,7 +57,7 @@ Bazen
 
 🔻 Theories
 	The Sunk Cost Fallacy		Decision Making		batık maliyet yanılgısı
-	Survivorship Bias		Critical Thinking	hayatta kalma sapması/ön yargısı
+	Survivorship Bias			Critical Thinking	hayatta kalma sapması/ön yargısı
 	The Infinity Hotel Paradox	Abstraction
 	The Monty Hall Paradox		Probability
 
@@ -59,18 +69,7 @@ Bazen
 
 	Ars Longa, Vita Brevis - skillfulness takes time and life is short
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-🔻 Business Method
 
-	Trade		
-	Barter/Trampa	Para kullanmaksızın ürünlerin değişimiyle (takas) yapılan ticaret.
-	Quid Pro Quo	...
-	SaaS		Software as a service
-	PaaS		Platform-based/Application as a service - cloud computing services
-	IaaS		Infrastructure as a service
-
-	B2B
-	P2P		peer-to-peer	no server/data center	torrent
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -83,71 +82,6 @@ Bazen
 		ürettiği mal/hizmetten karını fazlasıyla alır.. vergiler, harç...
 
 # Bakanlıklar..
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-
-
-# Intelligence
-Sular yükseldikçe daha da yüksek bir yer bulmak.
-	bir tufan geliyorsa gemi hazırlamak... Artificial Intelligence
-
-Hans Moravec - Robotik Kodlama
-	Landscape of Human Competence
-	İnsan zekasının coğrafyası, Sular altında kalan yerler bilgisayarların yaptığı işler
-	İnsan becerileri daralıyor..
-
-İyi görünen, öz güveni yüksek, Sonuç odaklı
-Düşünme becerisi, İyi bir hafıza
-uyumlu olabilmek
-niş bilgiye sahip olmak, tek bir dalda
-
-Alfred Binet - Psikolog
-	Belirli bir hedef belirleyip bu hedefe yönelik çalışabilme becerisi
-	Belirlenen hedefe ulaşmak için gerekli değişiklikleri, uyarlamaları yapabilme kapasitesi
-	Özeleştiri becerisi
-
-William Stern - Psikolog
-	Zeka, bir insanın zihnini yeni oluşan şartlara bilinçli bir şekilde adapte edebilme kapasitesidir.
-		yeni problemler ve yaşam şartlarına genel olarak ayak uydurabilme becerisi
-
-Zeka, 
-	Kompleks fikirleri anlama, 
-	çevreye uyum sağlama becerisi, 
-	deneyimden öğrenme/hatalardan ders çıkarmak, 
-	mantık yürütme, A, B, C, D .. ilişkileri
-	soyut düşünebilme becerisi 
-	ve düşünce yolu ile sorunların üstesinden gelme becerisi.
-
-Charles Spearman
-	İki faktörlü zeka teorisi
-	G Factor - Ana faktör, General Intelligence, Energy.
-	S Factor - Ara faktör, Specific Ability: Verbal, Mechanical, Spatial, Numerical
-
-L. L. Thurstone
-	Primary Mental Abilities
-		Sözlü anlama: Kelimeleri anlama 
-		Kelime yetkinliği: kelimeleri değişik bi düzende yazıldığında anlayabilmek, anagramlar
-		Sayılar: 
-		Mekansal beceri: şekiller, yerler, boyutları, geometrik biçimleri farklı ortamlarda algılayabilme becerisi
-		Hafıza: Memory
-		Algılama Hızı: Benzerlik ve farklılıkları anlayabilmek, bağlantıları bulabilmek
-		Mantık yürütmek: raslantısal bir çevrede bağlantıları, düzeni, tekrarları görebilmek.
-
-
-Howard Gardner - Multiple Intelligence
-
-
-Analitik Zeka, Yaratıcı Zeka, Pratik Zeka
-1. Deneyimden öğrenilen, 2. Tanrı vergisi
-
-Fikirlerine karşı bağımsız, yni fikirlere açık ve kolayca terkedebilen,
-	akla/mantığa daha uygun fikirleri kabul edebilen,
-		çok yönlü bir tartışmayı tüm detaylarıyla yürütebilen,
-			bir sorun ile karşılaştığında neden-sonucu görebilmek
-		sadece A B değil, ABCD vs arasındaki bağlantıyı da aynı/farklı resim içinde görebilmek * * * * * * * * * *
-		Eylemlerinin sonuçlarını düşünebilen --> proactive
-doğrusu ya da yanlışı ile öz muhasebesini yapabilendir.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -284,144 +218,6 @@ Metot nedir?
 		spiritual.
 
 
-
-
-🔻 Rhetorical Triangle: Ethos, Pathos, Logos
-	Konuşmalarında didaktik olmak sosyal açıdan iyidir. tecrübelerinde bile öğretici birşeyler vardır.
-	Kronolojik anlatman daha verimli.
-	
-	Ethos - Getting your audience to trust you
-	Pathos - Getting your audience to feel
-	Logos - Getting your audience to think
-
-	Speech
-	1. Ethos		Ethos is an appeal to the authority or credibility of the presenter.
-				Appeal: Involves convincing the audience of the character or credibility of the presenter
-				Content: Involves showing presenter's expertise, knowledge and experience in the field.
-					Personal anecdotes (Why me?), Client testimonials, Success stories, Track record, Titles
-				Delivery: Eye contact, Body language, Vocal variety, Poise
-				Credibility and Ethics (Trustworthiness, Authority, Morals, Intelligence)
-				
-				Aristotle has named three categories of ethos:
-				- Phronesis: useful skills & wisdom
-				- Arete: virtue, goodwill
-				- Eunoia: goodwill towards the audience
-
-	2. Pathos		Pathos is an appeal to the emotions of the audience. Pity
-				Appeal: Involves convincing the audience of an argument by creating an emotional response.
-				Content: Involves arousing the feelings and imagination of the audience.
-					Stories, Positive and negative emotions like frustration, anger, love, or respect
-				Delivery: Coherence (body language and voice are coherent with the specific content)	
-				Emotions, Feelings, and Beliefs, Prejudices, Motivations
-
-	3. Logos		Logos is a logical appeal or appeal to reason.
-				Appeal: Involves convincing the audience by reason.
-				Content: Involves presetting facts, information and evidence.
-					Arguments, Benefits, Facts, Figures, Data, Numbers, Statistics, Scientific research, Processes, Product characteristics
-				Logic and Reason (Evidence, Data, Universal Truths)
-
-	4. Plus			Modes/Techniques of Persuasion
-
-
-🔻 Compulsion Loop (Zorlama Döngüsü)
-	Canavarı öldür
-	Ödülünü al
-	Karakterini geliştir
-
-🔻 Gamification
-	Oyunlaştırma
-	"Oyunlaştırmayı, müşteriler ve çalışanlar arasındaki etkileşimi artırıcı bir araç olarak kullanan şirketler var.
-	Böylelikle daha rekabetçi oluyorlar, satışlar ve karlılık da doğal şekilde artıyor" -- David Edery, Changing the Game
-	
-	Tanım:
-		Oyun mekaniklerini oyun olmayan alanlarda kullanarak 'kişilerin davranışlarını etkilemek'
-		Oyun dinamikleri (motivasyonları) ve mekanikleri kullanılarak katılım ve etkileşim sağlanıyor.
-		Şirketler, Bunun için genellikle bir web site, app, social network ya da kampanya kullanıyor
-	
-	Başlıca Oyun Dinamikleri:	Başlıca Oyun Mekanikleri:	
-		Ödül				Puan Kazanma		
-		Statü				Düzey (Level) atlama
-		Rekabet				Zorluklar
-		Başarı				Sanal Kazanımlar
-		Kendini İfade Etme		Sıralamada yer alma
-		Yardımseverlik			Ödül v Destekler (Yardım)
-
-
-	----> OYUN MODELLEME
-									Oyun Mekanikleri		
-	*** Motivasyonlar	----------------------------------------------------------------------------------------------------------------------
-	----------------------- Puan Kazanma	Düzey (Level) atlama	Zorluklar	Sanal Kazanımlar	Sıralamada yer alma	Ödül v Yardım	
-				------------	--------------------	---------	----------------	-------------------	--------------	
-	Ödül			     000				   ###		       ###			
-	Statü			     ###		OOO		   ###		       ###			###		       ###
-	Başarı			     ###		###		   OOO		       ###			###		       ###
-	Kendini İfade Etme						   ###		       OOO
-	Rekabet			     ###		###		   ###		       ###			OOO		       ###	
-	Yardımseverlik (Takım Oyunu) ###				   ###						###		       OOO
-	
-					000 --> Kişinin Oyundaki Öncelikli Motivasyonlar	### --> Diğer Etkili Alanlar
-				
-				
-	Örnek Uygulama --> NIKE Run --> her egzersiz oyunlaştırıldı v her başarı için badge kazandırıldı
-					2008de uygulamayı iPod ile birleştirerek, 
-					RUN app ile kullanıcıları başarılı bir ödüllendirme sistemi ile motive etmeye devam ediyor
-					İyi bir takip sistemi ile ZAMAN SINIRLI OYUNLAŞTIRMALAR sunuyor.
-					Eğitmeni dinleyerek koşmak, önemli bilgiler verilmesi, ürün tanıtımlarının yapılması
-
-🔻  RİSK DEĞERLENDİRME TABLOSU
-
-	                                 RİSK DÜZEYİ
-	            -----------------------------------------------------------
-	                                    ŞİDDET
-	            -----------------------------------------------------------
-	OLASILIK      Çok Ciddi 5   Ciddi 4     Orta 3    Hafif 2   Çok Hafif 1
-	-----------------------------------------------------------------------
-	Çok yüksek 5  Yüksek 25     Yüksek 20   Yüksek 15 Orta 10   Düşük 5
-	Yüksek     4  Yüksek 20     Yüksek 16   Orta 12   Orta 8    Düşük 4
-	Orta       3  Yüksek 15     Orta   12   Orta 9    Düşük 6   Düşük 3
-	Küçük      2  Orta   10     Orta   8    Düşük 6   Düşük 4   Düşük 2
-	Çok küçük  1  Düşük  5      Düşük  4    Düşük 3   Düşük 2   Düşük 1
-	
-					RİSK SONUÇLARI
-	Renk    Risk değeri         Değerlendirme           Faaliyet
-	------------------------------------------------------------------------------------------------------------
-	Red     15, 16, 20, 25      Kabul edilmez Risk      Bu risklerle ilgili hemen faaliyete geçmeliyim
-	Blue    8, 9, 10, 12        Dikkate değer Risk      Bu risklere mümkün olduğu kadar çabuk müdahale etmeliyim
-	Green   1, 2, 3, 4, 5, 6    Kabul edilebilir Risk   Daha uzun vadede müdahale edilebilirim
-
-
-		🔴				
-	------------_____________------------	high probability, low impact
-		🔴
-	------------__------------		low probability, low impact
-		🔴
-	------------	 ------------		low probability, high impact
-		    |   |
-		    |   |
-		     ^^^
-		🔴
-	------------	 	 ------------	high probability, high impact
-		    |   	|
-		    |   	|
-		     ^^^^^^^^^^^
-
-
-
-🔻 Risk vs Reward
-
-							WIN RATE %
-			--------------------------------------------------------------------------
-			20%		30%		40%		50%		60%
-		1:1	Not Profitable	Not Profitable	Not Profitable	Break Even	Profitable
-Risk		1:2	Not Profitable	Not Profitable	Profitable	Profitable	Profitable
-to Reward	1:3	Not Profitable	Profitable	Profitable	Profitable	Profitable
-Ratio		1:4	Break Even	Profitable	Profitable	Profitable	Profitable
-		1:5	Profitable	Profitable	Profitable	Profitable	Profitable
-
-
-
-
-
 🔻 Bu bir Soygun!
 	Bir soygun sırasında hırsızlardan biri bağırır:
 		"Kıpırdamayın! para devletin, hayatınız ise sizin.."	---> Anlık Akılla İkna
@@ -430,83 +226,13 @@ Ratio		1:4	Break Even	Profitable	Profitable	Profitable	Profitable
 	Hırsızlar gittikten, Banka müdürü de kendi için bir miktar sakladı.	--> Akışına yüzmek, durumu lehine çevirmek
 
 🔻 Friedman Harcama Matrisi
-									Kimin için Harcıyorsunuz?
-							Kendiniz için							Başkaları için
-							----------------------------------------------------------------------------------------------
-Kimin Parasını Harcıyorsunuz?	Kendinize ait		Fiyat ve kalite birlikte dikkate alınır.			Fiyatin düşük olması önemsenir (Fiyat Önemli), ama kalite önemsenmez.
-				Başkasına ait		Fiyat önemsenmez, en kalitelisi/pahalısı alınmak istenir.	Fiyat da kalite de önemsenmez. Kamu alımları bu hücreye düşer.
+								Kimin için Harcıyorsunuz?
+															Kendiniz için												Başkaları için
+								-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Kimin Parasını Harcıyorsunuz?	Kendinize ait				Fiyat ve kalite birlikte dikkate alınır.					Fiyatin düşük olması önemsenir (Fiyat Önemli), ama kalite önemsenmez.
+								Başkasına ait				Fiyat önemsenmez, en kalitelisi/pahalısı alınmak istenir.	Fiyat da kalite de önemsenmez. Kamu alımları bu hücreye düşer.
 
 
-
-🔻 Growth
-https://www.matematiksel.org/ustel-buyume-logaritmik-buyume-sizin-buyumeniz-hangisi/
-
-y = growth, effort, population, amount
-x = time
-
-# Geometric Growth	kendini çarparak ilerliyor
-	Seqıences:	1, 2, 4, 8, 16
-	Sequences:	1, 3, 9, 27, 81, 243
-	Series:		1 + 3 + 9 + 27 + 81 + 243
-
-	a_k+1 / a_k = d		(common ratio)
-
-	3/1=3
-	9/3=3
-	27/9=3
-	81/27=3
-
-	8, 24, 72, 216		(a, a*r, a*r^2, a*r^3)
-
-# Arithmetic Growth	aradaki fark ile ilerliyor
-	1 hour		2 cells added
-	3 hours		2*3 = 6 cells
-	Total cells	2+2*3 = 8
-
-	Sequences:	1, 2, 3, 4, 5, 6 ...	difference: 1
-	Sequences:	1, 3, 5, 7, 9, 11 ...	difference: 2
-	Sequences:	1, 4, 7, 10, 13, 16	difference: 3
-	Series:		1 + 4 + 7 + 10 + 13 + 16
-
-	a_k+1 - a_k = d		(common difference)
-
-	4-1=3
-	7-4=3
-	10-7=3
-	13-10=3
-
-	5, 7, 9, 11, 13		(a, a+d, a+2d)
-
-	
-# Exponential Growth
-	Zamanından önce pes edilmemeli..
-	Kendini toparladıktan sonra büyüme sonsuz devam eder.
-# Linear Growth
-	Çizgisel Büyüme..
-# Logistic growth
-	Büyüme sonrası stabil ve standart hale geliyor
-# Combinatorial Growth
-	Combinatorial Explosion
-
-Parkinson's law - Effort vs Time
-
-🔻 Makro Mertebe Değişimler
-3 Hareket Çeşitleri
-- Öteleme		= toplama	A -|-|-|-|-> B
-- Dönme			= 
-- Titreşim		= 
-
-- Ters Öteleme		= çıkarma	A <-|-|-|-|- B
-- Büyüme		= çarpma	A -|-|-|-|-> B   A -|-|-> B   A -|-|-|-|-> B
-- Küçülme		= bölme		A <-|-|-|-|- B   A <-|-|- B   A <-|-|-|-|- B
-
-	+	-	*	/
-
-'veya' denilince akla toplama gelsin ---> toplama (+)
-'ama' deyince akla bölme gelsin ---> bölme (/)
-
-çıkarma işlemi ayrıştırmaktır....
-toplama işlemi güçlenmektir...
 
 
 🔻 S.T.A.R. Technique
@@ -522,18 +248,18 @@ toplama işlemi güçlenmektir...
 	How to manage your time - To Evaluate each task
 	Herhangi bir görevin yapılması ya da yapılmaması üzerine karar yöntemi
 	
-				    important
-				     	|
-		can I do it now?	|	delay / drop / delete 
-		   			|		(can I decide when to do it?)
-					|		(schedule a time to do it)
-					|
+				    			important
+							     	|
+				can I do it now?	|	delay / drop / delete 
+		   							|		(can I decide when to do it?)
+									|		(schedule a time to do it)
+									|
 	urgent	<-----------------------|------------------------> not urgent
-					|
-			delegate it	|	delete (should I dump it?)
+									|
+						delegate it	|	delete (should I dump it?)
 	     (who can do it for you?)	|	       (eliminate it)
-	     				|
-				   not important
+				     				|
+							   not important
 	
 
 
@@ -570,7 +296,7 @@ toplama işlemi güçlenmektir...
 	Primary      	-------------------------------------
 	6-7     	1.          	W1      	W2            1.sınıf sts yapılmadan ---> W1 
 	8-9     	2.          	W2      	W3            Anaokul geçmişi varsa  ---> W2'den başlar
-	        	3.	W2     	W3      	W4
+	        	3.		W2     	W3      	W4
         		4.   	W4     	W5      	W6            orta okula gelene kadar Welcome bitmeli, 4.sınıfta Teen başlayabilir. ama önceden varsa yoksa W5 W6
 	Secondary    	-------------------------------------
 	        	5.          	T1      	T2
@@ -604,18 +330,18 @@ toplama işlemi güçlenmektir...
 🔻 S.W.O.T. Business Analysis
 	Bir işin ya da aklındaki bir durumun sana getirisi / götürüsü
 
-				helpful					harmful
-				(to achieving the objective)		(to achieving the objective)
-								|
-	internal origin						|
+									helpful					harmful
+						(to achieving the objective)		(to achieving the objective)
+													|
+	internal origin									|
 	(attributes of the organization)	strengthes	|	weaknesses 
-			   					|
-								|
-					------------------------|-----------------------
-								|
-	external origin				opportunities	|	threats
-	(attributes of the environment)				|
-		     						|
+					   								|
+													|
+							------------------------|-----------------------
+													|
+	external origin					opportunities	|	threats
+	(attributes of the environment)					|
+		     										|
 			
 
 🔻 Failure Mode Effects Analysis (FMEA)
@@ -688,484 +414,6 @@ toplama işlemi güçlenmektir...
 		    - Desire (Arzu)
 		    - Action (Aksiyon)
 		    - # Share
-
-
-
-
-🔻	E-Commerce Business Models
-	
-				Different existing e-commerce models of any industry 
-				
-							Demand
-							Business	Consumer	Government	Administration	Employees	Manager
-							------------------------------------------------------------------------------------------
-				Business/Organization	B2B		B2C		B2G		B2A		B2E		B2M
-		Supply		Consumer		C2B		C2C		C2G		C2A
-				Government/Agencies	G2B		G2C		G2G				G2E
-				
-				Traditional Way:
-					Business --Price and Products--> B2C --> C1, C2, C3 ..
-				
-				Business --Commission--> Affiliates
-				Seller --Products--> Buyer --Fees--> Platform Holder
-				
-				
-				
-				Service Type
-				---------------------------------------------
-				On-Premises	Şirket-İçi
-				(SaaS)		Software as a Service		
-				(PaaS)		Platform as a Service 		
-				(IaaS)		Infrastructure as a Service	
-		
-		
-					On-Premises	(SaaS)		(PaaS)		(IaaS)
-		-------------------------------------------------------------------------------------
-		Applications		You Manage	Others Manage	You Manage	You Manage	
-		Virtualization		You Manage	Others Manage	You Manage	Others Manage
-		Data			You Manage	Others Manage	You Manage	You Manage
-		Servers			You Manage	Others Manage	Others Manage	Others Manage
-		Runtime			You Manage	Others Manage	Others Manage	You Manage
-		Storage			You Manage	Others Manage	Others Manage	Others Manage
-		Middleware		You Manage	Others Manage	Others Manage	You Manage
-		Networking		You Manage	Others Manage	Others Manage	Others Manage
-		O/S			You Manage	Others Manage	Others Manage	You Manage
-		
-		
-		Doğru bir ürün ile, doğru satış kanallarını oluşturabilmek, kendi kontrol altında firmanla yapabilmek.
-		
-		
-		Uber drivers are independent contractors, not employees, and can log on or off whenever they want.
-		Uber		--> The world's largest taxi company, owns no vehicles.
-		Facebook	--> The world's most popular media owner, creates no content
-		Alibaba		--> The most valuable retailer, has no inventory.
-		Airbnb		--> The world's largest accommodation provider, owns no real estate.
-		Amazon		--> has almost no stores
-		Netflix		--> is not a TV channel
-		Tinder		--> requires no marriage
-		Fiat Currencies	--> are backed by no gold
-		Bitcoin		--> has no physical coins
-
-		"Something interesting is happening." Tom Goodwin
-		
-
-
-🔻 Simulation
-	hyper-reality (augmented reality)
-
-	technology
-	prometheus (insan üstü bilinç)
-		kendi geçmişini simüle etmek..
-			variables: sense, speed, size..
-			programming all the possibilities, trillions...
-
-	Simülasyon Varsayımları: bu şartlar sağlanırsa..
-		- evrendeki her şey simüle edilebilir olmalı. Bilgisayar modellemesi (Deterministik, Olasılık ile modelleme)
-		- insanın evrendeki yeri özel olmamalı. bilinçin gerçekten doğal olduğunumu düşünüyoruz.
-		- teknolojinin olumlu yönde gelişmesi. yapıcı şekilde gelişim
-
-
-	Simülasyon İhtimalleri: bu olasılıklardan biri doğru olmalı...
-		- insan-ötesi evreye erişebilecek medeniyet sayısı aşırı düşüktür. --> simulasyonda yaşamıyoruz.
-		- insan-ötesi medeniyetler, simülasyonlara ilgi duymamalıdır yani üst bir etik olarak bunu doğru bulmuyorlar. --> simulasyonda yyaşamıyoruz. 
-					ya da olana bitene karışmamaktadır. Matrix mimar, dünyadaki fakirlik, acıyı deneyimlemek
-		- diyelim ki yarattılar. o zman bir simülasyonun içinde yaşıyoruz.
-
-	bilinç mekaniksel, doğal süreçlerle simüle edilebilir..
-
-	quantum ölçüm problemi:
-		eşyanın modellenmesine simüle edilmesine gerek yok. çünkü senin bakış açında herşey baktığın yön boyunca var. bilincin odaklandığı kısımlar boyunca simülasyon - işlem maliyeti
-		oyunlarda buna rendering diyoruz.. yani arkamızda kalan dünyayı görmediğimiz için boşuna işlemci gücünü harcamayız.
-		arka tarafında simüle edildiğini düşünürsek... bu tam bir simülasyon olur. ama enerji nasıl olcak insan ötesi medeniyet için...
-
-
-
-
-🔻 Quantum
-	Kendi dünyamızda oluşturduğumuz mantığı bir kenara bırakıp kuantum mantığını genel mantık olarak benimsemek
-
-					cause				effect				quantumda, bu etki sadece gelecek için etki değil, geçmişi de etkileyebilir.. Interstellar - Stay. yani sonuç, nedenden önce gelebilir.
-					present				future				quantumda, gelecekte olan şeyler, geçmişi de etkiliyor olabilir. Elektronlar gelecekteki bilgiyi bilmiş gibi geçmişte de öyle davranabiliyorlar.
-					off				on
-					down				up
-					dead				alive
-					yok				var
-					0	       			1
-					|-------------------------------|
-					-  perception of consciousness  -
-
-
-	Kuantum dolanıklık, fiziksel nedenlerde simüle edilebilir bir yapıda mı, ya da mantığımız yetmiyor mu? başka türlü mü düşünmemiz gerek?
-		simüle edilebilir olmalı çünkü gerçek olduğunu deney ile kanıtlıyoruz.
-
-	Olasılık dağılımı: elmanın düşebileceği yerler.. ama en yüksek olasılığı nedir... dik bir açıyla düşer.. genel kanı bu. yani Type 0 noktasında olacağını düşünürüz. bilincin algısı
-				ama quantum evreninde, elmaya bakmadığın sürece nereye düşeceğini kestiremiyorsun...
-						       elmanın olasılık dağılımının sadece dik açıyla olmaması gerektiğini gösteriyor...
-
-
-					
-							type				type				type				type
-							-1				0	       			1				2
-		SUPERPOSITION		<---------------|-------------------------------|-------------------------------|-------------------------------|--------------->		SUPERPOSITION
-											perception of consciousness
-
-
-					elma, zaman içinde hareket ederken her noktada kendini gözlemlettiriyor..
-						ama aynı zamanda hiç bir yerde olduğu gözlemleniyor..
-							çökme/düşme durumu, kuantum içerisinde; tek bir nitelik/quantum birim bir kez çöktüğünde kendisiyle dolanık olan diğer parçalarında çökmesini tetikliyor..
-									elmanın zaman içinde bir noktada o küçük düşme olasılığı gerçek oluyor..
-										milyarca quantum birim taşıyan makro cisim olan elmayı düştüğünü sanıyoruz --> klasik fizik..
-													ama çöktüğünü öngörüyor --> quantum fiziği
-													bu tetiklemeyi uzay zaman dokusu ile düşündüğümüzde etkileşim bunu yapıyor
-													ama tekil bir quantum parçacığı sahip yani daha az birime sahip bir birimin zaman içinde düşme olasılığı kolayca gerçekleşmiyor.
-
-						Mantık üzerinde, Tehdit ettiği/çeliştiği yapı taşları/nitelikler:	Determinizm	- quantuma göre, gerçek fiziksel nesnenin doğası kesin/determinist değil, olasılıkçı
-															Nedensellik	- neden sonuç ile retro nedensellik(neden-sonuç) arasındaki çatışma
-															Yerellik	- obektif çöküş
-															Realizm		- konum ve momentum'un quantum'da olmamaması
-																		hem dalga hem de parçacık mı..
-
-					ölçüm yaptığında konumu kestirsen de, hızını kestiremiyorsun..
-
-					ölçüm problemi: ölçüm yapıldığında bir şekilde, yapılmadığında başka bir şekilde davranılıyor.		SUPERPOSITION
-
-					Schrödinger's Cat:	atom hem ışıma yapıyor hem yapmıyor
-								sayaç hem çalışıyor hem çalışmıyor
-								çekiç hem vuruyor hem vurmuyor
-								zehir hem yayılıyor hem yayılmıyor
-								kedi hem diri hem de canlı			ölçüm yapılmadığı sürece... 
-
-			Super Determinism - tüm parçaçıklar önceden birbirlerinin nasıl davranacağını/ne yapmaları gerektiklerini olasılıklarını en başından big bangden beri biliyor olması durumu. 
-
-
-
-🔻 Olasılık
-	Elektron, bir olasılık bulutu olarak atomun etrafında bulunur. Dalga fonksiyonun çökmesi: çoklu olasılığın tek bir olasılıkla sonuçlanması.
-				olasılığın bütün durumları..
-		
-	Qbizm - Bayesçilik, bir şeyin gerçekleşme olasılığının objektifliği, subjektifliğine bağlı.
-
-	Olasılıların her birinin bir evren olması
-
-
-
-# STATISTICS and DATA SCIENCE
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-🔻 MACHINE LEARNING
-	Generating Leads
-	Linear Regression		the best fit line through all data points
-	Logistic Regression		the adoption for linear regression to problems of classification
-	Decision Trees			a graph that uses branching method to match all possible outcome of a decision
-	Random Forest			it takes the average of many decision trees. Each tree is weaker than the full decision tree, but combining them we get better overall performance
-	Gradient Boosting Machines	it uses even weaker decision trees that increasingly focused on 'hard examples'
-	K-Nearest Neighnors
-	K-Means Clustering
-	Naive Bayes
-	Support Vector Machines
-	Neural Networks			mimics, the behaviour of the brain. NNs are interconnected Neurons that pass messages to each other.
-					Deep Learning uses several layers of NNs to put one after the other.
-
-
-REGRESYON
-	# Prediction
-	Regresyon, istatistik ve veri analizi alanlarında kullanılan bir analiz yöntemidir. 
-	Temel amacı, bir bağımlı değişken ile bir veya daha fazla bağımsız değişken arasındaki ilişkiyi modellemek ve bu ilişkiyi kullanarak bağımlı değişkenin gelecekteki değerlerini tahmin etmektir. 
-	Regresyon analizi, veri setindeki değişkenler arasındaki ilişkiyi anlamamıza ve gelecekteki olayları tahmin etmemize yardımcı olur.
-
-	Regresyon analizi iki temel türe ayrılabilir:
-		Doğrusal Regresyon (Linear Regression): 
-			Bu yöntemde, bağımlı değişken ile bağımsız değişkenler arasındaki ilişkiyi bir doğru ile ifade eden bir model oluşturulur. 
-			Basit doğrusal regresyon, tek bir bağımsız değişkenin kullanıldığı bir modeldir. Çoklu doğrusal regresyon ise birden fazla bağımsız değişkenin kullanıldığı bir modeldir.
-
-		Doğrusal Olmayan Regresyon (Nonlinear Regression): 
-			Bu yöntem, bağımlı ve bağımsız değişkenler arasındaki ilişkinin doğrusal olmadığı durumlar için kullanılır. 
-			Bu tür regresyon modelleri, bağımlı değişkenin tahmin edilmesi için doğrusal olmayan fonksiyonlar kullanır.
-
-	Regresyon analizi, özellikle tahmin yapma, ilişkiyi anlama, veri analizi ve karar verme süreçlerinde yaygın olarak kullanılır. 
-	Örnek olarak, pazarlama analizlerinde bir ürünün satışlarını hava durumu, reklam harcamaları ve fiyat gibi faktörlere bağlamak için regresyon analizi kullanılabilir. 
-	Bu analiz, gelecekteki satışları tahmin etmek veya pazarlama stratejilerini optimize etmek için önemli bir araç olabilir.
-
-
-
-
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-List of 48 Laws of Power
-
-#1
-Never Outshine the Master
-    Always ensure that those above you feel superior.
-    In your desire to impress or please them, do not go too far in displaying your talents, lest you accomplish the opposite – inspire fear and insecurity. 
-    It's a balancing act where you must show your value without overshadowing your superiors.
-
-#2
-Never Put too Much Trust in Friends, Learn How to Use Enemies
-    Friends can quickly become rivals and betray you, while enemies are more predictable. 
-    When converted into a friend, an enemy has more to prove and might be more loyal. 
-    It’s not about being paranoid but rather pragmatic in understanding human behavior.
-
-#3
-Conceal Your Intentions
-    Keeping your cards close to your chest prevents others from sabotaging your plans. 
-    It keeps you in control and maintains an element of surprise. 
-    Concealing intentions isn't about deceit, but about maintaining your strategic advantage.
-
-#4
-Always Say Less Than Necessary
-    The more you say, the more likely you are to say something foolish or revealing. 
-    Keeping your words measured and controlled gives you more power and keeps others guessing about your intentions and capabilities.
-
-#5
-So Much Depends on Reputation – Guard It with Your Life
-    Reputation is the cornerstone of power. 
-    You can influence more people and gain more opportunities with a solid reputation. 
-    Therefore, it's essential to protect it fiercely.
-
-#6
-Court Attention at all Cost
-    Visibility is power in the social and political arena. 
-    Being unseen or forgotten is a fate worse than failure. 
-    It's important to maintain a presence and constantly remind people of your existence in some way, shape, or form.
-
-#7
-Get Others to Do the Work for you, but Always Take the Credit
-    This law might seem deceptive, but in a power play, it's about managing resources effectively.
-    The idea is to leverage the skills, talents, and capabilities of others to accomplish objectives, while ensuring that the credit, and hence the power, stays with you.
-
-#8
-Make other People come to you – Use Bait if Necessary
-    When others come to you, it implies you hold something valuable.
-    Drawing others towards you gives you the advantage and control of the situation.
-
-#9
-Win through your Actions, Never through Argument
-    Winning an argument gives you a momentary advantage but winning through actions gives you lasting power.
-    Actions demonstrate competence and create value, whereas words, often in arguments, lead to negative emotions and resentment.
-
-#10
-Infection: Avoid the Unhappy and Unlucky
-    Surrounding yourself with unhappy and unlucky individuals may impact your power adversely as their negativity might affect you and your reputation.
-    To maintain your power and influence, it's important to associate with positive, successful people.
-
-#11
-Learn to Keep People Dependent on You
-    When people are dependent on you, they're less likely to challenge or betray you.
-    By becoming the sole provider of something, whether it's a service, a product, or a piece of information, you gain power and influence over those who need it.
-
-#12
-Use Selective Honesty and Generosity to Disarm your Victim
-    Strategic honesty or generosity can disarm your opponents, making them vulnerable to your influence.
-    This isn't a call for manipulation, rather an acknowledgment that calculated openness can be a powerful tool in a world where most people are guarded.
-
-#13
-When Asking for Help, Appeal to People’s Self-Interest, Never to their Mercy or Gratitude
-    People are more likely to help if they see something in it for themselves. 
-    You give them a compelling reason to assist you by appealing to their self-interest.
-
-#14
-Pose as a Friend, Work as a Spy
-    Gathering information is crucial in power dynamics.
-    Posing as a friend helps you gain valuable insights without arousing suspicion.
-    It's not about betrayal, but about understanding the landscape in which you operate.
-
-#15
-Crush Your Enemy Totally
-    A half-victory is a dangerous game in the world of power. 
-    When dealing with a ruthless adversary, it's necessary to eliminate the threat completely.
-    However, remember to exercise this law ethically and without violating your principles.
-
-#16
-Use Absence to Increase Respect and Honor
-    This law is based on the principle of scarcity.
-    Readily available things are often taken for granted.
-    Ensuring that you're not always available makes your presence more valued, thus increasing respect and honor for yourself.
-
-#17
-Keep Others in Suspended Terror: Cultivate an Air of Unpredictability
-    Being predictable makes you vulnerable.
-    Unpredictability, on the other hand, can keep your competitors or enemies uncertain, giving you an edge.
-    This doesn't mean you should be inconsistent, rather you should avoid revealing a pattern in your actions that others can easily figure out.
-
-#18
-Do Not Build Fortresses to Protect Yourself – Isolation is Dangerous
-    Isolation might seem like a good idea to protect yourself from external threats, but it can often make you an easy target.
-    When you're isolated, you're cut off from information and support networks, making you vulnerable.
-    Instead, engaging with others, forming alliances, and building your power base is beneficial.
-
-#19
-Know Who You’re Dealing with – Do Not Offend the Wrong Person
-    Knowing the people around you, their power, influence, and temperament is essential before engaging with them.
-    Offending the wrong person can lead to severe consequences, so it's better to tread carefully.
-
-#20
-Do Not Commit to Anyone
-    Commitments often limit your flexibility and bind you to a certain path.
-    Remaining neutral and not committing to anyone keeps your options open, gives you flexibility, and allows you to maneuver as per the situation's demands.
-
-#21
-Play a Sucker to Catch a Sucker – Seem Dumber than Your Mark
-    Sometimes, appearing less intelligent than you are can be an advantage.
-    It can lead others to underestimate you, giving you the element of surprise.
-    However, this should be used carefully as it could potentially backfire and harm your reputation.
-
-#22
-Use the Surrender Tactic: Transform Weakness into Power
-    Surrender is often seen as a sign of weakness, but it can become a strength when used strategically.
-    By surrendering, you can buy time, preserve your resources, and even turn the tables around when the time is right.
-
-#23 Concentrate Your Forces
-    Instead of trying to be everywhere and do everything, concentrate your forces on a decisive aspect.
-    Concentration often leads to better results, Whether focusing on a specific market segment or a unique skill.
-
-#24
-Play the Perfect Courtier
-    Being a perfect courtier is about navigating social situations adeptly. 
-    It involves flattering, yielding to superiors, and asserting power over others most politely and respectfully. 
-    This approach enables you to influence and win people subtly.
-
-#25
-Re-Create Yourself
-    You have the power to control your image and how you're perceived.
-    By consciously shaping your persona and adapting it to suit your goals, you can re-invent yourself and take control of the narrative around you.
-
-#26
-Keep Your Hands Clean
-    You must maintain an unblemished appearance by avoiding blame and associating yourself with noble causes, even when you are required to engage in less noble actions.
-    This involves skillfully shifting the blame onto others and taking credit for positive outcomes.
-    It's about managing perceptions to ensure your reputation remains untarnished.
-
-#27
-Play on People's Need to Believe to Create a Cultlike Following
-    People have a psychological need to believe in something or someone. 
-    You can attract a loyal following by positioning yourself as a source of hope or answers. 
-    This, however, carries a heavy ethical responsibility and should be practiced with caution to avoid manipulation and exploitation.
-
-#28
-Enter Action with Boldness
-    Hesitation or half-hearted attempts often lead to failure. 
-    When you enter any action, do it with confidence and conviction. 
-    Boldness can cover up shortcomings and often intimidates others, creating a psychological advantage.
-
-#29
-Plan All the Way to the End
-    A powerful person doesn't just think about immediate steps but plans all the way to the end.
-    Having a clear vision of your goal and a comprehensive plan to achieve it can give you a significant strategic advantage.
-
-#30
-Make Your Accomplishments Seem Effortless
-    Your talents are perceived as more valuable when they appear to be effortless.
-    Even when something requires hard work, make it look easy.
-    This increases people's perception of your power and skills.
-
-#31
-Control the Options: Get Others to Play with the Cards You Deal
-    The best way to get people to follow your plans is to present them with options for your desired outcome.
-    By controlling their choices, you can subtly guide their decisions.
-
-#32
-Play to People’s Fantasies
-    Reality is often disappointing, and people have a tendency to get lost in their fantasies.
-    By appealing to these fantasies, you can provide an escape from the mundanity of their reality, thereby earning their loyalty.
-
-#33
-Discover Each Man’s Thumbscrew
-    Everyone has a weakness, a fear, or a need that can be used as a leverage point. 
-    Knowing these 'thumbscrews' can give you a significant advantage in negotiations or power dynamics.
-
-#34
-Be Royal in Your Own Fashion: Act Like a King to be Treated Like One
-    How you perceive yourself sets the bar for how others perceive you.
-    By carrying yourself with dignity and demanding respect, you set a standard for how you should be treated.
-
-#35
-Master the Art of Timing
-    Understanding the perfect moment to act is critical in power dynamics. 
-    The same action can have drastically different outcomes at different times. 
-    Being patient and strategically waiting for the right moment can pay off in the long run.
-
-#36
-Disdain Things You Cannot Have: Ignoring Them Is the Best Revenge
-    Longing for things you cannot have is a sign of powerlessness.
-    You demonstrate your power and control over your desires by showing disdain or ignoring them.
-
-#37
-Create Compelling Spectacles
-    Creating memorable, dramatic spectacles can captivate an audience and capture their attention.
-    This makes your power and influence more pronounced and memorable.
-
-#38
-Think as You Like but Behave Like Others
-    If you want to fit in and gain power within a group, you must learn to behave like others in that group.
-    Maintaining your own thoughts and ideas while outwardly conforming to the group's norms can help you navigate social dynamics more effectively.
-
-#39
-Stir Up Waters to Catch Fish
-    Creating a little chaos can disrupt the status quo and provide you with opportunities to seize power.
-    It's important to remember that this is not about causing harm but creating a shift in power dynamics.
-
-#40
-Despise the Free Lunch
-    Anything that comes without a cost should be approached with caution.
-    It could come with hidden strings or obligations that might compromise your power and independence in the long run.
-
-#41
-Avoid Stepping into a Great Man’s Shoes
-    Following in the footsteps of a great person can often put you in their shadow. 
-    You need to forge your own path to assert your power and influence.
-
-#42
-Strike the Shepherd and the Sheep Will Scatter
-    Attacking a group leader can often disorient the rest of the members.
-    This tactic, however, should be used sparingly and ethically, as it can lead to serious consequences if mishandled.
-
-#43
-Work on the Hearts and Minds of Others
-    Power is not just about brute force; it's also about winning over hearts and minds. 
-    You can build a loyal and dedicated following by working on others' emotions and perceptions.
-
-#44
-Disarm and Infuriate with the Mirror Effect
-    Mimicking others can disarm them and can also serve as a form of subtle mockery.
-    This strategy can be used to unsettle your opponents and gain a psychological edge.
-
-#45
-Preach the Need for Change, but Never Reform Too Much at Once
-    While change is necessary, too much change too quickly can be unsettling. 
-    Maintaining a balance and ensuring that changes are introduced gradually is important to prevent resistance or backlash.
-
-#46
-Never Appear Too Perfect
-    Appearing too perfect can arouse envy and suspicion among others.
-    It's essential to show occasional flaws and vulnerabilities to appear more human and relatable, which can make you more likable and less likely to attract the animosity of others.
-
-#47
-Do Not Go Past the Mark You Aimed for; In Victory, Learn When to Stop
-    Exceeding your goal can often lead to unforeseen problems.
-    When you've achieved your goal, stop and consolidate your position, or else your continued push might trigger resistance, sparking a downfall.
-
-#48
-Assume Formlessness
-    Staying adaptable and flexible allows you to navigate any situation that arises. 
-    By not committing to a single form or strategy, you can adapt as needed, taking the shape that best serves your purpose at any given moment.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
