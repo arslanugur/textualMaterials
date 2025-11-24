@@ -1,0 +1,35 @@
+# STATISTICS and DATA SCIENCE
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+🔻 MACHINE LEARNING
+	Generating Leads
+	Linear Regression		the best fit line through all data points
+	Logistic Regression		the adoption for linear regression to problems of classification
+	Decision Trees			a graph that uses branching method to match all possible outcome of a decision
+	Random Forest			it takes the average of many decision trees. Each tree is weaker than the full decision tree, but combining them we get better overall performance
+	Gradient Boosting Machines	it uses even weaker decision trees that increasingly focused on 'hard examples'
+	K-Nearest Neighnors
+	K-Means Clustering
+	Naive Bayes
+	Support Vector Machines
+	Neural Networks			mimics, the behaviour of the brain. NNs are interconnected Neurons that pass messages to each other.
+					Deep Learning uses several layers of NNs to put one after the other.
+
+
+REGRESYON
+	# Prediction
+	Regresyon, istatistik ve veri analizi alanlarında kullanılan bir analiz yöntemidir. 
+	Temel amacı, bir bağımlı değişken ile bir veya daha fazla bağımsız değişken arasındaki ilişkiyi modellemek ve bu ilişkiyi kullanarak bağımlı değişkenin gelecekteki değerlerini tahmin etmektir. 
+	Regresyon analizi, veri setindeki değişkenler arasındaki ilişkiyi anlamamıza ve gelecekteki olayları tahmin etmemize yardımcı olur.
+
+	Regresyon analizi iki temel türe ayrılabilir:
+		Doğrusal Regresyon (Linear Regression): 
+			Bu yöntemde, bağımlı değişken ile bağımsız değişkenler arasındaki ilişkiyi bir doğru ile ifade eden bir model oluşturulur. 
+			Basit doğrusal regresyon, tek bir bağımsız değişkenin kullanıldığı bir modeldir. Çoklu doğrusal regresyon ise birden fazla bağımsız değişkenin kullanıldığı bir modeldir.
+
+		Doğrusal Olmayan Regresyon (Nonlinear Regression): 
+			Bu yöntem, bağımlı ve bağımsız değişkenler arasındaki ilişkinin doğrusal olmadığı durumlar için kullanılır. 
+			Bu tür regresyon modelleri, bağımlı değişkenin tahmin edilmesi için doğrusal olmayan fonksiyonlar kullanır.
+
+	Regresyon analizi, özellikle tahmin yapma, ilişkiyi anlama, veri analizi ve karar verme süreçlerinde yaygın olarak kullanılır. 
+	Örnek olarak, pazarlama analizlerinde bir ürünün satışlarını hava durumu, reklam harcamaları ve fiyat gibi faktörlere bağlamak için regresyon analizi kullanılabilir. 
+	Bu analiz, gelecekteki satışları tahmin etmek veya pazarlama stratejilerini optimize etmek için önemli bir araç olabilir.
