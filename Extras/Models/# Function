@@ -119,6 +119,25 @@ f(x)=x^2
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+🔻 Makro Mertebe Değişimler
+3 Hareket Çeşitleri
+- Öteleme		= toplama	A -|-|-|-|-> B
+- Dönme			= 
+- Titreşim		= 
+
+- Ters Öteleme	= çıkarma	A <-|-|-|-|- B
+- Büyüme		= çarpma	A -|-|-|-|-> B   A -|-|-> B   A -|-|-|-|-> B
+- Küçülme		= bölme		A <-|-|-|-|- B   A <-|-|- B   A <-|-|-|-|- B
+
+	+	-	*	/
+
+'veya' denilince akla toplama gelsin ---> toplama (+)
+'ama' deyince akla bölme gelsin ---> bölme (/)
+
+çıkarma işlemi ayrıştırmaktır....
+toplama işlemi güçlenmektir...
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # ABSTRACTION
 Soyutlama; Fikirlerin, nesnelerden uzaklaştırılması sürecine denir.
 Gerçekte başlıbaşına varlığı olan bir şeyi, maddesinden sıyırarak, soyarak düşünmek, tasarlamak; 
