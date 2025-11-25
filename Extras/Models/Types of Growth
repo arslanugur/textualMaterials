@@ -37,7 +37,10 @@ x = time
 
 	5, 7, 9, 11, 13		(a, a+d, a+2d)
 
-	
+
+# Logaritmic Growth
+	Zamanla azalan bir büyümedir.
+	Üssel büyümenin tersi denilebilir
 # Exponential Growth
 	Zamanından önce pes edilmemeli..
 	Kendini toparladıktan sonra büyüme sonsuz devam eder.
