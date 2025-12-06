@@ -1,5 +1,34 @@
 
 
+# bir binayı satın almak istiyorsun (banker filmi)
+Yıllık brüt geliri 100k$    - annual gross income
+%8 boşluk oranı.  -vacancy rate
+yıllık 12k$ işletme maliyeti - annual operating cost
+%10luk bir sınırlama oranı istiyorum - cap rate
+önerilebilecek en yüksek satın alma fiyatı: 800k$
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+3+1	tekirdağ	2018	266bintl
+3+1	tekirdağ	2019	285bintl
+3+1	tekirdağ	2024	3.5mtl
+
+0,69% krediyle ev alanlar uçtu şimdi.. Mayıs 2013
+aylık yüzde 0,64 faiz oranı - 06.2020
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Kira çarpanı düşük şehirleri araştır.. aylık olarak
+geri dönüş süresi en düşük iller
+8 senede niğdede alınan bir ev kendini amorti edilebilir...
+
+oda sayısına göre geri dönüş süresi
+1+1	13yıl
+2+1	14yıl
+3+1	16yıl
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 Apprecation:	Natural # Forced
 Cashflow:
 	Positive Cashflow: Income
@@ -40,7 +69,7 @@ enflasyon arttıkça senden aldığı borçlar eriyor.
 
 # dolar %62 artmadı, tl %62 değer kaybetti aslında
 dolar 7 lira	200bin borcum var	--> 27bin dollar
-dolar 12 lira	200bin lira		--> 16666 dolara dönüştü
+dolar 12 lira	200bin lira			--> 16666 dolara dönüştü
 borcu tl olan parayı kazanır...
 	100binlik ev 300bin oldu.. bu şekilde para kazanıyorsun
 	konutun değer artışı içinde birikiyor...
@@ -245,7 +274,7 @@ evini ipotek yaptırıp kredi alıp ikinci evi almak...
 """
 eviniz bir varlık değil yükümlülüktür..
 Eğer bir ev kiralıyorsanız başka birinin varlığının büyümesini destekliyorsunuz demektir 
-gayrimenkul söz konusu olduğunda kesinlikle evinizi alırken kazand
+gayrimenkul söz konusu olduğunda kesinlikle evinizi alırken kazanırsınız
 
 küçük başla ilerledikçe öğren...
 studio daire ile ya da 1+1 ile
@@ -670,9 +699,9 @@ ancak kazın ayağı öyle değil.
 açık arttirma ile 10 milyon liralık bir arazi aldığınızi düşünün, 
 devlet bunun %25i olan peşinatı 2.5 milyon lirasını tahsil ediyor, 
 geri kalan 7.5 milyon lirasını ise 24 ay eşit taksite bağlıyor. 
-şimdi sıkı durun yıllık faiz %9 üzerinden. 
+yıllık faiz %9 üzerinden. 
 şimdi bunu az biraz ekonomiden ve piyasadan anlayan biri sinirden duvarları yumruklar. 
-açık açık son 5 aydır servet transferinin allah'ı yapılıyor güzel kardeşim.
+açık açık son 5 aydır servet transferi yapılıyor
 iş bu ortamda bir muteahhitin batabilmesi mümkün değildir, 
 size battı diye yansıtılanlar %200-%300 kâr oranı bile yetmeyen paranın tamamına çoreklenen yamyamlar
 
@@ -894,24 +923,7 @@ daire fiyatları yüksek olması benim için de güzel bir olay değil ama o kad
 Kira ve Faiz Geliri nasıl yaratılır..
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-3+1	tekirdağ	2018	266bintl
-3+1	tekirdağ	2019	285bintl
-3+1	tekirdağ	2024	3.5mtl
-
-0,69% krediyle ev alanlar uçtu şimdi.. Mayıs 2013
-aylık yüzde 0,64 faiz oranı - 06.2020
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Kira çarpanı düşük şehirleri araştır.. aylık olarak
-geri dönüş süresi en düşük iller
-8 senede niğdede alınan bir ev kendini amorti edilebilir...
-
-oda sayısına göre geri dönüş süresi
-1+1	13yıl
-2+1	14yıl
-3+1	16yıl
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Kiralanan evi Kiralamak (Sublet/Subrent/Sublease)
@@ -933,7 +945,6 @@ bu new yorkta yapılabilir mi?
 kiralanamayan satılamayan evler - ev sahipleri ödeyemezse ev ipotekte kaybedecekler
 kirayı ödeyemeyen ya da sözleşmedeki yükümlülükleri yerine getiremeyen kiralar
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Real Estate Types
     Residential
