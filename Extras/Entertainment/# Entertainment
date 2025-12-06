@@ -81,12 +81,14 @@ Probability of winning
 # Bingo
   https://tallon.co.uk/jumbo-bingo-tickets-21-x-12cm
   - first 50 numbers - Jackpot
-
+  stake: 250lira 5£€
+  prize: 2000lira/3000lira 50-60£€
 
 # Football Card - Kazı Kazan - Scratch Card - Pop Card
   https://www.ebay.co.uk/b/bn_93739934
   - 40 teams - 40 people - name and number
-    200lira - 2000lira
+    stake-prize 2024: 200lira - 2000lira  
+    stake-prize 2025: 200lira - 3000lira  4€£  50-60€£
   
   Scratch - Kazı Kazan
           American Billards - 8-ball gibi bilardo oyunlarinda beyaz topun delige girmesine verilen isim
@@ -94,6 +96,19 @@ Probability of winning
 # Şans Topu
 
 # Lottery
+
+
+# Number Fever by pepsi
+    001-999
+    her gece üç sayı çekilir
+
+    stake: $ per number
+
+    prizes:
+    Büyük Ödül	  ₱1,000,000	      $40,000            üç sayıyı tutturan         $50
+    Orta Ödüller	₱10,000 - ₱50,000	$400 - $2,000      iki sayıyı tutturan        $30
+    Küçük Ödüller	₱100	            $4                 bir sayıyı tutturan        $20
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Amphitheater Shows
@@ -105,6 +120,12 @@ Probability of winning
   Friday        Uptown Funk Dance Show
   Saturday      Broadway Show  /  Wonder Adventure
   Sunday        Tron Dance Show, Break Dance Show
+
+Competition Night (Mr.)
+    Drinking Game
+    Tarzan
+    Mick Mick
+    Clothing Collection
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Events and Fests
