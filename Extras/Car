@@ -7,6 +7,20 @@ Craigslist - car
 	
 # su değişimi
 
+# Ehliyetler
+A - Motorsiklet
+		Max Motor hacmi		Beygir gücü
+A1		125cc				14 beygir gücü
+A2		600cc
+B -> C -> CE - Tır
+D -> D1 - Şehir içi minibüs
+
+alınacak ehliyetler: A, D, C -> CE
+
+iş makinesi ehliyeti: G
+
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Car Insurance Monthly / Araç Sigortası (Kasko)
   Eski araba full-coverage ihtiyacı olmaz.. yani sadece karşı tarafı cover ettirirsin..
