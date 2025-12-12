@@ -59,13 +59,14 @@ Fonksiyon, Matematikte değişken sayıları girdi olarak kabul edip bunlardan b
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Types of Function
-- Linear ...
+- Linear ...			doğrusal - sabit bir sayıyla toplama
 - Quadratic
 - Polynomial
 - Power
 - Rational
-- Exponential ...
-- Logaritmic ....
+- Exponential ...		üstel - sabit bir sayıyla çarpma - zamanla artar, birden patlar, başlangıçta farkedilmez - satranç ve pirinç taneleri - aldatıcı masum görünüyor.. teknolojik gelişmeler
+- Logaritmic ....		üstül büyümenin tersi, zamanla azalır
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔻 Growth
