@@ -1,3 +1,17 @@
+Active                   Passive
+-------------------------------------------
+transistor               resistor
+diode                    ldr
+led                      thermistor
+photodiod                capacitor
+integrated circuit       inductor
+seven-segment            switch
+battery                  variable resistor
+                         transformer
+
+
+
+
 # Components / Devre Elemanlar
   res - direnç:      devreyi ve devre elemanlarını yüksek akımdan koruyan devre elemanı. her devrede rastlanır
 
