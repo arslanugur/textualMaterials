@@ -1,18 +1,61 @@
 
+server ----> ip  -----> hosting  ----> user
+
+
 # Film Website
 
 Hosting
+  web hosting: site adresi almak
+
 Domain
 
 bu siteler "Reverse Proxy" üzerinden yayın yapıyorlar
   Cloudflare benzeri servisler kullanıyor
-  gerçek "ip"sini ver dediklerinde genelde vermezler ya da zorla veriyorlar
+  gerçek "ip"sini verilmesi istendiğinde genelde verilmezler ya da zorla veriliyorlar
   ip verilse bile
   bu siteler kolay hosting firmaları kullanmazlar
   yasadışı-offshore "vds, vps" satan firmalar var ordan kullanıyorlar...
-  onlarda kapatmıyor
-  
+  offshorelara da kolay ulaşılmıyor. onlarda kapatmıyor
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+filezilla: site dosyalarını siteye aktarmak için program: wordpress gibi dosyalar
+
+kendi sunucuların üzerinden film yüklemek telif sıkıntısına neden olur
+bu yüzden "embed kodları" kullanarak başka sunuculardan filmleri çekersin
+
+film botu
+https://botextra.com/
+https://www.make.com/en
+https://zapier.com/
+WP Automatic as extension for wordpress
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Veritabanı oluşturmak: veri tabanı sunucusu gerekli (Database Server)
+  Kullanıcı/İstemci/Uygulama -request-> Database Server
+  Database Server -veri-> Kullanıcı/İstemci/Uygulama
+
+Kullanıcı veya uygulama, sunucuya bir istek gönderir. Sunucu, veritabanı yönetim sistemi (DBMS) aracılığıyla veriyi bulur. İstenilen veri düzenlenerek istemciye geri gönderilir.
+  MySQL: Açık kaynaklı ve en yaygın kullanılanlardan biridir.
+  PostgreSQL: Gelişmiş özelliklere sahip bir ilişkisel veritabanı.
+  Microsoft SQL Server: Kurumsal çözümler için tercih edilir.
+  Oracle Database: Büyük ölçekli veri yönetimi için devasa bir sistem.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Advertising
+Google Adsense film sitelerine reklam eklemiyor bunun yerine başka reklam siteleri... ama onlarda sadece .comlu siteleri kabul ediyor.
+sadece .com kabul etmeyen reklam siteleri bulmak gerek
+
+
+
+# Website Examples
+https://www.fullhdfilmizlesene.tv/film
+https://www.hdfilmcehennemi.nl/
+
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 # Bet Website
 
 
