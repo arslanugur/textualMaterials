@@ -4,10 +4,25 @@ server ----> ip  -----> hosting  ----> user
 
 # Film Website
 
-Hosting
+Hosting: web sitenin kodları ve görselleri Hosting (Barındırma/Hosting) 7/24 açık bir sunucusuna yükle
   web hosting: site adresi almak
 
-Domain
+Domain (Alan Adı/Domena) satın alınır ve bu adres, hosting sunucusunun IP Adresine yönlendirilir. Bu sayede kullanıcılar rakamları ezberlemek zorunda kalmaz.
+
+Proxy: Bir kullanıcı tarayıcısına adresinizi yazdığında, istek önce bir Proxy (Vekil Sunucu/Serwer Proxy) üzerinden geçebilir.
+  Proxy burada şu rolleri üstlenir:
+  Güvenlik: Kötü niyetli saldırıları engeller.
+  Hız: Daha önce ziyaret edilmiş sayfaları önbellekten (cache) hızlıca sunar.
+  Proxy: istemciyi korur. kimliği gizler.
+  Reverse Proxy: Sunucuyu korur. kimliği gizler ve trafiği yönetir
+
+  Reverse Proxy:
+    Nginx: Dünyanın en popüler reverse proxy ve yük dengeleyici yazılımıdır.
+    HAProxy: Özellikle yüksek trafikli yük dengeleme işlemleri için uzmanlaşmıştır.
+    Apache: mod_proxy modülü ile bu görevi yerine getirebilir.
+    Traefik: Modern, bulut tabanlı ve Docker uyumlu bir çözümdür.
+
+
 
 bu siteler "Reverse Proxy" üzerinden yayın yapıyorlar
   Cloudflare benzeri servisler kullanıyor
