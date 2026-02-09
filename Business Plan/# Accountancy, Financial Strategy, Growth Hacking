@@ -166,3 +166,41 @@ Assets, on the other hand, are goods that are not consumed through their use.
 
 
 
+# KDV Hesaplama
+Hesaplama Formülleri
+Satış Tutarı; KDV Dahil ise aşağıdaki formüle uygun işlem gerçekleştiriniz.
+Örnek: % 1
+  Müşterinizden 1000 tl  tahsil ettin. Sattığınız mal/hizmet KDV oranı %1 ise;
+  
+  Genel Toplam / 1,01 = Matrah (KDV Hariç Tutar)      1000tl / 1,01 = 990,10tl (Matrah)
+  Matrah * 1% = KDV                                   990,10 * 1% = 9,90tl (KDV)
+  Matrah + KDV = Genel Toplam                         990,10 + 9,90 = 1000 (Genel Toplam)
+
+
+Örnek: % 8
+  Müşterinizden 1000 tl  tahsil ettin. Sattığınız mal/hizmet KDV oranı %8 ise;
+  
+  Genel Toplam / 1,08 = Matrah (KDV Hariç Tutar)      1000tl / 1,08 = 925,93tl (Matrah)
+  Matrah * 8% = KDV                                   925,93 * 8% = 74,07tl (KDV)
+  Matrah + KDV = Genel Toplam                         925,93 + 74,07 = 1000 (Genel Toplam)
+  
+Örnek: % 18
+  Müşterinizden 1000 tl  tahsil ettin. Sattığınız mal/hizmet KDV oranı %18 ise;
+  
+  Genel Toplam / 1,18 = Matrah (KDV Hariç Tutar)      1000tl / 1,18 = 847,46tl (Matrah)
+  Matrah * 18% = KDV                                   847,46 * 18% = 152,54tl (KDV)
+  Matrah + KDV = Genel Toplam                         847,46 + 152,54 = 1000 (Genel Toplam)
+  
+Bir de bu hesapların, 1000 lira + KDV versiyonları var. bu versiyonlar KDV dahil fiyat versiyonları.
+https://www.ogsmm.com/index.html 
+ 
+ 
+ 
+temel muhasebeyi bil
+kdv hesaplamasını bil - kdv hesabına göre maliyet hesabına ekleyip ürünün fiyatını belirliyor..
+bazen malları satıyorsun vade süresi geçiyor. satar satmaz zparası cebine girmiyor..
+
+
+
+
+
