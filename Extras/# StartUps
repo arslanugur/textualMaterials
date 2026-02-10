@@ -141,6 +141,9 @@ B2C   Customers (Çok para gereklidir, türk fonları/VC pek istemez, kullanıc�
     The Giants - Uber, AirBnB bu yollara girdi
 
     Kuluçka Programları: Networks
+    Seri A'dan Seri B'ye geçiş TR'de zor çünkü o kadar nakit çıkmıyor.
+    Seri B'de yabancı yatırım fonları bulunmalı 
+    Merkezi yurtdışına taşımak olabiliyor. Estonya popülerdi ama 2025 sonrası amerika revaşta.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -166,9 +169,77 @@ B2C   Customers (Çok para gereklidir, türk fonları/VC pek istemez, kullanıc�
     Harcamaları minimize etmek
     Muhasebe
     Denetim
-    Bir müşteriden ne kadar kazanıyorsun..
 
-    Churn Rate: Churn refers to the number of customers who end their relationship with a company within a given period.
+    Churn Rate:
+        Müşteri Kayıp Oranı / Abonelik İptal Oranı
+        Churn refers to the number of customers who end their relationship with a company within a given period
+        Belirli bir dönem (örneğin bir ay) içindeki kayıp oranını bulmak için
+        Formula: Churn Rate = (Lost Customers during Period / Total Customers at Start of Period) * 100
+            Örnek:Ay başında 1.000 aboneniz vardı. Ay sonunda bu abonelerden 50 tanesi üyeliğini iptal ettiyse:
+            Churn Rate: (50 / 1.000) * 100 = %5
+
+        Bad Support / Kötü Destek         : Müşteri bir sorun yaşadığında muhatap bulamazsa gider.
+        Price / Fiyat                     : Rakip şirket daha uygun bir fiyat teklif etmiş olabilir.
+        Lack of Value / Değer Eksikliği   : Müşteri artık ürüne veya hizmete ihtiyaç duymuyordur.
+
+        Churn Rate oranını düşürmek için yapılan çalışmalara Retention (Elde Tutma) stratejileri denir.
+        Bu stratejilerden (kampanyalar, sadakat programları vb.)
+
+    Retention Rate: Percentage of kept customers / Elde tutulan müşteri yüzdesi
+    LTV (Lifetime Value): Total revenue from one customer / Bir müşteriden toplam kazanç
+    Attrition (Aşınma) : Gradual reduction in customers / Müşteri sayısındaki kademeli azalma 
+
+
+    Conversion Rate (CVR):
+        Eyleme geçen kullanıcı yüzdesi
+        * Needs to be increased
+        Conversion Rate olan bu terim, bir web sitesini veya uygulamayı ziyaret edenlerin ne kadarının hedeflenen eylemi (satın alma, üye olma vb.) gerçekleştirdiğini ölçer.
+        Sitenizi 1.000 kişi ziyaret etti ve bunlardan 20 tanesi alışveriş yaptıysa:
+        Formula: CVR = (Total Coversions / Total Visitors) * 100
+                       (20 / 1.000) * 100 = %2 CVR
+
+        E-ticaret: Genelde %1 ile %3 arası normal kabul edilir.
+        Hizmet Sektörü (B2B): Form doldurma gibi işlemler olduğu için %5 ile %10 arası görülebilir.
+        Lüks Tüketim: Ürünler çok pahalı olduğu için %0.5 bile başarılı sayılabilir.
+
+    Return of Investment (ROI):
+        Harcadığım her 1 birim para bana ne kadar kazandırdı?
+        * Needs to be increased
+        Formula: ROI = (Current Value of Investment - Cost of Investment // Cost of Investment ) * 100
+        Örnek: Bir reklam kampanyası için 1.000 TL harcadınız ve bu kampanya sonucunda 3.000 TL satış yaptınız.
+                Net Kâr: $3.000 - 1.000 = 2.000$ TL
+                ROI: (2.000 / 1.000) * 100 = %200
+
+        Bir müşteriden ne kadar kazanıyorsun...
+
+    Average Order Value (AOV):
+        bir müşterinin sepetini onayladığında (sipariş verdiğinde) ödediği ortalama tutardır.
+        e-ticaret dünyasında işletmelerin karlılığını ve müşteri alışveriş alışkanlıklarını anlamak için kullandığı bir diğer kritik metrik
+        toplam gelir, toplam sipariş sayısına bölünür. Burada dikkat edilmesi gereken nokta, "müşteri sayısı" değil, **"sipariş sayısı"**dır.
+        Formula: AOV = Total Revenue / Number of Orders
+        Örnek: Bir ay içinde toplam 10.000 TL ciro yaptınız ve bu süreçte toplam 200 adet sipariş aldınız.
+        AOV: $10.000 / 200 = 50 TL
+        AOV'yi artırmak, yeni müşteri bulma maliyetine (CAC) katlanmadan geliri artırmanın en etkili yoludur.
+        Her sipariş için kargo ve operasyon maliyeti ödediğinizden, sipariş tutarı ne kadar yüksekse kâr marjınız o kadar artar.
+        Mevcut trafiğinizden daha fazla kazanç elde etmenizi sağlar.
+            "150 TL ve üzeri alışverişe kargo bedava" diyerek müşteriyi sepetine ürün eklemeye teşvik etmek.
+            Birbiriyle ilişkili ürünleri (örneğin: telefon + kılıf + ekran koruyucu) set halinde indirimli sunmak.
+            "Bu ürünü alanlar bunları da aldı" diyerek sepeti büyütmek.
+            Encouraging to buy a pricier item / Daha pahalı ürüne teşvik
+            Offering complementary products / Tamamlayıcı ürün önerme
+
+
+    Bounce Rate:
+        * Needs to be decreased
+        Hemen Çıkma Oranı olarak çevrilen bu terim, bir kullanıcının sitenize gelip, başka hiçbir sayfaya tıklamadan veya herhangi bir etkileşimde bulunmadan geldiği sayfadan ayrılma yüzdesi
+            E-ticaret Siteleri: %20 - %45 (İdealdir)
+            Haber Siteleri / Bloglar: %60 - %90 (Normaldir, çünkü kişi yazıyı okuyup çıkar)
+            Açılış Sayfaları (Landing Pages): %70 - %90 (Çünkü genellikle tek amaçlıdır)
+
+            Formula: Bounce Rate = (Total Single Page Sessions / Total Sessions) * 100
+                Sitenize 500 kişi geldi. Bunlardan 250 tanesi hiçbir yere tıklamadan sayfayı kapattı veya geri gitti.
+                Bounce Rate: (250 / 500) * 100 = %50
+
 
     Competition Analysis
 
@@ -342,7 +413,7 @@ B2C   Customers (Çok para gereklidir, türk fonları/VC pek istemez, kullanıc�
           ya da kaç personel ile idare edebileceğini hesapla
               müşteri sayısı 100 kişiyse ona göre, 1000kişiyse ona göre..
           artan maliyete dönüşür ama halen sabit maliyettir. zaman içerinde değişebilir ama her ay değişmez.
-      değişen maliyerler: 
+      değişen maliyetler: 
           kullanılan gaz, elektrik, su miktarı, malzeme miktarı
           işletmenin işine göre artar veya azalır
 
@@ -361,6 +432,11 @@ B2C   Customers (Çok para gereklidir, türk fonları/VC pek istemez, kullanıc�
 
 
 # Links
-https://www.plugandplaytechcenter.com/
+https://www.girisimcilikvakfi.org/
+https://www.loncagirisim.com/
+https://habitatdernegi.org/
 
+https://www.plugandplaytechcenter.com/
+https://www.unluco.com/
+https://galatabusinessangels.com/en/
 
