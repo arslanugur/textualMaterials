@@ -2,14 +2,22 @@
 server ----> ip  -----> hosting  ----> user
 
 
+- Domain satın al. --- adres
+- Hosting paketi seç. / VPS(vds)    --- proje dosyaları koyulan sunucu - barındırma hizmeti
+- DNS ayarlarıyla ikisini bağla.
+- HTML, CSS, JavaScript
+- SSL (Kilit simgesi) sertifikasını aktif et.
+
 # Film Website
 
 Hosting: web sitenin kodları ve görselleri Hosting (Barındırma/Hosting) 7/24 açık bir sunucusuna yükle
   web hosting: site adresi almak
 
 Domain (Alan Adı/Domena) satın alınır ve bu adres, hosting sunucusunun IP Adresine yönlendirilir. Bu sayede kullanıcılar rakamları ezberlemek zorunda kalmaz.
+# Domain Değişikliği
 
-Proxy: Bir kullanıcı tarayıcısına adresinizi yazdığında, istek önce bir Proxy (Vekil Sunucu/Serwer Proxy) üzerinden geçebilir.
+
+Proxy: Bir kullanıcı tarayıcısına adresinizi yazdığında, istek önce bir Proxy (Vekil Sunucu/Server Proxy) üzerinden geçebilir.
   Proxy burada şu rolleri üstlenir:
   Güvenlik: Kötü niyetli saldırıları engeller.
   Hız: Daha önce ziyaret edilmiş sayfaları önbellekten (cache) hızlıca sunar.
@@ -22,6 +30,8 @@ Proxy: Bir kullanıcı tarayıcısına adresinizi yazdığında, istek önce bir
     Apache: mod_proxy modülü ile bu görevi yerine getirebilir.
     Traefik: Modern, bulut tabanlı ve Docker uyumlu bir çözümdür.
 
+    Web siteleri (örneğin LibGen), gerçek sunucu IP'lerini saklamak için Cloudflare gibi ters proxy servislerini kullanır.
+    Bu, saldırıların doğrudan sunucuya ulaşmasını engeller.
 
 
 bu siteler "Reverse Proxy" üzerinden yayın yapıyorlar
@@ -67,6 +77,52 @@ sadece .com kabul etmeyen reklam siteleri bulmak gerek
 # Website Examples
 https://www.fullhdfilmizlesene.tv/film
 https://www.hdfilmcehennemi.nl/
+
+
+
+
+ISS - Internet Service - ip trafiğini okuyabilir...
+
+# Way:
+Proxy Services
+Proxy, bilgisayarınız ile internet arasında bir aracı görevi görür.
+Web siteleri (örneğin LibGen), gerçek sunucu IP'lerini saklamak için Cloudflare gibi ters proxy servislerini kullanır.
+Bu, saldırıların doğrudan sunucuya ulaşmasını engeller.
+
+
+
+# Way:
+Tor Network | Tor Ağı | Sieć Tor
+Veriyi dünya çapındaki gönüllü düğümler (nodes) üzerinden üç katmanlı bir şifreleme ile iletir.
+Onion Routing | Soğan Yönlendirme | Trasowanie Cebulowe: Veri her düğümde bir katman şifreleme açıldığı için "soğan" olarak adlandırılır.
+Kimin nereden geldiğini bulmak neredeyse imkansızdır.
+
+# Way:
+LibGen, tek bir fiziksel sunucuya güvenmek yerine Mirror (Ayna) denilen kopyalar üzerinden çalışır.
+Location: Sunucuların çoğu tarihsel olarak Rusya, Ukrayna ve Hollanda gibi ülkelerde barındırılmıştır. Ancak yasal talepler nedeniyle bu konumlar sık sık değişebilir.
+Protection: Birçok LibGen uzantısı, gerçek sunucu IP adresini gizlemek ve DDoS saldırılarından korunmak için Cloudflare gibi ters proxy (reverse proxy) servislerini kullanır.
+Decentralized Storage:
+  LibGen'in en büyük gücü veriyi tek bir yerde tutmamasıdır:
+  IPFS (InterPlanetary File System):
+      LibGen, dosyaları merkezi olmayan bir ağda saklamak için IPFS teknolojisini kullanır.
+      Bu, dosyaların dünya üzerindeki birçok farklı bilgisayarda parçalar halinde saklanması anlamına gelir.
+  Torrents: LibGen veritabanının tamamı (terabaytlarca veri) torrent dosyaları olarak indirilebilir durumdadır.
+          Bu sayede ana sunucu kapansa bile binlerce kullanıcıda verinin kopyası kalır.
+
+Database Management | Veritabanı Yönetimi:
+    Metadata: Kitapların isimleri, yazarları ve diğer bilgileri (SQL veritabanı), genellikle ana dosyalardan ayrı sunucularda tutulur.
+Links Aggregator | Bağlantı Toplayıcı:
+    libgen.it gibi siteler genellikle birer "bağlantı toplayıcı" görevi görür; 
+    yani dosyayı kendi üzerinde tutmak yerine sizi dosyanın bulunduğu sunucuya (gateway) yönlendirir.
+
+
+
+# piratebay 2003 nasıl tutuklandı?
+
+
+
+
+
 
 
 
