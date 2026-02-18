@@ -164,9 +164,10 @@ B2C   Customers (Çok para gereklidir, türk fonları/VC pek istemez, kullanıc�
       Relevant to service
       Industries
 
+
 # Operasyon
     İnsan kaynağı - Ekip harcamaları
-    Harcamaları minimize etmek
+    Harcamaları minimize etmek - Marketing Budget
     Muhasebe
     Denetim
 
@@ -186,9 +187,44 @@ B2C   Customers (Çok para gereklidir, türk fonları/VC pek istemez, kullanıc�
         Bu stratejilerden (kampanyalar, sadakat programları vb.)
 
     Retention Rate: Percentage of kept customers / Elde tutulan müşteri yüzdesi
-    LTV (Lifetime Value): Total revenue from one customer / Bir müşteriden toplam kazanç
+        Retention Strategies
+        
     Attrition (Aşınma) : Gradual reduction in customers / Müşteri sayısındaki kademeli azalma 
 
+    Customer Acquisition Cost (CAC)
+        Müşteri Edinme Maliyeti / Koszt pozyskania klienta
+        bir işletmenin tek bir yeni müşteri kazanmak için harcadığı toplam maliyettir.
+        Bu maliyet sadece reklam giderlerini değil, satış ekibinin maaşlarını, kullanılan yazılımları ve pazarlama operasyonel giderlerini de kapsar.
+        belirli bir dönemdeki tüm satış ve pazarlama giderleri, o dönemde kazanılan yeni müşteri sayısına bölünür.
+        Formula: CAC = Toplam Satış ve Pazarlama Giderleri / Kazanılan Yeni Müşteri Sayısı
+        Örnek: Bir ayda reklam ve personel için toplam 10.000 TL harcadınız ve 100 yeni müşteri kazandınız. Bu durumda CAC değeriniz müşteri başına 100 TL olur.
+
+        İdeal Oran: LTV vs CAC
+        Bir işletmenin sürdürülebilir olması için müşteriden kazanılan paranın (LTV), onu kazanmak için harcanan paradan (CAC) yüksek olması gerekir.
+        LTV:CAC = 1:1 (Kritik durum, para kaybediyorsunuz.)
+        LTV:CAC = 3:1 (Sağlıklı ve ideal oran.)
+        LTV:CAC = 5:1 (Çok iyi, ancak belki de büyümek için yeterince yatırım yapmıyorsunuz.)
+
+
+    Lifetime Value (LTV) * *: bir müşteriden kazanılan para ne kadar?
+        Bir müşteriden ne kadar kazanıyorsun...
+        Total revenue from one customer (Bir müşteriden toplam kazanç)
+        pazarlama ve iş dünyasında bir müşterinin bir işletme için toplam değerini ölçen en kritik metriklerden biridir.
+        Genellikle CAC (Müşteri Edinme Maliyeti) ile birlikte analiz edilir.
+        Formula: LTV = Ortalama Sipariş Değeri * Satın Alma Sıklığı * Müşteri Ömrü
+        Örnek: Bir müşteri ayda 100 TL harcıyor (Sıklık) ve markayla 24 ay (Ömür) boyunca ilişkisini sürdürüyorsa, bu müşterinin LTV değeri 2.400 TL olur.
+        Bir müşteriyi kazanmak için ne kadar harcayabileceğinizi (CAC) belirlemenize yardımcı olur.
+        Segmentasyon (Segmentation): En değerli müşterilerinizi belirleyip onlara özel stratejiler geliştirmenizi sağlar.
+        LTV değerini artırmak için kullanılan Müşteri Sadakat Programları (Loyalty Programs) veya Çapraz Satış (Cross-selling) teknikleri
+
+    Cost per Action (CPA) * *: bir müşteri elde etme maliyeti ne kadar?
+        Cost Per Action (Edinme Başına Maliyet / Koszt za działanie)
+        iş modeline göre bir kişiyi bulmak 5 dolar ediyordur ama o kişi 8 dolar kazanıyordur. şimdilik kar etmiyordur çünkü ölçeği küçüktür. büyümesi gerek.
+        Formula: CPA = Toplam Reklam Harcaması / Toplam Dönüşüm Sayısı
+        Örnek: Bir kampanya için 1000 TL harcadınız ve bu kampanya sonucunda 20 satış (eylem) gerçekleşti. Bu durumda CPA değeriniz 50 TL olur.
+
+        CPA değerini düşürmek için Dönüşüm Oranı Optimizasyonu (CRO) tekniklerini veya hedef kitle seçimleri
+        Ölçeklenebilirlik (Scalability): Hangi kanalların daha karlı olduğunu anlamanızı sağlar, böylece bütçenizi doğru yere aktarabilirsiniz.
 
     Conversion Rate (CVR):
         Eyleme geçen kullanıcı yüzdesi
@@ -210,10 +246,8 @@ B2C   Customers (Çok para gereklidir, türk fonları/VC pek istemez, kullanıc�
                 Net Kâr: $3.000 - 1.000 = 2.000$ TL
                 ROI: (2.000 / 1.000) * 100 = %200
 
-        Bir müşteriden ne kadar kazanıyorsun...
-
     Average Order Value (AOV):
-        bir müşterinin sepetini onayladığında (sipariş verdiğinde) ödediği ortalama tutardır.
+        bir müşterinin sepetini onayladığında (sipariş verdiğinde) ödediği ortalama tutar.
         e-ticaret dünyasında işletmelerin karlılığını ve müşteri alışveriş alışkanlıklarını anlamak için kullandığı bir diğer kritik metrik
         toplam gelir, toplam sipariş sayısına bölünür. Burada dikkat edilmesi gereken nokta, "müşteri sayısı" değil, **"sipariş sayısı"**dır.
         Formula: AOV = Total Revenue / Number of Orders
@@ -231,7 +265,7 @@ B2C   Customers (Çok para gereklidir, türk fonları/VC pek istemez, kullanıc�
 
     Bounce Rate:
         * Needs to be decreased
-        Hemen Çıkma Oranı olarak çevrilen bu terim, bir kullanıcının sitenize gelip, başka hiçbir sayfaya tıklamadan veya herhangi bir etkileşimde bulunmadan geldiği sayfadan ayrılma yüzdesi
+        Hemen Çıkma Oranı, bir kullanıcının sitenize gelip, başka hiçbir sayfaya tıklamadan veya herhangi bir etkileşimde bulunmadan geldiği sayfadan ayrılma yüzdesi
             E-ticaret Siteleri: %20 - %45 (İdealdir)
             Haber Siteleri / Bloglar: %60 - %90 (Normaldir, çünkü kişi yazıyı okuyup çıkar)
             Açılış Sayfaları (Landing Pages): %70 - %90 (Çünkü genellikle tek amaçlıdır)
