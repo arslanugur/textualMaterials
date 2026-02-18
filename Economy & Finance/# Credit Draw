@@ -1,0 +1,111 @@
+Düşük Faiz - Uzun Vade her zaman kazandırmaz
+düşük faiz 60 ay kredi - ve kredi genişlemesi
+
+kredi genişlemesi - herkes kredi çekebilir.
+
+Asset: Varlık --> yatırımlık varlıklar neler
+
+# Senaryo 1:
+Inflation per Year: %30
+Asset: 100₺
+Asset a year later: 130₺
+Credit: 100k₺
+Credit Interest annually: %30
+Credit Cost per Year: 130₺
+Asset after one-year: 130₺
+Profit/Loss: None
+Credit: Useless
+
+# Senaryo 2:
+Inflation annually: %30
+Asset: 100₺
+Asset after one-year: 130₺
+Credit: 100k₺
+Credit Interest annually: %80
+Credit Cost per Year: 180₺
+Asset after one-year: 130₺
+Profit/Loss: -50₺
+Credit: Loss
+Yıllık Efektif Faiz Oranı'e bak. Masraflar da içine katılır. yıllık sana %80 der..
+Bu senaryo tek bir durumda işler. Enflasyon üstünde artacak varlığa yatırırsan işler...
+Varlığın yıl sonunda 200₺ olacağını varsayarsan kar edersin...
+
+# Senaryo 3: Ortam güzel
+Inflation per Year: %30
+Asset: 100₺
+Asset a year later: 130₺
+Credit: 100k₺
+Credit Interest annually: %10
+Credit Cost per Year: 110₺
+Asset after one-year: 130₺
+Profit/Loss: Profit
+Credit: Useful
+bu krediyi yatırma değil de verimsiz mala/tatile harcarsan zengin etmez.
+yüksek enflasyon varken düşük faizle kredi bulursan kar ederim diye birşey yok... yatırım yapılmalı
+toprak yatırımı.. bu kredi enflasyon öder...
+ülkedeki gerçek enflasyon ne peki
+
+Inflation per Year: %50
+Credit Interest annually: %50
+%80-%90 artabilecek yatırımlara para koymak lazım
+bu senaryo zor. uzmanlık gerektirir.
+
+Inflation per Year: %50
+Credit Interest annually: %20
+bu şanslı senaryo...
+seçim ekonomisine girildiği zaman.... seçimler ne zaman
+parayı öyle bir varlığa yatır ki seçim ekonomisinden yararlan
+
+Inflation per Year: %50
+Credit Interest annually: %100
+gereksiz borçlanma
+seçim ekonomisi için güç topla
+kredi skoruna sahip çık
+bu zamanlar borçlanarak varlıklaşılmaz anlamsız
+
+Inflation per Year: %100
+Credit Interest annually: %50
+olumlu güzel an
+
+Inflation per Year: %30
+Credit Interest annually: %30 (Effective Interest)
+güzel bir senaryo
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Analytics
+
+Country: -
+
+          %0 %5 %10 %15 %20 %25 %30 %35 %40 %45 %50 %55 %60 %65 %70 %75 %80 %85 %90
+inflation |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+          %0 %5 %10 %15 %20 %25 %30 %35 %40 %45 %50 %55 %60 %65 %70 %75 %80 %85 %90
+interest  |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+          Year:
+          01. %/%          04. %/%            07. %/%            10. %/%     
+          02. %/%          05. %/%            08. %/%            11. %/%
+          03. %/%          06. %/%            09. %/%            12. %/%
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
