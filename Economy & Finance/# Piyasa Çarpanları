@@ -1,31 +1,14 @@
-# Piyasa Çarpanları (Oranlar Analizi)
-      F/K (FKO)      Fiyat/Kazanç Oranı                      Price to Earnings             Fiyatın, Son bir yıllık kazanca (Kara) bölünmesi
-      PD/DD          Piyasa Değeri/Defter Değeri             Market Value / Book Value     Piyasa değeri, Özsermayeye bölünmesi
-      FD/FAVÖK       Firma Değeri/FAVÖK                      / FAVÖK = EBITDA              Firma değeri = Net Borçları + Piyasa Değeri
-      FD/S           Firma Değeri/Satış                      / Sales                       Firma değeri, son bir yıllık hasılata bölünmesi
-      F/NA           Fiyat/Nakit Akış                        Price to Cash Flow
-      F/S            Fiyat/Net Satış                         Price to Sales
+# Şirket Değeri
+	Enterprise Value (EV) (İşletme Değeri, Firma Değeri)
+	Equity Value (Özsermaye Değeri, Piyasa Değeri)
 
-      Şirket: Bu çarpanlara göre değerlendirilir.. Ucuz mu yoksa Pahalı mı?
+	Özsermaye Değeri (Equity Value) = Firma Değeri (Enterprise Value) - Toplam Borç + Nakit
+	Firma/İşletme Değeri (Enterprise Value) = Özsermaye Değeri (Equity Value) + Toplam Borç - Nakit
 
-# Piyasa Çarpanları (English version)          Cheat Sheet: Four ways to value a stock
-                                                                        Formula
-      P/E            Price to Earnings        Good P/E = <10            Share Price / Earnings/Share              tells you how much you are paying for each dollar of earnings
-      P/S            Price to Sales	          Good P/S = 1 to 2         Share Price / Sales/Share		              tells you how much investors are willing to pay for each dollar of sales
-      PEG            Price to Growth	        Good PEG = <1	            P/E / Earnings Growth		                  tells you how much you are paying for each dollar of earnings, while also factoring in earnings growth					
-      D/E            Debt to Equity	          Good D/E = <1	            Total Liabilities / Shareholder Equity		tells you how well a company is leverage its debt to generate profit for its shareholders
-			
 
-	EV/EBITDA						Enterprise Value/EBITDA -> Şirket değeri faiz, vergi, amortisman öncesi kâra bölünerek çarpan hesaplanır.
-	P/BV - Price to Book Value
-	P/S - Price to Sales
-	EV/S
-	P/AFFO
-	P/CFPS
-
-			  şirket değeri
-	işletme değeri  = özsermaye değeri - toplam borç + nakit
-	Equity value = Enterprise Value - total debt + cash
+	Özkaynak (Shareholders' Equity) --> Equity
+	Özsermaye = 					--> Capital
+	Ödenmiş Sermaye (Paid-in Capital)
 
 	Özkaynak, bir şirketin sahiplerine ait olan ve şirketin varlıklarının değerini temsil eden kaynaklardır. 
 		Özkaynaklar, şirketin hisse senetleri, sermaye yedekleri, kar yedekleri, geçmiş yılların karları ve zararları gibi unsurları içerir. 
@@ -37,44 +20,266 @@
 		Özkaynak, şirketin finansal durumunu ve değerini gösterirken, özsermaye sadece sahiplerin şirkete yaptığı yatırımları ifade eder.
 
 
-Book value is calculated by subtracting a company's total liabilities from its total assets. Enterprise value, on the other hand, is calculated by adding a company's market capitalization to its debt and subtracting its cash and cash equivalents.
+	Özsermaye (Equity): Daha geniş bir kavramdır. Şirket ortaklarının koyduğu ana sermayenin yanı sıra, şirketin faaliyetleri sonucu biriken kârları, yedek akçeleri ve yeniden değerleme artışlarını da kapsayan toplam net değerdir.
+	Özkaynak (Shareholders' Equity): Bilançonun sağ alt kısmında yer alan, varlıklar ve yükümlülükler arasındaki farkın tamamını ifade eden grubun adıdır.
+
+	Muhasebe Eşitliği:
+		Özkaynaklar (Equity) = Varlıklar (Assets) - Borçlar (Liabilities)
 
 
-F/K:  şirketin kendini amorti etme süresi, hesaplanışı; şirketin güncel piyasa değerini, şirketin yıllık karına bölünersek çıkan sonuç fko
-								
-	20.000.000.000 / 5.000.000.000 = 4			      şirket bu karlılıkta kendini 4 kere amorti eder				
-	güncel piyasa değeri	şirketin yıllık karı		10nun altındaysa iyi, aksi varsa peg ratiosu düşük olmalı o zaman cazip oluyor
+
+	Book value is calculated by subtracting a company's total liabilities from its total assets.
+	Enterprise value, on the other hand, is calculated by adding a company's market capitalization to its debt and subtracting its cash and cash equivalents.
+		Örnek:
+			Piyasa Değeri: 1.000₺
+			Borçlar: 500₺
+			Kasadaki Nakit: 200₺
+			Firma Değeri (EV): 1.000 + 500 - 200 = 1.300₺
+
+	Equity Value		Özsermaye Değeri sadece hissedarlara ait olan kısımdır.
+		Özsermaye Değeri = Enterprise Value - Net Borç
+	Enterprise Value	Firma Değeri ise hem hissedarlara hem de borç verenlere (bankalara) ait olan toplam "pastanın" tamamı
+		Enterprise Value (Firma Değeri) = Özsermaye Değeri (Piyasa Değeri) + Net Borç
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Piyasa Çarpanları (Oranlar Analizi) # Ways to value a stock
+	Şirket: Bu çarpanlara göre değerlendirilir.. Ucuz mu yoksa Pahalı mı?
+Piyasa çarpanları, bir şirketin değerini finansal performans göstergeleriyle (kâr, satışlar, özkaynaklar vb.) ilişkilendiren oranlardır.
+Bu yöntem, bir şirketi aynı sektördeki benzer şirketlerle (emsallerle) kıyaslayarak 
+	"ucuz" mu yoksa "pahalı" mı olduğunu anlamamıza yarayan görece değerleme (relative valuation) yaklaşımı.
+
+English				English						Turkish										Formula
+--------------------------------------------------------------------------------------------------------------------------------------------------
+# P/E Ratio 		Price to Earnings			F/K Oranı (Fiyat Kazanç Oranı)				Price / Earnings			Share Price / Earnings/Share
+	Fiyatın, Son bir yıllık kazanca (Kara) bölünmesi.
+	Şirketin her 1 TL'lik kârı için yatırımcının kaç TL ödemeye razı olduğunu gösterir.
+	Düşük olması genellikle hissenin ucuz olduğu şeklinde yorumlanır, ancak şirketin büyüme potansiyeli düşükse de F/K düşük çıkabilir.
+	tells you how much you are paying for each dollar of earnings
+	Good P/E = <10
+
+	F/K: şirketin kendini amorti etme süresi, hesaplanışı; şirketin güncel piyasa değerini, şirketin yıllık karına bölünersek çıkan sonuç fko
+
+	20.000.000.000 / 5.000.000.000 = 4				Şirket bu karlılıkta kendini 4 kere amorti eder				
+	güncel piyasa değeri / şirketin yıllık karı		10nun altındaysa iyi, aksi varsa peg ratiosu düşük olmalı o zaman cazip oluyor
 
     A Şirketi FK 	123$	yani yatırımcının 1$ için 123$ vermeye razı olması 		
-    B Şirketi FK	12$	  bu daha ucuz...
-		      Aynı sektördeki şirketleri kıyaslamak daha doğru		
+    B Şirketi FK	12$		bu daha ucuz...
+	Aynı sektördeki şirketleri kıyaslamak daha doğru	
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# PEG           	Price to Growth				Fiyat Kazanç Büyüme Oranı					P/E / Earnings Growth
+	tells you how much you are paying for each dollar of earnings, while also factoring in earnings growth
+	Good PEG = <1
 
-EPS = Hisse Başına Kar		
-    Şirketler karşılaştırılırken, hisse başına karı daha yüksek olan şirket daha güçlü olarak değerlendirilir.
+	EPS = Hisse Başına Kar		
+    	Şirketler karşılaştırılırken, hisse başına karı daha yüksek olan şirket daha güçlü olarak değerlendirilir.
 
-
-
-(PEG Ratio) Fiyat Kazanç Büyüme Oranı = Fiyat/Kazanç Oranı / Hisse Başına Büyüme Tahmini			
+	(PEG Ratio) Fiyat Kazanç Büyüme Oranı = Fiyat/Kazanç Oranı / Hisse Başına Büyüme Tahmini			
                 PEG Ratio = (Share Price / EPS = F/K) / EPS Growth Rate	
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# P/B Ratio			Price-to-Book Ratio			PD/DD Oranı (Piyasa Değeri/Defter Değeri)	Market Cap / Book Value (Market Value / Book Value)		Piyasa değeri, Özsermayeye bölünmesi
+  P/BV				Price to Book Value
+	Şirketin piyasadaki değerinin, muhasebe kayıtlarındaki özkaynaklarına oranıdır.
+	Genellikle bankacılık gibi varlık ağırlıklı sektörlerde kritik bir öneme sahiptir.
+	Oranın 1'den küçük olması, hissenin defter değerinin altında işlem gördüğünü gösterir.
 
-favök - Şirketin amortisman, vergi ve faiz öncesi çekirdek karını gösterir yani esas faaliyet karını gösterir.
-        Favök sürekli artıyorsa şirketin sürdürülebilir karlılık olduğunu gösteren bi göstergedir
+	bir şirketin piyasa değerini, bilançosundaki özkaynakları (defter değeri) ile kıyaslayan bir değerleme çarpanıdır.
+	Yatırımcılara, şirketin net varlıklarının kaç katı fiyattan işlem gördüğünü söyler.
+	Bu oran, özellikle fiziksel varlıkları (makine, bina, nakit) yoğun olan şirketlerin değerlenmesinde temel taşıdır.
+
+	P/BV oranını tek başına incelemek yanıltıcı olabilir. Genellikle ROE (Özsermaye Kârlılığı) ile birlikte analiz edilir:
+		Yüksek ROE + Düşük P/BV: Genellikle "Kelepir" veya "Gözden Kaçmış" hisse olarak değerlendirilir.
+		Düşük ROE + Yüksek P/BV: "Aşırı Değerlenmiş" veya "Balon" olma riski taşıyan hisse olabilir.
+
+	Calculation: Toplam Değer Üzerinden
+	P/BV = Piyasa Değeri (Market Cap) / Özkaynaklar (Total Equity)
+	
+	Calculation: Hisse Başına Değerler Üzerinden:
+	P/BV = Hisse Fiyatı (Share Price) / Hisse Başına Defter Değeri (Book Value per Share)
+
+	P/BV < 1: Hisse senedi, şirketin net varlık değerinin bile altında satılıyor demektir.
+			  Bu bir "fırsat" olabileceği gibi, şirketin ciddi finansal sıkıntıda olduğunun (tuzak) işareti de olabilir.
+	P/BV > 1: Piyasa, şirketin varlıklarını defter değerinden daha yüksek bir değerle fiyatlıyor demektir (marka değeri, büyüme potansiyeli vb. nedenlerle).
+
+	Notes:
+	Equity / Özkaynaklar: Bilançodaki varlıklardan borçlar çıktıktan sonra kalan, P/B oranının paydasını oluşturan ana kalem.
+	Tangible Assets / Maddi Varlıklar: 			Fabrikalar, arsalar ve nakit gibi elle tutulur varlıklar. P/BV bu varlıkların değerini ölçer.
+	Intangible Assets / Maddi Olmayan Varlıklar:Yazılım, patent veya marka değeri. Bunlar genellikle defter değerinde tam görünmez, bu yüzden teknoloji şirketlerinde P/BV çok yüksek çıkabilir.
+	Value Investing / Değer Yatırımcılığı: 		Benjamin Graham ve Warren Buffett gibi isimlerin düşük P/BV'li şirketleri bulmaya odaklandığı yatırım felsefesi.
 
 
-Satışlar, geçen ve bu yıl ile kıyaslanır. 
-    Genelde artış olmalıdır. Ne kadar olduğuna bakılır
-    şirket her yıl ciroyu arttırıyor ama belli bir süre sonra çita yükselecek
-    ve büyüyemecek çünkü karın büyüme hızı bilançoya ve yıllık olarak düşebilir.
-    peg ratiosundadaki oranlar 1in üzerine çıkmaya başlayacak, ucuz olmaktan çıkar, satışa geçer
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# EV/EBITDA			Enterprise Value to EBITDA	FD/FAVÖK (Firma Değeri/FAVÖK)				Enterprise Value / EBITDA								Firma değeri = Net Borçları + Piyasa Değeri
+	Şirket değeri faiz, vergi, amortisman öncesi kâra bölünerek çarpan hesaplanır.
+	Şirketin toplam değerini (borçlar dahil) operasyonel nakit akışına oranlar.
+	Amortisman ve vergi öncesi rakamları kullandığı için farklı vergi sistemlerine veya borç yapılarına sahip şirketleri karşılaştırmak için en sağlıklı yöntemlerden biridir.
+
+	FAVÖK - Şirketin amortisman, vergi ve faiz öncesi çekirdek karını gösterir yani esas faaliyet karını gösterir.
+    FAVÖK sürekli artıyorsa şirketin sürdürülebilir karlılık olduğunu gösteren bi göstergedir. * * *
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# P/S Ratio			Price to Sales				F/S (Fiyat/Net Satış)						Market Cap / Sales			Share Price / Sales/Share
+	Firma değeri, son bir yıllık hasılata bölünmesi
+	tells you how much investors are willing to pay for each dollar of sales
+	Good P/S = 1 to 2
+
+	Price-to-Sales (P/S): FD/S'nin borçları hesaba katmayan daha basit versiyonudur.
+
+	Notes:
+	Satışlar, geçen ve bu yıl ile kıyaslanır. Genelde artış olmalıdır. Ne kadar olduğuna bakılır
+    	şirket her yıl ciroyu arttırıyor ama belli bir süre sonra çita yükselecek ve büyüyemecek çünkü karın büyüme hızı bilançoya ve yıllık olarak düşebilir.
+    	peg ratiosundadaki oranlar 1in üzerine çıkmaya başlayacak, ucuz olmaktan çıkar, satışa geçer
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------	            
+# EV/S				Enterprise Value to Sales	FD/S (Firma Değeri/Satış)
+	bir şirketin toplam değerini (borçlar dahil) yıllık satış gelirleriyle kıyaslayan bir çarpanıdır.
+	Özellikle henüz kâr edemeyen ancak hızlı büyüyen teknoloji şirketlerini veya perakende gibi düşük marjlı sektörleri analiz ederken kullanılır.
+	Bu oran, şirketin ürettiği her 1 TL'lik satış için piyasanın ne kadar "toplam değer" biçtiğini gösterir...
+	Calculation:
+	EV/S = Firma Değeri (Enterprise Value) / Yıllık Toplam Satışlar (Total Sales)
+
+	Notes:
+	Firma Değeri (Enterprise Value) = Piyasa Değeri + Toplam Borç - Nakit ve Benzerleri
+
+	Önemli: Sadece "Piyasa Değeri / Satış" (P/S) yerine FD/S kullanmak daha sağlıklıdır; 
+			çünkü FD, şirketi satın alacak birinin üstleneceği borçları da hesaba katar.
+
+	Growth Companies: Şirket yeni kurulmuşsa ve henüz net kâr (P/E) veya pozitif nakit akışı (P/CF) üretmiyorsa, elimizdeki en istikrarlı veri "satışlar"dır.
+	Turnaround Situations / Dönüşüm Süreçleri: Geçici olarak zarar eden ancak satış gücünü koruyan şirketleri değerlendirmek için idealdir.
+	Revenue Quality / Satış Kalitesi: Bir şirketin satışları artarken FD/S oranı düşüyorsa, hisse "ucuzluyor" olabilir.
 
 
-Net nakit pozisyonu yüksek olan şirketler, güçlüdür
-    net borç / favök ratio = 4'ün üstündeyse problem...
-    cari oranı (1 yıl içindeki yükümlü varlıkları) da 1'in altında ise işletme sermayesi açığı var
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------	            
+# D/E            	Debt to Equity				Borç/Özkaynak Oranı							Total Liabilities / Shareholder Equity
+	tells you how well a company is leverage its debt to generate profit for its shareholders
+	Bir şirketin toplam borçlarının, hissedarların özkaynaklarına bölünmesiyle elde edilen bir finansal kaldıraç oranıdır.
+	Bu oran, şirketin faaliyetlerini finanse etmek için ne kadar borçlandığını ve ne kadar kendi sermayesini kullandığını gösterir.
+
+	Calculation:	
+	D/E: Toplam Borç (Total Debt) / Toplam Özkaynaklar (Total Equity)
+		Yüksek D/E: Şirketin büyümesini büyük ölçüde borçla finanse ettiğini gösterir. Bu durum, faiz oranları yükseldiğinde risk yaratabilir.
+		Düşük D/E: Şirketin daha çok kendi sermayesine dayandığını ve genellikle daha güvenli bir finansal yapıda olduğunu gösterir.
+		Good D/E = <1
+
+	Enerji, inşaat veya otomotiv gibi sektörlerde yüksek D/E oranları (2.0 ve üzeri) normal kabul edilebilir.
+	Yazılım veya hizmet şirketlerinde genellikle borç ihtiyacı az olduğundan D/E oranının düşük olması beklenir.
+
+	D/E oranının ROE (Özsermaye Kârlılığı) üzerindeki etkisini açıkla
+	Leverage Effect - Kaldıraç, bir şirketin özkaynak karlılığını artırmak için borç kullanmasıdır.
+					  Eğer bir şirket borçlandığı parayla, ödediği faizden daha yüksek bir getiri elde ediyorsa, ROE yükselir.
 
 
+	Notes:
+	Net nakit pozisyonu yüksek olan şirketler, güçlüdür
+    	net borç / favök ratio = 4'ün üstündeyse problem...
+    	cari oranı (1 yıl içindeki yükümlü varlıkları) da 1'in altında ise işletme sermayesi açığı var
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# P/CF     			Price to Cash Flow	 		F/NA (Fiyat/Nakit Akış)
+	Bu oran, şirketin ürettiği gerçek nakit miktarının piyasa tarafından nasıl fiyatlandırıldığını gösterir.
+	bir şirketin piyasa değerini, operasyonlarından elde ettiği nakit akışıyla kıyaslayan bir değerleme çarpanıdır.
+	Birçok analist, net kârın muhasebe oyunlarıyla (amortisman, karşılıklar vb.) değiştirilebilmesi nedeniyle, bu oranı P/E (F/K) oranından daha güvenilir bir gösterge olarak kabul eder.
+
+	Calculation: 
+	P/CF = Piyasa Değeri (Market Cap) / İşletme Nakit Akışı (Operating Cash Flow)
+
+	Notes:
+	Piyasa Değeri = Hisse Fiyatı * Toplam Hisse Sayısı
+	İşletme Nakit Akışı (OCF): Şirketin günlük ticari faaliyetlerinden elde ettiği net nakit girişi.
+	Not: Düşük bir P/CF oranı, şirketin piyasa değerine oranla çok fazla nakit ürettiğini, yani hissenin ucuz olabileceğini gösterir.
+
+# P/CFPS (Price to Cash Flow Per Share)
+	bir şirketin hisse fiyatını, hisse başına ürettiği operasyonel nakit akışıyla kıyaslayan bir orandır.
+	Aslında P/CF (F/NA) oranının, toplam değerler yerine "hisse başına" indirgenmiş halidir.
+	Şirketin her bir hissesi için kasaya ne kadar nakit giriyor? sorusuna yanıt ararken kullanırlar.
+	Bu oran, net kârın (earnings) aksine, nakit hareketlerine odaklandığı için şirketin finansal sağlığını daha şeffaf bir şekilde yansıtır.
+
+	Calculation:
+	Adım 1: Hisse Başına Nakit Akışını (CFPS) Bulun:
+		CFPS = İşletme Nakit Akışı (Operating Cash Flow) // Dolaşımdaki Toplam Hisse Sayısı
+	Adım 2: P/CFPS Oranını Hesaplayın:
+		P/CFPS = Hisse Fiyatı / Hisse Başına Nakit Akışı (CFPS)
+
+	Önemli:
+	Eğer bir şirketin P/E (F/K) oranı 15, ancak P/CFPS oranı 8 ise; bu şirket kâğıt üzerindeki kârından çok daha fazla nakit üretiyor demektir. Bu genellikle olumlu bir işarettir.
+
+		Özellik (Feature)			P/E (F/K)									P/CFPS
+		- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+		Bileşen						Net Kâr (Net Income)						Nakit Akışı (Cash Flow)
+		Amortisman Etkisi			"Kârı düşürür, oranı yükseltir."			"Dikkate alınmaz, gerçek nakde bakılır."
+		Güvenilirlik				Muhasebe yöntemleriyle değiştirilebilir.	Manipüle edilmesi zordur.
+	
+	Nakit akışı kârdan yüksekse, kâr kalitesi yüksektir.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# P/AFFO			Price to Adjusted Funds From Operations
+	Özellikle Gayrimenkul Yatırım Ortaklıkları (GYO) sektöründe kullanılan en kritik değerleme çarpanıdır.
+	Standart şirketler için F/K (P/E) neyse, GYO'lar için de P/AFFO odur.
+
+	Real Estate Multiples / Gayrimenkul Çarpanları: GYO'larda P/E yerine P/NAV veya P/AFFO'nun tercih edilme nedeni, varlıkların değer artışını yansıtmalarıdır.
+
+	GYO'lar (REITs), binaların değer kaybını (amortisman) yasal olarak gider gösterirler; 
+	ancak binaların değeri genelde düşmez, artar. Bu yüzden net kâr yanıltıcıdır. 
+	AFFO, gerçek harcanabilir nakdi gösteren "düzeltilmiş" rakamdır.
+
+	Calculation:
+		Önce FFO bulunur, ardından AFFO'ya ulaşılır:
+
+			FFO (Funds From Operations) =  Net Kâr + Amortisman - Gayrimenkul Satış Kârları.
+			AFFO (Adjusted FFO) =  FFO - Düzenli Bakım Harcamaları (CapEx) + Kira Artış Düzeltmeleri.
+
+	P/AFFO Oranı Calculation:
+			P/AFFO = Hisse Fiyatı (Share Price) / Hisse Başına AFFO (AFFO per Share)
+
+	Notes:
+	Accurate Cash Flow: Bir binanın asansörünün yenilenmesi veya çatısının onarılması (CapEx) gerçek bir nakit çıkışıdır. AFFO bu masrafları kârdan düşerek cebinizde kalan parayı gösterir.
+	Dividend Coverage (Temettü Karşılama): GYO'lar nakitlerinin çoğunu temettü olarak dağıtır. Bir GYO'nun temettüsünü ödeyip ödeyemeyeceğini anlamak için net kâra değil, AFFO'ya bakılır.
+	CapEx (Capital Expenditures) / Sermaye Harcamaları: Mülkü çalışır durumda tutmak için gereken zorunlu harcamalar.
+	Straight-lining of Rents / Kira Düzeltmesi: Uzun vadeli kira sözleşmelerindeki artışların ortalamasının alınması işlemi.
+	Valuation Multiple / Değerleme Çarpanı: P/AFFO oranı düşükse, GYO ürettiği nakde göre "ucuz" kabul edilebilir.
+
+	NAV (Net Asset Value), Net Aktif Değer
+	bir şirketin (özellikle yatırım fonları ve GYO'lar için) tüm varlıklarının piyasa değerinden, tüm borçlarının çıkarılmasıyla elde edilen "net değer"dir.
+	NAV, şirketin bugün tasfiye edilmesi durumunda hissedarlara kalacak olan gerçek nakit değerini temsil eder.
+	Calculation:
+		NAV = Toplam Varlıkların Piyasa Değeri - Toplam Borçlar
+
+		Hisse Başına NAV = NAV / Dolaşımdaki Hisse Sayısı
+
+	NAV İskontosu ve Primi (NAV Discount & Premium)
+		Yatırımcılar, hisse fiyatını NAV ile kıyaslayarak bir karara varırlar:
+		Trading at a Discount (İskontolu):	Hisse fiyatı NAV'ın altındaysa, şirket varlıklarının değerinden daha ucuza satılıyor demektir. (Örn: NAV 100 TL, Hisse 80 TL ise %20 iskontoludur).
+		Trading at a Premium (Primli): 		Hisse fiyatı NAV'ın üzerindeyse, piyasa yönetimin kalitesine veya gelecekteki büyüme potansiyeline ekstra değer biçiyor demektir.
+
+	GYO (REIT) sektöründe neden genellikle hisselerin NAV iskontosuyla (aktif değerinin altında) işlem gördüğünü açıkla?
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Dividend Yield								Temettü Verimi								Dividend / Price
+	bir şirketin hissedarlarına ödediği yıllık temettü miktarının, hisse fiyatına oranını gösteren bir finansal çarpandır.
+	Yatırımcı için bu oran, hisse senedinden elde edilen "faiz benzeri" nakit getiriyi temsil eder.
+	Temettü verimi, yatırım yaptığınız her 1 TL için şirket tarafından size geri ödenen nakit miktarını yüzde (%) olarak ifade eder.
+
+	Calculation:
+		Temettü Verimi = (Hisse Başına Yıllık Temettü // Hisse Fiyatı) * 100
+
+	Örnek:
+	Hisse Fiyatı: 100 TL
+	Yıllık Toplam Temettü: 8 TL
+	Temettü Verimi: (8 / 100) * 100 = %8
+
+	Notes:
+	Income Investing: Emeklilik fonları veya düzenli nakit akışı isteyen yatırımcılar yüksek verimli hisseleri tercih eder.
+	Price Inverse Relationship / Fiyatla Ters İlişki: Hisse fiyatı düştüğünde (temettü miktarı aynı kalırsa), temettü verimi yükselir. Bu bazen hissenin "ucuz" olduğuna dair bir sinyal olabilir.
+	Dividend Trap / Temettü Tuzağı: Çok yüksek bir verim (örneğin %20+), bazen şirketin işlerinin kötü gittiğini ve hisse fiyatının çakıldığını gösterir. Şirket gelecekte bu temettüyü ödeyemeyebilir.
+	Dividend Payout Ratio / Temettü Dağıtma Oranı: Şirketin kârının yüzde kaçını hissedarlarına dağıttığı (Örn: %50 kâr dağıtımı)
+	Dividend Growth / Temettü Büyümesi: Şirketin her yıl ödediği temettü miktarını artırma hızı.
+
+	Bir şirketin temettü ödemesinin "güvenli" olup olmadığını anlamak için kullanılan "Payout Ratio" (Dağıtma Oranı) kavramını detaylandır?
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Links:
 https://www.investing.com/equities/koc-holding-ratios
