@@ -1,0 +1,61 @@
+# Types:
+  Abonelik Sistemi
+      Deneme Sürümü
+      Abonelik arası geçiş (plan değişikliği)
+      KOD sistemi (İndirim Fırsat günleri)
+      Ülke Kartları
+      SaaS satıyorsan abonelik satıyorsundur...
+  Hizmet satıyorsan
+      payoneer
+  Tek Seferlik Satış/Hizmet:  Shopier
+      shopier
+
+  MoR - merchant of record - senin yerine vergi ödüyor.. bir us vergi bir de trde vergi ödüyorsun...
+
+
+
+
+paypal
+stripe
+lemon squeezy
+paddle
+dodo payments
+uption
+polar
+
+iyzico
+paytr
+param
+lidio
+
+
+# Vergilendirme
+Şirketi US/UK açmak. stripe hesabı açıp ödeme alıyorsun.
+şirketi Trde de açarsın. iki şirkette sana ait olduğu için usde ödediğin vergiyi trde tekrar ödemezsin
+vergi anlaşması var.. usde mali müşavir tutmak, trde mali müşavir tutmak..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
