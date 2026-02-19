@@ -1,1 +1,119 @@
 
+# Payment Integrations
+Offshore veya denetimi zayıf ülkeler
+
+# Techniques
+shadow banking (gölge bankacılık)
+layering (katmanlama)
+
+
+# Payment Integration Methods
+Crypto Gateways - Kripto Ödeme Geçitleri      Takibi en zor olan yöntemdir.
+P2P Transfers - Kişiden Kişiye Transfer       "Papara/IBAN kiralama" olarak bilinir.
+Proxy Merchants - Paravan Üye İşyerleri       Ödemeyi başka bir alışveriş gibi gösterme.
+Digital Wallets - Dijital Cüzdanlar           Lisanssız veya esnek denetimli cüzdanlar.
+
+
+# Technical Workflow / Teknik İşleyiş
+Paravan Şirketler (Front Companies):
+    Ödeme ekranında "Kumar Sitesi" yerine "X Tekstil" veya "Y Kozmetik" yazar.
+    Sistem arkada bir API ile kumar sitesine bağlıdır ancak banka bunu bir e-ticaret satışı olarak görür.
+
+Otomatik IBAN Atama (Dynamic IBAN):
+    Siteye giriş yaptığınızda sistem size o an "kiralık" olan birinin IBAN numarasını verir.
+    Bu işlem genellikle "Finans Botları" aracılığıyla otomatikleştirilmiştir.
+
+Mule Accounts (Katır Hesaplar):
+    Paralar tek bir havuzda toplanmaz.
+    Binlerce farklı kişinin (genelde öğrenci veya dar gelirli kişilerden kiralanan hesaplar) hesabına dağıtılır.
+
+
+
+
+
+Şirket: Belize / Costa Rica / st.vincent kuruluyor
+Lisanslama ve Regulasyon: Anjouan / Curaçao lisanslanıyor.
+Curaçao eGaming Lisans Verification
+Anjouan Internet Gaming License Validation
+
+Curaçao:
+Curaçao, bir "vergi cenneti" (Tax Haven) olarak bilinir. Şirketler burada elde ettikleri gelirler için neredeyse hiç vergi ödemezler.
+Diğer ülkelerde spor bahisleri, casino, poker ve loto için ayrı ayrı lisanslar almanız gerekirken, Curaçao sistemi bunu basitleştirmiştir.
+Single License: Tek bir lisans (Master veya Sublicense) tüm oyun türlerini kapsar. Bu, devasa bir operasyonel kolaylık ve maliyet tasarrufu sağlar.
+Quick Process: Şirket kurulumu ve lisans alım süreci sadece 2 ila 4 hafta sürer. İngiltere veya Malta'da bu süreç 6 aydan fazla sürebilir.
+Curaçao, şirket sahiplerinin ve hissedarların bilgilerini koruma konusunda oldukça esnektir.
+Nominee Services: Şirket sahibi olarak kendi isminiz yerine bir "vekil" (nominee) atayabilirsiniz.
+Bu, gerçek sahiplerin (Beneficial Owners) kamuya açık kayıtlarda görünmesini engeller.
+Asset Protection: Şirket varlıkları, sahibinin ana ülkesindeki hukuki süreçlerden büyük ölçüde korunmuş olur.
+
+CosraRica:
+%0 Vergi: Eğer şirketiniz Kosta Rika’da kuruluysa ancak müşterileriniz ve gelir kaynağınız Kosta Rika dışındaysa (örneğin Türkiye veya Polonya), Kosta Rika hükümeti bu gelirden kurumlar vergisi almaz.
+Business License (Data Processing): Kosta Rika'da spesifik bir "E-Gaming" veya "Kumar Lisansı" yoktur. Şirketler genellikle "Veri İşleme" (Data Processing) veya "Yazılım Geliştirme" lisansı altında kurulur.
+Yasal Boşluk: Devlet, "Kosta Rika vatandaşlarına oynatmadığınız sürece, dışarıya ne yaptığınız bizi ilgilendirmiyor" mantığıyla hareket eder. Bu da lisans maliyetini ve denetim prosedürlerini ortadan kaldırır.
+Data Processing License / Veri İşleme Lisansı: Bahis sitelerinin yasal görünmek için kullandığı genel ticaret izni.
+Offshore Entity: Vergi ve hukuk avantajı sağlamak için seçilen yabancı tüzel kişilik.
+Zero Oversight / Sıfır Denetim: Devletin operasyonel süreçlere müdahale etmemesi.
+
+
+Plushavale
+trbank
+barkod havale otomatik
+fulgur pay
+jetpay
+king havale
+trbank transfer
+paratim
+hızlı havale
+flexhavale
+flexkredikartı
+minipay
+bitcoin
+oleypay
+fastoken
+skyhavale
+
+
+
+
+Tek seferlik para işlemleri:
+min tutar. iki para arasındaki zaman dilimi
+https://www.dmca.com/ - protecction service
+exonbet
+queenbet
+grandbetting
+1king
+meritbet
+grandpashabet
+spinco
+betwoon
+sloto
+cratosroyalbet
+betvole
+trbet
+dedebet
+palazzobet
+betebet
+pinco...
+luxbet
+betzula
+1xbet
+
+şirketler:
+the july sun ltd
+riotorto digital ltd
+vanta technology ltd
+GSR Technology Holding Limitada
+Forgeanza Ltd
+TechChallenge SRL
+
+
+özel email veren gizli şirketler
+
+
+
+
+
+
+
+
+
