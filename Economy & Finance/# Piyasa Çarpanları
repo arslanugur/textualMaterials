@@ -380,3 +380,306 @@ borçkaynak # özkaynak...
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Strateji
+((net kar / özsermaye)*100)/10 = pddd   bu aralarındaki ilişki alakasız ise o işe girme...
+
+fintables:  net dönem karı / özkaynaklar * 100/10 = pddd yakın olmalı yoksa alakasız....
+
+net dönem karı ve özkaynaklar - bu ikisinden özsermaye karlılığını da bulabiliriz..
+  ttrak
+      özsermaye: 7.757.455.846
+      net karı: 6.295.874.992
+        net dönem karı / özkaynaklar * 100 = özsermaye karlılığı % = %81
+        nerdeyse %81 kar yazmış.... 3 çeyrek içinde....
+yani isterse bir ttrak daha kurabilir...
+ama trrak parayı ortaklara dağıtıyor.. özsermaye hemen büyümüyor...
+kasaya koysa nakitte dursa özsermaye iki katı olurdu ama şirket tekrardan para kazandığı için %50 özsermaye karlılığına düşmüş olacaktı..
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# ucuz şirket için birinci yöntem: PD
+                        sermaye
+Özkaynaklar (Bin TRY) / Shares (Ödenmiş Sermaye) = Defter Değeri      Piyasa değeri
+ 214.138.000.000        2.535.898.050              84 lira            140 lira              KCHOL
+ 38.825.680.000         363.281.250                106 lira           107 lira              TAVHL
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# ucuz hisse için ikinci yöntem: F/K
+  aynı sektörde hangi hisse daha iyi araştırması
+  bir şirketten bir lira kazanmak için kaç paramı şirkete vermeliyim...
+
+  Hisse piyasa fiyatı / hisse başına kar = ödenmesi gereken fiyat (F/K)
+
+  ARCLK  127.90 / 7.59 = 16.85                           aslında bulduğumuz şey FK
+  Arclkten 1 lira kazanmak için 16.75 riske atılıyor.
+
+  hisse başına kar - geçmiş 4 çeyrekten elde edilir. yani gelecekle ilgili değil...
+  yani fk denilen şey 1 lira kar etmek için ne kadar yatırmamız gerektiğidir.
+  diğer anlamı ise yıl hesabı kaç yılda amorti eder.
+
+  şirket piyasa değeri artıyor ama hisse başına kar artmıyorsa fk yükselir... 
+
+  tahvil faizleri ve eurobond ile ters orantı. faiz risksiz getiridir. kesin getiridir. o zman neden borsaya gideyim
+    faizler düşükse fkler yüksektir
+    faizler yüksekse fklar düşüktür
+
+  ileriye dönük beklenti yüksekse yüksek fk ile ödeme yaparlar
+  sağlıklı olan şirketin fksı düşükse alınır...
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# FK Analizi 
+fk başlangıç noktasıdır... ne herşey ne de hiçbirşey
+  net kar marjı, net akışları faaliyetleri... bunlar fk ile başlar...
+
+f/k - piyasa değeri/son dört çeyrek net karı 12 aylık net kar biilgisi
+doğru formül: piyasa değeri = net kar x F/K
+fk - piyasada fiyatlanan birşey aslında
+piyasa şirketi ne kadardan fiyatlıyor. piyasanı arz ve talep dengesini ifade ediyor..
+şirketin karı büyüdükçe fk küçülüyor. çünkü borsa geleceği fiyatlayan yerdir..
+gelecekte kar büyümesi olacak mı tahmin etmen lazım
+60m = 2m x 30
+66m = 3m x 22
+60m = 4m x 15  fk normalleşiyor.. ama karda artıyor yine de sana faydası yok.
+40m = 4m x 10  şirket artık revaçta değil. hisse elinde patladı..
+talep bozulmazsa şirket alınır...
+PEG ratiosu ama enflasyon ortamında pek çalışmaz
+talep bozuldu ama şirkette iyi yıllık kar getirirse yine sağlam kazanırsın..
+200m = 20m x 10
+
+
+https://youtu.be/1G4e77xQB60?si=GxowOQ5Yf6tkgDGd
+
+
+Şirketin geleceğini bilmelisin yoksa FK işe yaramaz... 
+5 yıllık karı hesaplaman gerek...
+
+A şirketi                        B Şirketi
+F/K = 10                         F/K = 8
+Net Kar Büyüme Oranı = %50       Net Kar Büyüme Oranı = %20  
+İlk Yıl Kar = 100                İlk Yıl Kar = 100
+PEG = 10/50 = 0.2                PEG = 8/20 = 0.4
+100
+5 yıl içinde her yıl %50 kar yapacağını hesaplarsan... yani karı büyütme oranı %50        %20 karı büyütme oranı olan şirket
+100 * 1.5 = 150                                                                          100 * 1.2 ^ 5 = 248
+150 * 1.5 =                                                                                          5 yıl içerisind ekar bu rakama ulaştı. şikete 800 lira verdin ama kar hiç büyümemiş...
+225 * 1.5 =                                                                               100 * 8 = 800 ---> 248 * 8 (fk aynı kalsa...) = 2000
+337 * 1.5 =                                                                                    5 yıl içinde işler kötü gider insanlar buna 4 fk verirse ---> 248 * 4 = 992 ... para kazanamazsın kr büyüse bile...
+506 * 1.5 = 759 5 yılda karlılık bu rakama çıktı
+
+PD = 10 * 759
+bu şirketi 7500liraya satabilirsin...
+ilk yıl kaça aldık... 1000 liraya aldık
+1000 = 100 (ilk yıl kar) * 10 (FK)
+diyelim ki fk 5e düştü. yine kar ama 3500 lira oluyor bu kez..
+
+karını ciddi büyütecek şirketi ucuz bir fiyattan alırsan... ve peg rasyosu küçük olan değerden alırsan kar edersin
+fk yüksekse kaçınacaksın. coşkulu dönemmmm
+froto: ne zman 8 fkdan alırsan kar. ne zaman 120 fkdan alırsan zarar.... grafiği incelemek gerek.....
+coşkunun olmadığı insanların unuttuğu. fknın düştüğü ve şirketin iyiye gideceğini düşünüyorsan yatırım vs... alırsın hisseyi
+
+bu nasıl bilinir? gelecek net kar....
+-kap haberleri...
+-fintables: çeyreklik net kar son 4 çeyrek....
+  satışlar hasılat yükseliyorsa FAVÖK yükseliyorsa... iyi alınır...
+işler kötüye gittiğinde güvenlik marjı bırakacaksın riskli ülkedesin patronun lafına bile inaanma yüksek fkye girme... 
+max 10 fk trde ama yüksekse iyi bir şirketse ttrak gibi bunu da kaçırırsın
+fk bu noktada hiç bir şey... astor bile kaçabilir...
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# 
+fk - düşük olmalı - amorti süresi 
+	trde faiz oranları %24 ise fk 4-5 olmalı düşük olarak
+pddd - belli bir aralıkta düşük olmalı....
+	yatırımcı hisseyi nakde çevirirse ne kaadar para kazanacağı hakkında fikir verir...
+	özetle düşük piyasa herşey düştüğünde sen topla......
+
+
+
+
+
+# F/K (P/E) (Price–earnings ratio (Fiyat kazanç oranı))
+  En basit haliyle F/K oranı, bir şirketin hisse fiyatının hisse başına net kazanca (kâr) bölünmesiyle hesaplanan bir finansal metriktir. 
+  Bu metrik, hisse senedinin elde ettiği kâra göre fiyatını değerlendirilmeye yardımcı olur.
+
+  Formula:
+    P/E = Share Price / Earnings per Share
+
+  Örneğin, Tesla 48,34 F/K oranıyla işlem görürken, sektör ortalaması 21,1 seviyesinde seyretmektedir. 
+  Bu ise yatırımcılara şirketin hisselerinin sektör ortalaması üzerinden fiyatlandığını göstermektedir.
+
+  Facebook'un ana şirketi Meta da ise tam tersi bir durum söz konusudur. 
+  Buna göre Meta, 23,02 F/K oranıyla işlem görürken; sektör ortalaması, 27,08 düzeyinde seyretmektedir. 
+  Bu ise Meta’nın sektöründeki diğer hisselere göre daha cazip fiyattan işlem gördüğü anlamına gelebilir.
+
+https://www.doviz.com/makale/f-k-orani-nedir-ideal-f-k-orani-kac-olmalidir/196#:~:text=En%20basit%20haliyle%20F%2FK,g%C3%B6re%20fiyat%C4%B1n%C4%B1%20de%C4%9Ferlendirilmeye%20yard%C4%B1mc%C4%B1%20olur.
+
+
+
+f/k oranını, yıllık tahvil getiri oranlarına göre değerlendirin. 
+örneğin benim düşünceme göre yıllık faiz oranı %12 ise, 100/12=8.5 üzerinde kalan hisseler pahalıdır ve satılabilir, altında kalanlar ucuzdur ve alınabilir. 
+bazı şirketlerin f/k oranları 25-30 civarına gelmiş olabilir, bunları hemen pahalı diye değerlendirmemek gerekir. 
+fiyatın bu kadar şişmiş olması ya spekülatif bir hezeyandır, ya da şirketin öngörülen gelirleri çok yükselmiştir. 
+öngörülen gelirleri kap açıklamalarından ve basın bültenlerinden takip ederek hesaplayın. 
+eğer az önce verdiğim formüle göre ucuzsa alınabilir, pahalıysa satılabilir. 
+aynı şey f/k oranı çılgıncasına düşük şirketler için de geçerlidir ve bu şirketlerin, örneğin finansman giderine veya petrol fiyatlarının yükselişine bağlı olarak, genellikle gelirlerinin daralacağı beklentisi mevcuttur. 
+o yüzden bu tür değişimlerin geliri ne kadar daraltacağını değerlendirdikten sonra fiyat ucuzsa alınabilir, pahalıysa satılabilir.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+FK oranı
+
+    fiyat/kar oranı = şirketin piyasa değeri / kar
+
+    ev değeri = 500.000
+    kiraya verdin = 20.000
+        500/20 = 25    fk oranı --> yani yıllık net kar ile 25 yılda yatırımızı amorti eder...
+
+    her şirketinde hisse fiyatına göre anlık değişen piyasa değeri vardır...
+        CCOLA = 7 milyar             dün
+        CCOLA = 6 milyar 900 milyon  bugün    yani düşüş olmuş...
+
+
+prof dr fko oranı videosu
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# pd/dd
+
+market sektörü örneği
+    peşin çalışmak/kredili mal almak
+    genişleme döneminde zarar etmek
+    en yüksek karlılığa ancak birkaç yıl sonra ulaşmak
+    marketlerde ölçek çok önemli ne kadar büyük bir zincir olursanız o kadar satıcılara karşı gücünüz fazla olur. mal alırken pazarlık
+    getir'in ilk açıldığında indirim müşteri çekmek. ayakları alışmak
+        ilk zarar eder o zarar da özkaynaklar düşer
+
+Fabrika örneği
+    eski, yeni -> duran varlıklarda amortisman denilen eskime nedeniyle belli bir payı her yıl değerden düşer.
+        fabrika 10milyona kuruldu. fabrikanın faydalı ömrü 10 yıl.. her yıl 1milyon eskime payı düşersin
+        bu yıl amortisman 10m ilse seneye 1 milyon
+        eski şirketlerin duran varlıkları neredeyse sıfıra yakındır nedeni ciddi anlamada amortisman düşmüştür.
+            bu noktada fabrikayı yenilemiş olabilir ya da hali hazırda kar da üretebilir..
+        bu şirketin piyasa değeri yüksek defter değeri düşüktür
+
+    kara katkı -> eski bir şirket yeni bir fabrika açarsa yatırım süreci devam ettiği için henüz kara yansımış birşey yok
+                    fakat ortada çok ciddi bir defter değeri var...
+                    piyasa değeri düşük, defter değeri yüksektir...
+        ama pd/dd daha yüksek olan şirket daha cazipte olabilir....
+
+    o yüzden herzaman bu şirket ne yapıyor hangi konumda bunu bilmek lazım
+
+şirketlerin PD/DD oranları arasındaki farkın nedenleri
+    karlılık
+            bazı şirketler daha az özkaynak ile daha çok kar üretebiliyor... patent, marka değeri varsa
+                    karı da dağıtıyor bu yüzden özkaynaklar büyümüyor ve sonucunda pd/dd yüksek oluyor ama şirket bunu hak ediyor nedeni özkaynağına kıyasla yüksek kar var ve kar devam edici
+            bazı şirketlerde de dönemsel olarak karı şişmiştir. kar/dd yüksek ama seneye düşecektir onu bilemeyiz. doğrudan yorumlamamak lazım
+
+    defter değerinin hatalı olması
+            bazı şirketler enf nedeni ile gerçeği yansıtmayabilir.. pd/dd hesabı da doğrudan dd'ye bağlı old için haliyle yanlış bi hesap gerçekleşir
+
+    beklentiler
+            yine bu şirketlerin pd/dd oranını yanıltan en önemli faktörlerden biri beklentiler
+            geleceğe yönelik hikayesi olabilir şirketin bu kadar büyüyecek denir... böyle olunca ne olur dd kıyasla çok pahalı işlem görür
+            beklentiler de gerçekleşmediği için, aslında bu faktörün anlamlı olmasına neden olan  
+                            düşük pd/dd oranına saip olan hiselerin daha çok getiri elde etmesine neden olan faktör bu
+    güvenilirlik
+            bazı şirketler prestijli - ne kadar kar elde edeceği daha belirgin, marka değeri yüksek        daha çok para verirsin o şirkete
+
+    manipülasyon
+            bir şirket anormal değerece şişiriliyorsa pd/dd haliyle yüksek olacak                buna daha az riskli diyemeyiz... riskli aslında
+            eğer risk fazlaysa şirketin pd/dd oranı daha düşük olur        risk = getiri            fama french modeli ama buna katılamıyoruz..
+
+            normal                                manipülasyonlu
+            pd/dd = yüksek ---> az riskli            bilinmez
+            pd/dd = düşük  ---> riskli               bilinmez
+            
+bu yüzden pd/ddye güvenemezsin hemen...
+
+https://corporatefinanceinstitute.com/resources/valuation/fama-french-three-factor-model/
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Fiyat / Satış Ratio (Price/Sales)
+şirket satışları büyükse = büyüme şirketi 
+Satış tarafı şirketle ilgili en doğru tahminlerde bulunabilecek yer
+	Fiyat/Satış (F/S) Ratio
+	F: Son hisse senedi fiyatı	(piyasanın kararı)	bu noktada kontrolün yok...
+	S: Hisse senedi başına satışlar	(somut ve büyümeye bağlı)
+		yıllık ciro / kaç tane hisse senedi var = S
+ 
+  Fiyatı etkileyen faktörler                        Satışı etkileyen faktörler
+  - Büyüme hızı                                     - ürünler
+  - Karlılık artıyor mu                             - pazar
+  - Serbest Nakit Akış (para yaratıyor mu)          - marka
+  - Hype (Popülerlik)                               - tekrarlayan satışlar
+  - Sektör (değerlenmesinde önemli - dönemsellik)   - trendler
+  - Makro (resesyon, faiz oranları)                 - müşteri sadakati
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Alım hesaplama yöntemleri (İşin Matematiği)
+
+Satışları çeyreklerde ve her yıl artan şirketler bul
+
+Formül:
+
+      Fiyat / Satış (F/S Ratio)
+      |        |
+      |        hisse senedi başına satışlar
+      |                                    (satış, bir hisse senedine düşen yıllık ciro anlamında)
+      hisse senedi son fiyatı              yıllık ciro bilinmeli son 12 ay tercih edilebilir.
+      |                                    yıllık ciro / sirketin kaçtane hisse senedi varsa ona bölünür = hisse senedi başına satışları bulursun
+      |                                    |  
+      piyasa kararı                        somut ve büyümeye bağlı
+        piyasa neye göre karar veriyor?               satışlar sömuttur zaten
+
+      fiyat                                 satış
+      ----------------------------------    ----------------------------------
+      şirketin büyüme hızına bakar          ürünler (yeni ürünler çıkıyor mu)
+      karlılık                              pazar (içinde olduğu pazar büyüyen bir pazar mı)
+      serbest nakit akışı                   marka (marka yönetimi nasıl)
+          şirket para yatabiliyor mu        tekrarlayan satışlar (bi kere bi müşteri kazanınca uzun süre orda kalması: palantir)
+      sektör                                trendler (sektörü destekleyen ana trendler: elektrik araba ---> tesla: charging, )
+      hype                                  müşteri sadakati/memnuniyet
+      makro ekonomi
+
+
+
+      mesela son 1 yıldır nvidia hype var.. yapay zeka sektörü..
+      apple kriterlerin çoğunu veriyor...
+      düşük hızda büyüyen sektörler olmamalı
+      makro ekonomi: fed başkanı ne dedi, ekonomik kriz, resesyon vs
+
+      seekingalpha.com - income statement - satışlara bakılabilir... TSLA Growth Gradee
+        tesla sadece otomotiv sektörü olarak değerlendirmek yanlış bu yüzden büyümesi diğer şirketlere göre büyük
+                     otonom sürüş, yazılım şirketi, charging...
+        tesla biraz apple'a benziyor aracı sattıktan sonra yazılımla da para kazanıyor
+        apple gibi ecosistem de yaratıyor.
+        arabayı, telefon gibi düşünmek gerekiyor..
+        tüm para gömülmez 5 yıl içinde yavaş yavaş alınır düştükleri anda alınır... düzenli ve yavaş alım kurtarır.
+            bunu bir yılda da yaparsın ya da hemen de ama bu risk almak ile ilgili.....
+
+      şirket değeri hesaplama = son ciro * fiyat / satış
