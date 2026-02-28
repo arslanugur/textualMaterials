@@ -27,7 +27,6 @@
 		Özkaynaklar (Equity) = Varlıklar (Assets) - Borçlar (Liabilities)
 
 
-
 	Book value is calculated by subtracting a company's total liabilities from its total assets.
 	Enterprise value, on the other hand, is calculated by adding a company's market capitalization to its debt and subtracting its cash and cash equivalents.
 		Örnek:
@@ -41,6 +40,21 @@
 	Enterprise Value	Firma Değeri ise hem hissedarlara hem de borç verenlere (bankalara) ait olan toplam "pastanın" tamamı
 		Enterprise Value (Firma Değeri) = Özsermaye Değeri (Piyasa Değeri) + Net Borç
 
+
+özsermaye = tüm varlıklar - tüm yükümlülükler
+Örn: SISE
+      Özsermaye: 93.967.108.000          özsermaye = özkaynaklar
+          şirketin tüm varlıkların tüm borçları çıkarıldığı zaman kalan özkaynak..
+
+      Sermaye: 3.063.214.056      sermaye = lot sayısı = shares
+
+      özsermaye / sermaye = defter değeri
+      93.967.108.000 / 3.063.214.056 = 30.68
+      SISE güncel hisse fiyatı ise şu an 46.38
+      piyasa değeri = şirketin bir hissesinin fiyatı
+      46.38 / 30.68 = PDDD = 1.51        şirket defter değerinin 1.51 katına satılıyor...
+      piyasa değeri bazen altta bazen üstte.. beklenti ise --> defter değerinin büyüme beklentisi
+      özsermayesini arttıracak bir şirket piyasada o kadar talep görür. pahalıya satılır
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Piyasa Çarpanları (Oranlar Analizi) # Ways to value a stock
@@ -109,6 +123,9 @@ English				English						Turkish										Formula
 	Intangible Assets / Maddi Olmayan Varlıklar:Yazılım, patent veya marka değeri. Bunlar genellikle defter değerinde tam görünmez, bu yüzden teknoloji şirketlerinde P/BV çok yüksek çıkabilir.
 	Value Investing / Değer Yatırımcılığı: 		Benjamin Graham ve Warren Buffett gibi isimlerin düşük P/BV'li şirketleri bulmaya odaklandığı yatırım felsefesi.
 
+	# Defter değeri
+		defter değeri = 1 adet hissenin özsermayesi
+    	defter değer bilinmesi için ödenmiş sermaye bilinmeli
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # EV/EBITDA			Enterprise Value to EBITDA	FD/FAVÖK (Firma Değeri/FAVÖK)				Enterprise Value / EBITDA								Firma değeri = Net Borçları + Piyasa Değeri
