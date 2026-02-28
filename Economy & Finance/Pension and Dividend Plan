@@ -402,6 +402,7 @@ https://www.kap.org.tr/
 # 03. Şirketlerin kar dağıtım politikalarını inceleyerek  kar veren şirketleri bulmak
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -415,6 +416,33 @@ büyümek yerine temettü verebilir.
 şirket borçlanabilir ama onun faizini öder... temettü verip borç almak olmaz..
   bedelli sermaya artışı yapar şirket yoksa...
   yani yatırımcıdan parayı geri ister...
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Örnek Temettü:
+      DOAS Hissesi    Hisse Adet    Hisse Fiyatı    Toplam Ödenen
+      ------------    ----------    ------------    -------------
+              2020        20.000           11 TL       220,000 TL            20bin DOAS hissesi 2020 yılında 11 liradan alındı...
+
+Temettü dağıtım tarihi            hisse başı temettü              toplam hisse adedinden temettü
+----------------------            ------------------              ------------------------------
+    27.04.2021                        1,1591 tl                         23,182 tl
+    12.07.2021                        1,1591 tl                         23,182 tl
+    08.04.2022                        5,1136 tl                         102,272 tl         220,000 >> 6,16M
+    14.11.2022                        3,6818 tl                         73,636 tl
+    06.04.2023                        8,1818 tl                         163,636 tl       
+    24.08.2023                        10,2200 tl                        204,400 tl
+
+                                                 Temettülerin toplamı   590,308 tl   ---> yoktan kar geldi...
+
+Ek olarak, bizim aldığımız hisseler halen elimizde bunları aktif fiyattan satmaya kalkarsak...
+        220,000 mal ettiğimiz hisselerin, güncel fiyatı 6,16M oldu....
+
+
+        Buy the company, not the product...
+
+bunu tüm şirketlere uygula excelde...
+
 
 
 
