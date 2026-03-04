@@ -1,3 +1,15 @@
+
+- Model (LLM) seçimi
+- Yazılım seçimi: planlama
+- temiz bağlam: bağlam arttıkça model salaklaşıyor - new chat
+- projende agents.md - ne nerede nasıl yapılmalı - bu agents.md nasıl yazılır.
+- doğru prompt ile hata ayıklama -- açıklayıcı ol
+- progress.md -- projeyi fazlara böler
+- güvenli kod yazmak
+- full optimizasyon ve full güvenlik taraması
+
+
+
 Gemini CLI
 Codex CLI
 https://stitch.withgoogle.com/
