@@ -15,66 +15,73 @@
 
 
 # Bilanço Kalemleri	
-FİNANSAL VARLIKLAR (Net)
-Nakit ve Nakit Benzerleri
-Gerçeğe Uygun Değer Farkı Kâr Zarara Yansıtılan Finansal Varlıklar
-Gerçeğe Uygun Değer Farkı Diğer Kapsamlı Gelire Yansıtılan Finansal Varlıklar
-İtfa Edilmiş Maliyeti ile Ölçülen Finansal Varlıklar
-Türev Finansal Varlıklar
-Donuk Finansal Varlıklar
+FİNANSAL VARLIKLAR (Net)                                                         FINANCIAL ASSETS (Net)
+Nakit ve Nakit Benzerleri                                                        Cash and Cash Equivalents
+Gerçeğe Uygun Değer Farkı Kâr Zarara Yansıtılan Finansal Varlıklar               Financial Assets at Fair Value Through Profit or Loss (FVTPL)
+Gerçeğe Uygun Değer Farkı Diğer Kapsamlı Gelire Yansıtılan Finansal Varlıklar    Financial Assets at Fair Value Through Other Comprehensive Income (FVOCI)
+İtfa Edilmiş Maliyeti ile Ölçülen Finansal Varlıklar                             Financial Assets Measured at Amortized Cost
+Türev Finansal Varlıklar                                                         Derivative Financial Assets
+Donuk Finansal Varlıklar                                                         Non-performing Financial Assets
+Beklenen Zarar Karşılıkları (-)                                                  Expected Credit Loss Provisions (-)
+
+KREDİLER (Net)                                                                   LOANS AND RECEIVABLES (Net)
+Krediler                                                                         Loans
+Kiralama İşlemlerinden Alacaklar                                                 Lease Receivables
+Faktoring Alacakları                                                             Factoring Receivables
+Donuk Alacaklar                                                                  Non-performing Loans (NPL)
 Beklenen Zarar Karşılıkları (-)
 
-KREDİLER (Net)
-Krediler
-Kiralama İşlemlerinden Alacaklar
-Faktoring Alacakları
-Donuk Alacaklar
-Beklenen Zarar Karşılıkları (-)
 
-SATIŞ AMAÇLI ELDE TUTULAN VE DURDURULAN FAALİYETLERE İLİŞKİN DURAN VARLIKLAR (Net)
-ORTAKLIK YATIRIMLARI
-İştirakler (Net)
-Bağlı Ortaklıklar (Net)
+SATIŞ AMAÇLI ELDE TUTULAN VE DURDURULAN FAALİYETLERE İLİŞKİN DURAN VARLIKLAR(Net)ASSETS HELD FOR SALE
+ORTAKLIK YATIRIMLARI                                                             INVESTMENTS IN ASSOCIATES
+İştirakler (Net)                                                                 Associates (Net)
+Bağlı Ortaklıklar (Net)                                                          Subsidiaries (Net)
+İş Ortaklıkları (Net)                                                            Joint Ventures (Net)
 Birlikte Kontrol Edilen Ortaklıklar (İş Ortaklıkları) (Net)
 
-MADDİ DURAN VARLIKLAR (Net)
-Maddi Olmayan Duran Varlıklar (Net)
-Yatırım Amaçlı Gayrimenkuller (Net)
-Cari Vergi Varlığı
-Ertelenmiş Vergi Varlığı
-Diğer Aktifler
+
+MADDİ DURAN VARLIKLAR (Net)                                                      PROPERTY, PLANT AND EQUIPMENT (Net)
+Maddi Olmayan Duran Varlıklar (Net)                                              Intangible Assets (Net)
+Yatırım Amaçlı Gayrimenkuller (Net)                                              Investment Properties (Net)
+Cari Vergi Varlığı                                                               Current Tax Asset
+Ertelenmiş Vergi Varlığı                                                         Deferred Tax Asset
+Diğer Aktifler                                                                   Other Assets
 
 
-VARLIKLAR TOPLAMI
-Mevduat
-Alınan Krediler
-Para Piyasasına Borçlar
-İhraç Edilen Menkul Kıymetler (Net)
-Bonolar
-Varlığa Dayalı Menkul Kıymetler
-Tahviller
-Fonlar
+VARLIKLAR TOPLAMI                                                                TOTAL ASSETS
+Mevduat                                                                          Deposits
+Alınan Krediler                                                                  Loans Received / Borrowings
+Para Piyasasına Borçlar                                                          Payables to Money Market
+İhraç Edilen Menkul Kıymetler (Net)                                              Debt Securities Issued (Net)
+Bonolar                                                                          Bills
+Varlığa Dayalı Menkul Kıymetler                                                  Asset-Backed Securities (ABS)
+Tahviller                                                                        Bonds
+Fonlar                                                                           Funds
 Gerçeğe Uygun Değer Farkı Kar Zarara Yansıtılan Finansal Yükümlülükler
-Türev Finansal Yükümlülükler
+Türev Finansal Yükümlülükler                                                     Derivative Financial Liabilities
 Faktoring Yükümlülükleri
-Kiralama İşlemlerinden Yükümlülükler
-Karşılıklar
-Cari Vergi Borcu
-Ertelenmiş Vergi Borcu
+Kiralama İşlemlerinden Yükümlülükler                                             Lease Liabilities
+Karşılıklar                                                                      Provisions
+Cari Vergi Borcu                                                                 Current Tax Liability
+Ertelenmiş Vergi Borcu                                                           Deferred Tax Liability
 Satış Amaçlı Elde Tutulan Ve Durdurulan Faaliyetlere İlişkin Duran Varlık Borçları (Net)
-Sermaye Benzeri Borçlanma Araçları
-Diğer Yükümlülükler
+Sermaye Benzeri Borçlanma Araçları                                               Subordinated Debt Instruments
+Diğer Yükümlülükler                                                              Other Liabilities
 
-ÖZKAYNAKLAR
-Ödenmiş Sermaye
-Sermaye Yedekleri
+
+ÖZKAYNAKLAR                                                                      TOTAL EQUITY
+Ödenmiş Sermaye                                                                  Paid-in Capital
+Sermaye Yedekleri                                                                Capital Reserves
 Kâr veya Zararda Yeniden Sınıflandırılmayacak Birikmiş Diğer Kapsamlı Gelirler veya Giderler
 Kâr veya Zararda Yeniden Sınıflandırılacak Birikmiş Diğer Kapsamlı Gelirler veya Giderler
-Kar Yedekleri
+Kar Yedekleri                                                                    Retained Earnings / Profit Reserves
 Kar veya Zarar
-Geçmiş Yıllar Kar veya Zararı
-Dönem Net Kâr veya Zararı
-YÜKÜMLÜLÜKLER TOPLAMI
+Geçmiş Yıllar Kar veya Zararı                                                    Retained Earnings (Prior Years)
+Dönem Net Kâr veya Zararı                                                        Net Profit or Loss for the Period
+
+YÜKÜMLÜLÜKLER TOPLAMI                                                            TOTAL LIABILITIES AND EQUITY
+
+
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -88,59 +95,65 @@ YÜKÜMLÜLÜKLER TOPLAMI
 
 
 # Gelir Tablosu Kalemleri
-FAİZ GELİRLERİ
-Kredilerden Alınan Faizler
-Zorunlu Karşılıklardan Alınan Faizler
-Bankalardan Alınan Faizler
-Para Piyasası İşlemlerinden Alınan Faizler
-Menkul Değerlerden Alınan Faizler
-Finansal Kiralama Gelirleri
-Diğer Faiz Gelirleri
+# Faiz Gelir ve Giderleri | Interest Income and Expense
+FAİZ GELİRLERİ                                                                   INTEREST INCOME
+Kredilerden Alınan Faizler                                                       Interest on Loans
+Zorunlu Karşılıklardan Alınan Faizler                                            Interest on Reserve Requirements
+Bankalardan Alınan Faizler                                                       Interest Received from Banks
+Para Piyasası İşlemlerinden Alınan Faizler                                       Interest on Money Market Transactions
+Menkul Değerlerden Alınan Faizler                                                Interest on Securities
+Finansal Kiralama Gelirleri                                                      Finance Lease Income
+Diğer Faiz Gelirleri                                                             Other Interest Income
 
-FAİZ GİDERLERİ (-)
-Mevduata Verilen Faizler
-Kullanılan Kredilere Verilen Faizler
-Para Piyasası İşlemlerine Verilen Faizler
-İhraç Edilen Menkul Kıymetlere Verilen Faizler
-Diğer Faiz Giderleri
+FAİZ GİDERLERİ (-)                                                               INTEREST EXPENSE (-)
+Mevduata Verilen Faizler                                                         Interest on Deposits
+Kullanılan Kredilere Verilen Faizler                                             Interest on Loans Received
+Para Piyasası İşlemlerine Verilen Faizler                                        Interest on Money Market Transactions
+İhraç Edilen Menkul Kıymetlere Verilen Faizler                                   Interest on Debt Securities Issued
+Diğer Faiz Giderleri                                                             Other Interest Expense
 
-NET FAİZ GELİRİ VEYA GİDERİ
 
-NET ÜCRET VE KOMİSYON GELİRLERİ VEYA GİDERLERİ
-Alınan Ücret ve Komisyonlar
-Verilen Ücret ve Komisyonlar (-)
+NET FAİZ GELİRİ VEYA GİDERİ                                                      NET INTEREST INCOME
 
-PERSONEL GİDERLERİ (-)
+# Faaliyet Gelir ve Giderleri | Operating Income and Expenses
 
-TEMETTÜ GELİRLERİ
+NET ÜCRET VE KOMİSYON GELİRLERİ VEYA GİDERLERİ                                   NET FEE AND COMMISSION INCOME/EXPENSE
+Alınan Ücret ve Komisyonlar                                                      Fees and Commissions Received
+Verilen Ücret ve Komisyonlar (-)                                                 Fees and Commissions Paid (-)
 
-TİCARİ KAR VEYA ZARAR (Net)
-Sermaye Piyasası İşlemleri Karı (Zararı)
-Türev Finansal İşlemlerden Kar (Zarar)
-Kambiyo İşlemleri Karı (Zararı)
+PERSONEL GİDERLERİ (-)                                                           PERSONNEL EXPENSES (-)
 
-DİĞER FAALİYET GELİRLERİ
+TEMETTÜ GELİRLERİ                                                                DIVIDEND INCOME
 
-FAALİYET BRÜT KÂRI
-Beklenen Zarar Karşılıkları (-)
-Diğer Faaliyet Giderleri (-)
+TİCARİ KAR VEYA ZARAR (Net)                                                      TRADING INCOME / LOSS (Net)
+Sermaye Piyasası İşlemleri Karı (Zararı)                                         Gains/Losses on Capital Market Operations
+Türev Finansal İşlemlerden Kar (Zarar)                                           Gains/Losses on Derivative Financial Instruments
+Kambiyo İşlemleri Karı (Zararı)                                                  Foreign Exchange Gains / Losses
 
-NET FAALİYET KARI (ZARARI)
+DİĞER FAALİYET GELİRLERİ                                                         OTHER OPERATING INCOME
+
+FAALİYET BRÜT KÂRI                                                               GROSS OPERATING PROFIT
+Beklenen Zarar Karşılıkları (-)                                                  Expected Credit Loss Provisions (-)
+Diğer Faaliyet Giderleri (-)                                                     Other Operating Expenses (-)
+
+NET FAALİYET KARI (ZARARI)                                                       NET OPERATING PROFIT / LOSS
 Birleşme İşlemi Sonrasında Gelir Olarak Kaydedilen Fazlalık Tutarı
-Özkaynak Yöntemi Uygulanan Ortaklıklardan Kar (Zarar))
-Net Parasal Pozisyon Karı (Zararı)
+Özkaynak Yöntemi Uygulanan Ortaklıklardan Kar (Zarar)                            Share of Profit/Loss of Associates (Equity Method)
+Net Parasal Pozisyon Karı (Zararı)                                               Net Monetary Position Gain / Loss
 
-SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI)
-Sürdürülen Faaliyetler Vergi Karşılığı (+/-)
-Cari Vergi Karşılığı
-Ertelenmiş Vergi Gider Etkisi
-Ertelenmiş Vergi Gelir Etkisi
+SÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI)                                PROFIT BEFORE TAX FROM CONTINUED OPERATIONS
+Sürdürülen Faaliyetler Vergi Karşılığı (+/-)                                     Tax Provision for Continued Operations
+Cari Vergi Karşılığı                                                             Current Tax Provision
+Ertelenmiş Vergi Gider Etkisi                                                    Deferred Tax Expense Effect
+Ertelenmiş Vergi Gelir Etkisi                                                    Deferred Tax Income Effect
 
-SÜRDÜRÜLEN FAALİYETLER DÖNEM NET KARI (ZARARI)
 
-DÖNEM NET KARI VEYA ZARARI
-Grubun Karı (Zararı)
-Azınlık Payları Karı (Zararı)
+SÜRDÜRÜLEN FAALİYETLER DÖNEM NET KARI (ZARARI)                                   NET PROFIT FROM CONTINUED OPERATIONS
+
+DÖNEM NET KARI VEYA ZARARI                                                       NET PROFIT OR LOSS FOR THE PERIOD
+Grubun Karı (Zararı)                                                             Profit/Loss Attributable to the Group
+Azınlık Payları Karı (Zararı)                                                    Non-controlling Interests
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Cash Flow Statement / Nakit Akış Tablosu
