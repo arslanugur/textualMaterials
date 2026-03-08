@@ -1,4 +1,3 @@
-
 # Car Sales
 US - craigslist
 PL - otomoto
@@ -14,12 +13,6 @@ Physical Inspection
 	Paint Gauge | Boya Ölçer | Miernik lakieru: Aracın metal kısımlarındaki boya kalınlığını ölçerek sonradan boyanıp boyanmadığını anlayabilirsiniz.
 	SKP Inspection | Muayene İstasyonu | Stacja Kontroli Pojazdów: Aracı satın almadan önce bir muayene istasyonuna götürüp "Pre-purchase inspection" (Satın alma öncesi kontrol) yaptırabilirsiniz (Yaklaşık 100-200 PLN)
 
-
-
-# yağ değişimi
-	arabanın yağı überde çok gidiyor...
-	
-# su değişimi
 
 # Ehliyetler
 A - Motorsiklet
@@ -46,17 +39,134 @@ https://www.youtube.com/watch?v=7glD26zmMis
 
 	Aylık 100$	--> sigorta şirketleri sürücü geçmişini göremediği için yüksekten prim ister.. daha düşük bulunabilir.. ama en düşük 100$...
 
-  Sigortasız trafiğe çıkmak felaket..
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# CAR MAINTAINANCE
+	Model / Yakıt Türü
+	Kullanılan Şehir/İklim
+	Kilometresi
+	Olası çıkabilecek arızalar
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Rod Balans (Tekerlek Balansı)
-	Rod balans, araç tekerleklerinin dönüş sırasında dengeli olmasını sağlayan bir işlemdir. 
-	Tekerleklerdeki dengesizlikler, sürüş konforunu bozar ve araçta titreşimlere neden olur.
-	Bu işlem, jant ve lastiklerin belirli noktalarına balans ağırlıkları eklenerek yapılır.
+		yağ değişimi: arabanın yağı überde çok gidiyor... her ay değiştirmeli - ikaz verdiğinde değiştir..
+		su değişimi: 
 
-# Rot Balans (Rot Ayarı): 
-	Direksiyon geometrisinin ayarlanması işlemidir. 
-	Rot ayarı, araç düz bir yolda giderken direksiyonun düz olmasını ve lastiklerin düzgün temas etmesini sağlar.
+## Monthly Checks / Aylık Kontroller / Kontrole Miesięczne
+Bu kontroller sürücü tarafından kolayca yapılabilir ve aracın temel sağlığını korur.
+	Tyre Pressure and Condition / Lastik Basıncı ve Durumu / Ciśnienie i Stan Opon:							Lastiklerin hava basıncı kontrol edilmeli ve diş derinliğine bakılmalıdır.
+	Engine Oil Level / Motor Yağı Seviyesi / Poziom Oleju Silnikowego:										Yağ çubuğu ile seviye kontrol edilmelidir.
+	Windshield Washer Fluid / Cam Silecek Sıvısı / Płyn do Spryskiwaczy:									Görüş netliği için eksikse tamamlanmalıdır.
+	Lights (Headlights, Brake Lights, Turn Signals) / Aydınlatma (Farlar, Fren Lambaları, Sinyaller) / Światła (Reflektory, Światła Stopu, Kierunkowskazy):
+																											Tüm lambaların çalıştığından emin olunmalıdır.
+
+## Quarterly Checks (Every 3 Months) / Çeyreklik Kontroller (3 Ayda Bir) / Kontrole Kwartalne (Co 3 Miesiące)
+Mevsim geçişlerinde dikkat edilmesi gereken detaylardır.
+	Coolant (Antifreeze) Level / Soğutma Sıvısı (Antifriz) Seviyesi / Poziom Płynu Chłodniczego:		Motorun aşırı ısınmasını veya donmasını önler.
+	Battery and Cables / Akü ve Kablolar / Akumulator i Kable:											Korozyon (oksitlenme) olup olmadığına bakılmalıdır.
+	Automatic Transmission Fluid / Otomatik Şanzıman Sıvısı / Płyn w Skrzyni Biegów:					Vites geçişlerinin sağlığı için kontrol edilir.
+	Belts and Hoses / Kayışlar ve Hortumlar / Paski i Węże:												Çatlak veya sızıntı kontrolü yapılmalıdır.
+
+## Annual and Mileage-Based Maintenance / Yıllık ve Kilometre Bazlı Bakım / Przeglądy Roczne i Przebiegowe
+Genellikle yılda bir kez veya her 10.000 – 15.000 km aralığında profesyonel bir serviste yapılmalıdır.
+	Oil and Oil Filter Change / Yağ ve Yağ Filtresi Değişimi / Wymiana Oleju i Filtra Oleju:		Motorun ömrünü uzatan en kritik işlemdir.
+	Air Filter / Hava Filtresi / Filtr Powietrza:													Motorun temiz hava almasını sağlar.
+	Cabin (Pollen) Filter / Kabin (Polen) Filtresi / Filtr Kabinowy:								Araç içindeki hava kalitesini korur.
+	Brake Pads and Discs / Fren Balataları ve Diskleri / Klocki i Tarcze Hamulcowe:					Aşınma durumuna göre değiştirilmelidir.
+	Spark Plugs / Bujiler / Świece Zapłonowe:														(Benzinli araçlar için) Yakıt verimliliği için kontrol edilir.
+	Fuel Filter / Yakıt Filtresi / Filtr Paliwa:													Yakıt sisteminin temizliği için önemlidir.
+
+## Long-Term / High Mileage Items / Uzun Vadeli ve Yüksek Kilometre Bakımları / Elementy Długoterminowe (Wysoki Przebieg)
+Genellikle 60.000 – 100.000 km arasında veya 4-5 yılda bir yapılır.
+	Timing Belt (Crankshaft Belt) / Triger Kayışı / Pasek Rozrządu: 													Kopması durumunda motora ciddi zarar verir; zamanında değişimi kritiktir.
+	Brake Fluid / Fren Hidroliği / Płyn Hamulcowy:																		Genellikle her 2 yılda bir değişimi önerilir.
+	Transmission and Differential Fluids / Şanzıman ve Diferansiyel Yağları / Oleje Przekładniowe i Dyferencjału:		Manuel veya otomatik sistemlerin sağlığı için.
+	Suspension and Shocks / Süspansiyon ve Amortisörler / Zawieszenie i Amortyzatory:									Yol tutuş performansı için kontrol edilmelidir.
+
+Aracınızın spesifik modeli için üretici el kitabındaki (User Manual / Kullanıcı Kılavuzu / Instrukcja Obsługi) bakım takvimine sadık kalmanız en doğrusu olacaktır.
+
+## Seasonal and Environmental Maintenance / Mevsimsel ve Çevresel Bakımlar / Konserwacja Sezonowa i Środowiskowa
+İklim değişikliklerine göre (özellikle kışa girerken veya yaz başında) yapılması gerekenlerdir.
+	Wiper Blades / Silecek Lastikleri / Pióra Wycieraczek:																	Görüş kalitesi için her 6-12 ayda bir veya aşınma görüldüğünde değiştirilmelidir.
+	Air Conditioning System (Recharge) / Klima Sistemi (Gaz Basımı) / Układ Klimatyzacji (Napełnianie):						Soğutma performansı düştüğünde polen filtresi ile birlikte kontrol edilmelidir.
+	Underbody Cleaning and Rust Protection / Alt Yıkama ve Pas Koruması / Mycie Podwozia i Zabezpieczenie Antykorozyjne:	Özellikle tuzlu yollarda sürüş sonrası paslanmayı önlemek için önemlidir.
+	Door Locks and Hinges (Lubrication) / Kapı Kilitleri ve Menteşeleri (Yağlama) / Zamki i Zawiasy Drzwi (Smarowanie):		Gıcırtıları önlemek ve mekanizmayı korumak için silikon bazlı yağlayıcılar kullanılmalıdır.
+
+## Chassis and Underbody Protection / Şasi ve Alt Gövde Koruması / Podwozie i Ochrona Antykorozyjna
+Özellikle kış aylarının sert geçtiği bölgeler için: Białystok gibi
+	Brake Line Corrosion / Fren Borusu Korozyonu / Korozja Przewodów Hamulcowych: 		Metal fren borularının paslanması güvenlik için büyük risk taşır.
+	Fuel Tank Mounts / Yakıt Deposu Bağlantıları / Mocowania Zbiornika Paliwa: 			Paslanma nedeniyle zayıflayıp zayıflamadığı kontrol edilmelidir.
+	Heat Shields / Isı Kalkanları / Osłony Termiczne: 									Egzoz borusu üzerindeki bu levhalar gevşerse sürüş anında metalik zırıltı sesi yapar.
+
+## Specific Component Checks / Spesifik Bileşen Kontrolleri / Kontrola Konkretnych Podzespołów
+Bu parçalar genellikle "bozulana kadar" unutulur ancak düzenli kontrol edilmeleri yolda kalmanızı önler.
+	Alternator and Starter / Alternatör ve Marş Motoru / Alternator i Rozrusznik:							Elektrik sisteminin kalbidir; şarj kapasitesi ölçülmelidir.
+	Wheel Alignment and Balancing / Rot ve Balans Ayarı / Geometria Kół i Wyważanie:						Direksiyonda titreme veya bir yöne çekme varsa her 10.000 km'de bir yapılmalıdır.
+	Fuel Injector Cleaning / Yakıt Enjektör Temizliği / Czyszczenie Wtryskiwaczy Paliwa: 					Yakıt verimliliği ve rölanti düzgünlüğü için periyodik temizleyici katkılar veya profesyonel temizlik önerilir.
+	Power Steering Fluid / Hidrolik Direksiyon Sıvısı / Płyn Wspomagania Kierownicy: 						Direksiyon sertleşmesini önlemek için seviye ve renk kontrolü yapılmalıdır.
+
+## Safety and Emergency Equipment / Güvenlik ve Acil Durum Ekipmanları / Wyposażenie Bezpieczeństwa i Ratunkowe
+Bakım sadece mekanik parçalarla sınırlı kalmamalı, acil durum hazırlığını da kapsamalıdır.
+	Spare Tyre Condition / Yedek Lastik (Stepne) Durumu / Stan Koła Zapasowego:											İhtiyaç anında inik bir yedek lastikle karşılaşmamak için basıncı kontrol edilmelidir.
+	First Aid Kit and Fire Extinguisher / İlk Yardım Çantası ve Yangın Tüpü / Apteczka i Gaśnica:						Son kullanma tarihleri ve basınç göstergeleri yıllık olarak kontrol edilmelidir.
+	Diagnostic Trouble Codes (OBD-II Scan) / Arıza Tespit Kodları (OBD-II Tarama) / Diagnostyka Komputerowa (OBD-II): 	Herhangi bir ikaz lambası yanmasa bile, sistemde kayıtlı gizli hatalar olup olmadığına bakılabilir.
+
+## Bodywork and Interior / Kaporta ve İç Mekan / Nadwozie i Wnętrze
+Aracın değerini (Resale Value / İkinci El Değeri / Wartość Odsprzedaży) korumak için: Hoover ile iç temizlik
+	Paint Protection and Waxing / Boya Koruması ve Pasta Cila / Ochrona Lakieru i Woskowanie:				Boyanın güneş ışınlarından ve dış etkenlerden korunmasını sağlar.
+	Seat and Trim Cleaning / Koltuk ve Döşeme Temizliği / Czyszczenie Tapicerki: 							İç mekanın hijyeni ve malzeme ömrü için önemlidir.
+	Drain Channels / Tahliye Kanalları / Kanały Odpływowe: 													Sunroof veya ön cam altındaki su tahliye kanallarının tıkanması, aracın içine su sızmasına neden olabilir.
+
+
+## Drivetrain and Transmission / Güç Aktarma Organları ve Şanzıman / Układ Napędowy i Skrzynia Biegów
+Aracın gücünü tekerleklere ileten sistemlerin sağlığı için:
+	CV Axle Boots / Aks Körükleri / Osłony Przegubów: 								Bu kauçuk parçalar yırtılırsa, aks kafaları kum ve su alarak hızla bozulur. Her yağ değişiminde kontrol edilmelidir.
+	Differential Fluid / Diferansiyel Yağı / Olej w Dyferencjale: 					Özellikle arkadan itişli veya 4x4 araçlarda bu yağın her 50.000 - 80.000 km'de bir değişmesi dişli sağlığı için kritiktir.
+	Clutch Kit and Flywheel / Baskı Balata ve Volan / Sprzęgło i Koło Dwumasowe: 	Manuel veya yarı otomatik araçlarda vites geçişlerinde titreme veya kaçırma varsa kontrol edilmelidir.
+
+## Steering and Suspension Detail / Direksiyon ve Süspansiyon Detayları / Szczegóły Zawieszenia i Układu Kierowniczego
+Yol tutuş ve konforu belirleyen kritik bileşenler:
+	Bushings and Ball Joints / Burçlar ve Rotiller / Tuleje i Sworznie Wahaczy: 	Kauçuk kısımlar zamanla sertleşip çatlar, bu da alt takımdan ses gelmesine ve dengesiz sürüşe neden olur.
+	Tie Rod Ends / Rot Başları / Końcówki Drążków Kierowniczych: 					Direksiyon hassasiyeti ve tekerlek hizalaması için hayati önem taşır.
+	Shock Absorber Dust Covers / Amortisör Toz Körükleri / Osłony Amortyzatorów: 	Amortisör millerini korur; yırtıldığında amortisörün ömrü kısalır.
+
+## Electrical and Sensory Systems / Elektrik ve Sensör Sistemleri / Systemy Elektryczne i Czujniki
+Modern araçların beyni olan elektronik aksam:
+	Oxygen (Lambda) Sensor / Oksijen Sensörü / Sonda Lambda: 					Yakıt tüketimi ve emisyon değerlerini doğrudan etkiler; genellikle 100.000 km sonrası performansı düşebilir.
+	Mass Air Flow (MAF) Sensor / Akışmetre / Przepływomierz: 					Motorun aldığı hava miktarını ölçer. Kirli olması tekleme ve güç kaybına yol açar; özel spreylerle temizlenebilir.
+	Ground Straps (Earthing) / Şase Kabloları (Topraklama) / Przewody Masowe: 	Korozyona uğrayan şase kabloları, aracın elektronik sistemlerinde açıklanamayan arızalara neden olabilir.
+
+## Exhaust and Emission / Egzoz ve Emisyon / Układ Wydechowy i Emisja
+Hem çevre hem de motor sağlığı için:
+	EGR Valve Cleaning / EGR Valf Temizliği / Czyszczenie Zaworu EGR: 							Özellikle dizel araçlarda kurum birikmesi nedeniyle tıkanabilir, bu da motor arıza lambasının yanmasına yol açar.
+	Diesel Particulate Filter (DPF) / Dizel Partikül Filtresi / Filtr Cząstek Stałych (DPF): 	Şehir içi kısa mesafe kullanımda dolar; uzun yolda yüksek devirle temizlenmesi (rejenerasyon) gerekir.
+	Exhaust Mounts / Egzoz Askı Lastikleri / Wieszaki Wydechu: 									Egzozun sallanmasını ve ses yapmasını önleyen lastik aparatların kopup kopmadığına bakılmalıdır.
+
+## Engine Cooling System / Motor Soğutma Sistemi / Układ Chłodzenia Silnika
+Sadece su eklemek yeterli değildir:
+	Radiator Cap / Radyatör Kapağı / Korek Chłodnicy: 	Basınç ayarını yapan bu küçük parça bozulursa araç hararet yapabilir.
+	Water Pump / Devirdaim Pompası / Pompa Wody: 		Genellikle triger kayışı ile beraber değiştirilir; sızıntı veya ses yapıp yapmadığı kontrol edilmelidir.
+	Thermostat / Termostat / Termostat: 				Motorun çalışma sıcaklığında kalmasını sağlar; takılı kalması motorun aşırı ısınmasına veya geç ısınmasına sebep olur.
+
+## Fuel and Air Management / Yakıt ve Hava Yönetimi / Zarządzanie Paliwem i Powietrzem
+Motorun verimli yanma gerçekleştirmesi için gereken detaylar:
+	Throttle Body Cleaning / Boğaz Kelebeği Temizliği / Czyszczenie Przepustnicy: 		Zamanla biriken kurum, rölanti düzensizliğine ve stop etme sorunlarına yol açar.
+	Intake Manifold Gasket / Emme Manifoldu Contası / Uszczelka Kolektora Dolotowego: 	Hava sızıntısı motorun fakir karışımla çalışmasına ve performans kaybına neden olur.
+	Fuel Pump Filter / Yakıt Pompası Süzgeci / Sitko Pompy Paliwa:	 					Deponun içindeki pompanın süzgeci tıkanırsa yakıt basıncı düşer.
+
+## Engine Sealing and Internal Components / Motor Sızdırmazlığı ve İç Aksam / Uszczelnienie Silnika i Elementy Wewnętrzne
+Yağ kaçaklarını ve basınç kayıplarını önlemek için:
+	Valve Cover Gasket / Külbütör (Sübap) Kapak Contası / Uszczelka Pokrywy Zaworów: 			Motorun üst kısmındaki yağ terlemelerini ve bujilere yağ dolmasını engeller.
+	PCV Valve (Positive Crankcase Ventilation) / PCV Valfi / Zawór PCV: 						Karter havalandırma valfi tıkanırsa motor içi basınç artar ve keçelerden yağ sızmasına neden olur.
+	Crankshaft and Camshaft Seals / Krank ve Eksantrik Keçeleri / Uszczelniacze Wału i Wałków: 	Triger kayışının olduğu bölgedeki yağ kaçaklarını önler.
+
+## Miscellaneous Technical Elements / Çeşitli Teknik Detaylar / Różne Elementy Techniczne
+	Sunroof Drain Cleaning / Sunroof Tahliye Temizliği / Czyszczenie Odpływów Szyberdachu: 		Tıkanırsa su doğrudan tavan döşemesine veya elektronik aksama sızar.
+	Hood and Trunk Struts / Kaput ve Bagaj Amortisörleri / Siłowniki Maski i Bagażnika: 		Zamanla basınç kaybeden bu parçalar kapakların aniden düşmesine neden olabilir.
+	Key Fob Battery / Anahtar Pili / Bateria w Kluczyku: 										Yolda kalmamak için 2 yılda bir önleyici olarak değiştirilmelidir.
+
+## Software and Electronics / Yazılım ve Elektronik / Oprogramowanie i Elektronika
+	ECU Software Updates / ECU Yazılım Güncellemeleri / Aktualizacje Oprogramowania Silnika: 	Üreticinin yayınladığı performans veya yakıt verimliliği güncellemeleri kontrol edilmelidir.
+	Parking Sensors and Cameras / Park Sensörleri ve Kameralar / Czujniki i Kamery Cofania: 	Lenslerin temizliği ve sensörlerin hassasiyeti kontrol edilmelidir.
+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Buji değişimi
@@ -84,7 +194,6 @@ https://www.youtube.com/watch?v=7glD26zmMis
 		Üçüncü ve dördüncü nesil (2016 ve sonrası):
 						Toyota genellikle 100,000 km veya 120,000 km aralığında buji değişimini önerir.
 						Modern Prius'larda buji teknolojisi daha uzun ömürlü olduğu için bu aralık uzun tutulmuş.
-
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Akü Kontrolü
@@ -140,74 +249,15 @@ https://www.youtube.com/watch?v=7glD26zmMis
 			Eğer voltaj bu aralığın altındaysa, alternatör arızalı olabilir.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Araç Şarj Aleti: Mcdodo
+# Rod Balans (Tekerlek Balansı)
+	Rod balans, araç tekerleklerinin dönüş sırasında dengeli olmasını sağlayan bir işlemdir. 
+	Tekerleklerdeki dengesizlikler, sürüş konforunu bozar ve araçta titreşimlere neden olur.
+	Bu işlem, jant ve lastiklerin belirli noktalarına balans ağırlıkları eklenerek yapılır.
 
-Inverter: enerji sektöründe dc akımı ac akıma çeviren sistem. DC to AC
-	Slimline Plus 1250
-konvertör: ac akımını dc akımına çeviren sistem. AC to DC
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Rot Balans (Rot Ayarı): 
+	Direksiyon geometrisinin ayarlanması işlemidir. 
+	Rot ayarı, araç düz bir yolda giderken direksiyonun düz olmasını ve lastiklerin düzgün temas etmesini sağlar.
 
-# Mil Hesabı
-	mil fazlalaştıkça araba çöp olur...
-
-# litre/gallon depo
-	U.S. standard gallon is equal to 3.7853 liters
-	5 liters is approximately equal to 1.32 gallons
-
-
-18mpg to l/100km ---> çok yakar...
-Approximately 13.07 liters per 100 kilometers
-18 miles per U.S. gallon is equivalent to approximately 13.07 liters per 100 kilometers.
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Radyatör:
-
-
-
-
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# US Araç alımı
-1. Cash
-	
-2. finance
-	arabayı satın almak
-	ssn lazım değil - turist/öğrenci vizesi
-	tr'deki araba kredisi gibi
-	bankayla görüşülür kredi alınır..
-	bayi bankalarla görüşüp fiyat alır, onay aldıktan sonra da krediyle alırsın..
-	sıfır ve ikinci el olabilir. araba rehin -- chase
-	leaseden pahalı - 5 yıl sürebilir..
-	taksitler şişik
-	bazı masrafları bayi, ama genel masrafları sen ödersin yine de anlaşma..
-3. Lease
-	sadece sıfır araçlarda geçerli
-	3 yıllık plan - ön ödemeli 3000$
-	resmi olarak senin olmuyor - kiralama gibi
-	10bin mil yapma sözü
-	3 yıl sonunda 30bin milin altında kalman gerekli
-	lease kontratın süresi biter ve arabayı geri getirirsin bayiye
-	arabayı kiralamış gibi kullanıyorsun. satın almaya çevireceksen dump payment düşüp hesaplıyorlar
-	ssn nerdeyse lazım...
-	arabanın da 1/3 fiyatıyla lease halledilir -financeden ucuz
-	taksitler hafif
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Car Dealer
-ikinci el aracı elden/dealer sahip olmak, ilanlar.. dealer charges will be embedded into the price..
-      Hybrid Motorsport - AutoSales in New Jersey by Marsello
-      Alman araçları alınmaz.. az usta, parçada pahalı olur...
-      Asyalı arabalar al...
-      kendi ehliyetinle alablirsin ama yakında ehliyet alacağına dair belge...
-      
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Cars House Job
-Aysal: https://youtu.be/g2u-CtuBcCc?si=eRtC3OBuW5NmTp3H
-Tırpan: https://youtu.be/I9SnX34cJ6w?si=s999K8HOd7k8Zzjd
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -287,7 +337,67 @@ Toyota Prius... benzinden aküden harcar
   aylık 30$ - subscription
   12 aylık sözleşme..
 
-hoover ile iç temizlik
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# US Araç alımı
+1. Cash
+	
+2. finance
+	arabayı satın almak
+	ssn lazım değil - turist/öğrenci vizesi
+	tr'deki araba kredisi gibi
+	bankayla görüşülür kredi alınır..
+	bayi bankalarla görüşüp fiyat alır, onay aldıktan sonra da krediyle alırsın..
+	sıfır ve ikinci el olabilir. araba rehin -- chase
+	leaseden pahalı - 5 yıl sürebilir..
+	taksitler şişik
+	bazı masrafları bayi, ama genel masrafları sen ödersin yine de anlaşma..
+3. Lease
+	sadece sıfır araçlarda geçerli
+	3 yıllık plan - ön ödemeli 3000$
+	resmi olarak senin olmuyor - kiralama gibi
+	10bin mil yapma sözü
+	3 yıl sonunda 30bin milin altında kalman gerekli
+	lease kontratın süresi biter ve arabayı geri getirirsin bayiye
+	arabayı kiralamış gibi kullanıyorsun. satın almaya çevireceksen dump payment düşüp hesaplıyorlar
+	ssn nerdeyse lazım...
+	arabanın da 1/3 fiyatıyla lease halledilir -financeden ucuz
+	taksitler hafif
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Araç Şarj Aleti: Mcdodo
+
+Inverter: enerji sektöründe dc akımı ac akıma çeviren sistem. DC to AC
+	Slimline Plus 1250
+konvertör: ac akımını dc akımına çeviren sistem. AC to DC
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Mil Hesabı
+	mil fazlalaştıkça araba çöp olur...
+
+# litre/gallon depo
+	U.S. standard gallon is equal to 3.7853 liters
+	5 liters is approximately equal to 1.32 gallons
+
+
+18mpg to l/100km ---> çok yakar...
+Approximately 13.07 liters per 100 kilometers
+18 miles per U.S. gallon is equivalent to approximately 13.07 liters per 100 kilometers.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Car Dealer
+ikinci el aracı elden/dealer sahip olmak, ilanlar.. dealer charges will be embedded into the price..
+      Hybrid Motorsport - AutoSales in New Jersey by Marsello
+      Alman araçları alınmaz.. az usta, parçada pahalı olur...
+      Asyalı arabalar al...
+      kendi ehliyetinle alablirsin ama yakında ehliyet alacağına dair belge...
+      
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Cars House Job
+Aysal: https://youtu.be/g2u-CtuBcCc?si=eRtC3OBuW5NmTp3H
+Tırpan: https://youtu.be/I9SnX34cJ6w?si=s999K8HOd7k8Zzjd
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Car Rental
@@ -295,10 +405,20 @@ https://turo.com/
 	range rover evoque: on avg 90-110$/d
 	
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 apple car play
-
 convertible
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+araba vergileri öderken yıl sonunda depreciation gösterirsin -- ben bu arabayı 40k$ aldım ama bir yılın sonunda 30k$a düştü - depreciation
+	10k$ benim ödeyeceğim vergiden düşür deriz..
+
+# Tricks:
+Aralık ayında gelecek yıl modelli bir araçtan ziyade o yılın aracı almak daha ucuz olur. çünkü galericiler elinden kurtulmak için, 2024 model 2025 yılında satışı zor olur..
+
+triger kayışı - her 3 yılda bir ya da her 38bin kmde bir değişmesi gerekiyor.
+
+mafsal lastikleri
+tampon onarımı için: fiber glass
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Audi - A7
@@ -318,18 +438,3 @@ Credits
 
 bütçeye uygun araç satın alma planı yapılıyor showroomlar tarafından
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
- 
-
-araba vergileri öderken yıl sonunda depreciation gösterirsin -- ben bu arabayı 40k$ aldım ama bir yılın sonunda 30k$a düştü - depreciation
-	10k$ benim ödeyeceğim vergiden düşür deriz..
-
-# Tricks:
-Aralık ayında gelecek yıl modelli bir araçtan ziyade o yılın aracı almak daha ucuz olur. çünkü galericiler elinden kurtulmak için, 2024 model 2025 yılında satışı zor olur..
-
-triger kayışı - her 3 yılda bir ya da her 38bin kmde bir değişmesi gerekiyor.
-
-mafsal lastikleri
-
-
-tampon onarımı için: fiber glass
