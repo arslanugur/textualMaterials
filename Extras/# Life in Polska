@@ -40,7 +40,53 @@ evraklar
 - Kazancın %19 vergi olarak verilmeli
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Uber, Bolt Giderleri
+    Driver          Courier
+    ---------------------------
+  Driver:   Uber, Bolt, Free now, Sawataxi, Cooltura Taxi, Moja Taxi, iTaxi
+  Courier:  Glovo, Uber eats, Bolt food, Jush, Wolt, Stuart, InPost, DeliGoo, Xpress Delivery
 
+  Partner Fees/Offers: Flow Apps, MB Partner
+  İlk 1-2 ay kiralık araçla başlamak daha iyi
+  Register:
+    Ehliyet
+    Adli Sicil Kaydı (Zaświadczenie o niekaralności)
+        ekrk.ms.gov.pl burdan alınabilir ama ıslak imza illa ki şart
+        Sąd Okręgowy w Białymstoku - Address: Mickiewicza 5, 15-213 Białystok
+    Sağlık Raporu (Medycyna Pracy Appointment dla Taxi i dostawy)
+        (Podlaski Wojewódzki Ośrodek Medycyny Pracy, Revita Centrum Medyczne, Villa Med) --> 400zl
+
+
+# Courier Calculation:
+  day/dzien  week/tydzien  month/miesiąc  explanation
+-----------------------------------------------------
+  brutto     brutto        brutto        netto
+  250zl/d    1750zl/w      7000zl/m      xxxx
+  300zl/d    2100zl/w      8400zl/m      3600zl/m      ---> minimum income....
+  350zl/d    2450zl/w      9800zl/m      5000zl/m
+  400zl/d    2800zl/w      11200zl/m     6400zl/m
+  450zl/d    3000zl/w      12000zl/m     7200zl/m      ---> average income must
+
+
+                            960zl/m  ---> %8 Tax
+             50zl/w         200zl/m  ---> App Fee (Partner Fee)
+                              ?zl/m  ---> Uber Commission (No Commission for Courier)
+                           2400zl/m  ---> ZUS Sigorta (Zamanın varsa ek iş olarak karlı gibi)
+             300-400zl/w   1200zl/m  ---> Oil/Gas payment
+                           4800zl/m  ---> Total Expenses
+
+                           2500zl/m  ---> Rental Car
+                           7200zl/m  ---> Netto Earnings (without rental car)
+                           4700zl/m  ---> Netto Earnings (with rental car)
+                            250zl/m  ---> Araç Sigortası
+                            400zl/m  ---> Araç Bakımı
+
+                           2000zl/m  ---> House Rent
+                           1000zl/m  ---> Other Expenses
+
+https://www.carcarekiosk.com/
+Partnerinize yakıt faturası (Faktura VAT) göndererek aylık vergi yükünüzü 300-500 PLN civarında azaltabilirsiniz.
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -98,4 +144,25 @@ Beyanname verirken şu indirimleri kontrol etmelisiniz:
   Ortak beyanname avantajından yararlanmak için Skala Podatkowa (Genel Vergi Dilimi - %12/%32) sisteminde olmanız gerekir.
   Sonuç: Eğer Uber'den elde ettiğiniz kâr çok astronomik rakamlarda değilse, eşinizle vergi avantajlarını birleştirmek (özellikle 60.000 PLN'lik toplam muafiyet için) sizi çok daha karlı çıkaracaktır.
   Bir muhasebeci veya Uber partneri ile bu konuyu görüş
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
