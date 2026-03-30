@@ -180,9 +180,28 @@ B2C   Customers (Çok para gereklidir, türk fonları/VC pek istemez, kullanıc�
         The money moving in and out of your business over a period of time.
         Why it matters: Profitable businesses fail because of cash. Revenue on paper means nothing if the cash isn't in the account.
 
+    Runway
+        How long the business can operate before running out of cash at the current burn rate.
+        Why it matters: Runway dictates every big decision, and a founder with 6 months left makes very different choices to one with 24.
+
+    Burn Rate
+        The amount of cash the business spends each month.
+        Why it matters: Most founders know their revenue, fewer know their costs, and can't manage runway without knowing this number cold.
+
+    Working Capital
+        Current assets minus current liabilities.
+        Why it matters: Negative working capital is a warning sign most founders miss until it's too late, so check it regularly.
+
+    PMF (Product Market Fit)
+        When a product meets a real customer need, and customers are willing to pay for it.
+        Why it matters: Everything before PMF is experimentation, everything after is execution, so don't spend until you have it.
+
     Churn Rate:
         Müşteri Kayıp Oranı / Abonelik İptal Oranı
         Churn refers to the number of customers who end their relationship with a company within a given period
+        Churn is the percentage of customers who stop using or paying for your product each month.
+        Why it matters: High churn means you're filling a leaking bucket, so acquiring customers means nothing if they don't stay.
+
         Belirli bir dönem (örneğin bir ay) içindeki kayıp oranını bulmak için
         Formula: Churn Rate = (Lost Customers during Period / Total Customers at Start of Period) * 100
             Örnek:Ay başında 1.000 aboneniz vardı. Ay sonunda bu abonelerden 50 tanesi üyeliğini iptal ettiyse:
@@ -194,6 +213,10 @@ B2C   Customers (Çok para gereklidir, türk fonları/VC pek istemez, kullanıc�
 
         Churn Rate oranını düşürmek için yapılan çalışmalara Retention (Elde Tutma) stratejileri denir.
         Bu stratejilerden (kampanyalar, sadakat programları vb.)
+
+    Operating Leverage
+        The ability to grow revenue without a proportional increase in costs.
+        Why it matters: High leverage separates a scalable business from one that just gets more expensive as it grows.
 
     Retention Rate: Percentage of kept customers / Elde tutulan müşteri yüzdesi
         Retention Strategies
@@ -236,6 +259,18 @@ B2C   Customers (Çok para gereklidir, türk fonları/VC pek istemez, kullanıc�
 
         CPA değerini düşürmek için Dönüşüm Oranı Optimizasyonu (CRO) tekniklerini veya hedef kitle seçimleri
         Ölçeklenebilirlik (Scalability): Hangi kanalların daha karlı olduğunu anlamanızı sağlar, böylece bütçenizi doğru yere aktarabilirsiniz.
+
+    EBITDA
+        Earnings before interest, taxes, depreciation, and amortisation.
+        Why it matters: Acquirers and investors use it to value businesses, so know yours before you walk into any deal room.
+
+    Gross Margin
+        Revenue minus direct costs, expressed as a percentage of revenue.
+        Why it matters: Low margin businesses are fragile, high margin businesses have options, so gross margin tells you which one you're building.
+
+    ARR (Annual Recurring Revenue)
+        The total predictable revenue a business expects to collect over a year from subscriptions or contracts.
+        Why it matters: High ARR tells you how much revenue is locked in before the month starts, which is what investors in subscription businesses care about most.
 
     Conversion Rate (CVR):
         Eyleme geçen kullanıcı yüzdesi
