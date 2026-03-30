@@ -16,6 +16,7 @@ App about Education with School
 
 
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Ideas
 . Marketplace
@@ -171,6 +172,14 @@ B2C   Customers (Çok para gereklidir, türk fonları/VC pek istemez, kullanıc�
     Muhasebe
     Denetim
 
+    Unit Economics
+        The profit or loss made on a single customer or transaction.
+        Why it matters: Healthy unit economics means the business gets stronger as it grows, poor unit economics means you lose money faster at scale.
+
+    Cash Flow
+        The money moving in and out of your business over a period of time.
+        Why it matters: Profitable businesses fail because of cash. Revenue on paper means nothing if the cash isn't in the account.
+
     Churn Rate:
         Müşteri Kayıp Oranı / Abonelik İptal Oranı
         Churn refers to the number of customers who end their relationship with a company within a given period
@@ -196,6 +205,8 @@ B2C   Customers (Çok para gereklidir, türk fonları/VC pek istemez, kullanıc�
         bir işletmenin tek bir yeni müşteri kazanmak için harcadığı toplam maliyettir.
         Bu maliyet sadece reklam giderlerini değil, satış ekibinin maaşlarını, kullanılan yazılımları ve pazarlama operasyonel giderlerini de kapsar.
         belirli bir dönemdeki tüm satış ve pazarlama giderleri, o dönemde kazanılan yeni müşteri sayısına bölünür.
+        The total cost to acquire one new customer, including marketing and sales.
+        Why it matters: If your CAC is higher than what a customer is worth, the business doesn't work, so know this number before you scale.
         Formula: CAC = Toplam Satış ve Pazarlama Giderleri / Kazanılan Yeni Müşteri Sayısı
         Örnek: Bir ayda reklam ve personel için toplam 10.000 TL harcadınız ve 100 yeni müşteri kazandınız. Bu durumda CAC değeriniz müşteri başına 100 TL olur.
 
