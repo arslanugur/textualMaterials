@@ -1,0 +1,215 @@
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Röle                                                       Kontaktör
+-küçük akımları kontrol eder                              -yüksek akımları kontrol eder
+-kumanda ve sinyal devrelerinde kullanılır                -motor ve ağır yerlerde kullanılır
+-düşük gerilim ile çalışır (5V, 12V, 24V DC gibi)         -genellikle 230V/415V AC ile çalışır
+-akım kapasitesi genellikle 10A'dan küçüktür.             -9A-800A ve üzeri akımları anahtarlayabilir
+
+Ne için Kullanılır
+-otomasyon devresi                                        -elektrik motoru
+-alarm sistemleri                                         -fan, pompa, ısıtıcı
+-PLC çıkışları                                            -çok fazla yükler
+-düşük akım devreleri                                     -yüksek akım devreleri
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Sigorta (MCB)                                             Kompakt Şalter (MCCB)
+ana hattın koruması                                       hattı besler
+prix, lamba, vs korur
+-küçük akımlı (6A-63A)                                    -yüksek akımlı (63A-1600A)                                
+-sabit ayarlı                                             -kısa devre + aşırı akım koruma
+-aydınlatma, priz hattı                                   -ayarlanabilir
+-kısa devre gücü: düşük                                   -ana besleme, makine girişi
+
+
+Özellik              kapasite         ayarlanabilirlik      kısa devre gücü
+Kapasite             yüksek           var                   çok yüksek
+Kısa Devre Gücü      çok yüksek       düşük                 düşük
+Kullanım Yeri        ana besleme      priz, lamba           priz, lamba
+Boyut                büyük            küçük                 düşük
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Priz bağlantısı
+Faz L1 = Brown
+Neuter = Blue
+Toprak (PE) = Yellow/Green
+tek fazlı 3x1,5 veya 3x2,5 kablo
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Anahtar - tam 110cm'de olur
+Priz - 40cm'de olur
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Overload - Aşırı Akım	
+Short Circuit - Kısa Devre	
+RCD - Kaçak Akım	
+	  RCD Tests: Röle (Kaçak Akım Rölesi), Açma Süresi, Test Cihazı
+              Kaçak Akım Rölesi: 30mA
+
+Yalıtım Kontrolleri: Faz-Faz, Faz-Nötr, Faz, Toprak	
+Fonksiyon Testeleri: Kontaktör, Röle, Buton, PLC	
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+İzolasyon Trafosu: 230V --> 12V ---> güvenli gerilim
+
+	32A Akım
+	3 Faz (L1, L2, L3)
+	1 Neuter
+	1 Toprak
+	
+	
+Şalter / Sigorta (50A/80A)	
+Sigorta =< Kablo Akımı	
+	
+	
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+
+
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Electrical Panel Features and Tools / Elektrik Panosunun Özellikleri ve Araçlar / Charakterystyka i Narzędzia Rozdzielnicy Elektrycznej
+Bir elektrik panosu, enerjinin güvenli bir şekilde dağıtıldığı ve kontrol edildiği sistemin kalbidir.
+1. Key Components and Tools / Temel Bileşenler ve Araçlar / Kluczowe Komponenty i Narzędzia
+Bir elektrik panosunun içinde (hem apartman hem daire için) şu ana elemanlar bulunur:
+  Circuit Breakers / Sigortalar (Otomatlar) / Wyłączniki Nadprądowe (Bezpieczniki):
+    * Hattı aşırı akımdan ve kısa devreden korur.
+  Residual Current Device (RCD) / Kaçak Akım Rölesi / Wyłącznik Różnicowoprądowy (RCD):
+    İnsan hayatını korumak için en kritik parçadır; kaçak algıladığında elektriği milisaniyeler içinde keser.
+  Surge Protector / Parafudr / Ochronnik Przeciwprzepięciowy:
+    Yıldırım veya şebeke dalgalanmalarına karşı cihazları korur.
+  Busbars / Bara / Szyny Zbiorcze:
+    Akımı ana hattan sigortalara dağıtan iletken bakır çubuklardır.
+  DIN Rail / Otomat Rayı / Szyna DIN:
+    Tüm bu parçaların üzerine monte edildiği metal raydır.
+
+2. Apartment Building System / Apartman Sistemi / System w Bloku Mieszkalnym
+Apartman girişindeki ana pano (Ana Tablo), binanın toplam yükünü yönetir.
+Main Entry / Ana Giriş / Wejście Główne: Enerji, şehir şebekesinden ana şaltere gelir.
+Metering / Sayaçlar / Liczniki: Her dairenin harcadığı enerjiyi ölçmek için ayrı sayaçlar bulunur.
+Protection / Koruma / Ochrona: Binayı koruyan büyük amperajlı ana sigortalar ve yangın koruma röleleri burada yer alır.
+Distribution / Dağıtım / Rozdział: Enerji buradan dikey kolon hatları ile dairelere iletilir.
+
+3. Apartment Unit System / Daire İçi Sistem / System w Mieszkaniu
+Daire içindeki pano (Tali Pano), daha spesifik ve hassas bir koruma sağlar.
+Main Switch / Ana Şalter / Wyłącznik Główny: Dairenin tüm elektriğini tek noktadan keser.
+RCD Check / Kaçak Akım Kontrolü / Kontrola RCD: Daireye giren akım ile çıkan akımı kıyaslar. 
+  Islak zeminler (banyo/mutfak) için hayati önem taşır.
+Circuit Division / Linyeler (Devreler) / Podział na Obwody:
+  Elektrik farklı kollara ayrılır:
+Lighting / Aydınlatma / Oświetlenie: Genellikle 10A sigorta kullanılır.
+Sockets / Prizler / Gniazdka: Genellikle 16A sigorta kullanılır.
+High Power / Yüksek Güçlü Cihazlar / Urządzenia o Dużej Mocy: 
+  Fırın, klima veya ani su ısıtıcısı için ayrı hat ve sigorta çekilir.
+
+Summary Table / Özet Tablo / Tabela Podsumowująca
+Component / Bileşen / Komponent    Function / Görev / Funkcja            Target / Hedef / Cel
+Main Breaker                        Global Cut-off                        Total Safety
+RCD (Kaçak Akım)                    Leakage Protection                    Life Safety (Human)
+MCB (Sigorta)                       Overcurrent Protection                Device & Cable Safety
+Surge Arrester                      Voltage Spikes                        Electronic Protection
+
+
+Technical Details and Wiring / Teknik Detaylar ve Bağlantı / Szczegóły Techniczne i Okablowanie
+Bir daire içi panonun (Tali Pano) kurulumunda kullanılan teknik standartlar şunlardır:
+1. Cable Sections and Amperage / Kablo Kesitleri ve Amper Değerleri / Przekroje Kabli i Natężenie Prądu
+Güvenli bir sistem için kablo kalınlığı ile sigorta değeri (Amper) birbiriyle uyumlu olmalıdır:
+  Lighting / Aydınlatma / Oświetlenie:
+    Cable / Kablo / Kabel: 3 x 1.5 mm^2 (NYM / YVV)
+    Breaker / Sigorta / Bezpiecznik: 10A (B Tipi)
+  Standard Sockets / Standart Prizler / Standardowe Gniazdka:
+    Cable / Kablo / Kabel: 3x2.5mm^2
+    Breaker / Sigorta / Bezpiecznik: 16A (B Tipi)
+  High Power (Oven/Hob) / Yüksek Güç (Fırın/Ocak) / Wysoka Moc:
+    Cable / Kablo / Kabel: 5x2.5mm^2 veya 5x4mm^2 (Trifaze/Üç fazlı sistemler için)
+    Breaker / Sigorta / Bezpiecznik: 16A - 20A (C Tipi veya B Tipi)
+
+2. The Role of Phases / Fazların Rolü / Rola Faz
+Modern dairelerde genellikle Three-Phase System (Trifaze / Trójfazowy) kullanılır. 
+Bu sistemde enerji üç farklı hat (L1, L2, L3) üzerinden gelir.
+  Load Balancing / Yük Dengeleme / Balansowanie Obciążenia: 
+      Evdeki cihazlar bu üç faza eşit dağıtılmalıdır.
+      Örneğin; çamaşır makinesi L1 üzerindeyse, fırın L2 üzerine bağlanır.
+      Bu, ana sigortanın gereksiz yere atmasını engeller.
+
+  Phase Shifter / Faz Ayırıcı / Szyna Grzebieniowa:
+      Sigortalar arasındaki bağlantıyı kablo kirliliği olmadan yapmak için kullanılan tarak şeklinde bir baradır.
+
+3. RCD Selection / Kaçak Akım Rölesi Seçimi / Wybór Wyłącznika Różnicowoprądowego
+Kaçak akım rölesi seçerken iki ana değere bakılır:
+  Sensitivity / Hassasiyet / Czułość: 
+    * Evsel kullanım için her zaman 30mA olmalıdır. 300mA olanlar sadece yangın koruma amaçlı bina girişlerinde kullanılır.
+  Type / Tip / Typ: * Type AC: Sadece standart alternatif akım için.
+    Type A: Modern elektronik cihazların (bilgisayar, LED) yarattığı akımları da algıladığı için Polonya ve AB standartlarında artık daha çok tercih edilir.
+
+4. Tools for Installation / Kurulum İçin Gerekli Araçlar / Narzędzia do MontażuBir elektrikçinin pano içinde en çok ihtiyaç duyduğu araçlar şunlardır:
+  Wire Stripper / Kablo Soyucu / Ściągacz Izolacji: 
+    Kabloya zarar vermeden ucunu açmak için.
+  Crimping Tool / Yüksük Sıkma Pensesi / Praska do Tulejek: 
+    Çok damarlı kabloların ucuna metal yüksük takarak ark yapmasını önlemek için.
+  Insulated Screwdriver / İzoleli Tornavida / Śrubokręt Izolowany: 
+    1000V korumalı, güvenlik için şarttır.
+  Multimeter / Multimetre / Multimetr: 
+    Voltaj ve süreklilik (continuity) testi yapmak için.
+
+
+Comparison Table for Circuit Breakers / Sigorta Tipleri Karşılaştırması / Porównanie Typów Wyłączników
+Type / Tip / Typ          Use Case / Kullanım Alanı / Zastosowanie        Speed / Hız / Szybkość
+B Type                    General Home (Lights/TV)                        Fast (Standard protection)
+C Type                    Motors / Fridge / AC                            Medium (Handles initial surge)
+D Type                    Industrial Machinery                            Slow (High startup currents)
+
+
+bir elektrik panosunun profesyonelce toplanmasındaki en kritik iki konuya odaklanalım: 
+  Yüksükleme (Crimping)
+  Bağlantı Şeması (Wiring Diagram)
+
+1. Wire Ferrules (Crimping) / Kablo Yüksükleme / Tulejkowanie Kabli
+Çok damarlı (esnek) kabloları doğrudan sigortaya vidalamak tehlikelidir çünkü vida damarları ezebilir veya gevşek bağlantıya (ark) neden olabilir.
+  Process / İşlem / Proces:
+    Kablo soyulur, üzerine uygun renkteki plastik saplı metal yüksük takılır ve Crimping Tool (Yüksük Pensesi / Praska) ile sıkıştırılır.
+  Color Codes / Renk Kodları / Kolory Tulejek:
+    Yüksük renkleri kablo kesitini belirtir (Örneğin: 2.5mm^2 genellikle gridir).
+  Safety / Güvenlik / Bezpieczeństwo: 
+    Bu işlem, temas yüzeyini maksimize eder ve ısınmayı önler.
+
+2. Connection Sequence / Bağlantı Sırası / Kolejność Połączeń
+Bir daire panosu yukarıdan aşağıya veya soldan sağa doğru şu mantıkla dizilir:
+  Main Disconnector / Ana Kesici / Rozłącznik Izolacyjny (FR): Enerjinin girdiği ilk nokta.
+  Surge Arrester / Parafudr / Ochronnik Przeciwprzepięciowy: Yıldırım koruması burada devreye girer.
+  RCD / Kaçak Akım Rölesi / Wyłącznik Różnicowoprądowy: Ana kesiciden sonra gelir.
+  MCB / Sigortalar / Wyłączniki Nadprądowe: En son aşamada priz ve lamba hatlarına dağılım yapılır.
+
+3. Phase Comb Busbar / Faz Tarağı (Bara) / Szyna Grzebieniowa
+Sigortaların üst girişlerini birbirine kablo ile atlamak yerine, Phase Comb (Tarak Bara) kullanılır.
+  Efficiency / Verimlilik / Wydajność: Kablo kalabalığını bitirir.
+  Reliability / Güvenilirlik / Niezawodność: Tüm sigortaların aynı fazdan (veya üç fazdan) dengeli beslenmesini sağlar.
+
+Technical Comparison Table / Teknik Karşılaştırma Tablosu / Tabela Porównawcza
+Feature / Özellik / Cecha                Flexible Cable / Çok Damarlı / Linka              Solid Cable / Tek Damarlı / Drut
+Ferrules / Yüksük / Tulejka              Required / Zorunlu / Wymagana                      Not Needed / Gereksiz / Niepotrzebna
+Flexibility / Esneklik / Elastyczność    High / Yüksek / Wysoka                             Low / Düşük / Niska
+Use Case / Kullanım / Zastosowanie       Inside Panel / Pano İçi / Wewnątrz rozdzielnicy    Inside Walls / Duvar İçi / W tynku
+
+4. Essential Tools for Testing / Test ve Ölçüm Araçları / Narzędzia Pomiarowe
+Pano toplandıktan sonra şu testler yapılmadan enerji verilmemelidir:
+  Insulation Resistance Tester / Meger Cihazı / Miernik Rezystancji Izolacji: 
+    Kablolarda kaçak olup olmadığını kontrol eder.
+  RCD Tester / RCD Test Cihazı / Tester RCD: 
+    Kaçak akım rölesinin doğru sürede (milisaniyeler içinde) atıp atmadığını test eder.
+  Voltage Tester / Kontrol Kalemi - Voltmetre / Próbnik Napięcia: 
+    Fazın varlığını ve nötr hatla karışıp karışmadığını kontrol eder.
+
+
+
+
+
+
+
