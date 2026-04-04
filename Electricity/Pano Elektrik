@@ -1,5 +1,58 @@
+# Priz bağlantısı
+Faz L1 = Brown
+Neuter = Blue
+Toprak (PE) = Yellow/Green
+tek fazlı 3x1,5 veya 3x2,5 kablo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Energy Meter,Enerji Sayacı,Licznik Energii
+Main MCB (Miniature Circuit Breaker),Ana Otomatik Sigorta,Główny Wyłącznik Nadprądowy
+Phase Wire (Live),Faz Hattı (Canlı),Przewód Fazowy
+Neutral Wire,Nötr Hattı,Przewód Neutralny
+Earth / Ground Wire,Topraklama Hattı,Przewód Uziemiający
+Distribution Board / Busbar,Dağıtım Panosu / Bara,Rozdzielnica / Szyna
+Room Circuits,Oda Devreleri,Obwody Pomieszczeń
+RCD (Residual Current Device / Wyłącznik różnicowoprądowy)
+
+				Enerji Sayacı
+				Licznik Energii
+Ana Şebeke	---> Energy Meter 	---> Main MCB (Miniature Circuit Breaker)	---> Kaçak Akım Rölesi (RCD/RCCB)	p---> Dağıtım Baraları / Oda Sigortaları (MCB'ler)
+			l+n					l+n											l+n									n---> Nötr Barasına (N) bağlanır. Nötr Barası (Neutral Busbar / Szyna Neutralna)
+
+																			e---> Topraklama Barası (Earth Busbar / Szyna Uziemiająca)
+
+Hat / Wire / Przewód				RCD'ye Bağlanır mı?		Nereye Gider?
+Phase Wire (L) / Faz / Faza				Evet					Röle girişine ve çıkışına.
+Neutral Wire (N) / Nötr / Neutralny		Evet					Röle girişine ve çıkışına.
+Earth Wire (E) / Toprak / Uziemienie		HAYIR					Doğrudan Toprak Barasına.
+
+RCD'nin çalışma mantığı bir terazi gibidir. Fazdan giden akım ile Nötrden dönen akımın birbirine eşit olup olmadığını kontrol eder.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Kablo kesiti, devre kesici (sigorta) kapasitesi ve maksimum güç tüketimi
+Bu hesaplamadaki veriler genellikle 230 Voltage standartlarına göre Hesaplanmış (P=V*I)
+
+Przekrój Kabla		Wyłącznik Nadprądowy
+					Główny Wyłącznik
+Cable Section		Circuit Breaker							
+Kablo Kesiti		Sigorta (Devre Kesici) Kapasitesi		Maksimum Güç Tüketimi					Usage
+1.5mm²				10 Amperage ile korunur					2.200 Watts/Power destekler				Aydınlatma devreleri için kullanılır
+2.5mm²				16 Amperage								3.500 Watts/Power						Standard priz devreleri için kullanılır
+4mm²				20-25 Amperage							5.500 Watts/Power						Mutfak aletleri (fırın, mikro dalga), klima gibi orta ölçekli yükler için kullanılır.
+6mm²				32 Amperage								7.000 Watts/Power						Elektrikli şofbenler veya ocaklar için uygundur.
+10mm²				40-50 Amperage							11.000 Watts/Power						Güçlü motorlar veya ana bağlantılar için kullanılır
+16mm²				63 Amperage								14.000 Watts/Power						Genellikle bina ana giriş kablosu veya büyük konut yükleri için tercih edilir
 
 
+Natężenie Prądu = Amperage = Akım değeri
+Moc (Waty) = Watts = Power
+Load / Appliance = Yük / Cihaz = Obciążenie / Urządzenie
+
+
+# Comparison Table for Circuit Breakers / Sigorta Tipleri Karşılaştırması / Porównanie Typów Wyłączników
+Type / Tip / Typ          Use Case / Kullanım Alanı / Zastosowanie        Speed / Hız / Szybkość
+B Type                    General Home (Lights/TV)                        Fast (Standard protection)
+C Type                    Motors / Fridge / AC                            Medium (Handles initial surge)
+D Type                    Industrial Machinery                            Slow (High startup currents)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Röle                                                       Kontaktör
@@ -30,11 +83,6 @@ Kısa Devre Gücü      çok yüksek       düşük                 düşük
 Kullanım Yeri        ana besleme      priz, lamba           priz, lamba
 Boyut                büyük            küçük                 düşük
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# Priz bağlantısı
-Faz L1 = Brown
-Neuter = Blue
-Toprak (PE) = Yellow/Green
-tek fazlı 3x1,5 veya 3x2,5 kablo
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Anahtar - tam 110cm'de olur
@@ -60,19 +108,6 @@ Fonksiyon Testeleri: Kontaktör, Röle, Buton, PLC
 	
 Şalter / Sigorta (50A/80A)	
 Sigorta =< Kablo Akımı	
-	
-	
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-
-
-
-
-
-
-
-
-
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Electrical Panel Features and Tools / Elektrik Panosunun Özellikleri ve Araçlar / Charakterystyka i Narzędzia Rozdzielnicy Elektrycznej
@@ -159,12 +194,6 @@ Kaçak akım rölesi seçerken iki ana değere bakılır:
   Multimeter / Multimetre / Multimetr: 
     Voltaj ve süreklilik (continuity) testi yapmak için.
 
-
-Comparison Table for Circuit Breakers / Sigorta Tipleri Karşılaştırması / Porównanie Typów Wyłączników
-Type / Tip / Typ          Use Case / Kullanım Alanı / Zastosowanie        Speed / Hız / Szybkość
-B Type                    General Home (Lights/TV)                        Fast (Standard protection)
-C Type                    Motors / Fridge / AC                            Medium (Handles initial surge)
-D Type                    Industrial Machinery                            Slow (High startup currents)
 
 
 bir elektrik panosunun profesyonelce toplanmasındaki en kritik iki konuya odaklanalım: 
