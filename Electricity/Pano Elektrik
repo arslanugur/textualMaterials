@@ -235,9 +235,37 @@ Pano toplandıktan sonra şu testler yapılmadan enerji verilmemelidir:
     Kaçak akım rölesinin doğru sürede (milisaniyeler içinde) atıp atmadığını test eder.
   Voltage Tester / Kontrol Kalemi - Voltmetre / Próbnik Napięcia: 
     Fazın varlığını ve nötr hatla karışıp karışmadığını kontrol eder.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# KABLO KESİT HESAPLAMA
+Kablo Kesitleri:	1mm² - 2,5mm² - 4mm² - 6mm² - 10mm² - 16mm² - 25mm²
 
+1. MONOFAZE
 
+					50mt
+	220V ------------------------ 5kW      				220V, 50mt, 5kW bir gücümüz olduğunu varsayalım
 
+Formula: 0,074*(L*P/S) < 1,5
+	Monofaze Sabit Çarpanı: 0,074
+	S = Kullanılacak İletken Kesiti
+	P = Güç (kW)
+	L = Kablo Uzunluğu (mt)
+
+Example: 0,074*(50*5/10mm²) 1,85 < 1,5 ----> olmaz ---> kablo kesiti artırılması gerek
+
+2. TRIFAZE
+
+					50mt
+	380V ------------------------ 70kW      				380V, 50mt, 70kW bir gücümüz olduğunu varsayalım
+
+Formula: 0,0124*(L*P/S) < 3
+	Trifaze Sabit Çarpanı: 0,0124
+	S = Kullanılacak İletken Kesiti
+	P = Güç (kW)
+	L = Kablo Uzunluğu (mt)
+ 
+Example: 0,0124*(50*70/16mm²) 43,4 / 16mm² ---> 2,712 < 3 ----> olur ---> kablo kesiti kullanılabilir
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 
