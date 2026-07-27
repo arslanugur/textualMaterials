@@ -1580,11 +1580,6 @@ Kar da edersin, zarar da ama kar için oranın ve noktan stop lossdan büyükse 
     
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-
-
-
-
-
 Korelasyon, iki A ve B değişkeni arasındaki doğrusal ilişkinin yönünü ve gücünü belirtir. Genel kullanımda korelasyon, bağımsızlık durumundan ne kadar uzaklaşıldığını gösterir.
 Korelasyon–1 ile +1 arasında değişir.
 Korelasyon pozitif bir değer taşıyorsa A ve B arasında aynı yönde; negatif bir değer taşıyorsa ters yönde bir ilişki vardır.
@@ -1598,10 +1593,16 @@ Beta Katsayısı (β);
 β> 1 ise hissenin hareketinin endeksten daha hızlı olduğunu ve daha riskli, yüksek volatilite olduğunu ifade eder.
 Β <1 ise hissenin hareketinin endeksten daha yavaş olduğunu ve az riskli, düşük volatilite olduğunu ifade eder.
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-
-
-
+# Seven Most expensive financial softwares in history of Wall St.
+Refinitiv Eikon    ---> $22,000/year         - Refinitiv Eikon delivers financial data, market news, analytics, and trading workflows competing directly with Bloomberg.
+FactSet            ---> $25,000/year         - FactSet provides financial data, research, earnings models, portfolio analytics, and workflow tools for institutional investors.
+Bloomberg Terminal ---> $27,000/year         - Bloomberg Terminal gives traders real-time market data, analytics, news, messaging, and execution tools used across Wall Street.
+ICE Data Services  ---> $100K-$5M+ licensing - ICE provides real-time pricing, fixed income data, derivatives analytics, and market infrastructure used across trading systems.
+BlackRock Aladdin  ---> $1M-$10M+ contracts  - Aladdin centralizes portfolio analytics, risk management, and investment operations for the world's largest asset managers.
+Murex              ---> $10M+ per bank       - Murex powers complex derivatives trading, risk management, and post-trade systems inside large global banks.
+Calypso            ---> $5M-$20M per company - Calypso is used by major financial institutions for capital markets trading, risk, collateral, and treasury operations.
 
 
 
