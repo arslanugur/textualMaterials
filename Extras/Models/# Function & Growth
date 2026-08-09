@@ -93,6 +93,7 @@ x = time
 	81/27=3
 
 	8, 24, 72, 216		(a, a*r, a*r^2, a*r^3)
+	
 
 # Arithmetic Growth	aradaki fark ile ilerliyor
 	1 hour		2 cells added
@@ -152,11 +153,14 @@ x = time
 	f(x)=x^2
 
 # Logistic growth
+	S Tipi Büyüme Eğrisi
 	Büyüme sonrası stabil ve standart hale geliyor
 	Carrying capacity (K) of environment (restricted)
 
 # Combinatorial Growth
 	Combinatorial Explosion
+
+# J Type Growth 
 
 Parkinson's law - Effort vs Time
 
