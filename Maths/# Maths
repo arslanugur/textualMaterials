@@ -413,5 +413,16 @@ P(5,3)-P(4,3)=6 = 3
     a * (b+c) = a*b + a*c eşitliği
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# BASİT KOMBINASYON HESABI
+90'nın 6'lısı kombinasyon - 90dan 6 sayı seçmek
+90dan 6 adım geriye  gidiyorsun
+90*89*87*86*85*84 / 6*5*4*3*2*1 =  ......... bu kadar kombinasyon var... 
+
+5 katının 5'e bölümü 5'e eşit olan sayının 5 fazlasının 5 eksiği kaça eşittir?
+x.5/5=5     x=5 
+5+5-5=5
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 
 
