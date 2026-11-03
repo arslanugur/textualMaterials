@@ -123,6 +123,75 @@ Cantillon Etkisi (Cantillon Effect)
     Yeni para ekonominin geneline yayıldıkça mal ve hizmet fiyatları yükselir; paraya en son ulaşanlar ise alım güçlerini kaybederek zarar ederler.
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Tahvil Faizleri neden düşer?
+Temel mantık: Tahvil faizi, yatırımcının o tahvili tutmak için talep ettiği getiridir.
+Beklenen enflasyon, beklenen politika faizi ve risk primi azaldıkça ya da tahvile olan talep arttıkça bu getiri düşer.
+1. Merkez bankasının faiz indirimi veya beklentisi
+  Politika faizi düştüğünde ya da piyasa yakında düşeceğini beklediğinde, tahvil getirileri de aşağı iner.
+  Piyasa çoğu zaman karar açıklanmadan önce fiyatlama yapar.
+2. Enflasyonun gerilemesi
+  Yatırımcılar enflasyondan korunmak için faiz primi ister.
+  Enflasyon düşünce ya da düşeceği beklentisi güçlenince bu prim azalır, getiriler geriler.
+3. Ekonomik yavaşlama veya durgunluk korkusu
+  Büyüme zayıfladığında şirketlerin ve hanehalkının borçlanma talebi azalır, merkez bankalarının gevşeme olasılığı artar.
+  Ayrıca yatırımcılar riskli varlıklardan çıkıp güvenli liman olarak gördükleri tahvillere kayar.
+  Artan talep fiyatı yükseltir, getiriyi düşürür.
+4. Risk iştahının düşmesi (güvenli liman talebi)
+  Jeopolitik gerilimler, finansal krizler veya borsalardaki sert düşüşler sırasında yatırımcılar devlet tahvillerine yönelir.
+  Talep arttıkça faiz düşer.
+5. Ülke risk priminin azalması
+  Gelişmekte olan ülkelerde (Türkiye gibi) CDS primlerinin düşmesi, kredi notu artışı, makroekonomik istikrar ya da siyasi belirsizliğin azalması, yatırımcının istediği ek getiriyi düşürür.
+6. Arz-talep dengesi
+  Merkez bankası tahvil alımı yaparsa (parasal genişleme, QE) talep artar, faiz düşer.
+  Hazinenin borçlanma ihtiyacı azalırsa tahvil arzı düşer, bu da faizleri aşağı çeker.
+  Bankalar, emeklilik fonları ve sigorta şirketleri gibi kurumsal yatırımcıların talebi güçlüyse fiyatlar yükselir.
+7. Yabancı yatırımcı girişi
+  Özellikle gelişmekte olan piyasalarda yabancı girişi tahvillere talebi artırır ve faizleri aşağı çeker.
+
+# Tahvil Faizleri Neden Yükselir?
+Temel mantık: Beklenen enflasyon, beklenen politika faizi ve risk primi arttıkça ya da tahvile olan talep azaldıkça getiri yükselir.
+1. Merkez bankasının faiz artırımı veya beklentisi
+  Politika faizi yükselince ya da piyasa yükseleceğini düşünce, yeni çıkan tahviller daha yüksek getiri sunar.
+  Eski, düşük faizli tahviller cazibesini kaybeder, fiyatları düşer ve getiriler yükselir.
+2. Enflasyonun artması veya beklentisi
+  Yatırımcı, paranın satın alma gücündeki erimeyi telafi edecek bir prim ister.
+  Enflasyon beklentisi arttıkça istenen getiri de yükselir.
+3. Güçlü ekonomik büyüme
+  Ekonomi iyi giderken yatırımcılar tahvil gibi güvenli varlıklardan hisse senedi gibi riskli varlıklara kayar.
+  Tahvile talep azalır, faiz yükselir. Ayrıca güçlü büyüme, merkez bankasının sıkı politika izleme olasılığını artırır.
+4. Risk iştahının artması
+  Piyasalarda iyimserlik hakim olduğunda güvenli liman talebi zayıflar ve tahvil satışları artar.
+5. Ülke risk priminin artması
+  Siyasi belirsizlik, kredi notu indirimi, cari açık veya kur baskısı gibi gelişmeler yatırımcının istediği ek getiriyi yükseltir.
+  Gelişmekte olan ülkelerde bu etki çok belirgindir.
+6. Arz-talep dengesi
+  Hazinenin borçlanma ihtiyacı arttığında piyasaya daha fazla tahvil çıkar. Arz artınca fiyat düşer, faiz yükselir.
+  Merkez bankası tahvil alımlarını azaltırsa (parasal sıkılaştırma, QT) talep zayıflar.
+  Kamu maliyesine duyulan güven azalırsa yatırımcı daha yüksek getiri talep eder.
+7. Yabancı yatırımcı çıkışı
+  Özellikle gelişmekte olan piyasalarda yabancıların tahvil satması faizleri hızla yukarı çeker.
+
+
+# 1
+Bond 1Y  Merkez bankasının politika faizi beklentisini yansıtır.                         
+        Faizi Yükseliyorsa:    Piyasa faiz artışı bekliyor / sıkı para politikasının sürecek.
+        Faizi Düşüyorsa:       Faiz indirimi beklentisi vardır.
+
+Bond 5Y  Piyasanın uzun vadeli enflasyon, büyüme ve ülke riski beklentisini yansıtır.
+        Faizi Yükseliyorsa:    Enflasyon beklentisi artıyor, borçlanma ihtiyacı büyüyor / ülkeye duyulan risk algısı yükseliyor olabilir.
+        Faizi Düşüyorsa:       Enflasyonun gerileyeceği, ekonominin yavaşlayacağı ya da risk algısının azaldığı beklentisi vardır.
+
+
+# 2
+               faiz düşerse        faiz yükselirse
+Bond 1Y        fiyat yükselir      fiyat düşer
+Bond 5Y        fiyat yükselirr     fiyat düşerr
+Bond 10Y       fiyat yükselirrr    fiyat düşerrr
+
+Daha yüksek faizli yeni kağıtlar çıkınca eski, düşük faizli kağıt cazibesini kaybeder. Bu etki vade uzadıkça büyür.
+
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
