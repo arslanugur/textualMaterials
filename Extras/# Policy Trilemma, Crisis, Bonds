@@ -194,6 +194,37 @@ Daha yüksek faizli yeni kağıtlar çıkınca eski, düşük faizli kağıt caz
 
 
 
+
+
+Tüm nedenler her vadeyi aynı ölçüde etkilemez. Vade uzadıkça etkileyen faktörler değişir.
+
+Neden	                                      1 yıl	5 yıl	10 yıl
+Politika faizi değişikliği veya beklentisi	Çok güçlü	Güçlü	Orta
+Enflasyon ve enflasyon beklentisi	          Orta	Güçlü	Çok güçlü
+Ekonomik büyüme beklentisi	                Zayıf	Orta	Güçlü
+Risk iştahı / güvenli liman talebi	        Orta	Orta	Güçlü
+Ülke risk primi	                            Orta	Güçlü	Çok güçlü
+Tahvil arzı ve kamu borçlanması	            Zayıf	Orta	Güçlü
+Merkez bankası alımları (QE/QT)            	Zayıf	Güçlü	Güçlü
+Yabancı yatırımcı akımı	                    Orta	Güçlü	Güçlü
+
+1 yıllık tahvil: Merkez bankasının önümüzdeki 12 ay içindeki faiz kararlarına en duyarlı olandır. Politika faizi ya da beklentisi değiştiğinde ilk tepki veren vade budur.
+
+5 yıllık tahvil: Orta vadeli bir köprüdür. Hem faiz patikası beklentisinden hem de enflasyon ve risk priminden etkilenir.
+
+10 yıllık tahvil: Uzun vadeli enflasyon beklentisini, büyüme görünümünü, kamu maliyesine güveni ve vade primini (uzun süre para bağlamanın ek getiri talebi) yansıtır. Bu yüzden yapısal ve risk odaklı faktörlerden daha çok etkilenir.
+
+Getiri eğrisine etkisi
+
+Faiz indirimi beklentisi: 1 yıllık faiz hızla düşer, 10 yıllık daha az düşer. Eğri dikleşir.
+Faiz artırımı beklentisi: Kısa vade yükselir, uzun vade daha az yükselir. Eğri yatıklaşır, hatta ters dönebilir (kısa faiz uzun faizden yüksek olur).
+Enflasyon veya risk primi şoku: Uzun vadeler daha sert yükselir. Eğri dikleşir.
+Durgunluk korkusu: Önce kısa vadeler indirim beklentisiyle düşer, ardından güvenli liman talebiyle uzun vadeler de düşer.
+
+Fiyat duyarlılığı: Faiz değişimi aynı olsa bile uzun vadeli tahvilin fiyatı daha çok oynar (duration daha yüksektir). Yani 10 yıllık tahvil, 1 yıllığa göre faiz hareketlerinde fiyat olarak çok daha büyük kazanç ya da kayıp yaşatır.
+
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 nixon shock
 kur savaşları
