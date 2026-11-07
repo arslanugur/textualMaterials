@@ -129,6 +129,31 @@ a/(b*c) =! a/b*c
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Elementary Algebra
+Variables, algebraic expressions and terms                (Değişkenler, cebirsel ifadeler ve terimler)
+Exponents and roots                                       (Üslü ve köklü sayılar)
+Identities and factoring                                  (Özdeşlikler ve çarpanlara ayırma)
+Linear equations and inequalities                         (Birinci dereceden denklemler ve eşitsizlikler)
+Systems of equations (two unknowns)                       (Denklem sistemleri (iki bilinmeyenli))
+Quadratic equations and parabolas                         (İkinci dereceden denklemler ve parabol)
+Polynomials (addition, multiplication, division, roots)   (Polinomlar (toplama, çarpma, bölme, kökleri))
+Rational expressions                                      (Rasyonel (kesirli) ifadeler)
+Absolute value                                            (Mutlak değer)
+Ratio, proportion and percentage problems                 (Oran-orantı ve yüzde problemleri)
+Functions (linear, quadratic) and graphs                  (Fonksiyonlar (doğrusal, ikinci dereceden), grafikler)
+Exponential and logarithmic functions                     (Üstel ve logaritmik fonksiyonlar)
+Sequences and series (arithmetic, geometric)              (Diziler ve seriler (aritmetik, geometrik))
+Permutations, combinations and the binomial theorem       (Permütasyon, kombinasyon ve binom açılımı)
+Complex numbers                                           (Karmaşık sayılar)
+
+# Advanced Algebra
+Matrices and determinants                                 (Matrisler ve determinantlar)
+Linear algebra: vector spaces, eigenvalues                (Lineer (doğrusal) cebir: vektör uzayları, özdeğerler)
+Abstract algebra: groups, rings, fields                   (Soyut cebir: gruplar, halkalar, cisimler)
+Number theory and modular arithmetic                      (Sayılar teorisi ve modüler aritmetik)
+Boolean algebra                                           (Boole cebiri)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔻 Changing Fraction, Decimal, Percentage 
 
         Decimal        Percentage    Fraction    Simplify
