@@ -1,6 +1,19 @@
 # SCHOOL
+	- konu öğrenmeye gerek yok, metot öğren
+	- önemli olan konuşmak değil, problemi çözebilmeyi öğrenebilmek
+
+	Bazen
+	- ezberden konuşursun		analiz & copy
+	- öğrenip konuşursun		analiz & analiz
+	- yorumlayıp konuşursun		analiz & sentez
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+🔻 Theories
+	The Sunk Cost Fallacy		Decision Making		batık maliyet yanılgısı
+	Survivorship Bias			Critical Thinking	hayatta kalma sapması/ön yargısı
+	The Infinity Hotel Paradox	Abstraction
+	The Monty Hall Paradox		Probability
+
 # Batık Maliyet Yanılgısı (Sunk Cost Fallacy)
     geri alınamayacak geçmiş yatırımlar (zaman, para, emek) yüzünden kötü giden bir yola devam etme eğilimidir.
     erken yaşta üniversite ve kariyer seçiminin önemi
@@ -14,12 +27,33 @@
     ve önceki eğitimin boşa gitmez, aktarılabilir beceriye (analitik düşünme, iletişim, disiplin) dönüşür.
     Ancak dikey çizgiye çok fazla yatırım yapmış biri, “bu uzmanlığa o kadar emek verdim” diyerek yanlış alanda kalabilir.
 
+🔻 Supply & demand
+	bir ülkede az olan şeylere mesleği yöneltmek: beyaz yaka/mavi yaka
+	sanayiye veririm seni, keşke verseydi.. - ekonominin gelecekteki arz ve talebi
+
+🔻 Friedman Harcama Matrisi
+								Kimin için Harcıyorsunuz?
+															Kendiniz için												Başkaları için
+								-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Kimin Parasını Harcıyorsunuz?	Kendinize ait				Fiyat ve kalite birlikte dikkate alınır.					Fiyatin düşük olması önemsenir (Fiyat Önemli), ama kalite önemsenmez.
+								Başkasına ait				Fiyat önemsenmez, en kalitelisi/pahalısı alınmak istenir.	Fiyat da kalite de önemsenmez. Kamu alımları bu hücreye düşer.
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-# After-Action Review (use it after any project, good or bad)
-  what was supposed to happen                    ne olması gerekiyordu
-  what actually happened                         aslında ne oldu
-  why                                            neden
-  what we change (what to change next time)      neyi değiştirmeliyiz
+🔻 After-Action Review (use it after any project, good or bad)
+	what was supposed to happen                    ne olması gerekiyordu
+	what actually happened                         aslında ne oldu
+	why                                            neden
+	what we change (what to change next time)      neyi değiştirmeliyiz
+
+🔻 S.T.A.R. Technique
+	Mevcut olan ya da ihtiyaç olarak kendi uydurduğun problemi, analiz edip kendine göre oyunu/sahneyi kurmak ve problemi çözmek
+
+	Situation	-- set the scene		sahneyi ayarla / oyunu kur
+	Task		-- describe the purpose		amacını tarif et
+	Action		-- explain what you did		ne yaptığını açıkla
+	Result		-- share the outcome		sonucu paylaş
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
@@ -79,10 +113,13 @@ Rationalism - René Descartes - "Cogito, ergo sum"
 bireysellik
 Bireysel Farkındalık
 serbest piyasa ekonomisi
-teşebbüsün önemi
+
+
 işi ideoloji için yaparsan risk alabilirsin
 bedel almaya razı olduğun sürece risk alacaksın
-kader gayrete aşıktır.
+
+
+
 karşında duvar var. bu duvarı geçeceksin yanından üstünden altından kuyu kaz ama geç o duvarı
 “Where you come from is gone, where you thought you were going to was never there, and where you are is no good unless you can get away from it.”
 Geldiğin yer artık yok, gideceğini sandığın yer hiç var olmadı. huzuru senden hariç hiçbir şeyde bulamazsın. sen varsın şu anda.  Flannery O'Connor
@@ -154,63 +191,101 @@ elite bargain - toplumdaki seçkin grup ile hükümet veya güç sahipleri aras�
     şans varsa kaderin de olması lazım ama kaderimizi biz yazar biz çizeriz.
     yazılmış bir kaderimiz varsa da bu algoritma gibi... sanki online tavla da tüm oyun öncesinde random dice belirlenmiş gibi 
 
-Hamilton rule
-r*B>C --> 
-bir canlının diğeriyle olan ilişkisi
-r = akrabalık ilişkisi ve kendisini feda etmesiyle elde edeceği fayda - fedakarlık avantajı
-    eğer kendisini feda etmesi durumunda kaybedeceklerinden daha fazlaysa bu durumda özgeci davranmak yani bencil davranmamak daha avantajlı oluyor
-c = fedakarlık maliyeti
+
 
 Dutch three R’s - rust, regelmaat, reinheid (rest, regularity, cleanliness)
-Daha fazla öğrenmek, ertelemenin en zeki yolu. Harekete geçmemen için bir neden. İnsan bildiğini yaşamakla değişir. Sadece bilmek kolay. 
 
-если драка неизбежна, бить надо первым.
+
 yaptığınız atar, hayatıma renk katar
 there are only two genders on earth; the first is those who lose their share. the other is those who protect their share.
 günlerce etrafında dolaşmışken, en soluk kan kokusunda, hiçbir uyan vermeden saldıran bu kadar güçlü bir şeyle nasıl rekabet edebilirsin ki?
 bir boğa köpekbalığının maksimum vahşiliği ve minimum vicdanıyla saldırıyor hem de.
-Fanus (Comfort Zone) bazen bir engel değil, bir lens'tir
 Kovulmakla yüz yüzeyken iki yolun vardır: ya razı olursun, ya da sonuna kadar gidersin.
 yanlış bir hayatı doğru yaşamak
 avukatlar dahil olacak olsa bile bu işte kural yok, kazanmak istiyorsan yok. Piç bastard olmalısın.
   pisliğin içinde emekleyecek ve zafer yolunda birçok şey kaybedeceksin. ahlak kurallarının tamamen dışında şeylere hazırlıklı olmalısın
 
 
-
-
-
-
+🔻 From Bottom to Top
+	Başlayan herşey ilk etapta... ---> basic --> simple ---> better ---> perfect
+	O yüzden ilk etapta hiç birşeyin mükemmele, ya da kafanda kurduğun formüle uymasını beklememek gerek...
+	Fortis Fortuna Adiuvat
+	Ars Longa, Vita Brevis - skillfulness takes time and life is short
+	teşebbüsün önemi
+	bir sıfırdan büyüktür.
+	kader gayrete aşıktır.
+	Fanus (Comfort Zone) bazen bir engel değil, bir lens'tir
+	Daha fazla öğrenmek, ertelemenin en zeki yolu. Harekete geçmemen için bir neden. İnsan bildiğini yaşamakla değişir. Sadece bilmek kolay. 
+	если драка неизбежна, бить надо первым.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Goodhart Law
-  Bir ölçüt hedef haline geldiğinde, artık iyi bir ölçüt olmaktan çıkar.
-  Takipçi sayısı hedef olursa kalite düşer. Not hedef olursa öğrenme azalır. Rakamlar oyunu bozar.
-Pareto Law
-  Sonuçların %80'i, çabanın %20'sinden gelir.
-  İş, Para, İlişkiler... Kritik olanı bul. Her şeye eşit enerji verme.
-Parkinson'un Zaman Yasası
-  Bir iş, ona ayırdığın süreyi dolduracak şekilde genişler.
-  Bir saat verirsen bir saat sürer. Bir gün verirsen bir gün sürer.
-Parkinson Yasası
-  Harcamalar, gelir arttıkça artar.
-  Ne kadar kazanırsan kazan, standart yükselir. Sorun para değil, alışkanlık.
-Farklan Law
-  Karar vermek zorunda değilsen, karar verme.
-  Bazen en iyi hamle, hiç hamle yapmamaktır. Zaman, gereksiz kararları eler.
-Wilson Law
-  Bilgiye ve zekaya öncelik verirsen, para zaten gelmeye devam eder.
-  Önce kapasiteni büyüt, gelir onun sonucudur. Servet, bilginin yan ürünüdür. Gerçek uzmanlık kesinlik değil, derinlktir.
-Gilbert Law
-  Herhangi bir görev ya da işteki en büyük problem, kimsenin sana neyi ve nasıl yapman gerektiğini söylememesidir.
-  Çoğu başarısızlık yeteneksizlikten değil, netlik eksikliğinden doğar.
-Kidlin Law
-  Bir problemi açıkça yazarsan, yarısını çözmüş olursun.
-  Zihin karmaşıklatırır, yazı netleştirir.
-  Sorun düşündüğünden büyük değil, sadece dağınık.
-Murphy Law
-  Yanlış gidebilecek bir şey varsa, gider.
-  Tam önemli anda internet kesilir, en kritik günde alarm çalmaz, işler en hassas noktada bozulur.
-  Sistem kur, ama şansa güvenme.
+🔻 TOP IDEAS IN THE WORLD
+	01. Murphy's Law
+			The more you fear sth happening, the more likely it is to happen
+			Yanlış gidebilecek bir şey varsa, gider.
+			Tam önemli anda internet kesilir, en kritik günde alarm çalmaz, işler en hassas noktada bozulur.
+			Sistem kur, ama şansa güvenme.
+
+	02. Kidlin's Law
+			If you can write the problem down clearly and specifically, then the matter is half solved
+			Bir problemi açıkça yazarsan, yarısını çözmüş olursun.
+			Zihin karmaşıklatırır, yazı netleştirir.
+			Sorun düşündüğünden büyük değil, sadece dağınık.
+
+	03. Gilbert's Law
+			The biggest Problem at work is that noone tells what you do
+			when you take on a task, finding the best way to achieve the desired result is always your responsibility.
+			Herhangi bir görev ya da işteki en büyük problem, kimsenin sana neyi ve nasıl yapman gerektiğini söylememesidir.
+			Çoğu başarısızlık yeteneksizlikten değil, netlik eksikliğinden doğar.
+
+	04. Wilson's Law
+			Prioritize: If you put information and intelligence first at all times, then the money keeps coming in
+			You can't expect to hit the jackpot, if you don't put a few nickles in the machine
+			Put value first, the money will follow.
+			Bilgiye ve zekaya öncelik verirsen, para zaten gelmeye devam eder.
+			Önce kapasiteni büyüt, gelir onun sonucudur.
+			Servet, bilginin yan ürünüdür. Gerçek uzmanlık kesinlik değil, derinlktir.
+
+	05. Falkland's Law
+			When it is not necessary to make a decision, it is necessary not to make a decision
+			if u dont have to make a decision about something, then dont decide.
+			Karar vermek zorunda değilsen, karar verme.
+			Bazen en iyi hamle, hiç hamle yapmamaktır. Zaman, gereksiz kararları eler.
+
+	06. Pareto Principle
+			80/20: %80 of results come from 20% of effort; focus on the few actions that matter most
+			Sonuçların %80'i, çabanın %20'sinden gelir.
+			İş, Para, İlişkiler... Kritik olanı bul. Her şeye eşit enerji verme.
+
+	07. Parkinson's Law / Parkinson'un Zaman Yasası
+			Work expands so as to fill the time available for its completion. procrastination
+			Bir iş, ona ayırdığın süreyi dolduracak şekilde genişler.
+			Bir saat verirsen bir saat sürer. Bir gün verirsen bir gün sürer.
+			Harcamalar, gelir arttıkça artar.
+			Ne kadar kazanırsan kazan, standart yükselir. Sorun para değil, alışkanlık.
+
+	08. Godwin's Law
+			as an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches one
+
+	09. Hick's Law
+			more choices mean slower decisions. reduce options to decide faster.
+
+	10. Goodhart Law
+			Bir ölçüt hedef haline geldiğinde, artık iyi bir ölçüt olmaktan çıkar.
+			Takipçi sayısı hedef olursa kalite düşer. Not hedef olursa öğrenme azalır. Rakamlar oyunu bozar.
+
+🔻 Survival of the fittest
+	Sistemin tamamının bir bütün olarak ve çevreye bağlı olarak değişmesine evrim denir. 
+	hayatta kalan en güçlü olan değil, değişime en açık olandır.
+	değişim, upgrade olmaktır. değişilecekse değiş
+
+🔻 Hamilton Rule
+		bir canlının diğeriyle olan ilişkisi	
+		r * B > C
+			r = genetik akrabalık katsayısı (iki birey arasında ortak genlerin olasılığı). Örneğin kardeşler için 0,5, kuzenler için 0,125.
+			B = fedakarlıktan alıcının elde ettiği fayda (üreme başarısındaki artış, yani ek yavru sayısı olarak ölçülür).
+				eğer kendisini feda etmesi durumunda kaybedeceklerinden daha fazlaysa bu durumda özgeci davranmak yani bencil davranmamak daha avantajlı oluyor
+			C = fedakarlık maliyeti: fedakarlığı yapan bireyin kendi üreme başarısından kaybettiği miktar (maliyet).
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 think way  age    activity                                Class/Grade
@@ -252,7 +327,7 @@ Artificial Intelligence
   Pharmacist
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Social Studies
+🔻 Social Studies
 01. World History
 02. Geography
 03. Political Ideologies
@@ -270,6 +345,66 @@ Social Studies
     Zahiren - meselenin görünen tarafı
     Bâtınen - meselenin görünmeyen tarafı
 
+🔻 Situational Awareness
+	Durumsal Farkındalık
+	be aware of your surroundings, identify specific problems or threats, 
+	and be prepared to execute a tactical plan to deal with each threat as it presents itself
+	Arkandaki resmi hatırlıyor musun?
+	2 v 2+ kişi arasındaki ilişkiyi tanımlamak (birbirileri üzerinde zamanlamaları nasıl?, ne amaçla bir araya geliyorlar?)
+
+🔻 Proactivity versus Reactivity
+		"skate to where the puck is going to be, not to where it has been." Wayne Gretzky
+
+		Özellikle İşe alımda anlaşılan durumlar.
+		Reactive olduğunu belli eden hareketler: 
+			Geçmişte başına gelen olumsuz durumlardan söylenen insan. 
+			Çözümü sonradan bulan ya da bulamayan.
+		Proactive olduğunu belli eden hareketler: 
+			Başına gelen şeyleri anlatmak yerine didactic şekilde konuşma yapan kişi.
+			Beklenmedik birşey olmadan önce tüm olasılıkları görebilmek.
+			Belki de hiç olmayacak bir şeye kendini hazırlamak ama olursa çok güzel olcak..
+		
+		Durmadan sorular sormak yerine, doğru soruyu sorup cevaplamak
+		Doğru soru önemli
+		
+	* Laplace Şeytanı Teorisi
+		Şans diye bir şey yoktur.
+		Günümüzün şeytanları, Algoritmalar.. Analysis
+      		Differansiyel denklemler olasılıkların hesaplanması.
+		Değişkenlerin çoğunu bilebilmek, kehanet ya da yol gösterici
+		Heisenberg Belirsizlik İlkesi tarafından çürütülmüş sayılabilir ama o kadar basit değil.
+	* Determinism:
+		Dünyadaki yaşanmış olayların sonuçlarına bakıp gelecek için bir hesaplama yapma.
+
+	* Tyche/Fortuna is the goddess and personification of good/bad luck, chance, fortune and unexpected events...
+      		Hak edene de hak etmeyene de iyi ya da kötü şansı vermek..
+	
+	* Nedensellik: Neden-Sonuç İlişkisi
+
+	Statistics
+	🔻 Correlation
+		Değişkenler arası ilişki, bu ilişkinin yönü ve şiddeti ile ilgili bilgiler sağlayan istatistik yöntem
+	
+	Probability
+	🔻 Gambler's fallacy
+		Kumarbazın yanılgısı: Bir olayın sonradan gerçekleşecek diğer olayın sonucunu etkileyeceğine dair yanlış inanış, önyargı
+
+	🔻 Stratejik Öngörü Konisi - Mümkün senaryolar neler olabilir?
+		# Verileri analiz edip bir sürü varsayım kafada oluşmalı. Baktın bi yöntem işe yaramıyor. Diğer varsayıma geç.
+		Yaptığın şeyleri deney olarak gör, bilimsel bir yöntem uygulamak.
+		Bir şeyi doktrin ya da dogma olarak görmemek gerek, çünkü görülürse gelişimin hareketi donar.
+		Fikri, duyguyu tabulaştıran kişilerden kaç.
+		Yapılan ile yetinme.
+		Thomas Jefferson, Alexander Hamilton, John (Quincy) Adams, Franklin gibiler aydınlanma, olaylara bilimsel yaklaşmak.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+🔻 Business Intelligence (Ticari Zeka)
+	bir dükkan için sıfırdan yeni malzeme ve eşya almaktansa, ulusal ya da uluslararası devreden dükkanları bulup devralarak bunu ucuza kapatmak. malzemeleri mevkisi daha iyi dükkanına taşımak
+
+🔻 Certainty
+	bir patron olarak aynı işi birçok kişiye vermek: böylece işi bitirmek garanti olur.
+		he brought all of you on this train hoping you would kill each other.
+		he bought every ticket until the end of the line
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -287,8 +422,6 @@ Maths
 
 # Books
 Jakow Trachtenberg Method
-
-
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Biology
@@ -365,8 +498,6 @@ tactical ai - client management, weapon acquisition, snark silah tedariki, iğne
 interpol database bot - high security enforcement
 interpol security bot - interpol permissions
 
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 when you're dead, you don't know you're dead. The pain is felt by others. The same thing happens when you're stupid.
@@ -381,7 +512,6 @@ A man who builds his muscles without building his pocket will end up guarding th
 There's no need to drink the whole sea to know it's salty.
 Who betrays you once will betray you a thousand times.
 The difference between stupidity and genius is that genius has its limits.
-hayatta kalan en güçlü olan değil, değişime en açık olandır.
 özür dilemekle pişman olmak aynı şey değildir
 show the person with the worst eyes an image he can't forget
 Clausewitz
@@ -390,7 +520,7 @@ işkembesi büyük adam bir avuç suyla doymaz
 uzaklar ışıklıdır
 aşırı sol, çok gidince sağa benzer
 you could parachute him into an island full of cannibals and come back in five years and he would be the king. 
-"skate to where the puck is going to be, not to where it has been." Wayne Gretzky
+
 “NEVER WASTE A GOOD CRISIS” W. Churchill
 "You never want a serious crisis to go to waste. And what I mean by that is it's an opportunity to do things that you think you could not do before." Rahm Emanuel
   (Ciddi bir krizin boşa gitmesini asla istemezsiniz. Bundan kastım, daha önce yapamayacağınızı düşündüğünüz şeyleri yapmak için bunun bir fırsat olmasıdır.)
@@ -479,7 +609,6 @@ küfür etme ama bağır çağır... ve üst nokta dominant ol
 * dünyadaki sorunların hepsi - tek bir kaynağın kıtlığına bağlanıyor. 
 	mutluluk. dünyada bu kaynaktan çok fazla yok. herkese yetecek kadar yok.
 	ama herkes istiyor ve onun için her şeyi yaparlar. başkaları için farklı sonuçları olsa dahi. 
-* değişim, upgrade olmaktır. değişilecekse değiş
 * herkesin tamire ihtiyacı vardır. kimse mükemmel değil.
 * insanlar sana büyüteçle gelir. içindeki kırıklığın daha büyük halini görürler. sen içindeki kırıklığını düzelteceksin, doğru insanı yanlış zamanda almayacaksın.
 * esnek ol, çok da sert olmamak gerek
@@ -642,6 +771,7 @@ parti organizasyonlarım için ücretsiz dj'lik yap, kazandığım karı seninle
 
 you can't reach new heights while holding old weights.
 
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Myers-Briggs Type Indicator
 	Extraversion (E) / Introversion (I)
@@ -709,7 +839,6 @@ SO (Social): Focuses on groups and community: belonging, status, friend circles,
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 
 
 
