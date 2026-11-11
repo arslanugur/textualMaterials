@@ -248,15 +248,23 @@ avukatlar dahil olacak olsa bile bu işte kural yok, kazanmak istiyorsan yok. Pi
 		Version 1.0	--> Version 2.0
 		Bir şeyin mükemmel olduğu illüzyonuna kapılmak. aslında olanı koruyup geliştirmenin değiştirmenin mutlak zaferi
 
-		Web 1.0 phase				Web 2.0 phase						Web 3.0 phase					Web 4.0 phase
-			read only					strongly read-write					interaction
-			focus on companies			focus on communities				individuality
-			owned content				user-generated shared content		consolidated content
-			banner advertising			interactive advertising				behavioral advertising
-			decentralized				centralized							decentralisation
-			visual web					participatory						linked data web
-			search engines				social media						artificial intelligence
-			-							programmable web					ubiquity
+		Web 1.0 phase				Web 2.0 phase						Web 3.0 phase						Web 4.0 phase						Web 5.0
+			read only					strongly read-write					interaction							assistive technologies
+			focus on companies			focus on communities				individuality						brain computer interfaces
+			owned content				user-generated shared content		consolidated content				user friendly
+			banner advertising			interactive advertising				behavioral advertising				individual advertising
+			decentralized				centralized							decentralisation					3D environment
+			visual web					participatory						linked data web (semantic web)		internet of things (IoT)
+			search engines				social media						artificial intelligence				artificial intelligence
+			-							programmable web					ubiquity							metaverse (VR & AR)
+																			blockchain							dApps (decentralized Apps)
+																			users monetize their data
+
+		Web 3.0 phase
+		NFTs - monetization and ownership for creators.
+		DeFi - smart contract borrowing and lending that yield high returns.
+		DAOs - community-owned funding with voting for how the capital is used.
+		P2E - play to earn gaming integrates gaming and defi protocols
 
 
 🔻 Hamilton Rule
