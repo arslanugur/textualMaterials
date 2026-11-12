@@ -9,6 +9,7 @@
 08. Logarithms
 09. Mathematical Proofs
 10. Problem Solving
+11. Linear Algebra
 
 🔻 Algebra (Cebir)
   ∙ Basic concepts: Number sets, variables, algebraic expressions, exponents and radicals
@@ -60,34 +61,300 @@
       İleri düzey: Öklid dışı geometriler, diferansiyel geometri, topoloji
 
 
+🔻 Trigonometry
+  ∙ Angle measurement units: Degrees, radians, grads, and conversions between them
+      Açı ölçü birimleri: Derece, radyan, grad ve birimler arası dönüşüm
+  ∙ Right triangle trigonometry: Sine, cosine, tangent, cotangent, secant, cosecant
+      Dik üçgende trigonometri: Sinüs, kosinüs, tanjant, kotanjant, sekant, kosekant
+  ∙ Unit circle: Definition of trigonometric functions on the unit circle, their signs and quadrants
+      Birim çember: Trigonometrik fonksiyonların birim çember üzerinde tanımı, işaretleri ve bölgeleri
+  ∙ Special angles: Values for 0°, 30°, 45°, 60°, 90°
+      Özel açılar: 0°, 30°, 45°, 60°, 90° için değerler
+  ∙ Reduction formulas: Quadrant conversions, complementary and supplementary angles
+      İndirgeme formülleri: Kadran dönüşümleri, tümler ve bütünler açılar
+  ∙ Trigonometric identities: Pythagorean identities, sum and difference formulas, double and half-angle formulas, product-to-sum formulas
+      Trigonometrik özdeşlikler: Pisagor özdeşlikleri, toplam-fark formülleri, iki kat ve yarım açı formülleri, dönüşüm formülleri
+  ∙ Graphs of trigonometric functions: Period, amplitude, phase shift, graphing
+      Trigonometrik fonksiyonların grafikleri: Periyot, genlik, faz kayması, grafik çizimi
+  ∙ Inverse trigonometric functions: arcsin, arccos, arctan
+      Ters trigonometrik fonksiyonlar: arcsin, arccos, arctan
+  ∙ Trigonometric equations and inequalities
+      Trigonometrik denklemler ve eşitsizlikler
+  ∙ Trigonometry in triangles: Law of sines, law of cosines, trigonometric area formulas
+      Üçgende trigonometri: Sinüs teoremi, kosinüs teoremi, trigonometrik alan formülleri
+  ∙ Polar coordinates
+      Kutupsal koordinatlar
+  ∙ Complex numbers and trigonometry: Polar form, De Moivre’s theorem
+      Karmaşık sayılar ve trigonometri: Kutupsal gösterim, De Moivre teoremi
+  ∙ Applications: Height and distance problems, wave motion
+      Uygulamalar: Yükseklik ve uzaklık problemleri, dalga hareketleri
 
-Açı ölçü birimleri: Derece, radyan, grad ve birimler arası dönüşüm
-Dik üçgende trigonometri: Sinüs, kosinüs, tanjant, kotanjant, sekant, kosekant
-Birim çember: Trigonometrik fonksiyonların birim çember üzerinde tanımı, işaretleri ve bölgeleri
-Özel açılar: 0°, 30°, 45°, 60°, 90° için değerler
-İndirgeme formülleri: Kadran dönüşümleri, tümler ve bütünler açılar
-Trigonometrik özdeşlikler: Pisagor özdeşlikleri, toplam-fark formülleri, iki kat ve yarım açı formülleri, dönüşüm formülleri
-Trigonometrik fonksiyonların grafikleri: Periyot, genlik, faz kayması, grafik çizimi
-Ters trigonometrik fonksiyonlar: arcsin, arccos, arctan
-Trigonometrik denklemler ve eşitsizlikler
-Üçgende trigonometri: Sinüs teoremi, kosinüs teoremi, trigonometrik alan formülleri
-Kutupsal koordinatlar
+🔻 Functions
+  ∙ Basic concepts: Cartesian product, relation, definition of a function, domain, codomain and range
+      Temel kavramlar: Kartezyen çarpım, bağıntı, fonksiyon tanımı, tanım, değer ve görüntü kümesi
+  ∙ Types of functions: One-to-one, onto, identity, constant, odd and even functions
+      Fonksiyon çeşitleri: Bire bir, örten, birim (özdeş), sabit, tek ve çift fonksiyonlar
+  ∙ Operations on functions: Addition, subtraction, multiplication, division
+      Fonksiyonlarda işlemler: Toplama, çıkarma, çarpma, bölme
+  ∙ Composite functions: Composition and its properties
+      Bileşke fonksiyon: Bileşke alma ve özellikleri
+  ∙ Inverse functions: Existence, finding the inverse, and its graph
+      Ters fonksiyon: Ters fonksiyonun varlığı, bulunması ve grafiği
+  ∙ Graphs of functions: Translations, symmetry, reflections, absolute value function graphs
+      Fonksiyon grafikleri: Öteleme, simetri, yansıma, mutlak değerli fonksiyon grafikleri
+  ∙ Linear functions: Slope, equation of a line
+      Doğrusal fonksiyonlar: Eğim, doğru denklemi
+  ∙ Quadratic functions (parabola): Vertex, roots, graphing
+      İkinci dereceden fonksiyonlar (parabol): Tepe noktası, kökler, grafik çizimi
+  ∙ Polynomial and rational functions: Roots, asymptotes
+      Polinom ve rasyonel fonksiyonlar: Kökler, asimptotlar
+  ∙ Exponential and logarithmic functions
+      Üstel ve logaritmik fonksiyonlar
+  ∙ Trigonometric functions
+      Trigonometrik fonksiyonlar
+  ∙ Piecewise and absolute value functions
+      Parçalı ve mutlak değer fonksiyonları
+  ∙ Properties of functions: Increasing/decreasing, periodicity, symmetry
+      Fonksiyonların özellikleri: Artan-azalan olma, periyodiklik, simetri
+  ∙ Limits, continuity and derivatives (advanced level)
+      Limit, süreklilik ve türev (ileri düzey)
 
-Angle measurement units: Degrees, radians, grads, and conversions between them
-Right triangle trigonometry: Sine, cosine, tangent, cotangent, secant, cosecant
-Unit circle: Definition of trigonometric functions on the unit circle, their signs and quadrants
-Special angles: Values for 0°, 30°, 45°, 60°, 90°
-Reduction formulas: Quadrant conversions, complementary and supplementary angles
-Trigonometric identities: Pythagorean identities, sum and difference formulas, double and half-angle formulas, product-to-sum formulas
-Graphs of trigonometric functions: Period, amplitude, phase shift, graphing
-Inverse trigonometric functions: arcsin, arccos, arctan
-Trigonometric equations and inequalities
-Trigonometry in triangles: Law of sines, law of cosines, trigonometric area formulas
-Polar coordinates
-Complex numbers and trigonometry: Polar form, De Moivre’s theorem
-Karmaşık sayılar ve trigonometri: Kutupsal gösterim, De Moivre teoremi
-Applications: Height and distance problems, wave motion
-Uygulamalar: Yükseklik ve uzaklık problemleri, dalga hareketleri
+🔻 Calculus
+  ∙ Limits: The concept of a limit, one-sided limits, limits at infinity, indeterminate forms, L’Hôpital’s rule
+      Limit: Limit kavramı, soldan ve sağdan limit, sonsuzda limit, belirsizlikler, L’Hôpital kuralı
+  ∙ Continuity: Definition of continuity, types of discontinuities, the intermediate value theorem
+      Süreklilik: Süreklilik tanımı, süreksizlik çeşitleri, ara değer teoremi
+  ∙ Derivatives: Definition of the derivative, differentiation rules (product, quotient, chain rule), implicit differentiation, derivatives of inverse functions
+      Türev: Türev tanımı, türev alma kuralları (çarpım, bölüm, zincir kuralı), kapalı türev, ters fonksiyonların türevi
+  ∙ Applications of derivatives: Tangent and normal lines, increasing/decreasing functions, extrema, concavity, inflection points, curve sketching, optimization problems, related rates
+      Türev uygulamaları: Teğet ve normal denklemi, artan-azalan fonksiyonlar, ekstremum noktaları, konkavlık, büküm noktası, grafik çizimi, maksimum-minimum problemleri, ilgili değişim oranları
+  ∙ Mean value theorem and Rolle’s theorem
+      Ortalama değer teoremi ve Rolle teoremi
+  ∙ Integrals: Indefinite integrals, definite integrals, the fundamental theorem of calculus
+      İntegral: Belirsiz integral, belirli integral, kalkülüsün temel teoremi
+  ∙ Integration techniques: Substitution, integration by parts, trigonometric substitution, partial fractions
+      İntegral alma yöntemleri: Değişken değiştirme, kısmi integrasyon, trigonometrik dönüşümler, basit kesirlere ayırma
+  ∙ Applications of integrals: Area, volume (disk and shell methods), arc length
+      İntegral uygulamaları: Alan, hacim (disk ve kabuk yöntemleri), yay uzunluğu
+  ∙ Improper integrals
+      Anormal (genelleştirilmiş) integraller
+  ∙ Sequences and series: Convergence tests, power series, Taylor and Maclaurin series
+      Dizi ve seriler: Yakınsaklık testleri, kuvvet serileri, Taylor ve Maclaurin serileri
+  ∙ Multivariable calculus: Partial derivatives, gradient, multiple integrals, directional derivatives
+      Çok değişkenli kalkülüs: Kısmi türevler, gradyan, çok katlı integraller, yönlü türev
+  ∙ Vector calculus: Line integrals, Green’s, Stokes’ and divergence theorems
+      Vektör kalkülüsü: Çizgi integralleri, Green, Stokes ve diverjans teoremleri
+  ∙ Differential equations (advanced level)
+      Diferansiyel denklemler (ileri düzey)
+
+
+
+🔻 Probability
+  ∙ Basic counting: Addition and multiplication rules, factorials, permutations, combinations, binomial expansion
+      Temel sayma: Toplama ve çarpma kuralı, faktöriyel, permütasyon, kombinasyon, binom açılımı
+  ∙ Basic concepts: Experiment, sample space, event, types of events (disjoint, independent, complement)
+      Temel kavramlar: Deney, örneklem uzayı, olay, olay çeşitleri (ayrık, bağımsız, tümleyen)
+  ∙ Axioms of probability: Properties of the probability function, probabilities of unions and intersections
+      Olasılık aksiyomları: Olasılık fonksiyonunun özellikleri, birleşim ve kesişim olasılıkları
+  ∙ Conditional probability: Definition, multiplication rule, independence
+      Koşullu olasılık: Tanım, çarpım kuralı, bağımsızlık
+  ∙ Law of total probability and Bayes’ theorem
+      Toplam olasılık teoremi ve Bayes teoremi
+  ∙ Random variables: Discrete and continuous random variables, probability mass and density functions, distribution function
+      Rastgele değişkenler: Kesikli ve sürekli rastgele değişkenler, olasılık kütle ve yoğunluk fonksiyonları, dağılım fonksiyonu
+  ∙ Expected value, variance and standard deviation
+      Beklenen değer, varyans ve standart sapma
+  ∙ Discrete distributions: Bernoulli, binomial, geometric, Poisson, hypergeometric
+      Kesikli dağılımlar: Bernoulli, binom, geometrik, Poisson, hipergeometrik
+  ∙ Continuous distributions: Uniform, exponential, normal (Gaussian), gamma, beta
+      Sürekli dağılımlar: Düzgün, üstel, normal (Gauss), gama, beta
+  ∙ Multivariate distributions: Joint and marginal distributions, covariance, correlation
+      Çok değişkenli dağılımlar: Birleşik ve marjinal dağılımlar, kovaryans, korelasyon
+  ∙ Moment generating functions
+      Moment çıkaran fonksiyonlar
+  ∙ Law of large numbers and the central limit theorem
+      Büyük sayılar yasası ve merkezi limit teoremi
+  ∙ Markov chains and stochastic processes (advanced level)
+      Markov zincirleri ve stokastik süreçler (ileri düzey)
+  ∙ Transition to statistics: Sampling, estimation, hypothesis testing
+      İstatistiğe geçiş: Örnekleme, tahmin, hipotez testleri
+
+
+🔻 Statistics
+  ∙ Basic concepts: Data types (quantitative, qualitative), population and sample, scales of measurement
+      Temel kavramlar: Veri türleri (nicel, nitel), popülasyon ve örneklem, ölçek türleri
+  ∙ Organizing and visualizing data: Frequency tables, histograms, box plots, pie and bar charts
+      Veri düzenleme ve görselleştirme: Frekans tabloları, histogram, kutu grafiği, pasta ve çubuk grafikleri
+  ∙ Measures of central tendency: Mean, median, mode
+      Merkezi eğilim ölçüleri: Ortalama, medyan, mod
+  ∙ Measures of spread: Range, variance, standard deviation, interquartile range, coefficient of variation
+      Yayılım ölçüleri: Aralık, varyans, standart sapma, çeyrekler açıklığı, değişim katsayısı
+  ∙ Shape of distributions: Skewness, kurtosis, outliers
+      Dağılım şekli: Çarpıklık, basıklık, aykırı değerler
+  ∙ Sampling methods: Simple random, stratified, cluster, systematic sampling
+      Örnekleme yöntemleri: Basit rastgele, tabakalı, kümeli, sistematik örnekleme
+  ∙ Probability distributions: Binomial, Poisson, normal, t, chi-square and F distributions
+      Olasılık dağılımları: Binom, Poisson, normal dağılım, t, ki-kare ve F dağılımları
+  ∙ Sampling distributions and the central limit theorem
+      Örnekleme dağılımları ve merkezi limit teoremi
+  ∙ Estimation: Point estimation, confidence intervals
+      Tahmin: Nokta tahmini, güven aralıkları
+  ∙ Hypothesis testing: Null and alternative hypotheses, p-value, Type I and Type II errors, t-test, z-test, chi-square test
+      Hipotez testleri: Sıfır ve alternatif hipotez, p-değeri, 1. ve 2. tip hata, t-testi, z-testi, ki-kare testi
+  ∙ Analysis of variance (ANOVA)
+      Varyans analizi (ANOVA)
+  ∙ Correlation and regression: Simple and multiple linear regression, coefficient of determination
+      Korelasyon ve regresyon: Basit ve çoklu doğrusal regresyon, belirleme katsayısı
+  ∙ Non-parametric tests: Mann-Whitney, Wilcoxon, Kruskal-Wallis
+      Parametrik olmayan testler: Mann-Whitney, Wilcoxon, Kruskal-Wallis
+  ∙ Time series and forecasting
+      Zaman serileri ve tahmin
+  ∙ Bayesian statistics (advanced level)
+      Bayesçi istatistik (ileri düzey)
+  ∙ Multivariate analysis and introduction to machine learning (advanced level)
+      Çok değişkenli analiz ve makine öğrenmesine giriş (ileri düzey)
+
+
+
+🔻 Logarithms
+  ∙ Relationship with exponents: Definition of a logarithm, converting between exponential and logarithmic forms
+      Üslü ifadelerle ilişki: Logaritmanın tanımı, üstel ve logaritmik biçimler arasında dönüşüm
+  ∙ Domain conditions: The base must be positive and not equal to 1, the argument must be positive
+      Tanım koşulları: Tabanın pozitif ve 1'den farklı olması, logaritması alınan ifadenin pozitif olması
+  ∙ Special logarithms: Base-10 (common) logarithm, base-e (natural) logarithm
+      Özel logaritmalar: 10 tabanlı (onluk) logaritma, e tabanlı (doğal) logaritma
+  ∙ Basic properties: Product, quotient and power rules, log₍ₐ₎1 = 0, log₍ₐ₎a = 1
+      Temel özellikler: Çarpım, bölüm ve kuvvet kuralları, log₍ₐ₎1 = 0, log₍ₐ₎a = 1
+  ∙ Change of base formula
+      Taban değiştirme formülü
+  ∙ Some special properties: a^(log₍ₐ₎x) = x, log₍ₐᵐ₎(xⁿ) = (n/m)·log₍ₐ₎x
+      Logaritmanın bazı özel özellikleri: a^(log₍ₐ₎x) = x, log₍ₐᵐ₎(xⁿ) = (n/m)·log₍ₐ₎x
+  ∙ Logarithmic function: Domain and range, increasing/decreasing behavior, graphing
+      Logaritmik fonksiyon: Tanım ve değer kümesi, artan-azalan olma, grafik çizimi
+  ∙ Inverse relationship between exponential and logarithmic functions
+      Üstel ve logaritmik fonksiyonların ters ilişkisi
+  ∙ Logarithmic equations
+      Logaritmik denklemler
+  ∙ Logarithmic inequalities
+      Logaritmik eşitsizlikler
+  ∙ Characteristic and mantissa in common logarithms
+      Onluk logaritmada karakteristik ve mantis
+  ∙ Logarithmic scales and applications: Richter scale, decibels, pH, compound interest, population growth, radioactive decay
+      Logaritmik ölçekler ve uygulamalar: Richter ölçeği, desibel, pH, bileşik faiz, nüfus artışı, radyoaktif bozunma
+  ∙ Derivatives and integrals: Derivative of ln x, integral of 1/x (advanced level)
+      Türev ve integral: ln x’in türevi, 1/x’in integrali (ileri düzey)
+  ∙ Complex logarithm (university level)
+      Karmaşık logaritma (üniversite düzeyi)
+
+
+🔻 Mathematical Proofs
+  ∙ Foundations of logic: Propositions, connectives (and, or, not), conditional and biconditional statements, truth tables
+      Mantık temelleri: Önermeler, bağlaçlar (ve, veya, değil), koşullu ve iki yönlü önermeler, doğruluk tabloları
+  ∙ Quantifiers: The universal (∀) and existential (∃) quantifiers, negating quantified statements
+      Niceleyiciler: “Her” (∀) ve “vardır” (∃) niceleyicileri, niceleyicili ifadelerin olumsuzu
+  ∙ Sets: Set operations, subsets, power sets, proving set equalities
+      Kümeler: Küme işlemleri, alt küme, kuvvet kümesi, kümelerde eşitlik ispatları
+  ∙ Direct proof: Moving from the hypothesis to the conclusion through logical steps
+      Doğrudan ispat: Hipotezden sonuca mantıksal adımlarla gitme
+  ∙ Proof by contrapositive: Proving ¬q → ¬p instead of p → q
+      Kontrapozitif ispat: p → q yerine ¬q → ¬p’yi ispatlama
+  ∙ Proof by contradiction: For example, the proof that √2 is irrational
+      Olmayana ergi (çelişki) yöntemi: Örneğin √2'nin irrasyonel olduğunun ispatı
+  ∙ Proof by cases
+      Durum incelemesi (ayrım yöntemi)
+  ∙ Counterexamples: Disproving a statement
+      Karşıt örnek: Bir önermeyi çürütme
+  ∙ Existence and uniqueness proofs
+      Varlık ve teklik ispatları
+  ∙ Mathematical induction: Simple and strong induction, the well-ordering principle
+      Matematiksel tümevarım: Basit, güçlü (kuvvetli) tümevarım, iyi sıralama ilkesi
+  ∙ Relations: Equivalence relations, equivalence classes, order relations
+      Bağıntılar: Denklik bağıntıları, denklik sınıfları, sıralama bağıntıları
+  ∙ Functions: Proving injectivity and surjectivity, composition and inverses
+      Fonksiyonlar: Bire bir ve örten olduğunu ispatlama, bileşke ve ters fonksiyon
+  ∙ Number theory proofs: Divisibility, prime numbers, the Euclidean algorithm, modular arithmetic
+      Sayılar teorisi ispatları: Bölünebilirlik, asal sayılar, Öklid algoritması, modüler aritmetik
+  ∙ Countability and infinity: Cantor’s diagonal argument, cardinality
+      Sayılabilirlik ve sonsuzluk: Cantor’un köşegen yöntemi, kardinalite
+  ∙ Proofs in analysis: ε-δ proofs, limit and continuity proofs
+      Analizde ispatlar: ε-δ ispatları, limit ve süreklilik ispatları
+  ∙ Proofs in algebra: Group, ring and field proofs (advanced level)
+      Cebirde ispatlar: Grup, halka ve cisim ispatları (ileri düzey)
+  ∙ Proof-writing techniques: Writing clear and well-organized proofs
+      İspat yazma teknikleri: Düzenli ve anlaşılır ispat yazımı
+
+
+
+🔻 Problem Solving
+  ∙ Problem-solving strategies: Understanding the problem, planning, carrying out the plan, and checking (Polya’s method)
+      Problem çözme stratejileri: Problemi anlama, plan yapma, uygulama ve kontrol etme (Polya yöntemi)
+  ∙ Problem types: Number problems, age problems, work-rate problems, motion (speed-time-distance) problems
+      Problem türleri: Sayı problemleri, yaş problemleri, işçi-havuz problemleri, hareket (hız-zaman-yol) problemleri
+  ∙ Ratio and proportion problems: Direct and inverse proportion, compound proportion
+      Oran-orantı problemleri: Doğru ve ters orantı, bileşik orantı
+  ∙ Percentage, profit-loss and interest problems
+      Yüzde, kâr-zarar ve faiz problemleri
+  ∙ Mixture and ratio problems: Mixtures, alloys, solutions
+      Karışım ve oran problemleri: Karışım, alaşım, çözelti problemleri
+  ∙ Setting up equations: Translating a situation into an equation or system of equations
+      Denklem kurma: Verilen durumu denklem veya denklem sistemine çevirme
+  ∙ Logic and reasoning problems: Making tables, elimination, deduction
+      Mantık ve akıl yürütme problemleri: Tablo yapma, eleme yöntemi, çıkarım
+  ∙ Counting and probability problems
+      Sayma ve olasılık problemleri
+  ∙ Table, graph and diagram problems: Interpreting data
+      Tablo, grafik ve diyagram problemleri: Veri yorumlama
+  ∙ Geometry problems: Applications of area, perimeter, volume
+      Geometri problemleri: Alan, çevre, hacim uygulamaları
+  ∙ Optimization problems: Finding maximum and minimum values
+      Optimizasyon problemleri: En büyük ve en küçük değeri bulma
+  ∙ Strategy techniques: Working backwards, finding patterns, guess and check, drawing a figure, simplifying to an easier problem, trying sample numbers
+      Strateji teknikleri: Geriye doğru çalışma, desen bulma, tahmin ve kontrol, şekil çizme, basit bir probleme indirgeme, örnek sayılar deneme
+  ∙ Competition math: Olympiad-style problems, the pigeonhole principle, invariants, applications of induction
+      Yarışma matematiği: Olimpiyat tipi problemler, güvercin yuvası ilkesi, değişmezler, tümevarım uygulamaları
+  ∙ Algorithmic thinking: Breaking a problem into steps, algorithm design
+      Algoritmik düşünme: Problemi adımlara bölme, algoritma tasarımı
+
+
+🔻 Linear Algebra
+  ∙ Systems of linear equations: Gaussian and Gauss-Jordan elimination, echelon form, existence and uniqueness of solutions
+      Doğrusal denklem sistemleri: Gauss ve Gauss-Jordan eliminasyonu, eşelon form, çözümün varlığı ve tekliği
+  ∙ Matrices: Matrix operations, transpose, symmetric and inverse matrices, echelon matrices, elementary matrices
+      Matrisler: Matris işlemleri, devrik, simetrik ve ters matris, eşelon matrisler, elemanter matrisler
+  ∙ Determinants: Computing determinants, properties, cofactor expansion, Cramer’s rule
+      Determinantlar: Determinant hesaplama, özellikleri, kofaktör açılımı, Cramer kuralı
+  ∙ Vectors: Vector operations, dot product, cross product, length and angle
+      Vektörler: Vektör işlemleri, nokta çarpım, vektör çarpımı, uzunluk ve açı
+  ∙ Vector spaces: Definition, subspaces, linear independence, linear combinations, span
+      Vektör uzayları: Tanım, alt uzaylar, doğrusal bağımsızlık, doğrusal bileşim, span
+  ∙ Basis and dimension: Finding a basis, dimension, coordinate vectors, change of basis
+      Taban ve boyut: Taban bulma, boyut, koordinat vektörleri, taban değişimi
+  ∙ The four fundamental subspaces: Column space, row space, null space, rank and nullity (rank-nullity theorem)
+      Dört temel alt uzay: Sütun uzayı, satır uzayı, sıfır uzayı, rank ve nulite (rank-nulite teoremi)
+  ∙ Linear transformations: Matrix representation, kernel and image, translation, rotation, reflection
+      Doğrusal dönüşümler: Matris gösterimi, çekirdek ve görüntü, öteleme, dönme, yansıma
+  ∙ Eigenvalues and eigenvectors: Characteristic polynomial, eigenspaces, diagonalization
+      Özdeğerler ve özvektörler: Karakteristik polinom, özuzaylar, köşegenleştirme
+  ∙ Inner product spaces: Orthogonality, Gram-Schmidt process, orthogonal projection
+      İç çarpım uzayları: Ortogonallik, Gram-Schmidt yöntemi, ortogonal izdüşüm
+  ∙ Least squares method and regression
+      En küçük kareler yöntemi ve regresyon
+  ∙ Matrix decompositions: LU, QR, eigendecomposition, singular value decomposition (SVD)
+      Matris ayrışımları: LU, QR, özdeğer ayrışımı, tekil değer ayrışımı (SVD)
+  ∙ Symmetric matrices and quadratic forms: Spectral theorem, positive definiteness
+      Simetrik matrisler ve kuadratik formlar: Spektral teorem, pozitif tanımlılık
+  ∙ Jordan normal form (advanced level)
+      Jordan normal formu (ileri düzey)
+  ∙ Applications: Computer graphics, machine learning, Markov chains, systems of differential equations, PCA
+      Uygulamalar: Bilgisayar grafikleri, makine öğrenmesi, Markov zincirleri, diferansiyel denklem sistemleri, PCA
+
+
+
+
+
+
+
+
 
 
 
