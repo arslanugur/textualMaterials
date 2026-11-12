@@ -10,32 +10,87 @@
 09. Mathematical Proofs
 10. Problem Solving
 
-# Algebra
-Basic concepts: Number sets, variables, algebraic expressions, exponents and radicals
-Equations: Linear equations, quadratic equations, systems of equations
-Inequalities: Linear and quadratic inequalities, absolute value equations and inequalities
-Factoring and identities
-Polynomials: Polynomial operations, division, the remainder theorem, roots of polynomials
-Functions: Linear, quadratic, exponential and logarithmic functions, composite and inverse functions
-Logarithms
-Sequences and series: Arithmetic and geometric sequences
-Complex numbers
-Permutations, combinations and probability (often taught alongside algebra)
-Matrices and determinants (advanced level)
-Abstract algebra: Groups, rings, fields (university level)
+🔻 Algebra (Cebir)
+  ∙ Basic concepts: Number sets, variables, algebraic expressions, exponents and radicals
+      Temel kavramlar: Sayı kümeleri, değişkenler, cebirsel ifadeler, üslü ve köklü ifadeler
+  ∙ Equations: Linear equations, quadratic equations, systems of equations
+      Denklemler: Birinci dereceden denklemler, ikinci dereceden denklemler, denklem sistemleri
+  ∙ Inequalities: Linear and quadratic inequalities, absolute value equations and inequalities
+      Eşitsizlikler: Birinci ve ikinci dereceden eşitsizlikler, mutlak değerli denklem ve eşitsizlikler
+  ∙ Factoring and identities
+      Çarpanlara ayırma ve özdeşlikler
+  ∙ Polynomials: Polynomial operations, division, the remainder theorem, roots of polynomials
+      Polinomlar: Polinom işlemleri, bölme, kalan teoremi, polinomun kökleri
+  ∙ Functions: Linear, Quadratic, Exponential, Logarithmic functions, composite and inverse functions
+      Fonksiyonlar: Doğrusal, ikinci dereceden, üstel ve logaritmik fonksiyonlar, bileşke ve ters fonksiyon
+  ∙ Logarithms
+  ∙ Sequences and series: Arithmetic and geometric sequences
+      Diziler ve seriler: Aritmetik ve geometrik diziler
+  ∙ Complex numbers
+  ∙ Permutations, combinations and probability
+      Permütasyon, kombinasyon ve olasılık
+  ∙ Advanced: Matrices and determinants
+      Matrisler ve determinantlar
+  ∙ Advanced: Abstract algebra: Groups, rings, fields
+      Soyut cebir: Gruplar, halkalar, cisimler
 
-Temel kavramlar: Sayı kümeleri, değişkenler, cebirsel ifadeler, üslü ve köklü ifadeler
-Denklemler: Birinci dereceden denklemler, ikinci dereceden denklemler, denklem sistemleri
-Eşitsizlikler: Birinci ve ikinci dereceden eşitsizlikler, mutlak değerli denklem ve eşitsizlikler
-Çarpanlara ayırma ve özdeşlikler
-Polinomlar: Polinom işlemleri, bölme, kalan teoremi, polinomun kökleri
-Fonksiyonlar: Doğrusal, ikinci dereceden, üstel ve logaritmik fonksiyonlar, bileşke ve ters fonksiyon
-Logaritma
-Diziler ve seriler: Aritmetik ve geometrik diziler
-Karmaşık sayılar
-Permütasyon, kombinasyon ve olasılık (genellikle cebirle birlikte işlenir)
-Matrisler ve determinantlar (ileri düzey)
-Soyut cebir: Gruplar, halkalar, cisimler (üniversite düzeyi)
+🔻 Geometry
+  ∙ Basic concepts: Point, line, plane, ray, line segment, types of angles
+      Temel kavramlar: Nokta, doğru, düzlem, ışın, doğru parçası, açı çeşitleri
+  ∙ Angles: Complementary and supplementary angles, vertical angles, angle relationships with parallel lines
+      Açılar: Tümler ve bütünler açılar, ters açılar, paralel doğrularda açı ilişkileri
+  ∙ Triangles: Types of triangles, angle-side relationships, congruence and similarity, the Pythagorean theorem, Euclid’s relations, special segments (median, angle bisector, altitude), area of a triangle
+      Üçgenler: Üçgen çeşitleri, açı-kenar bağıntıları, eşlik ve benzerlik, Pisagor teoremi, Öklid bağıntıları, yardımcı elemanlar (kenarortay, açıortay, yükseklik), üçgenin alanı
+  ∙ Quadrilaterals: Parallelogram, rhombus, rectangle, square, trapezoid, kite
+      Dörtgenler: Paralelkenar, eşkenar dörtgen, dikdörtgen, kare, yamuk, deltoid
+  ∙ Polygons: Interior and exterior angles, number of diagonals, regular polygons
+      Çokgenler: İç ve dış açılar, köşegen sayısı, düzgün çokgenler
+  ∙ Circles: Tangents, chords, arcs, inscribed and central angles, arc length and area
+      Çember ve daire: Teğet, kiriş, yay, çevre açı, merkez açı, çemberde uzunluk ve alan
+  ∙ Analytic geometry: Coordinate system, distance between two points, equation of a line, equation of a circle
+      Analitik geometri: Koordinat sistemi, iki nokta arası uzaklık, doğrunun denklemi, çemberin denklemi
+  ∙ Transformation geometry: Translation, reflection, rotation, symmetry
+      Dönüşüm geometrisi: Öteleme, yansıma, dönme, simetri
+  ∙ Solid geometry: Prisms, pyramids, cylinders, cones, spheres; surface area and volume
+      Katı cisimler: Prizma, piramit, silindir, koni, küre; alan ve hacim hesapları
+  ∙ Trigonometry: Sine, cosine, tangent, trigonometric identities, law of sines and law of cosines
+      Trigonometri: Sinüs, kosinüs, tanjant, trigonometrik özdeşlikler, sinüs ve kosinüs teoremleri
+  ∙ Vectors
+  ∙ Advanced: Non-Euclidean geometry, differential geometry, topology
+      İleri düzey: Öklid dışı geometriler, diferansiyel geometri, topoloji
+
+
+
+Açı ölçü birimleri: Derece, radyan, grad ve birimler arası dönüşüm
+Dik üçgende trigonometri: Sinüs, kosinüs, tanjant, kotanjant, sekant, kosekant
+Birim çember: Trigonometrik fonksiyonların birim çember üzerinde tanımı, işaretleri ve bölgeleri
+Özel açılar: 0°, 30°, 45°, 60°, 90° için değerler
+İndirgeme formülleri: Kadran dönüşümleri, tümler ve bütünler açılar
+Trigonometrik özdeşlikler: Pisagor özdeşlikleri, toplam-fark formülleri, iki kat ve yarım açı formülleri, dönüşüm formülleri
+Trigonometrik fonksiyonların grafikleri: Periyot, genlik, faz kayması, grafik çizimi
+Ters trigonometrik fonksiyonlar: arcsin, arccos, arctan
+Trigonometrik denklemler ve eşitsizlikler
+Üçgende trigonometri: Sinüs teoremi, kosinüs teoremi, trigonometrik alan formülleri
+Kutupsal koordinatlar
+
+Angle measurement units: Degrees, radians, grads, and conversions between them
+Right triangle trigonometry: Sine, cosine, tangent, cotangent, secant, cosecant
+Unit circle: Definition of trigonometric functions on the unit circle, their signs and quadrants
+Special angles: Values for 0°, 30°, 45°, 60°, 90°
+Reduction formulas: Quadrant conversions, complementary and supplementary angles
+Trigonometric identities: Pythagorean identities, sum and difference formulas, double and half-angle formulas, product-to-sum formulas
+Graphs of trigonometric functions: Period, amplitude, phase shift, graphing
+Inverse trigonometric functions: arcsin, arccos, arctan
+Trigonometric equations and inequalities
+Trigonometry in triangles: Law of sines, law of cosines, trigonometric area formulas
+Polar coordinates
+Complex numbers and trigonometry: Polar form, De Moivre’s theorem
+Karmaşık sayılar ve trigonometri: Kutupsal gösterim, De Moivre teoremi
+Applications: Height and distance problems, wave motion
+Uygulamalar: Yükseklik ve uzaklık problemleri, dalga hareketleri
+
+
+
 
 
 
