@@ -43,6 +43,7 @@ beyin - maths, yabancı dil
 	Robert Greene				The 48 Laws of Power (Manipulation, Cynicism)
 	Isaac Asimov				Asimov’s Chronology of Science and Discovery
 	Marcus Aurelius				Meditations
+	Chuck Pal							Fight Club
 
 	Friedrich Nietzsche - Güç İstenci
 	Dostoyevski - Suç ve Ceza
@@ -661,6 +662,7 @@ uyumlu olabilmek
 niş bilgiye sahip olmak, tek bir dalda
 winners dont make excuses
 you can always be honest by not saying the unhonest part
+tarih kimin haklı kimin haksız olduğunu gösterir. ama bugün yok yere suçlu olursan, yarın masum olmanın önemi yok, zamanın kayar gider. toplum gelecekte çizgiyi farklı yere çektiğinde..
 sloe gin and patience
 eline güç geçmemiş hiç kimse iyilik ya da kötülüğünün sınırlarını görmemistir
 you make it fell like its their idea - hiyerarşinin yukarısına onların fikriymiş gibi hissettiriyorsun
@@ -678,6 +680,7 @@ küfür etme ama bağır çağır... ve üst nokta dominant ol
 * herkesin tamire ihtiyacı vardır. kimse mükemmel değil.
 * insanlar sana büyüteçle gelir. içindeki kırıklığın daha büyük halini görürler. sen içindeki kırıklığını düzelteceksin, doğru insanı yanlış zamanda almayacaksın.
 * esnek ol, çok da sert olmamak gerek
+hayat sana altın tepi de sunulmaz. olasılıkları sen yaratırsın ve kendi gerçeğini sen oluşturursun
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 linear regression
@@ -837,38 +840,41 @@ parti organizasyonlarım için ücretsiz dj'lik yap, kazandığım karı seninle
 
 you can't reach new heights while holding old weights.
 
-
+reality # expectation
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Myers-Briggs Type Indicator
-	Extraversion (E) / Introversion (I)
-	Intuition (N) / Sensing (S)
-	Thinking (T) / Feeling (F)
-	Perceiving (P) / Judging (J)
+	Extraversion (E) / Introversion (I)	: you draw energy from 				the outer world // your inner world
+	Intuition (N) / Sensing (S)			: you take in information through	concrete facts	// patterns, possibilities
+	Thinking (T) / Feeling (F)			: you make decisions based on 		logic 			// values/emotions
+	Perceiving (P) / Judging (J)		: you prefer 						a planned, structured life // a flexible, open-ended one
+
+intj
 
 			type	functions
 					dominant	auxiliary	tertiary	inferior
-Analysts	INTJ	Ni			Te			Fi			Se				Architect / Strategist
+					baskın		yardımcı
+Analysts	INTJ	Ni			Te			Fi			Se				Architect / Strategist		intj sp5 - batman
 			INTP	Ti			Ne			Si			Fe				Logician / Thinker	
 			ENTJ	Te			Ni			Se			Fi				Commander / Field Marshal
-			ENTP	Ne			Ti			Fe			Si				Debater / Visionary
+			ENTP	Ne			Ti			Fe			Si				Debater / Visionary			entp sp7 - joker
 
-Diplomats	INFJ	Ni			Fe			Ti			Se				Advocate / Counselor
-			INFP	Fi			Ne			Si			Te				Mediator / Idealist
+Diplomats	INFJ	Ni			Fe			Ti			Se				Advocate / Counselor		infj sx5 ezik beyaz yaka - narrator
+			INFP	Fi			Ne			Si			Te				Mediator / Idealist			idealize eden tip
 			ENFJ	Fe			Ni			Se			Ti				Protagonist / Teacher
 			ENFP	Ne			Fi			Te			Si				Campaigner / Champion
 
 Sentinels	ISTJ	Si			Te			Fi			Ne				Logistician / Inspector
-			ISFJ	Si			Fe			Ti			Ne				Defender / Protector
+			ISFJ	Si			Fe			Ti			Ne				Defender / Protector		isfj sx9 - alfred
 			ESTJ	Te			Si			Ne			Fi				Executive / Supervisor
 			ESFJ	Fe			Si			Ne			Ti				Consul / Provider
 
 Explorers	ISTP	Ti			Se			Ni			Fe				Virtuoso / Crafter
 			ISFP	Fi			Se			Ni			Te				Adventurer / Composer
-			ESTP	Se			Ti			Fe			Ni				Entrepreneur / Promoter
-			ESFP	Se			Fi			Te			Ni				Entertainer / Performer
+			ESTP	Se			Ti			Fe			Ni				Entrepreneur / Promoter		estp so8 baba figürü - tyler durden - avcı, acıyla yüzleştir
+			ESFP	Se			Fi			Te			Ni				Entertainer / Performer		esfp sx8 hayat her an bitebilir, kaybedecek birşey yok ve korkacak birşey de yok
 
 Cognitive Functions
-Her tip, 8 işlevden dördünü belirli bir sırayla kullanır:
+Her tip, 8 işlevden dördünü belirli bir sırayla kullanır:								symbols
 strong, conscious		Creative		Ne (Extraverted Intuition - dışa dönük sezgi):	Sees possibilities, connections, and new ideas.
 easy but undervalued	Ignoring		Ni (Introverted Intuition - içe dönük sezgi):	Senses patterns and converges on a single vision or deep insight.
 weak, sensitive			Role			Se (Extraverted Sensing - dışa dönük duyum):	Focuses on the present moment, physical experience, and quick action.
@@ -877,6 +883,15 @@ easy but undervalued	Demonstrative	Te (Extraverted Thinking - dışa dönük man
 strong, conscious		Leading			Ti (Introverted Thinking - içe dönük mantık):	Values internal logical consistency and conceptual frameworks.
 support is wanted		Mobilizing		Fe (Extraverted Feeling - dışa dönük duygu):	Attuned to group harmony and other people’s emotions.
 weak, sensitive			Vulnerable		Fi (Introverted Feeling - içe dönük duygu):		Grounded in personal values and authenticity.
+
+Ne : her durumda yeni bi ihtimal görür. birşey asla tek bi anlamla bırakamaz. 
+Ni : dünyayı içerden ve mesafeli izler, bugünün iyi yaşamak ama yarını göremez, nihai bir hedefe kilitlenmek
+Se : body control, physical touch, right now, ömür boyu en çok zorlandığı yer kendi bedeni, duyguları şiddeti bir gösteriye çevirmek, iradeyi fiziksel olarak göstermek, masaya vurmak
+Si : katalogtan bir kimlik satın alıp onu oynamak, kendini saklamak, manipile etmek, bugünü geçmişle yaşadıkları ile karşılaştırarak anlar.
+Te : iş dünyasının kurallarını kendi hayatına oturtamamak,  hiç uğraşmamış gözükür ama arkada bir örgüt kurar. strateji kurar. düzen ve plan kurar
+Ti : kurallar kişilerin üzerindedir. kendi içinde tutarlı sistem kurar. dünyayı o sisteme göre test eder. ben bu şekilde iyiyim, şimdilik katlanıyorum
+Fe : insanların arasını bulmaya çalışıyor, uyum bozulunca da suçu kendinde arar
+Fi : kişisel değerlere önem
 
 
 # Enneagram nine core personality types
@@ -903,7 +918,14 @@ SP (Self-preservation): Focuses on survival and comfort: health, food, home, mon
 SX (Sexual / one-to-one): Focuses on intensity, attraction, and one-to-one bonds: passionate relationships, chemistry, deep connection, competition, and possessiveness.
 SO (Social): Focuses on groups and community: belonging, status, friend circles, social roles, and the question “where do I stand in this group?”
 
+sx5 - kendini saklar
+sp5 - dünyadan geri çekilir. kendilerini güvende hissettikleri yerde yaşarlar, sosyal onaya en az ihtiyaç olan tip, sosyal bağ yok, bireysel bağ, narşizm
+sx9 - kendini tek bir insanla birleştirir
+so4 - idealize ettiğinden vazgeçemeyen tip. edilgen
 
+hüsnü cemal - güzellik
+ilmi kemal - eğitim
+mali enval - para
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 🔻 Philosophy
 	Stoicism: Cesaret, Ölçülülük (Özdenetim), Adalet, Bilgelik
@@ -931,9 +953,6 @@ SO (Social): Focuses on groups and community: belonging, status, friend circles,
 			Acıyı dönüştürecek güce sahip olmak.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-
-
 
 
 
