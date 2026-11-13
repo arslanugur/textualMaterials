@@ -1,3 +1,11 @@
+PARAMETRE... bir sistemin ayarları/özellikleri
+matematiksel modellerde değişkenlerin katsayısıdır.
+doğrusal bir denklemde bağımsız değişkenin katsayısı parametredir mesela. y = ax + b'deki a parametredir. x'e göre türev aldığımızda elde edilen değer a olur, yani parametre.
+müzikte, ana öğeler olan sesin yüksekliği, süresi, tını rengi, gürlüğü, açık anlatımı (artikülasyon) gibi ses niteliklerine denir.
+programlamada bir fonksiyona(nesneye yönelik programlamada metotlara) dışarıdan girilen değişkenlerdir. matematikteki f(x, y) şeklindeki yazıma benzer ve buradaki x ve y'ye parametre denir. daha sonra fonksiyon çağrıldığında bu parametrelerin aldığı
+(f(5, 6) tarzında)değerler ise argüman olarak adlandırılır.
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Ardışık Sayılar
 - Ardışık dört tam sayı:		n, n+1, n+2, n+3
