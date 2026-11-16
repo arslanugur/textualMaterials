@@ -1,3 +1,20 @@
+# Algebra Basics
+    m * m * m  = m³
+    m + m + m  = 3m
+    m² * m²    = m⁴
+    m² + m²    = 2m²
+    (m³)⁵      = m¹⁵
+    m⁰ / m⁵    = m⁰⁻⁵ = (m⁰ = 1 --> 1/m⁻⁵) = m⁻⁵
+    m * m      = m²
+
+Exponents / Üslü sayılar:                 aⁿ · aᵐ = aⁿ⁺ᵐ, aⁿ / aᵐ = aⁿ⁻ᵐ, (ab)ⁿ = aⁿbⁿ, a⁻ⁿ = 1/aⁿ, a¹ᐟ² = √a
+Distributive property / Dağılma özelliği: a(b + c) = ab + ac
+Identities / Özdeşlikler:                 (a + b)² = a² + 2ab + b²
+                                          (a − b)² = a² − 2ab + b²
+                                          a² − b² = (a − b)(a + b)
+Kökler: √(ab) = √a · √b
+Logarithms: log(ab) = log a + log b, log(a/b) = log a − log b, log(aⁿ) = n · log a
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Formulas:
     https://www.cuemath.com/math-formulas/
