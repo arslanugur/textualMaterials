@@ -1,8 +1,8 @@
 # The Trachtenberg Speed System
 
-ONE: TABLES OR NO TABLES?
+CHAPTER ONE: TABLES OR NO TABLES?
 # Basic Multiplication
-    Multiplication by eleven
+    * Multiplication by ELEVEN
       11 * 123  --> ...3  --> 2+3=5 --> ..53 --> 1+2=3 --> .353 --> 1353
       11 * 633  --> ...3  --> 3+3=6 --> ..63 --> 6+3=9 --> .963 --> 6963
       11 * 721324
@@ -39,7 +39,6 @@ ONE: TABLES OR NO TABLES?
                   7+1=8  -->  .871864
                               7871864      
 
-
       11 * 98834
                                 ......4
                   3+4=7    -->  .....74
@@ -48,56 +47,76 @@ ONE: TABLES OR NO TABLES?
                   9+8=17   -->  .187174    1..
                                 1087174    9+1=10  
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    * Multiplication by TWELVE
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    * Multiplication by SIX
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    * Multiplication by SEVEN
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    * Multiplication by FIVE
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    * Multiplication by EIGHT and NINE
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    * Multiplication by FOUR
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    * Multiplication by other digits
 
 
-    Multiplication by twelve
-    Multiplication by six
-    Multiplication by seven
-    Multiplication by five
-    Multiplication by eight and nine
-    Multiplication by four
-    Multiplication by other digits
 
-TWO: RAPID MULTIPLICATION BY THE DIRECT METHOD
-Short multiplicands: Two digits by two digits 57
-Long multiplicands 62
-Three-digit multipliers 70
-Multipliers of any length 75
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+CHAPTER TWO: RAPID MULTIPLICATION BY THE DIRECT METHOD
+    * Short multiplicands: Two digits by two digits
+    * Long multiplicands
+    * Three-digit multipliers
+    * Multipliers of any length
 
-THREE: SPEED MULTIPLICATION-"TWO-FINGER" METHOD
-Multiplication by a single digit 88
-Multiplication by two-digit numbers 93
-Long number by two-digit multiplier 98
-Three-digit multipliers 99
-Summary 102
-FOUR: ADDITION AND THE RIGHT ANSWER 105
-Finding the total 107
-Checking the answer 115
-General method of checking 122
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+CHAPTER THREE: SPEED MULTIPLICATION-"TWO-FINGER" METHOD
+    * Multiplication by a single digit 88
+    * Multiplication by two-digit numbers 93
+    * Long number by two-digit multiplier 98
+    * Three-digit multipliers 99
 
-6 . THE TRACHTENBERG SPEED SYSTEM OF BASIC MATHEMATICS
-FIVE: DIVISION-SPEED AND ACCURACY 133
-The simple method of division 135
-The fast method of division 142
-The division process 143
-The method in detail 149
-Three-digit divisors 158
-Divisors of any length 167
-Checking the division 176
-SIX: SQUARES AND SQUARE ROOTS 185
-Introduction 185
-Squaring 188
-Three-digit numbers 193
-Square roots 197
-Seven-digit and eight-digit numbers 214
-Longer numbers 223
-Checking 225
-SEVEN: ALGEBRAIC DESCRIPTION OF THE METHOD 227
-Numbers in general 230
-The rule for eleven 233
-Algebraic manipulation 237
-The Trachtenberg system in algebra 248
-Non-table multiplications in general 252
-Squaring numbers 255
-Multiplication by the units-and-tens method 257
-Numbers of any length
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+CHAPTER FOUR: ADDITION AND THE RIGHT ANSWER
+    * Finding the total
+    * Checking the answer
+    * General method of checking
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+CHAPTER FIVE: DIVISION-SPEED AND ACCURACY
+    * The simple method of division
+    * The fast method of division
+    * The division process
+    * The method in detail
+    * Three-digit divisors
+    * Divisors of any length
+    * Checking the division
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+CHAPTER SIX: SQUARES AND SQUARE ROOTS
+    * Introduction
+    * Squaring
+    * Three-digit numbers
+    * Square roots
+    * Seven-digit and eight-digit numbers
+    * Longer numbers
+    * Checking
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+CHAPTER SEVEN: ALGEBRAIC DESCRIPTION OF THE METHOD
+    * Numbers in general
+    * The rule for eleven
+    * Algebraic manipulation
+    * The Trachtenberg system in algebra
+    * Non-table multiplications in general
+    * Squaring numbers
+    * Multiplication by the units-and-tens method
+    * Numbers of any length
