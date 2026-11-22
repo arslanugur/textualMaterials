@@ -3,8 +3,17 @@
 CHAPTER ONE: TABLES OR NO TABLES?
 # Basic Multiplication
     * Multiplication by ELEVEN
-      11 * 123  --> ...3  --> 2+3=5 --> ..53 --> 1+2=3 --> .353 --> 1353
-      11 * 633  --> ...3  --> 3+3=6 --> ..63 --> 6+3=9 --> .963 --> 6963
+      put the last number down, add to its neighbor at the right, put the first number down
+      11 * 123
+                        --> ...3
+                  2+3=5 --> ..53
+                  1+2=3 --> .353
+                            1353
+      11 * 633
+                        --> ...3
+                  3+3=6 --> ..63
+                  6+3=9 --> .963
+                            6963
       11 * 721324
                               ......4      son hane, cevabın sağdaki hane. sağında kimse yok, ekleme yok
                   2+4=6  -->  .....64      her bir haneyi, sağındaki haneye ekle
@@ -47,8 +56,12 @@ CHAPTER ONE: TABLES OR NO TABLES?
                   9+8=17   -->  .187174    1..
                                 1087174    9+1=10  
 
+      11 * 04232      46,552
+      11 * 047492     522,412
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     * Multiplication by TWELVE
+      double the number in turn and add its neighbor
 
       12 * 0413
                   3*2=6         -->  ......6
@@ -64,9 +77,12 @@ CHAPTER ONE: TABLES OR NO TABLES?
                   6*2=12  +3=15 -->  ..58964   1..
                   0*2=0   +6=6  -->  .758964
 
+      12 * 04232       50,784
+      12 * 047492      569,904
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     * Multiplication by SIX
-         adding half of neightbor
+         adding half the neighbor, plus 5 if the number is odd
       6 * 0622084
                                     ......4
                   8+(2)=10      --> .....04   1..
@@ -126,14 +142,33 @@ CHAPTER ONE: TABLES OR NO TABLES?
                   0+(4)=4       --> 48
 
       6 * 07
-               +5                   .7  = 12 --> 1..
+               5+                   .7  = 12 --> 1..
                   0+(3)=3       --> 42
 
+      6 * 0264
+                                    .......4
+                  6+(2)=8       --> ......84
+                  2+(3)=5       --> .....584
+                  0+(1)=1       --> ....1584
 
+      6 * 0634
+                                    .......4
+               5+ 3+(2)=10      --> ......04   1..
+                  6+(1)=7       --> .....804
+                  0+(3)=3       --> ....3804
 
+      6 * 02222      13,332
+      6 * 02004      12,024
+      6 * 04232      25,392
+      6 * 04748      28,488
+      6 * 02906      17,436
+      6 * 05244      31,464
+      6 * 03865      23,190
+      6 * 04111      24,666
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     * Multiplication by SEVEN
+      double the number, add half the neighbor, add 5 if the number is odd
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     * Multiplication by FIVE
