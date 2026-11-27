@@ -3,10 +3,27 @@
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Euclid Proof
+2 3 5 7 = 210 --> +1 --> 211 --> yeni bir sayı
+    211 sayısını 2 3 5 7 sayılarının herhangi birine bölmeye çalışırsan geriye hep 1 sayısı kalır
+yani bölünemiyorsa içinde bir asal saklıyordur
+  509 59 = 30031 --> içinde asal var..
+  2 3 5 7 11 13 = 30030 + 1 = asal oluyor
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
+1  2   3
+⚪️ 🔴 🔵
+🔴 */+ 🔴 = 4
+🔴 + 🔵 = 5  çarpışma ile yapılmaz ....
+🔴 * 🔵 = 6  çarpma yeni bir şey
+asal sayılar - hiç bir çerpışmadan doğmaz - birey olurlar --> in-dividuus - bölünemeyen parçalanamayan
+1 asal sayı değil çünkü 1 bir zemin, başlangıç
+her hangibir sayıyı 1 ile çarptığında o sayı değişmez yeni bir birlik doğurmaz
 
-
+  30 = 🔴 * 🔵 * 5
 
 # Prime Numbers
   Asal sayılar diğer sayıların atomları gibidir
@@ -15,12 +32,35 @@
     60 = 2 × 2 × 3 × 5
     300 = 2 × 2 × 3 × 5 × 5
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  13 ve 17 - ağustos böcceğinin yeryüzüne çıkış zamanları
+    12 olmaz çünkü 12de avcıya denk gelebilir... ve 12 parçalanır..  🔴 * 🔴 * 🔵
+    2, 4, 6 yılda bir çıkan avcılar
+    neredeyse her sayıyla senkron olabilen bir sayı
+
+            12     24      36     48
+    1       _.     _.     _.     _.
+    2  ______.______.______.______.
+    3  _ __ _._ __ _._ __ _._ __ _.
+    4  _ _  _._ _  _._ _  _._ _  _.
+    5
+    6  _    _._    _._    _._    _.
+
+    böcek, işine yarayan sayıyı kullanıyor..
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
   2  3  5  7                        11  13  17  19
     2*2=4  2*3=6  2*5=10  2*7=14      11*11=121  11*13=143  11*17=187  11*19=209      
     3*2=6  3*3=9  3*5=15  3*7=21      13*11=143  13*13=169  13*17=221  13*19=247
     5*2=10 5*3=15 5*5=25  5*7=35      17*11=187  17*13=221  17*17=289  17*19=323
     7*2=14 7*3=21 7*5=35  7*7=49      19*11=209  19*13=247  19*17=323  19*19=361
-  
+
+    23 * 73 = 1679 - Contact - Carl Sagan
+
   23  29
   31  37
   41  43  47
@@ -48,6 +88,13 @@
   293
 
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Gauss Hypothesis
+
+# Riemann Hypothesis
+  sonsuz şekilde asal sayıların içinde bir düzen var..
+  Riemann Zeta Function
 
 
 
